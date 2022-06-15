@@ -2,8 +2,8 @@ Neste folder guardam-se materiais historicos sobre o Individual Absoluto
 
 Lista de Campeões:
 
-2021 - Cancelado p/ covid
-2020 - Rui Guimarães Chess-Results
+2021 - Cancelado p/ covid\
+2020 - Rui Guimarães Chess-Results\
 2019 - Hugo Carneiro Sousa Chess-Results
 2018 - Simão Pintor Chess-Results
 ​2017 - Rui Guimarães Chess-Results

@@ -9,4 +9,5 @@
 2015 GX Porto (André Sousa, António Silva, Luis Leão, Mário Machado)\
 2014 Amanhã da Criança (Albano Pinheiro, Rui Trindade, Duarte Duarte, Paulo Curado)\
 2013 GD Dias Ferreira (Jorge Ferreira, Luis Machado, Pedro Caramez, Jorge Coelho)\
-2012 GX Porto (António Silva, Hugo Martins, Fernando Cleto, José Rodrigues)
+2012 GX Porto (António Silva, Hugo Martins, Fernando Cleto, José Rodrigues)\
+2011 GX Porto (António Silva, Hugo Martins, Fernando Cleto, José Américo Moreira)

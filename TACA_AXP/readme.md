@@ -6,4 +6,5 @@
 2018 EX Porto (Fernando Aller, Miguel Silva, José Francisco Veiga, Pedro Caramez)\
 2017 GD Dias Ferreira (David Martins, André Sousa, Enrique Fernandez, Iván Torre)\
 2016 GD Dias Ferreira (Jorge Ferreira, Javier Naredo, André Sousa, Francisco Leon)\
-2015 GX Porto (André Sousa, António Silva, Luis Leão, Mário Machado)
+2015 GX Porto (André Sousa, António Silva, Luis Leão, Mário Machado)\
+2014 Amanhã da Criança (Albano Pinheiro, Rui Trindade, Duarte Duarte, Paulo Curado)

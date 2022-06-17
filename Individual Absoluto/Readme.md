@@ -27,3 +27,6 @@ Lista de Campeões:
 
 1995 - Albano Pinheiro\
 1994  - Jorge Guimarães\
+
+1977 - Silvio Santos\
+1976 - Vladimiro Miranda

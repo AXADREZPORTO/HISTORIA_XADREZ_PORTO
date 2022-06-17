@@ -11,4 +11,5 @@
 2013 GD Dias Ferreira (Jorge Ferreira, Luis Machado, Pedro Caramez, Jorge Coelho)\
 2012 GX Porto (António Silva, Hugo Martins, Fernando Cleto, José Rodrigues)\
 2011 GX Porto (António Silva, Hugo Martins, Fernando Cleto, José Américo Moreira)\
-2010 Motoclube do Porto (José Padeiro, Carlos Carneiro, Igor Kovtun, Luis Araujo)
+2010 Motoclube do Porto (José Padeiro, Carlos Carneiro, Igor Kovtun, Luis Araujo)\
+2009 AX Gaia (Rui Almeida, Francisco Mateus, Miguel Ferreira, José Margarido)

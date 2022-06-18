@@ -34,7 +34,7 @@ Da AX Porto:
 1977 - Silvio Santos\
 1976 - Vladimiro Miranda
 
-Do Norte:\
+Do Norte:
 
 1961 - Alexandre Gonçalves\
 1960 - Alexandre Gonçalves\
@@ -47,7 +47,8 @@ Do Norte:\
 1947 - João Mário Ribeiro
 
 Do Porto: 
-1944 - Leonel Pias
+
+1944 - Leonel Pias\
 1943 - João Mário Ribeiro
 
 1941 - Américo Martins

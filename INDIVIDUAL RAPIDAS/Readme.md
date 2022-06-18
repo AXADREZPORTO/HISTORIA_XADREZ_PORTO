@@ -7,4 +7,10 @@
 2016 - André Ventura Sousa\
 2015 - Fábio Barbosa\
 2014 - André Ventura Sousa\
-2013 - António Pedro Caramez Pereira\
+2013 - António Pedro Caramez Pereira
+
+
+2005 - André Viela\
+2004 - Rafaell Wanderley
+
+1994 - Albano Pinheiro

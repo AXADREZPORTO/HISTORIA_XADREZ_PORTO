@@ -14,4 +14,4 @@
 2010 Motoclube do Porto (José Padeiro, Carlos Carneiro, Igor Kovtun, Luis Araujo)\
 2009 AX Gaia (Rui Almeida, Francisco Mateus, Miguel Ferreira, José Margarido)\
 2008 GD Dias Ferreira (Pedro Caramez, Daniel Quintã, Jorge Coelho, Estevão Gomes)\
-2007 GX Porto (António Silva, Hugo Martins, Rui Mendes)
+2007 GX Porto (António Silva, Hugo Martins, Ariana Pintor, Rui Mendes)

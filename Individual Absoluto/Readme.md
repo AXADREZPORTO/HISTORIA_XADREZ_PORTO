@@ -36,6 +36,10 @@ Da AX Porto:
 
 Do Norte:
 
+1965 - Eduardo Monteiro\
+1964 - João Sepúlveda\
+1963 - António dos Santos Pinto\
+1962 - Fernando Xavier\
 1961 - Alexandre Gonçalves\
 1960 - Alexandre Gonçalves\
 1959 - Alexandre Gonçalves\

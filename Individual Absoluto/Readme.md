@@ -36,6 +36,8 @@ Da AX Porto:
 1977 - Silvio Santos\
 1976 - Vladimiro Miranda
 
+(a partir de  1976, a Associação de Xadrez do Norte de Portugal deu lugar à Associação de Xadrez do Porto) 
+
 Do Norte:
 
 1965 - Eduardo Monteiro\
@@ -51,6 +53,8 @@ Do Norte:
 1954 - Gencsi Deszo
 
 1947 - João Mário Ribeiro
+
+(Em 6 de Outubro de 1945, foi fundada a "Associação de Xadrez do Norte de Portugal")
 
 Do Porto: 
 

@@ -26,7 +26,7 @@ Da AX Porto:
 2002 - José Rodrigues\
 2001 - Rui Guimarães\
 2000 - Nuno Sousa\
-1999 - António Silva\ 
+1999 - António Silva\
 1998 - António Silva\
 1997 - Fernando Cleto\
 1996 - Rui C. Almeida\

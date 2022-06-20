@@ -22,13 +22,16 @@ Da AX Porto:
 2006 - Marco Viela\
 2005 - André Viela\
 2004 - André Viela\
-2003 - Albano Pinheiro
-
+2003 - Albano Pinheiro\
+2002 - José Rodrigues\
+2001 - Rui Guimarães\
+2000 - Nuno Sousa\
+1999 - António Silva\ 
 1998 - António Silva\
-1997 - Fernando Cleto
-
+1997 - Fernando Cleto\
+1996 - Rui C. Almeida\
 1995 - Albano Pinheiro\
-1994  - Jorge Guimarães
+1994 - Jorge Guimarães
 
 1986 - Pedro Silva
 

@@ -43,6 +43,8 @@ Da AX Porto:
 
 Do Norte:
 
+1975 - Jaime Gilbert
+
 1965 - Eduardo Monteiro\
 1964 - João Sepúlveda\
 1963 - António dos Santos Pinto\

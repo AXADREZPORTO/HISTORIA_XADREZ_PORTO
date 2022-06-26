@@ -14,7 +14,7 @@
 2010 - José Margarido\
 2009 - Jorge Ferreira\
 2008 - Luis Machado\
-2007 - António Pedro Caramez Pereira\ 
+2007 - António Pedro Caramez Pereira\
 2006 - Albano Pinheiro\
 2005 - Emanuel Sousa\
 2004 - Marco Viela\

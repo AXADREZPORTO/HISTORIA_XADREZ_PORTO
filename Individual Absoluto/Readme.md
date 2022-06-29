@@ -1,6 +1,9 @@
-Neste folder guardam-se materiais historicos sobre o Individual Absoluto
+Neste folder guardam-se materiais historicos sobre o Individual Absoluto. 
 
 Lista de Campeões:
+
+Até 1965 segue a "História do Xadrez de Competição em Portugal", da autoria de Fernando Castro
+Os restantes são baseados em suporte documental reproduzido neste directório.
 
 Da AX Porto:
 
@@ -12,12 +15,12 @@ Da AX Porto:
 2016 - Simão Pintor\
 2015 – André Ventura Sousa\
 2014 - André Ventura Sousa\
-2013 - André Ventura Sousa\
+2013 - André Ventura Sousa (d.n. 2000)\
 2012 - Lucas Silva\
 2011 - Jorge Ferreira\
 2010 - Jorge Ferreira\
 2009 - Francisco Mateus\
-2008 - Jorge Ferreira\
+2008 - Jorge Ferreira (d.n. 1994)\
 2007 - António Silva\
 2006 - Marco Viela\
 2005 - André Viela\
@@ -65,6 +68,6 @@ Do Norte:
 Do Porto: 
 
 1944 - Leonel Pias\
-1943 - João Mário Ribeiro
+1943 - João Mário Ribeiro (d.n. 1929 - 14 anos)
 
 1941 - Américo Martins

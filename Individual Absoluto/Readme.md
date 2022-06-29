@@ -71,3 +71,5 @@ Do Porto:
 1943 - João Mário Ribeiro (d.n. 1929 - 14 anos)
 
 1941 - Américo Martins
+
+(Em 6 de Maio de 1940 é fundado o Grupo de Xadrez do Porto, na cave do Café Monumental)

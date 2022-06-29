@@ -35,6 +35,7 @@ Da AX Porto:
 
 1986 - Pedro Silva
 
+1979 - João Andresen\
 1978 - Jorge Guimarães\
 1977 - Silvio Santos\
 1976 - Vladimiro Miranda

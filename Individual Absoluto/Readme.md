@@ -2,7 +2,7 @@ Neste folder guardam-se materiais historicos sobre o Individual Absoluto.
 
 Lista de Campeões:
 
-Até 1965 segue a "História do Xadrez de Competição em Portugal", da autoria de Fernando Castro\
+Até 1965 segue a "História do Xadrez de Competição em Portugal", da autoria de Fernando Castro, com um ou outro suporte de documentos\
 Os restantes são baseados em suporte documental reproduzido neste directório.
 
 Da AX Porto:

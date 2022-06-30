@@ -24,4 +24,8 @@
 2000 - José Padeiro\
 1999 - Paulo Curado
 
-1994 - Carlos Dantas\
+1994 - Carlos Dantas
+
+1979 - Jorge Guimarães
+
+O primeiro campeonato oficial de semi-rápidas da AXP foi o de 1979 (Comunicado 15/79)

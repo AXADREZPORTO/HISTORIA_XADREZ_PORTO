@@ -5,4 +5,6 @@ Silvio Santos e Jorge Guimarães foram obtidas na Revista Portuguesa de Xadrez (
 
 Torneio Principal de 1942, João Andresen e Rui Camejo Almeida digitalizadas por Arlindo Ribeiro (https://xadrezmemoria.blogspot.com/) do arquivo do GX Porto
 
+Jorge Ferreira no Jornal "Publico"
+
 José Rodrigues em publicação da AXP

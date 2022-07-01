@@ -3,7 +3,7 @@ Grémio Literário (1922) e de Alekhine na Estação do Rossio (1945) obtidas no
 
 Silvio Santos e Jorge Guimarães foram obtidas na Revista Portuguesa de Xadrez (II série) da FPX
 
-Torneio Principal de 1942, João Andresen e Rui Camejo Almeida digitalizadas por Arlindo Ribeiro (https://xadrezmemoria.blogspot.com/) do arquivo do GX Porto
+Torneio Principal de 1942 (i.e. Campeonato do Porto ou do Norte), João Mário Ribeiro, João Andresen e Rui Camejo Almeida digitalizadas por Arlindo Ribeiro (https://xadrezmemoria.blogspot.com/) do arquivo do GX Porto e outras fontes.
 
 Jorge Ferreira no Jornal "Publico"
 

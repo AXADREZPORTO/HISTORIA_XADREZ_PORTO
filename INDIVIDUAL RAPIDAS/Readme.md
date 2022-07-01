@@ -25,3 +25,5 @@
 1999 - Paulo Curado
 
 1994 - Carlos Dantas
+
+1977 - Jorge Guimarães

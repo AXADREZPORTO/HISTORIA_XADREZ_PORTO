@@ -1,4 +1,4 @@
-Neste folder guardam-se materiais historicos sobre o Individual Absoluto. Este é p nome tipicamente dado ao torneio anual de partidas clássicas que define o campeão da região ou distrito e que em muitas épocas apurou para torneios de mestres regionais e para o campeonato nacional.
+Neste folder guardam-se materiais historicos sobre o Individual Absoluto. Este é o nome tipicamente dado ao torneio anual de partidas clássicas que define o campeão da região ou distrito e que em muitas épocas apurou para torneios de mestres regionais e para o campeonato nacional.
 
 Na actualidade (2022) apura para uma ida ao Open de Portugal que por sua vez apura para a Fase Final do Campeonato Nacional.
 

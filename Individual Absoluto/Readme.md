@@ -1,11 +1,6 @@
-Neste folder guardam-se materiais historicos sobre o Individual Absoluto. Este é o nome tipicamente dado ao torneio anual de partidas clássicas que define o campeão da região ou distrito e que em muitas épocas apurou para torneios de mestres regionais e para o campeonato nacional.
-
-Na actualidade (2022) apura para uma ida ao Open de Portugal que por sua vez apura para a Fase Final do Campeonato Nacional.
+Neste folder guardam-se materiais historicos sobre o Individual Absoluto.
 
 Lista de Campeões:
-
-Até 1965 segue a "História do Xadrez de Competição em Portugal", da autoria de Fernando Castro, com um ou outro suporte de documentos\
-Os restantes são baseados em suporte documental reproduzido neste directório.
 
 Da AX Porto:
 
@@ -76,3 +71,13 @@ Do Porto:
 1941 - Américo Martins
 
 (Em 6 de Maio de 1940 é fundado o Grupo de Xadrez do Porto, na cave do Café Monumental)
+
+Individual Absoluto é o nome tipicamente dado ao torneio anual  de partidas clássicas que define o campeão da região ou distrito e 
+que em muitas épocas apurou para torneios de mestres regionais e para o campeonato nacional.
+
+Na actualidade (2022) apura para uma ida ao Open de Portugal que por sua vez apura para a Fase Final do Campeonato Nacional.
+
+Fontes:
+
+Até 1965 segue a "História do Xadrez de Competição em Portugal", da autoria de Fernando Castro, com um ou outro suporte de documentos\
+Os restantes são baseados em suporte documental reproduzido neste directório.

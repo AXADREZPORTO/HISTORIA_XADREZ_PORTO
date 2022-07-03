@@ -46,6 +46,8 @@ Do Norte:
 
 1975 - Jaime Gilbert
 
+1970 - Bernardino Passos
+
 1965 - Eduardo Monteiro\
 1964 - João Sepúlveda\
 1963 - António dos Santos Pinto\

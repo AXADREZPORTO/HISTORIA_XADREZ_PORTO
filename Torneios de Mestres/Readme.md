@@ -11,7 +11,7 @@ Manuel Costa obtém o grau de mestre (nacional).
 1953 1. Jorge Babo 3.5 2.Gencsi Dezso 3.5 3.Manuel Costa 3 4. António Resende\
 Gencsi Dezso obteém o grau de mestre (nacional).
 
-1955
+1955 1. Jorge Babo 5 2, Manuel Costa 4 3.Araujo Pereira 3 4.Jorge Xavier 0\
 Araujo Pereira obtém o grau de mestre
 
 1956 -  1.Álvaro Machado 4.5 2.Genczi Dezso 4.5 3.Jorge Babo 2 4.José F. Guimarães 1\

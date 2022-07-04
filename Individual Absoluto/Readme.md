@@ -1,4 +1,4 @@
-Neste folder guardam-se materiais historicos sobre os campeonatos do Porto, do Norte, AX Norte de Portugal, AX Porto (Campeontato Individual Absoluto).
+Neste folder guardam-se materiais historicos sobre os campeonatos do Porto, do Norte, AX Norte de Portugal, AX Porto (Campeonato Individual Absoluto).
 
 Lista de Campeões:
 

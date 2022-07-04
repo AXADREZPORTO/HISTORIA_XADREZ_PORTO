@@ -63,14 +63,13 @@ Do Norte:
 1947 - João Mário Ribeiro
 
 (Em 6 de Outubro de 1945, foi fundada a "Associação de Xadrez do Norte de Portugal".
-Antes, o vencedor do torneio principal do GX Porto era considerado o campeão do Porto (é isto?))
+Porém, o modelo competitivo já era implementado desde 1941, implementado pelo GXP)
 
 Do Porto:
 
 1944 - Leonel Pias\
-1943 - João Mário Ribeiro (d.n. 1929 - 14 anos)
-
-1941 - Américo Martins
+1942/43 - João Mário Ribeiro (d.n. 1929 - 14 anos)\
+1941/42 - Américo Martins
 
 (Em 6 de Maio de 1940 é fundado o Grupo de Xadrez do Porto, na cave do Café Monumental)
 

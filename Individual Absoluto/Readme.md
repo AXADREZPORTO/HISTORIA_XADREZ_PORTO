@@ -58,7 +58,9 @@ Do Norte:
 1958 - Alexandre Gonçalves\
 1956 - José Guimarães\
 1955 - Araújo Pereira\
-1954 - Gencsi Deszo
+1954 - Gencsi Deszo\
+1953 - Gencsi Deszo
+
 
 1947 - João Mário Ribeiro
 

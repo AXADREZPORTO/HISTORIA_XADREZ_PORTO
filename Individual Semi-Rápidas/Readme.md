@@ -26,6 +26,8 @@
 
 1994 - Carlos Dantas
 
+1987 - Fernando Cleto
+
 1979 - Jorge Guimarães
 
 O primeiro campeonato oficial de semi-rápidas da AXP foi o de 1979 (Comunicado 15/79)

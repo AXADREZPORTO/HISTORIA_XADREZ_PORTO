@@ -9,21 +9,24 @@
 2014 - André Ventura Sousa\
 2014 - António Pedro Caramez Pereira\
 2013 - António Pedro Caramez Pereira\
-2012 - Jorge Ferreira\
-2011 - Jorge Ferreira\
-2010 - José Margarido\
-2009 - Jorge Ferreira\
-2008 - Luis Machado\
-2007 - António Pedro Caramez Pereira\
-2006 - Albano Pinheiro\
-2005 - Emanuel Sousa\
-2004 - Marco Viela\
-2003 - Hugo F. Martins\
-2002 - Hugo F. Martins\
-2001 - José Padeiro\
-2000 - José Padeiro\
-1999 - Paulo Curado
+2012 - 
+2011 - Jorge Ferreira
+​2010 - 
+2009 - Fábio Barbosa
+2008 - António Silva
+2007 - André Viela
+2006 - André Viela
+2005 - André Viela
+2004 - Rafaell Wanderley
+2003 - António Silva
+2002 - António Silva
+2001 - Rui Mendes
+2000 - José Padeiro
+1999 - José Padeiro
 
-1994 - Carlos Dantas
+1994 - Albano Pinheiro
+
+1988 - Paulo Felizes
+1987 - Fernando Cleto
 
 1977 - Jorge Guimarães

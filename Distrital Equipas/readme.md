@@ -34,4 +34,6 @@ Muda o quadro competitivo, e o distrital deixa de apurar para o Nacional.
 
 1989 - Boavista FC
 
+1950 - Sport Club do Porto
+
 1975 - FC Porto

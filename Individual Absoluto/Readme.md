@@ -66,7 +66,8 @@ Do Norte:
 1947 - João Mário Ribeiro
 
 (Em 6 de Outubro de 1945, foi fundada a "Associação de Xadrez do Norte de Portugal".
-Porém, o modelo competitivo já era implementado desde 1941, implementado pelo GXP)
+Porém o modelo competitivo, aberto aos jogadores do distrito ("Norte") já era implementado 
+desde 1941, pelo GXP)
 
 Do Porto:
 

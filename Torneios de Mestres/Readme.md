@@ -5,6 +5,9 @@ No C.N. de 1943 (Lisboa) J.M. Ribeiro obtém o 3º lugar com mais de 50% e o tit
 
 No T.M. de 1944 (Lisboa) Leonel Pias obtém o 5º lugar com 4.5 pontos (50%) e o titulo de mestre. 
 
+1948 1. João Mário Ribeiro 2. Alexandre Gonçalves 3. Neves Pereira
+os mestres defenderam a categoria da candidatura.
+
 1949 - 1.João Mário Ribeiro 6 2.Alexandre Gonçalves 5.5 3.Manuel Costa 4.5 (56%) 4.António Ribeiro 5. 2 José Faria 2\
 Manuel Costa obtém o grau de mestre (nacional).
 

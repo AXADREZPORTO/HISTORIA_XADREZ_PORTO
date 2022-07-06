@@ -62,6 +62,7 @@ Do Norte:
 1953 - Gencsi Deszo
 
 
+1948 - Alexandre Gonçalves\
 1947 - João Mário Ribeiro
 
 (Em 6 de Outubro de 1945, foi fundada a "Associação de Xadrez do Norte de Portugal".

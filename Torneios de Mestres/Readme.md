@@ -19,11 +19,11 @@ Araujo Pereira obtém o grau de mestre
 
 Segundo a lista da FPX (7/2002):
 
-1944 - João Mário Ribeiro
-1945 - Leonel Pias
-1946 - Alexandre Gonçalves
-1949 - Manuel Costa
-1950 - Jorge Babo
-1953 - Gencsi Dezso
-1955 - Araújo Pereira
+1944 - João Mário Ribeiro\
+1945 - Leonel Pias\
+1946 - Alexandre Gonçalves\
+1949 - Manuel Costa\
+1950 - Jorge Babo\
+1953 - Gencsi Dezso\
+1955 - Araújo Pereira\
 1956 - Álvaro Machado

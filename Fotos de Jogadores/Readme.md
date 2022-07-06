@@ -8,3 +8,9 @@ Torneio Principal de 1942 (i.e. Campeonato do Porto ou do Norte), João Mário R
 Jorge Ferreira no Jornal "Publico"
 
 José Rodrigues em publicação da AXP
+
+Vladimiro Miranda no Jornal do Vilanovense
+
+Jaime Gilbert nos arquivos da AXP
+
+Tânia Saraiva no linked in

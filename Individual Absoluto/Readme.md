@@ -4,7 +4,7 @@ Lista de Campeões:
 
 Da AX Porto:
 
-2021 - Cancelado p/ covid\
+2021 - (Cancelado p/ covid)\
 2020 - Rui Guimarães\
 2019 - Hugo Carneiro Sousa\
 2018 - Simão Pintor\
@@ -61,7 +61,8 @@ Do Norte:
 1954 - Gencsi Deszo\
 1953 - Gencsi Deszo
 
-
+1950 - (Não se realizou)
+1949 - Manuel Costa\
 1948 - Alexandre Gonçalves\
 1947 - João Mário Ribeiro\
 1946 - João Mário Ribeiro

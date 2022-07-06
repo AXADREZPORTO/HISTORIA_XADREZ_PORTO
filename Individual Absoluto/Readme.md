@@ -63,7 +63,8 @@ Do Norte:
 
 
 1948 - Alexandre Gonçalves\
-1947 - João Mário Ribeiro
+1947 - João Mário Ribeiro\
+1946 - João Mário Ribeiro
 
 (Em 6 de Outubro de 1945, foi fundada a "Associação de Xadrez do Norte de Portugal".
 Porém o modelo competitivo, aberto aos jogadores do distrito ("Norte") já era implementado 

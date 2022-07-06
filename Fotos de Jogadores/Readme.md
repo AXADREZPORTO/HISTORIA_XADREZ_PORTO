@@ -11,6 +11,6 @@ José Rodrigues em publicação da AXP
 
 Vladimiro Miranda no Jornal do Vilanovense
 
-Jaime Gilbert nos arquivos da AXP
+Rogério Oliveira e Jaime Gilbert nos arquivos da AXP
 
 Tânia Saraiva no linked in

@@ -62,7 +62,7 @@ Do Norte:
 1954 - Gencsi Deszo\
 1953 - Gencsi Deszo
 
-1950 - (Não se realizou)
+1950 - (Não se realizou)\
 1949 - Manuel Costa\
 1948 - Alexandre Gonçalves\
 1947 - João Mário Ribeiro\

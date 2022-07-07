@@ -44,7 +44,7 @@ Da AX Porto:
 
 Do Norte:
 
-1975 - Jaime Gilbert
+1975 - Jaime Gilbert\
 1974 - (não parece ter decorrido)
 
 1970 - Bernardino Passos

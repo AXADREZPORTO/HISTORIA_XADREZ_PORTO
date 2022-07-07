@@ -47,6 +47,8 @@ Do Norte:
 1975 - Jaime Gilbert\
 1974 - (não parece ter decorrido)
 
+1972 - Vladimiro Miranda
+
 1970 - Bernardino Passos
 
 1965 - Eduardo Monteiro\

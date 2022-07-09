@@ -9,9 +9,9 @@
 2014 - André Ventura Sousa\
 2014 - António Pedro Caramez Pereira\
 2013 - António Pedro Caramez Pereira\
-2012 - \
+2012 - José Rodrigues\
 2011 - Jorge Ferreira\
-2010 - \
+2010 - Fernando Nora\
 2009 - Fábio Barbosa\
 2008 - António Silva\
 2007 - André Viela\

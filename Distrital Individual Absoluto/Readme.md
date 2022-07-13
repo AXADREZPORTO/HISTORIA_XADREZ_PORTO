@@ -67,7 +67,7 @@ Do Norte:
 1950 - (Não se realizou)\
 1949 - Manuel Costa\
 1948 - Alexandre Gonçalves\
-1947 - João Mário Ribeiro\ 
+1947 - João Mário Ribeiro\
 Em 1947 Leonel Pias vence o campeonato nacional\
 1946 - João Mário Ribeiro
 

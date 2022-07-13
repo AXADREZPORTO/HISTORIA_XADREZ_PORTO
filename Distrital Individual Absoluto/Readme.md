@@ -67,7 +67,8 @@ Do Norte:
 1950 - (Não se realizou)\
 1949 - Manuel Costa\
 1948 - Alexandre Gonçalves\
-1947 - João Mário Ribeiro\
+1947 - João Mário Ribeiro\ 
+Em 1947 Leonel Pias vence o campeonato nacional\
 1946 - João Mário Ribeiro
 
 (Em 6 de Outubro de 1945, foi fundada a "Associação de Xadrez do Norte de Portugal".
@@ -77,6 +78,7 @@ desde 1941, pelo GXP)
 Do Porto:
 
 1944 - Leonel Pias\
+No nacional de 1944 J.M. Ribeiro obtém o terceiro lugar e o titulo de Mestre.\
 1942/43 - João Mário Ribeiro (d.n. 1929 - 14 anos)\
 1941/42 - Américo Martins
 

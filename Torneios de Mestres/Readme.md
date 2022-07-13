@@ -13,6 +13,9 @@ os mestres defenderam a categoria da candidatura.
 1949 - 1.João Mário Ribeiro 6 2.Alexandre Gonçalves 5.5 3.Manuel Costa 4.5 (56%) 4.António Ribeiro 5. 2 José Faria 2\
 Manuel Costa obtém o grau de mestre (nacional).
 
+1950 1.João Mário Ribeiro 7.5 2. Alexandre Gonçalves 6 3.Oliveira Bastos 3.5 (43.7%) 4.Neves Pereira 2 5.Rogério Lucas 1
+os mestres defenderam a categoria das candidaturas
+
 1953 1. Jorge Babo 3.5 2.Gencsi Dezso 3.5 3.Manuel Costa 3 4. António Resende\
 Gencsi Dezso obtém o grau de mestre (nacional).
 

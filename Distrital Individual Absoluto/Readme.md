@@ -62,6 +62,7 @@ Do Norte:
 1956 - José Guimarães\
 1955 - Araújo Pereira\
 1954 - Gencsi Deszo\
+Em 1954, já depois de ir viver para Lisboa, J.M. Ribeiro conquista o titulo nacional\
 1953 - Gencsi Deszo
 
 1950 - (Não se realizou)\

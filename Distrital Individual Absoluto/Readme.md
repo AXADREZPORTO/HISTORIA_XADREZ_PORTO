@@ -88,7 +88,7 @@ Individual Absoluto é o nome tipicamente dado ao torneio anual  de partidas cl�
 que em muitas épocas apurou para torneios de mestres regionais e para o campeonato nacional.
 
 Na actualidade (2022) apura para uma ida ao Open de Portugal que por sua vez apura para a Fase Final do Campeonato Nacional.
-
+ 
 Fontes:
 
 Até 1965 segue a "História do Xadrez de Competição em Portugal", da autoria de Fernando Castro. Sempre que encontramos suporte\

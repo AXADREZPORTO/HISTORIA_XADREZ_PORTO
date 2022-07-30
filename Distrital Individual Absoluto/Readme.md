@@ -29,7 +29,7 @@ Da AX Porto:
 1999 - António Silva\
 1998 - António Silva\
 1997 - Fernando Cleto\
-1996 - Rui C. Almeida\
+1996 - Rui Camejo Almeida\
 1995 - Albano Pinheiro\
 1994 - Jorge Guimarães
 

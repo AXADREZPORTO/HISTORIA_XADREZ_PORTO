@@ -89,7 +89,7 @@ No nacional de 1944 J.M. Ribeiro obtém o terceiro lugar e o titulo de Mestre.\
 (Em 6 de Maio de 1940 é fundado o Grupo de Xadrez do Porto, na cave do Café Monumental)
 
 Individual Absoluto é o nome tipicamente dado ao torneio anual  de partidas clássicas que define o campeão da região ou distrito e 
-que em muitas épocas apurou para torneios de mestres regionais e para o campeonato nacional.
+que em muitas épocas apurou para torneios de mestres (no qual se podia obter o titulo vitalicio de Mestre) e para o campeonato nacional.
 
 Na actualidade (2022) apura para uma ida ao Open de Portugal que por sua vez apura para a Fase Final do Campeonato Nacional.
  

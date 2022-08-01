@@ -36,7 +36,7 @@ Da AX Porto:
 1986 - Pedro Silva
 
 1984 - Jorge Guimarães\
-(em 1984 faleceu Silvio Santos, num acidente de viação)
+(em 1984 faleceu Silvio Santos)
 
 1979 - João Andresen\
 1978 - Jorge Guimarães\

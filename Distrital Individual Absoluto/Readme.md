@@ -8,7 +8,7 @@ Da AX Porto:
 2020 - Rui Guimarães\
 2019 - Hugo Carneiro Sousa\
 2018 - Simão Pintor\
-​2017 - Rui Guimarães\
+2017 - Rui Guimarães\
 2016 - Simão Pintor\
 2015 – André Ventura Sousa\
 2014 - André Ventura Sousa\
@@ -49,11 +49,14 @@ Do Norte:
 
 1975 - Jaime Gilbert\
 1974 - (não parece ter decorrido)
-
-1972 - Vladimiro Miranda
-
-1970 - Bernardino Passos
-
+1973 - Vladimiro Miranda\
+1972 - Vladimiro Miranda\
+1971 - Jaime Gilbert\
+1970 - Bernardino Passos\
+1969 - Jaime Gilbert\
+1968 - Raul Mota\
+1967 - A. Vidal Pinheiro\
+1966 - Michael Diamond\
 1965 - Eduardo Monteiro\
 1964 - João Sepúlveda\
 1963 - António dos Santos Pinto\
@@ -62,12 +65,14 @@ Do Norte:
 1960 - Alexandre Gonçalves\
 1959 - Alexandre Gonçalves\
 1958 - Alexandre Gonçalves\
+1957 - ?\
 1956 - José Guimarães\
 1955 - Araújo Pereira\
 1954 - Gencsi Deszo\
 Em 1954, já depois de ir viver para Lisboa, J.M. Ribeiro conquista o titulo nacional. Repetiria o feito em 1963 e 1971, obtendo ainda outras 4 presenças no pódio.\
-1953 - Gencsi Deszo
-
+1953 - Gencsi Deszo\
+1952 - ?\
+1951 - José Mota\
 1950 - (Não se realizou)\
 1949 - Manuel Costa\
 1948 - Alexandre Gonçalves\
@@ -83,8 +88,8 @@ Do Porto:
 
 1944 - Leonel Pias\
 No nacional de 1944 J.M. Ribeiro obtém o terceiro lugar e o titulo de Mestre.\
-1942/43 - João Mário Ribeiro (d.n. 1929 - 14 anos)\
-1941/42 - Américo Martins
+1943 - João Mário Ribeiro (d.n. 1929 - 14 anos)\
+1941 - Américo Martins
 
 (Em 6 de Maio de 1940 é fundado o Grupo de Xadrez do Porto, na cave do Café Monumental)
 

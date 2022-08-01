@@ -48,7 +48,7 @@ Da AX Porto:
 Do Norte:
 
 1975 - Jaime Gilbert\
-1974 - (não parece ter decorrido)
+1974 - (não parece ter decorrido)\
 1973 - Vladimiro Miranda\
 1972 - Vladimiro Miranda\
 1971 - Jaime Gilbert\

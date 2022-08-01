@@ -100,5 +100,6 @@ Na actualidade (2022) apura para uma ida ao Open de Portugal que por sua vez apu
  
 Fontes:
 
-Até 1965 segue a "História do Xadrez de Competição em Portugal", da autoria de Fernando Castro. Sempre que encontramos suporte\
-documental, este é reproduzido aqui. Todos os campeões posteriores a 1965 são baseados em suporte documental reproduzido neste directório.
+Até 1973, sempre que não esteja no directório suporte documental, segue a "História do Xadrez de Competição em Portugal", da autoria de Fernando Castro. \
+Sempre que encontramos suporte documental, este é reproduzido aqui.\ 
+Todos os campeões posteriores a 1973 são baseados em suporte documental reproduzido neste directório.

@@ -12,12 +12,12 @@ Da AX Porto:
 2016 - Simão Pintor\
 2015 – André Ventura Sousa\
 2014 - André Ventura Sousa\
-2013 - André Ventura Sousa (d.n. 2000)\
+2013 - André Ventura Sousa\
 2012 - Lucas Silva\
 2011 - Jorge Ferreira\
 2010 - Jorge Ferreira\
 2009 - Francisco Mateus\
-2008 - Jorge Ferreira (d.n. 1994)\
+2008 - Jorge Ferreira\
 2007 - António Silva\
 2006 - Marco Viela\
 2005 - André Viela\
@@ -88,8 +88,8 @@ Do Porto:
 
 1944 - Leonel Pias\
 No nacional de 1944 J.M. Ribeiro obtém o terceiro lugar e o titulo de Mestre.\
-1943 - João Mário Ribeiro (d.n. 1929 - 14 anos)\
-1941 - Américo Martins
+1943 - João Mário Ribeiro (2.Alexandre Gonçalves 3.Leonel Pias)\
+1941 - Américo Martins (2.Genczi Dezso 3. Leonel Pias)
 
 (Em 6 de Maio de 1940 é fundado o Grupo de Xadrez do Porto, na cave do Café Monumental)
 
@@ -97,7 +97,13 @@ Individual Absoluto é o nome tipicamente dado ao torneio anual  de partidas cl�
 que em muitas épocas apurou para torneios de mestres (no qual se podia obter o titulo vitalicio de Mestre) e para o campeonato nacional.
 
 Na actualidade (2022) apura para uma ida ao Open de Portugal que por sua vez apura para a Fase Final do Campeonato Nacional.
- 
+
+Os campeões mais jovens:
+
+André Sousa (d.n. 2000) é u13 quando vence em 2013
+João Mário Ribeiro (d.n. 1929) é u14 quando vence em 1943
+Jorge Ferreira (d.n. 1994) é u14 quando vence em 2008
+
 Fontes:
 
 Até 1973, sempre que não esteja no directório suporte documental, segue a "História do Xadrez de Competição em Portugal", da autoria de Fernando Castro. \

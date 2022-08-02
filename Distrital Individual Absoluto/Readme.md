@@ -76,9 +76,9 @@ Em 1954, já depois de ir viver para Lisboa, J.M. Ribeiro conquista o titulo nac
 1950 - (Não se realizou)\
 1949 - Manuel Costa\
 1948 - Alexandre Gonçalves\
-1947 - João Mário Ribeiro\
+1947 - João Mário Ribeiro (2.Santana Godinho 3.Aristides Cunha)\
 Em 1947 Leonel Pias vence o campeonato nacional\
-1946 - João Mário Ribeiro
+1946 - João Mário Ribeiro (2.Leonel Pias 3.Aristides Cunha)
 
 (Em 6 de Outubro de 1945, foi fundada a "Associação de Xadrez do Norte de Portugal".
 Porém o modelo competitivo, aberto aos jogadores do distrito ("Norte") já era implementado 

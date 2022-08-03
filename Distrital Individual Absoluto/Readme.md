@@ -70,11 +70,11 @@ Do Norte:
 1955 - Araújo Pereira\
 1954 - Gencsi Deszo\
 Em 1954, já depois de ir viver para Lisboa, J.M. Ribeiro conquista o titulo nacional. Repetiria o feito em 1963 e 1971, obtendo ainda outras 4 presenças no pódio.\
-1953 - Gencsi Deszo\
+1953 - Gencsi Deszo (2.Alexandre Gonçalves 3.António Resende)\
 1952 - ?\
 1951 - José Mota\
 1950 - (Não se realizou)\
-1949 - Manuel Costa\
+1949 - Manuel Costa (2.Oliveira Bastos 3.Rogério Lucas(?))\
 1948 - Alexandre Gonçalves (2.Manuel Costa 3.António Ribeiro)\
 1947 - João Mário Ribeiro (2.Santana Godinho 3.Aristides Cunha)\
 Em 1947 Leonel Pias vence o campeonato nacional\

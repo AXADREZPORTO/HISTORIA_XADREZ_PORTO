@@ -64,7 +64,7 @@ Do Norte:
 1961 - Alexandre Gonçalves\
 1960 - Alexandre Gonçalves\
 1959 - Alexandre Gonçalves\
-1958 - Alexandre Gonçalves\
+1958 - Alexandre Gonçalves (2.José Guimarães 3.João Soares)\
 1957 - ?\
 1956 - José Guimarães\
 1955 - Araújo Pereira (2.Jorge Babo 3.Jorge Xavier)\

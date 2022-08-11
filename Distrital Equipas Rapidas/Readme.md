@@ -10,8 +10,8 @@
 2013 - 1. GX Porto A 2. GD Dias Ferreira 3. GX Porto B\
 2012 - 1. GX Porto A 2. Profigaia 3. GD Dias Ferreira A\
 2011 - 1. GD Dias Ferreira 2. Profigaia 3. GX Porto\
-
-2009 - GD Dias Ferreira A\
+2010 - 1. GD Dias Ferreira A 2. NX Santo Tirso 3. GD Dias Ferreira B\
+2009 - 1. GX Porto A 2. GD Dias Ferreira A 3. AX Gaia A\
 
 2005 - GX Porto\
 2003 - GX Porto\

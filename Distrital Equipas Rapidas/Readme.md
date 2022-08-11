@@ -1,16 +1,12 @@
-Ano | local | Campeã |  2ª  | 3ª|
-___ | ____| ______ | ____ | ___ |
-2022| Colégio Efanor| EX Porto - Col. Efanor A| EX Porto - Col. Efanor B | GD Dias Ferreira A |
-
-2022 - EX Porto - Colégio Efanor A\
-2021 - EX Porto A\
+2022 - 1. EX Porto - Colégio Efanor A 2. EX Porto - Col. Efanor B 3. GD Dias Ferreira A\
+2021 - 1. EX Porto A 2. Amanhã da Criança A 3. GX 113 A\
 2020 - Cancelado p/ covid\
-2019 - EX Porto A\
-2018 - EX Porto A\
-2017 - EX Porto A\
-2016 - GX Porto A\
-2015 - GX Porto A\
-2014 - GX Porto A
+2019 - 1. EX Porto A 2. EX Porto B 3. Amanhã da Criança B\
+2018 - 1. EX Porto A 2. GX Porto A 3. Profigaia\
+2017 - 1. EX Porto A 2. Profigaia 3. GX 113 A\
+2016 - 1. GX Porto A 2. GX 113 3. Profigaia\
+2015 - 1. GX Porto A 2. Profigaia 3. GD Dias Ferreira\
+2014 - 1. GX Porto A 2. GD Dias Ferreira A 3. Profigaia\
 
 2009 - GD Dias Ferreira A\
 

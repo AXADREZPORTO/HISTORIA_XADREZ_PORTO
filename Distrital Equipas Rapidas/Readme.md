@@ -1,3 +1,7 @@
+Ano | local | Campeã |  2ª  | 3ª
+___ | _____ | ______ | ____ | ___
+2022| Colégio Efanor| EX Porto - Col. Efanor A| EX Porto - Col. Efanor B | GD Dias Ferreira A 
+
 2022 - EX Porto - Colégio Efanor A\
 2021 - EX Porto A\
 2020 - Cancelado p/ covid\

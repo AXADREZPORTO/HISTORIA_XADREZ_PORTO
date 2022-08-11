@@ -7,6 +7,7 @@
 2016 - 1. GX Porto A 2. GX 113 3. Profigaia\
 2015 - 1. GX Porto A 2. Profigaia 3. GD Dias Ferreira\
 2014 - 1. GX Porto A 2. GD Dias Ferreira A 3. Profigaia\
+2013 - 1. GX Porto A 2. GD Dias Ferreira 3. GX Porto B\
 
 2009 - GD Dias Ferreira A\
 

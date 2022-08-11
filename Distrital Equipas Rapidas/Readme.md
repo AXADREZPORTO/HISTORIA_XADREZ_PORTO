@@ -14,7 +14,7 @@
 2009 - 1. GX Porto A 2. GD Dias Ferreira A 3. AX Gaia A\
 2008 - 1. GD Dias Ferreira A 2. GX Porto A 3. GD Dias Ferreira B\
 2007 - 1. GD Dias Ferreira A 2. GD Dias Ferreira B 3. GX Escola Boa Nova A\
-2006 - 1. GD Dias Ferreira B 2. Escol da Boa Nova A 3. AX Espinho A\
+2006 - 1. GD Dias Ferreira B 2. GX Escola Boa Nova A 3. AX Espinho A\
 
 2005 - GX Porto\
 2003 - GX Porto\

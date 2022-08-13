@@ -15,9 +15,9 @@
 2008 - 1. GD Dias Ferreira A 2. GX Porto A 3. GD Dias Ferreira B\
 2007 - 1. GD Dias Ferreira A 2. GD Dias Ferreira B 3. GX Escola Boa Nova A\
 2006 - 1. GD Dias Ferreira B 2. GX Escola Boa Nova A 3. AX Espinho A\
-
 2005 - GX Porto\
-2003 - GX Porto\
+2004 - 1. GD Dias Ferreira 2. Amanhã da Criança A 3. GX Porto\
+2003 - 1. GX Porto 2. Ateneu Comercial do Porto 3. GCDR Realidade\
 2002 - GX Porto\
 2001 - GX Porto\
 2000 - GX Porto

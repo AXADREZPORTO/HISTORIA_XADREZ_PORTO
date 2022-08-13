@@ -53,10 +53,12 @@ Do Norte:
 1972 - Vladimiro Miranda\
 1971 - Jaime Gilbert\
 1970 - Bernardino Passos\
+Jaime Gilbert foi o jogador nº3 da seleção Portuguesa na Olimpiada de Siegen, obtendo 4.5 pontos em 12 jogos\
 1969 - Jaime Gilbert\
+Jaime Gilbert obteve o terceiro lugar no nacional de 1969, a 1 ponto de Cordovil e 0,5 de Durão\
 1968 - Raul Mota\
 1967 - A. Vidal Pinheiro\
-1966 - Michael Diamond\
+1966 - Michael Diamond (2.Jacinto Alves 3.Bernardino Passos)\
 1965 - Eduardo Monteiro\
 1964 - João Sepúlveda (2. A. Vidal Pinheiro 3.Michael Diamond)\
 1963 - António dos Santos Pinto (2.Michael Diamond 3.João Sepulveda)\

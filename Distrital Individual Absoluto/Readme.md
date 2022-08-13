@@ -58,8 +58,8 @@ Do Norte:
 1967 - A. Vidal Pinheiro\
 1966 - Michael Diamond\
 1965 - Eduardo Monteiro\
-1964 - João Sepúlveda\
-1963 - António dos Santos Pinto\
+1964 - João Sepúlveda (2. A. Vidal Pinheiro 3.Michael Diamond)\
+1963 - António dos Santos Pinto (2.Michael Diamond 3.João Sepulveda)\
 1962 - Fernando Xavier\
 1961 - Alexandre Gonçalves\
 1960 - Alexandre Gonçalves\

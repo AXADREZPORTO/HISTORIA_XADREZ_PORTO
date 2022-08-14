@@ -33,8 +33,10 @@ Da AX Porto:
 1996 - Rui Camejo Almeida\
 1995 - Albano Pinheiro\
 1994 - Jorge Guimarães
+1993 - António Silva
 
-1989 - 
+1990 - António Silva (?)\
+1989 - António Silva (?)
 
 1986 - Pedro Silva
 

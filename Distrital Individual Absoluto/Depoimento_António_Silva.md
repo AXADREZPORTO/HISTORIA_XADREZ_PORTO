@@ -10,4 +10,6 @@ Por consulta dos cadernos de partidas e em função da pontuação obtida, penso
 
 Os 7 titulos seriam então: 1989, 1990, 1992, 1993, 1998, 1999 e 2007.
 
-Pedro Silva foi um jogador muito forte nos anos 80, ao nivel do Luis Galego nessa altura. Ganhou pelo menos 2 distritais. Era parceiro de Galego, Paulo Ferreira e Paulo Felizes, tendo jogado juntos em vários clubes. É professor de Matemática Aplicada na Universidade do Porto. 
+Pedro Silva foi um jogador muito forte nos anos 80, ao nivel do Luis Galego nessa altura. Ganhou pelo menos 2 distritais. Era parceiro de Galego, Paulo Ferreira e Paulo Felizes, tendo jogado juntos em vários clubes. É professor de Matemática Aplicada na Universidade do Porto. )
+
+(Nota do Editor: Poderá então ser https://cmup.fc.up.pt/cmup/pvsilva/)

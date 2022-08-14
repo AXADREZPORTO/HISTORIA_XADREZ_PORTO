@@ -4,6 +4,7 @@ Lista de Campeões:
 
 Da AX Porto:
 
+2022 - Simão Pintor\
 2021 - (Cancelado p/ covid)\
 2020 - Rui Guimarães\
 2019 - Hugo Carneiro Sousa\

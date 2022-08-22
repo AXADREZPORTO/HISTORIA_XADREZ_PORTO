@@ -44,7 +44,7 @@ Da AX Porto:
 1986 - Pedro Silva\
 1985 -\
 1984 - Jorge Guimarães\
-(em 1984 faleceu Silvio Santos)
+(em 1984 faleceu Silvio Santos)\
 1983 -\
 1982 -\
 1981 -\

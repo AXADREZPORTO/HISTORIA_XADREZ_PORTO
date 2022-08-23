@@ -9,17 +9,17 @@ Da AX Porto:
 2020 - Rui Guimarães\
 2019 - Hugo Carneiro Sousa\
 2018 - Simão Pintor\
-2017 - Rui Guimarães\
-2016 - Simão Pintor\
-2015 – André Ventura Sousa\
-2014 - André Ventura Sousa\
-2013 - André Ventura Sousa\
-2012 - Lucas Silva\
-2011 - Jorge Ferreira\
-2010 - Jorge Ferreira\
-2009 - Francisco Mateus\
-2008 - Jorge Ferreira\
-2007 - António Silva\
+2017 - Rui Guimarães (2.Daniel Quintã 3.Constantino Gudlack)\
+2016 - Simão Pintor (2.Pedro Mendes 3.Ricardo Andrade)\
+2015 – André Ventura Sousa (2.Simão Pintor 3.Ricardo Andrade)\
+2014 - André Ventura Sousa (2.Simão Pintor 3.José Verissimo Araujo)\
+2013 - André Ventura Sousa (2.Claudio Fernandes 3.Jorge Coelho)\
+2012 - Lucas Silva (2.Francisco Assunção 3.André Ventura Sousa)\
+2011 - Jorge Ferreira (2.António Silva 3.Francisco Assunção)\
+2010 - Jorge Ferreira (2.António Silva 3.Rui Trindade)\
+2009 - Francisco Mateus (2.Jorge Ferreira 3.Daniel Quintã)\
+2008 - Jorge Ferreira (2. A. Pedro Caramez Pereira 3.António Silva)\
+2007 - António Silva (2.Ariana Pintor 3.Ricardo Cardoso)\
 2006 - Marco Viela (2. Rui Mendes 3.André Viela)\
 2005 - André Viela (2. José Padeiro 3. S. Leschenko)\
 2004 - André Viela (2. Marco Viela 3. A. Pedro Caramez Pereira)\

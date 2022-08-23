@@ -8,7 +8,7 @@ Da AX Porto:
 2021 - (Cancelado p/ covid)\
 2020 - Rui Guimarães\
 2019 - Hugo Carneiro Sousa\
-2018 - Simão Pintor\
+2018 - Simão Pintor (2.Jorge Coelho 3.José Azevedo)\
 2017 - Rui Guimarães (2.Daniel Quintã 3.Constantino Gudlack)\
 2016 - Simão Pintor (2.Pedro Mendes 3.Ricardo Andrade)\
 2015 – André Ventura Sousa (2.Simão Pintor 3.Ricardo Andrade)\

@@ -26,13 +26,13 @@ Da AX Porto:
 2003 - Albano Pinheiro\
 2002 - José Rodrigues\
 2001 - Rui Guimarães\
-2000 - Nuno Sousa\
-1999 - António Silva\
-1998 - António Silva\
-1997 - Fernando Cleto\
-1996 - Rui Camejo Almeida\
-1995 - Albano Pinheiro\
-1994 - Jorge Guimarães\
+2000 - Nuno Sousa (2.Antonio Silva 3.Albano Pinheiro)\
+1999 - António Silva (2.Albano Pinheiro 3.Rui Mendes)\
+1998 - António Silva (2.Pedro Parcerias 3.José Padeiro)\
+1997 - Fernando Cleto (2. Rui C. Almeida 3. António Silva)\
+1996 - Rui Camejo Almeida (2.António Silva 3.Alberto Paulo Ferreira)\
+1995 - Albano Pinheiro (2.Rui Camejo Almeida 3.José Dias Guimarães)\
+1994 - Jorge Guimarães (2.Fernando Cleto 3.António Silva)\
 1993 - António Silva\
 1992 - António Silva (?)\
 1991 - \

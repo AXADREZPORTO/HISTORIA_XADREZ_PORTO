@@ -20,12 +20,12 @@ Da AX Porto:
 2009 - Francisco Mateus\
 2008 - Jorge Ferreira\
 2007 - António Silva\
-2006 - Marco Viela\
-2005 - André Viela\
-2004 - André Viela\
-2003 - Albano Pinheiro\
-2002 - José Rodrigues\
-2001 - Rui Guimarães\
+2006 - Marco Viela (2. Rui Mendes 3.André Viela)\
+2005 - André Viela (2. José Padeiro 3. S. Leschenko)\
+2004 - André Viela (2. Marco Viela 3. A. Pedro Caramez Pereira)\
+2003 - Albano Pinheiro (2.Alberto Paulo Ferreira 3.António Silva)\
+2002 - José Rodrigues (2.José Padeiro 3.Hugo F. Martins)\
+2001 - Rui Guimarães (2.João Guerra Costa 3.Albano Pinheiro)\
 2000 - Nuno Sousa (2.Antonio Silva 3.Albano Pinheiro)\
 1999 - António Silva (2.Albano Pinheiro 3.Rui Mendes)\
 1998 - António Silva (2.Pedro Parcerias 3.José Padeiro)\

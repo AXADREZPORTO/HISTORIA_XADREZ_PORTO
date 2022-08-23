@@ -4,10 +4,10 @@ Lista de Campeões:
 
 Da AX Porto:
 
-2022 - Simão Pintor\
+2022 - Simão Pintor (2.Francisco Assunção 3.Ricardo Andrade)\
 2021 - (Cancelado p/ covid)\
-2020 - Rui Guimarães\
-2019 - Hugo Carneiro Sousa\
+2020 - Rui Guimarães (2.Ricardo Andrade 3.Ricardo Martinho Marques)\
+2019 - Hugo Carneiro Sousa (2.Simão Pintor 3.Rui Guimarães)\
 2018 - Simão Pintor (2.Jorge Coelho 3.José Azevedo)\
 2017 - Rui Guimarães (2.Daniel Quintã 3.Constantino Gudlack)\
 2016 - Simão Pintor (2.Pedro Mendes 3.Ricardo Andrade)\

@@ -41,28 +41,28 @@ Da AX Porto:
 1988 - \
 1987 - \
 (entre 1984 e 1987 Pedro Ventura Silva obteve dois titulos de campeão e dois segundos lugares) \
-1986 - Pedro V. Silva\
+1986 - Pedro V. Silva (2 e 3. Fernando Cleto e António Silva)\
 1985 - \
-1984 - 1.Jorge Guimarães 2.Pedro V. Silva\
+1984 - Jorge Guimarães (2.Pedro V. Silva)\
 (em 1984 faleceu Silvio Santos)\
 1983 - \
 1982 - \
 1981 - \
 1980 - \
-1979 - João Andresen\
-1978 - Jorge Guimarães\
-1977 - Silvio Santos\
+1979 - João Andresen (2.Jorge Guimarães 3.Silvio Santos)\
+1978 - Jorge Guimarães (2.Jaime Gilbert 3.Silvio Santos)\
+1977 - Silvio Santos (2.Bernardino Passos 3.Jorge Guimarães)\
 1976 - Vladimiro Miranda
 
 (a partir de  1976, a Associação de Xadrez do Norte de Portugal deu lugar à Associação de Xadrez do Porto) 
 
 Do Norte:
 
-1975 - Jaime Gilbert\
-1974 - Isaac Iglesias\
-1973 - Vladimiro Miranda\
+1975 - Jaime Gilbert (2 e 3. João Andresen e Manuel Matos)\
+1974 - Isaac Iglesias (2.João Andresen 3.Trocado Moreira)\
+1973 - Vladimiro Miranda (2.Silva Leal 3.Jaime Gilbert)\
 1972 - Vladimiro Miranda\
-1971 - Jaime Gilbert\
+1971 - Jaime Gilbert (2.Vladimiro Miranda 3.Trocado Moreira)\
 1970 - Bernardino Passos\
 Jaime Gilbert foi o jogador nº3 da seleção Portuguesa na Olimpiada de Siegen 1970, obtendo 4.5 pontos em 12 jogos\
 1969 - Jaime Gilbert\

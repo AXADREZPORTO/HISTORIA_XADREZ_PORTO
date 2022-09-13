@@ -39,10 +39,9 @@ Da AX Porto:
 1990 - António Silva (?)\
 1989 - António Silva (?)\
 1988 - \
-1987 - \
-(entre 1984 e 1987 Pedro Ventura Silva obteve dois titulos de campeão e dois segundos lugares) \
+1987 - 1.? (2. Pedro V. Silva)\
 1986 - Pedro V. Silva (2 e 3. Fernando Cleto e António Silva)\
-1985 - \
+1985 - Pedro V. Silva\
 1984 - Jorge Guimarães (2.Pedro V. Silva)\
 (em 1984 faleceu Silvio Santos)\
 1983 - \

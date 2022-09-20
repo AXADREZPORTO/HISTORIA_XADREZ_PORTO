@@ -40,6 +40,8 @@ Muda o quadro competitivo, e o distrital deixa de apurar para o Nacional.
 
 1968 - FC Porto (2.GX Porto 3.CDUP)
 
+1962 - Grupo de Xadrez de Guimarães (2.GX Porto) 
+
 1950 - Sport Club do Porto
 
 1947 - Grupo de Xadrez do Porto

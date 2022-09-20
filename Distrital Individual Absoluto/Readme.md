@@ -66,7 +66,7 @@ Do Norte:
 Jaime Gilbert foi o jogador nº3 da seleção Portuguesa na Olimpiada de Siegen 1970, obtendo 4.5 pontos em 12 jogos\
 1969 - Jaime Gilbert\
 Jaime Gilbert obteve o terceiro lugar no nacional de 1969, a 1 ponto de Cordovil e 0,5 de Durão\
-1968 - Raul Mota\
+1968 - Raul Mota (2.Raul Macedo 3.Fernando Baqu)\
 1967 - A. Vidal Pinheiro (2.Camilo Costa 3.Jaime Gilbert)\
 1966 - Michael Diamond (2.Jacinto Alves 3.Bernardino Passos)\
 1965 - Eduardo Monteiro\

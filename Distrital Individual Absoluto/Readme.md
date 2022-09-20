@@ -73,7 +73,7 @@ Jaime Gilbert obteve o terceiro lugar no nacional de 1969, a 1 ponto de Cordovil
 1964 - João Sepúlveda (2. A. Vidal Pinheiro 3.Michael Diamond)\
 1963 - António dos Santos Pinto (2.Michael Diamond 3.João Sepulveda)\
 1962 - Fernando Xavier\
-1961 - Alexandre Gonçalves\
+1961 - Alexandre Gonçalves (2.João Sepúlveda 3.Renato Figueiredo)\
 1960 - Alexandre Gonçalves\
 1959 - Alexandre Gonçalves\
 1958 - Alexandre Gonçalves (2.José Guimarães 3.João Soares)\

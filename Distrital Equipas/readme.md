@@ -37,3 +37,5 @@ Muda o quadro competitivo, e o distrital deixa de apurar para o Nacional.
 1975 - FC Porto
 
 1950 - Sport Club do Porto
+
+1947 - Grupo de Xadrez do Porto

@@ -57,7 +57,7 @@ Da AX Porto:
 
 Do Norte:
 
-1975 - Jaime Gilbert (2 e 3. João Andresen e Manuel Matos)\
+1975 - Jaime Gilbert (2.João Andresen 3.Manuel Matos)\
 1974 - Isaac Iglesias (2.João Andresen 3.Trocado Moreira)\
 1973 - Vladimiro Miranda (2.Silva Leal 3.Jaime Gilbert)\
 1972 - Vladimiro Miranda\

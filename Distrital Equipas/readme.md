@@ -34,6 +34,8 @@ Muda o quadro competitivo, e o distrital deixa de apurar para o Nacional.
 
 1989 - Boavista FC
 
+1978 - A.A. Espinho 
+
 1975 - FC Porto
 
 1968 - FC Porto (2.GX Porto 3.CDUP)

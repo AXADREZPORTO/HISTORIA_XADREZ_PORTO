@@ -67,7 +67,7 @@ Jaime Gilbert foi o jogador nº3 da seleção Portuguesa na Olimpiada de Siegen 
 1969 - Jaime Gilbert\
 Jaime Gilbert obteve o terceiro lugar no nacional de 1969, a 1 ponto de Cordovil e 0,5 de Durão\
 1968 - Raul Mota\
-1967 - A. Vidal Pinheiro\
+1967 - A. Vidal Pinheiro (2.Camilo Costa 3.Jaime Gilbert)\
 1966 - Michael Diamond (2.Jacinto Alves 3.Bernardino Passos)\
 1965 - Eduardo Monteiro\
 1964 - João Sepúlveda (2. A. Vidal Pinheiro 3.Michael Diamond)\

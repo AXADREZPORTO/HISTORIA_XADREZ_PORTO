@@ -58,9 +58,9 @@ Da AX Porto:
 Do Norte:
 
 1975 - Jaime Gilbert (2.João Andresen 3.Manuel Matos)\
-1974 - Isaac Iglesias (2.João Andresen 3.Trocado Moreira)\
-1973 - Vladimiro Miranda (2.Silva Leal 3.Jaime Gilbert)\
-1972 - Vladimiro Miranda\
+1974 - Jaime Gilbert (2.Paulo Sá 3.Vladimiro Miranda)\
+1973 - Isaac Iglesias (2.João Andresen 3.Trocado Moreira)\
+1972 - Vladimiro Miranda (2.Silva Leal 3.Jaime Gilbert)\
 1971 - Jaime Gilbert (2.Vladimiro Miranda 3.Trocado Moreira)\
 1970 - Bernardino Passos\
 Jaime Gilbert foi o jogador nº3 da seleção Portuguesa na Olimpiada de Siegen 1970, obtendo 4.5 pontos em 12 jogos\

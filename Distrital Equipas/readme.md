@@ -34,8 +34,20 @@ Muda o quadro competitivo, e o distrital deixa de apurar para o Nacional.
 
 1989 - Boavista FC
 
+No CN de 1985 o CDUP foi **campeão nacional**\
+1985 - CDUP (?)\
+No CN de 1984 o CDUP classificou-se em segundo\
+1984 - CDUP (?)\
+No CN de 1983 o FC Foz classificou-se em segundo\
+1983 - FC Foz (?)\
+
+No CN de 1981 o CDUP classificou-se em segundo\
+1981 - CDUP (?)\
+No CN de 1980 o CDUP classificou-se em terceiro\
+1980 - CDUP (?)
+
 No CN de 1978 a A.A.Espinho classificou-se em segundo\
-1978 - A.A. Espinho (2.GX Porto 3.CDUP)
+1978 - A.A. Espinho (2.GX Porto 3.CDUP)\
 No CN de 1977 o GX Porto classificou-se em terceiro\
 1977 - GX Porto (?)\
 No CN de 1976 o FC Porto classificou-se em terceiro\
@@ -75,7 +87,7 @@ No CN de 1956 o Clube Fenianos Portuenses obteve classificou-se em terceiro\
 1955 - GX Porto (2.Clube Tirsense de Xadrez)\
 No CN de 1954 o GX Porto obteve classificou-se em terceiro\
 1954 - GX Porto (?)\
-No ano de 1953 o GX Porto foi também campeão nacional (no segundo campeonato nacional que se disputou), com Jorge Babo, João Mário Ribeiro, Alexandre Gonçalves, Manuel Costa e Gencsi Dezso\
+No ano de 1953 o **GX Porto** foi **campeão nacional** (no segundo campeonato nacional que se disputou), com Jorge Babo, João Mário Ribeiro, Alexandre Gonçalves, Manuel Costa e Gencsi Dezso\
 1953 - GX Porto (?)\
 1952 - GX Porto (2.GX Póvoa Varzim 3.Clube Xadrez Portuense)\
 

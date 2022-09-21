@@ -34,6 +34,8 @@ Muda o quadro competitivo, e o distrital deixa de apurar para o Nacional.
 
 1989 - Boavista FC
 
+No CN de 1986 o CDUP classificou-se em segundo\
+1986 - CDUP (?)\ 
 No CN de 1985 o CDUP foi **campeão nacional**\
 1985 - CDUP (?)\
 No CN de 1984 o CDUP classificou-se em segundo\

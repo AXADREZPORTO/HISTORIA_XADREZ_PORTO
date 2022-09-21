@@ -42,9 +42,26 @@ Muda o quadro competitivo, e o distrital deixa de apurar para o Nacional.
 1972 - FC Porto (2.GX Porto)\
 1971 - GX Porto (2.FC Porto 3.CDUP)\
 
-1967 - GX Porto (2.Circulo Arte e Recreio 3.FC Porto) 
+1969 - GX Porto (2.FC Porto)\
+1968 - FC Porto (2.GX Porto 3.CDUP)\
+1967 - GX Porto (2.Circulo Arte e Recreio 3.FC Porto)\
+1966 - GX Porto (2.CS Nun'Alvares)\
+1965 - GX Porto (2.Grupo de Xadrez de Guimarães)\
+1964 - Grupo de Xadrez de Guimarães (2.GX Porto)\
+1963 - Grupo de Xadrez de Guimarães (2.GX Porto)\
+1962 - Grupo de Xadrez de Guimarães (2.GX Porto)\
+1961 - Grupo de Xadrez de Guimarães (2.GX Porto)\
+1960 - GX Porto (2.GD Francisco de Holanda)\
+1959 - GX Porto (2.GD Francisco de Holanda 3.Clube Fenianos Portuenses)\
+1958 - GX Porto
 
-1962 - Grupo de Xadrez de Guimarães (2.GX Porto) 
+1956 - Clube Fenianos Portuenses (?)\
+1955 - GX Porto (2.Clube Tirsense de Xadrez)\
+1954 - GX Porto (?)\
+No ano de 1953 o GX Porto foi também campeão nacional, com
+Jorge Babo, João Mário Ribeiro, Alexandre Gonçalves, Manuel Costa e Gencsi Dezso\
+1953 - GX Porto (?)\ 
+1952 - GX Porto (2.GX Póvoa Varzim 3.Clube Xadrez Portuense)\
 
 1950 - Sport Club do Porto
 

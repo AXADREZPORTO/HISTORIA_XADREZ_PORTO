@@ -24,7 +24,7 @@ Lista de equipas campeãs:
 2001 - HC Águias do Porto\
 2000 - Gambozinos
 
-Muda o quadro competitivo, e o distrital deixa de apurar para o Nacional.
+Em 2000, muda o quadro competitivo, e o distrital deixa de apurar para o Nacional.
 
 No CN de 1999 o Boavista foi **campeão nacional**\
 1999 - Boavista FC\

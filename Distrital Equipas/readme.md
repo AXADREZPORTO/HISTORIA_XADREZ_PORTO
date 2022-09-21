@@ -32,10 +32,12 @@ Muda o quadro competitivo, e o distrital deixa de apurar para o Nacional.
 
 1994 - CDUP
 
-1989 - Boavista FC
-
+No CN de 1991 o Boavista classificou-se em segundo\
+1991 - Boavista FC (?)\ 
+No CN de 1990 o Boavista foi **campeão nacional**\
+1990 - Boavista FC (?)\ 
 No CN de 1989 o Boavista foi **campeão nacional**\
-1989 - Boavista FC (?)\ 
+1989 - Boavista FC\ 
 
 No CN de 1986 o CDUP classificou-se em segundo\
 1986 - CDUP (?)\ 

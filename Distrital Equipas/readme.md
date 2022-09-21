@@ -36,12 +36,16 @@ Muda o quadro competitivo, e o distrital deixa de apurar para o Nacional.
 
 1978 - A.A. Espinho (2.GX Porto 3.CDUP)
 
-1975 - FC Porto (2.GX Porto 3.A.A.Espinho)
+1975 - FC Porto (2.GX Porto 3.A.A.Espinho)\
+1974 - GX Porto (2.FC Porto 3.Casa Benfica Braga)\
+1973 - FC Porto (2.GX Porto 3.Viana Taurino)\
+1972 - FC Porto (2.GX Porto)\
+1971 - GX Porto (2.FC Porto 3.CDUP)\
 
-1968 - FC Porto (2.GX Porto 3.CDUP)
+1967 - GX Porto (2.Circulo Arte e Recreio 3.FC Porto) 
 
 1962 - Grupo de Xadrez de Guimarães (2.GX Porto) 
 
 1950 - Sport Club do Porto
 
-1947 - Grupo de Xadrez do Porto
+1947 - Grupo de Xadrez do Porto (2.GX A.A. Coimbra)

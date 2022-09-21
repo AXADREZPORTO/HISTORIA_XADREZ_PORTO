@@ -26,12 +26,22 @@ Lista de equipas campeãs:
 
 Muda o quadro competitivo, e o distrital deixa de apurar para o Nacional.
 
-1999 - Boavista FC
-
-1997 - Boavista FC
-
-1994 - CDUP
-
+No CN de 1999 o Boavista foi **campeão nacional**\
+1999 - Boavista FC\
+No CN de 1998 o Boavista classificou-se em segundo\
+1998 - Boavista FC (?)\
+No CN de 1997 o Boavista foi **campeão nacional**\
+1997 - Boavista FC\
+No CN de 1996 o Boavista classificou-se em segundo\
+1996 - Boavista FC (?)\
+No CN de 1995 o Boavista foi **campeão nacional**\
+1995 - Boavista FC (?)\
+No CN de 1994 o Boavista foi **campeão nacional**\
+1994 - CDUP\
+No CN de 1993 o Boavista foi **campeão nacional**\
+1993 - Boavista FC (?)\
+No CN de 1992 o Boavista foi **campeão nacional**\
+1992 - Boavista FC (?)\
 No CN de 1991 o Boavista classificou-se em segundo\
 1991 - Boavista FC (?)\
 No CN de 1990 o Boavista foi **campeão nacional**\

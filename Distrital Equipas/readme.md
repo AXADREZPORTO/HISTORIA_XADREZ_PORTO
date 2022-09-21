@@ -34,13 +34,19 @@ Muda o quadro competitivo, e o distrital deixa de apurar para o Nacional.
 
 1989 - Boavista FC
 
+No CN de 1978 a A.A.Espinho classificou-se em segundo\
 1978 - A.A. Espinho (2.GX Porto 3.CDUP)
-
+No CN de 1977 o GX Porto classificou-se em terceiro\
+1977 - GX Porto (?)\
+No CN de 1976 o FC Porto classificou-se em terceiro\
+1976 - FC Porto(?)\
+No CN de 1975 o FC Porto classificou-se em segundo\
 1975 - FC Porto (2.GX Porto 3.A.A.Espinho)\
 1974 - GX Porto (2.FC Porto 3.Casa Benfica Braga)\
 1973 - FC Porto (2.GX Porto 3.Viana Taurino)\
 1972 - FC Porto (2.GX Porto)\
-1971 - GX Porto (2.FC Porto 3.CDUP)\
+No CN de 1971 o GX Porto classificou-se em terceiro\
+1971 - GX Porto (2.FC Porto 3.CDUP)
 
 No CN de 1969 o GX Porto classificou-se em segundo\
 1969 - GX Porto (2.FC Porto)\

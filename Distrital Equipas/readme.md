@@ -50,7 +50,7 @@ No CN de 1989 o Boavista foi **campeão nacional**\
 1989 - Boavista FC
 
 No CN de 1986 o CDUP classificou-se em segundo\
-1986 - CDUP (?)\ 
+1986 - CDUP (?)\
 No CN de 1985 o CDUP foi **campeão nacional**\
 1985 - CDUP (?)\
 No CN de 1984 o CDUP classificou-se em segundo\

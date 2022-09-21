@@ -58,9 +58,8 @@ Muda o quadro competitivo, e o distrital deixa de apurar para o Nacional.
 1956 - Clube Fenianos Portuenses (?)\
 1955 - GX Porto (2.Clube Tirsense de Xadrez)\
 1954 - GX Porto (?)\
-No ano de 1953 o GX Porto foi também campeão nacional, com
-Jorge Babo, João Mário Ribeiro, Alexandre Gonçalves, Manuel Costa e Gencsi Dezso\
-1953 - GX Porto (?)\ 
+No ano de 1953 o GX Porto foi também campeão nacional, com Jorge Babo, João Mário Ribeiro, Alexandre Gonçalves, Manuel Costa e Gencsi Dezso\
+1953 - GX Porto (?)\
 1952 - GX Porto (2.GX Póvoa Varzim 3.Clube Xadrez Portuense)\
 
 1950 - Sport Club do Porto

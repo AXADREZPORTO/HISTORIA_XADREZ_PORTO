@@ -103,11 +103,13 @@ No CN de 1956 o Clube Fenianos Portuenses obteve classificou-se em terceiro\
 1956 - Clube Fenianos Portuenses (?)\
 1955 - GX Porto (2.Clube Tirsense de Xadrez)\
 No CN de 1954 o GX Porto obteve classificou-se em terceiro\
-1954 - GX Porto (?)\
+1954 - GX Porto (2.Clube Fenianos Portuenses) (? - folha não tem ano)\
 No ano de 1953 o **GX Porto** foi **campeão nacional** (no segundo campeonato nacional que se disputou), com Jorge Babo, João Mário Ribeiro, Alexandre Gonçalves, Manuel Costa e Gencsi Dezso\
-1953 - GX Porto (?)\
-1952 - GX Porto (2.GX Póvoa Varzim 3.Clube Xadrez Portuense)\
+1953 - GX Porto (2.Francisco de Holanda 3.Clube dos Fenianos Portuenses)\
+1952 - GX Porto (2.GX Póvoa Varzim 3.Clube Xadrez Portuense)
 
-1950 - Sport Club do Porto
+1950 - Sport Club do Porto (2.GX Porto 3.GX Povoa de Varzim)\
+1949 - Não se disputou
 
-1947 - Grupo de Xadrez do Porto (2.GX A.A. Coimbra)
+1947 - Grupo de Xadrez do Porto (2.GX Povoa de Varzim 3.GX Centro Univeritário)\
+1946 - GX Povoa de Varzim (2.GX Porto 3.Clube Portuense de Xadrez)

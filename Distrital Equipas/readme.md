@@ -99,7 +99,7 @@ No CN de 1961 o GX Guimarães classificou-se em terceiro\
 1959 - GX Porto (2.GD Francisco de Holanda 3.Clube Fenianos Portuenses)\
 1958 - GX Porto
 
-No CN de 1956 o Clube Fenianos Portuenses obteve classificou-se em terceiro\
+No CN de 1956 o Clube Fenianos Portuenses classificou-se em terceiro\
 1956 - Clube Fenianos Portuenses (?)\
 1955 - GX Porto (2.Clube Tirsense de Xadrez)\
 No CN de 1954 o GX Porto obteve classificou-se em terceiro\

@@ -4,66 +4,76 @@ Lista de Campeões:
 
 Da AX Porto:
 
+2022 - Simão Pintor (2.Francisco Assunção 3.Ricardo Andrade)\
 2021 - (Cancelado p/ covid)\
-2020 - Rui Guimarães\
-2019 - Hugo Carneiro Sousa\
-2018 - Simão Pintor\
-2017 - Rui Guimarães\
-2016 - Simão Pintor\
-2015 – André Ventura Sousa\
-2014 - André Ventura Sousa\
-2013 - André Ventura Sousa\
-2012 - Lucas Silva\
-2011 - Jorge Ferreira\
-2010 - Jorge Ferreira\
-2009 - Francisco Mateus\
-2008 - Jorge Ferreira\
-2007 - António Silva\
-2006 - Marco Viela\
-2005 - André Viela\
-2004 - André Viela\
-2003 - Albano Pinheiro\
-2002 - José Rodrigues\
-2001 - Rui Guimarães\
-2000 - Nuno Sousa\
-1999 - António Silva\
-1998 - António Silva\
-1997 - Fernando Cleto\
-1996 - Rui Camejo Almeida\
-1995 - Albano Pinheiro\
-1994 - Jorge Guimarães
-
-1986 - Pedro Silva
-
-1984 - Jorge Guimarães\
-(em 1984 faleceu Silvio Santos)
-
-1979 - João Andresen\
-1978 - Jorge Guimarães\
-1977 - Silvio Santos\
+2020 - Rui Guimarães (2.Ricardo Andrade 3.Ricardo Martinho Marques)\
+2019 - Hugo Carneiro Sousa (2.Simão Pintor 3.Rui Guimarães)\
+2018 - Simão Pintor (2.Jorge Coelho 3.José Azevedo)\
+2017 - Rui Guimarães (2.Daniel Quintã 3.Constantino Gudlack)\
+2016 - Simão Pintor (2.Pedro Mendes 3.Ricardo Andrade)\
+2015 – André Ventura Sousa (2.Simão Pintor 3.Ricardo Andrade)\
+2014 - André Ventura Sousa (2.Simão Pintor 3.José Verissimo Araujo)\
+2013 - André Ventura Sousa (2.Claudio Fernandes 3.Jorge Coelho)\
+2012 - Lucas Silva (2.Francisco Assunção 3.André Ventura Sousa)\
+2011 - Jorge Ferreira (2.António Silva 3.Francisco Assunção)\
+2010 - Jorge Ferreira (2.António Silva 3.Rui Trindade)\
+2009 - Francisco Mateus (2.Jorge Ferreira 3.Daniel Quintã)\
+2008 - Jorge Ferreira (2. A. Pedro Caramez Pereira 3.António Silva)\
+2007 - António Silva (2.Ariana Pintor 3.Ricardo Cardoso)\
+2006 - Marco Viela (2. Rui Mendes 3.André Viela)\
+2005 - André Viela (2. José Padeiro 3. S. Leschenko)\
+2004 - André Viela (2. Marco Viela 3. A. Pedro Caramez Pereira)\
+2003 - Albano Pinheiro (2.Alberto Paulo Ferreira 3.António Silva)\
+2002 - José Rodrigues (2.José Padeiro 3.Hugo F. Martins)\
+2001 - Rui Guimarães (2.João Guerra Costa 3.Albano Pinheiro)\
+2000 - Nuno Sousa (2.Antonio Silva 3.Albano Pinheiro)\
+1999 - António Silva (2.Albano Pinheiro 3.Rui Mendes)\
+1998 - António Silva (2.Pedro Parcerias 3.José Padeiro)\
+1997 - Fernando Cleto (2. Rui C. Almeida 3. António Silva)\
+1996 - Rui Camejo Almeida (2.António Silva 3.Alberto Paulo Ferreira)\
+1995 - Albano Pinheiro (2.Rui Camejo Almeida 3.José Dias Guimarães)\
+1994 - Jorge Guimarães (2.Fernando Cleto 3.António Silva)\
+1993 - António Silva\
+1992 - António Silva (?)\
+1991 - \
+1990 - António Silva (?)\
+1989 - António Silva (?)\
+1988 - \
+1987 - 1.? (2. Pedro V. Silva)\
+1986 - Pedro V. Silva (2 e 3. Fernando Cleto e António Silva)\
+1985 - Pedro V. Silva\
+1984 - Jorge Guimarães (2.Pedro V. Silva)\
+(No inicio de 1984 faleceu Silvio Santos)\
+1983 - \
+1982 - \
+1981 - \
+1980 - \
+1979 - João Andresen (2.Jorge Guimarães 3.Silvio Santos)\
+1978 - Jorge Guimarães (2.Jaime Gilbert 3.Silvio Santos)\
+1977 - Silvio Santos (2.Bernardino Passos 3.Jorge Guimarães)\
 1976 - Vladimiro Miranda
 
 (a partir de  1976, a Associação de Xadrez do Norte de Portugal deu lugar à Associação de Xadrez do Porto) 
 
 Do Norte:
 
-1975 - Jaime Gilbert\
-1974 - Isaac Iglesias\
-1973 - Vladimiro Miranda\
-1972 - Vladimiro Miranda\
-1971 - Jaime Gilbert\
+1975 - Jaime Gilbert (2.João Andresen 3.Manuel Matos)\
+1974 - Jaime Gilbert (2.Paulo Sá 3.Vladimiro Miranda)\
+1973 - Isaac Iglesias (2.João Andresen 3.Trocado Moreira)\
+1972 - Vladimiro Miranda (2.Silva Leal 3.Jaime Gilbert)\
+1971 - Jaime Gilbert (2.Vladimiro Miranda 3.Trocado Moreira)\
 1970 - Bernardino Passos\
-Jaime Gilbert foi o jogador nº3 da seleção Portuguesa na Olimpiada de Siegen, obtendo 4.5 pontos em 12 jogos\
-1969 - Jaime Gilbert\
+Jaime Gilbert foi o jogador nº3 da seleção Portuguesa na Olimpiada de Siegen 1970, obtendo 4.5 pontos em 12 jogos\
+1969 - Jaime Gilbert (2.Michael Diamond 3.António Cabral)\
 Jaime Gilbert obteve o terceiro lugar no nacional de 1969, a 1 ponto de Cordovil e 0,5 de Durão\
-1968 - Raul Mota\
-1967 - A. Vidal Pinheiro\
+1968 - Raul Mota (2.Raul Macedo 3.Fernando Baqu)\
+1967 - A. Vidal Pinheiro (2.Camilo Costa 3.Jaime Gilbert)\
 1966 - Michael Diamond (2.Jacinto Alves 3.Bernardino Passos)\
 1965 - Eduardo Monteiro\
 1964 - João Sepúlveda (2. A. Vidal Pinheiro 3.Michael Diamond)\
 1963 - António dos Santos Pinto (2.Michael Diamond 3.João Sepulveda)\
 1962 - Fernando Xavier\
-1961 - Alexandre Gonçalves\
+1961 - Alexandre Gonçalves (2.João Sepúlveda 3.Renato Figueiredo)\
 1960 - Alexandre Gonçalves\
 1959 - Alexandre Gonçalves\
 1958 - Alexandre Gonçalves (2.José Guimarães 3.João Soares)\

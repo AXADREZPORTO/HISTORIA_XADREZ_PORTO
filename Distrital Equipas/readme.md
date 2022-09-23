@@ -68,7 +68,7 @@ No CN de 1978 a A.A.Espinho classificou-se em segundo\
 No CN de 1977 o GX Porto classificou-se em terceiro\
 1977 - GX Porto (?)\
 No CN de 1976 o FC Porto classificou-se em terceiro\
-1976 - FC Porto(?)\
+1976 - FC Porto (2.CDUP 3.Vilanovense)\
 No CN de 1975 o FC Porto classificou-se em segundo\
 1975 - FC Porto (2.GX Porto 3.A.A.Espinho)\
 1974 - GX Porto (2.FC Porto 3.Casa Benfica Braga)\

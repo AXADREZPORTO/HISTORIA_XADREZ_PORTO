@@ -38,7 +38,7 @@ Da AX Porto:
 1991 - José Pereira dos Santos (2.João Maciel 3.José Carlos Vieira)\
 1990 - António Silva\
 1989 - António Silva\
-1988 - \
+1988 - Pedro Parcerias\
 1987 - Luis Galego (2. Pedro V. Silva 3.Paulo Felizes)\
 1986 - Pedro V. Silva (2 e 3. Fernando Cleto e António A. Silva)\
 1985 - Pedro V. Silva (2.Paulo Felizes 3.Fernando Cleto)\

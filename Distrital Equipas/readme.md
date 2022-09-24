@@ -27,7 +27,7 @@ Lista de equipas campeãs:
 Em 2000, muda o quadro competitivo, e o distrital deixa de apurar para o Nacional.
 
 No CN de 1999 o Boavista foi **campeão nacional**\
-1999 - Boavista FC\
+1999 - Boavista FC (2.CDUP 3.GX Porto)\
 No CN de 1998 o Boavista classificou-se em segundo\
 1998 - Boavista FC (?)\
 No CN de 1997 o Boavista foi **campeão nacional**\
@@ -43,7 +43,7 @@ No CN de 1993 o Boavista foi **campeão nacional**\
 No CN de 1992 o Boavista foi **campeão nacional**\
 1992 - Boavista FC (?)\
 No CN de 1991 o Boavista classificou-se em segundo\
-1991 - Boavista FC (?)\
+1991 - FC Porto (2.Boavista FC 3.GD Dias Ferreira)\
 No CN de 1990 o Boavista foi **campeão nacional**\
 1990 - Boavista FC (?)\
 No CN de 1989 o Boavista foi **campeão nacional**\
@@ -57,7 +57,7 @@ No CN de 1984 o CDUP classificou-se em segundo\
 1984 - CDUP (?)\
 No CN de 1983 o FC Foz classificou-se em segundo\
 1983 - FC Foz (?)\
-
+1982 - CDUP (2.GX Porto 3.GD Dias Ferreira)\
 No CN de 1981 o CDUP classificou-se em segundo\
 1981 - CDUP (?)\
 No CN de 1980 o CDUP classificou-se em terceiro\

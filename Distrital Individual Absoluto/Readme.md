@@ -33,19 +33,19 @@ Da AX Porto:
 1996 - Rui Camejo Almeida (2.António Silva 3.Alberto Paulo Ferreira)\
 1995 - Albano Pinheiro (2.Rui Camejo Almeida 3.José Dias Guimarães)\
 1994 - Jorge Guimarães (2.Fernando Cleto 3.António Silva)\
-1993 - António Silva\
-1992 - António Silva (?)\
-1991 - \
-1990 - António Silva (?)\
-1989 - António Silva (?)\
+1993 - António Silva (2.José Dias Guimarães 3.José Américo Moreira)\
+1992 - António Silva\
+1991 - José Pereira dos Santos (2.João Maciel 3.José Carlos Vieira)\
+1990 - António Silva\
+1989 - António Silva\
 1988 - \
-1987 - 1.? (2. Pedro V. Silva)\
-1986 - Pedro V. Silva (2 e 3. Fernando Cleto e António Silva)\
-1985 - Pedro V. Silva\
+1987 - Luis Galego (2. Pedro V. Silva 3.Paulo Felizes)\
+1986 - Pedro V. Silva (2 e 3. Fernando Cleto e António A. Silva)\
+1985 - Pedro V. Silva (2.Paulo Felizes 3.Fernando Cleto)\
 1984 - Jorge Guimarães (2.Pedro V. Silva)\
 (No inicio de 1984 faleceu Silvio Santos)\
 1983 - \
-1982 - \
+1982 - Silvio Santos (2.Luis Galego 3.Jorge Guimarães)\
 1981 - \
 1980 - \
 1979 - João Andresen (2.Jorge Guimarães 3.Silvio Santos)\

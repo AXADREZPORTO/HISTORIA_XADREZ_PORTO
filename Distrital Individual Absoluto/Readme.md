@@ -15,29 +15,29 @@ Da AX Porto:
 2014 - André Ventura Sousa (2.Simão Pintor 3.José Verissimo Araujo)\
 2013 - André Ventura Sousa (2.Claudio Fernandes 3.Jorge Coelho)\
 2012 - Lucas Silva (2.Francisco Assunção 3.André Ventura Sousa)\
-2011 - Jorge Ferreira (2.António Silva 3.Francisco Assunção)\
-2010 - Jorge Ferreira (2.António Silva 3.Rui Trindade)\
+2011 - Jorge Ferreira (2.António A. Silva 3.Francisco Assunção)\
+2010 - Jorge Ferreira (2.António A. Silva 3.Rui Trindade)\
 2009 - Francisco Mateus (2.Jorge Ferreira 3.Daniel Quintã)\
-2008 - Jorge Ferreira (2. A. Pedro Caramez Pereira 3.António Silva)\
-2007 - António Silva (2.Ariana Pintor 3.Ricardo Cardoso)\
+2008 - Jorge Ferreira (2. A. Pedro Caramez Pereira 3.António A. Silva)\
+2007 - António A. Silva (2.Ariana Pintor 3.Ricardo Cardoso)\
 2006 - Marco Viela (2. Rui Mendes 3.André Viela)\
 2005 - André Viela (2. José Padeiro 3. S. Leschenko)\
 2004 - André Viela (2. Marco Viela 3. A. Pedro Caramez Pereira)\
-2003 - Albano Pinheiro (2.Alberto Paulo Ferreira 3.António Silva)\
+2003 - Albano Pinheiro (2.Alberto Paulo Ferreira 3.António A. Silva)\
 2002 - José Rodrigues (2.José Padeiro 3.Hugo F. Martins)\
 2001 - Rui Guimarães (2.João Guerra Costa 3.Albano Pinheiro)\
-2000 - Nuno Sousa (2.Antonio Silva 3.Albano Pinheiro)\
-1999 - António Silva (2.Albano Pinheiro 3.Rui Mendes)\
-1998 - António Silva (2.Pedro Parcerias 3.José Padeiro)\
-1997 - Fernando Cleto (2. Rui C. Almeida 3. António Silva)\
-1996 - Rui Camejo Almeida (2.António Silva 3.Alberto Paulo Ferreira)\
+2000 - Nuno Sousa (2.Antonio A. Silva 3.Albano Pinheiro)\
+1999 - António A. Silva (2.Albano Pinheiro 3.Rui Mendes)\
+1998 - António A. Silva (2.Pedro Parcerias 3.José Padeiro)\
+1997 - Fernando Cleto (2. Rui C. Almeida 3. António A. Silva)\
+1996 - Rui Camejo Almeida (2.António A. Silva 3.Alberto Paulo Ferreira)\
 1995 - Albano Pinheiro (2.Rui Camejo Almeida 3.José Dias Guimarães)\
-1994 - Jorge Guimarães (2.Fernando Cleto 3.António Silva)\
-1993 - António Silva (2.José Dias Guimarães 3.José Américo Moreira)\
-1992 - António Silva\
+1994 - Jorge Guimarães (2.Fernando Cleto 3.António A. Silva)\
+1993 - António A. Silva (2.José Dias Guimarães 3.José Américo Moreira)\
+1992 - António A. Silva\
 1991 - José Pereira dos Santos (2.João Maciel 3.José Carlos Vieira)\
-1990 - António Silva\
-1989 - António Silva\
+1990 - António A. Silva\
+1989 - António A. Silva\
 1988 - Pedro Parcerias\
 1987 - Luis Galego (2. Pedro V. Silva 3.Paulo Felizes)\
 1986 - Pedro V. Silva (2 e 3. Fernando Cleto e António A. Silva)\

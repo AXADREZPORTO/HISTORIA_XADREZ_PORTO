@@ -20,4 +20,4 @@ Anteriormente tinha sido organizada a Taça do Porto:
 
 1985 ?\
 1984 ?\
-1983 ?
+1983 CDUP (?)

@@ -118,6 +118,6 @@ Jorge Ferreira (d.n. 1994) é u14 quando vence em 2008
 
 Fontes:
 
-Até 1973, sempre que não esteja no directório suporte documental, segue a "História do Xadrez de Competição em Portugal", da autoria de Fernando Castro. \
-Sempre que encontramos suporte documental, este é reproduzido aqui.\ 
+Até 1973, sempre que não esteja no directório suporte documental, segue a "História do Xadrez de Competição em Portugal", da autoria de Fernando Castro.\
+Sempre que encontramos suporte documental, este é reproduzido aqui. Os documentos foram encontrados nos acervos da Associação e do Grupo de Xadrez do Porto, bem como nos efémeros jornais e revistas de xadrez que foram sendo publicadas.\
 Todos os campeões posteriores a 1973 são baseados em suporte documental reproduzido neste directório.

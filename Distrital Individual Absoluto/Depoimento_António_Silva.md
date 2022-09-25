@@ -15,3 +15,5 @@ Pedro Silva foi um jogador muito forte nos anos 80, ao nivel do Luis Galego ness
 (Nota do Editor: Trata-se do MN Pedro Ventura Silva, Professor Catedrático na UP: 
 https://cmup.fc.up.pt/cmup/pvsilva/
 https://www.up.pt/arquivo/details?id=2780&detailsType=Authority)
+
+Em 1988, unico ano em que fui derrotado por Pedro Parcerias, estou certo de que foi ele o campeão distrital.

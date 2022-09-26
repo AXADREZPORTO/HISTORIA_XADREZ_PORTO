@@ -62,23 +62,23 @@ Do Norte:
 1973 - Isaac Iglesias (2.João Andresen 3.Trocado Moreira)\
 1972 - Vladimiro Miranda (2.Silva Leal 3.Jaime Gilbert)\
 1971 - Jaime Gilbert (2.Vladimiro Miranda 3.Trocado Moreira)\
-1970 - Bernardino Passos\
+1970 - Bernardino Passos(2.? 3.\
 Jaime Gilbert foi o jogador nº3 da seleção Portuguesa na Olimpiada de Siegen 1970, obtendo 4.5 pontos em 12 jogos\
 1969 - Jaime Gilbert (2.Michael Diamond 3.António Cabral)\
 Jaime Gilbert obteve o terceiro lugar no nacional de 1969, a 1 ponto de Cordovil e 0,5 de Durão\
 1968 - Raul Mota (2.Raul Macedo 3.Fernando Baqu)\
 1967 - A. Vidal Pinheiro (2.Camilo Costa 3.Jaime Gilbert)\
 1966 - Michael Diamond (2.Jacinto Alves 3.Bernardino Passos)\
-1965 - Eduardo Monteiro\
+1965 - Eduardo Monteiro (2.A Vidal Pinheiro 3.Jacinto Alves)\
 1964 - João Sepúlveda (2. A. Vidal Pinheiro 3.Michael Diamond)\
 1963 - António dos Santos Pinto (2.Michael Diamond 3.João Sepulveda)\
 1962 - Fernando Xavier\
 1961 - Alexandre Gonçalves (2.João Sepúlveda 3.Renato Figueiredo)\
-1960 - Alexandre Gonçalves\
-1959 - Alexandre Gonçalves\
+1960 - Alexandre Gonçalves (2.José D. Guimarães 3.Álvaro Machado)\
+1959 - Alexandre Gonçalves (2.Álvaro Machado 3.Augusto Faria)\
 1958 - Alexandre Gonçalves (2.José Guimarães 3.João Soares)\
 1957 - ?\
-1956 - José Guimarães\
+1956 - José D. Guimarães(2.Álvaro Machado 3. J. Santos Pinto)\
 1955 - Araújo Pereira (2.Jorge Babo 3.Jorge Xavier)\
 1954 - Gencsi Deszo (2.João Azinheira 3.Jorge Xavier)\
 Em 1954, já depois de ir viver para Lisboa, J.M. Ribeiro conquista o titulo nacional. Repetiria o feito em 1963 e 1971, obtendo ainda outras 4 presenças no pódio.\

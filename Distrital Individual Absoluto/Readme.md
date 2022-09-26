@@ -62,7 +62,7 @@ Do Norte:
 1973 - Isaac Iglesias (2.João Andresen 3.Trocado Moreira)\
 1972 - Vladimiro Miranda (2.Silva Leal 3.Jaime Gilbert)\
 1971 - Jaime Gilbert (2.Vladimiro Miranda 3.Trocado Moreira)\
-1970 - Bernardino Passos(2.? 3.\
+1970 - Bernardino Passos(2.? 3.Michael Diamond)\
 Jaime Gilbert foi o jogador nº3 da seleção Portuguesa na Olimpiada de Siegen 1970, obtendo 4.5 pontos em 12 jogos\
 1969 - Jaime Gilbert (2.Michael Diamond 3.António Cabral)\
 Jaime Gilbert obteve o terceiro lugar no nacional de 1969, a 1 ponto de Cordovil e 0,5 de Durão\

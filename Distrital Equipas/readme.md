@@ -66,7 +66,7 @@ No CN de 1980 o CDUP classificou-se em terceiro\
 No CN de 1978 a A.A.Espinho classificou-se em segundo\
 1978 - A.A. Espinho (2.GX Porto 3.CDUP)\
 No CN de 1977 o GX Porto classificou-se em terceiro\
-1977 - GX Porto (?)\
+1977 - GX Porto\
 No CN de 1976 o FC Porto classificou-se em terceiro\
 1976 - FC Porto (2.CDUP 3.Vilanovense)\
 No CN de 1975 o FC Porto classificou-se em segundo\
@@ -75,8 +75,8 @@ No CN de 1975 o FC Porto classificou-se em segundo\
 1973 - FC Porto (2.GX Porto 3.Viana Taurino)\
 1972 - FC Porto (2.GX Porto)\
 No CN de 1971 o GX Porto classificou-se em terceiro\
-1971 - GX Porto (2.FC Porto 3.CDUP)
-
+1971 - GX Porto (2.FC Porto 3.CDUP)\
+1970 - GX Porto\
 No CN de 1969 o GX Porto classificou-se em segundo\
 1969 - GX Porto (2.FC Porto)\
 No CN de 1968 o FC Porto classificou-se em segundo\
@@ -98,9 +98,9 @@ No CN de 1961 o GX Guimarães classificou-se em terceiro\
 1960 - GX Porto (2.GD Francisco de Holanda)\
 1959 - GX Porto (2.GD Francisco de Holanda 3.Clube Fenianos Portuenses)\
 1958 - GX Porto
-
+1957 - ? (2.GX Porto)
 No CN de 1956 o Clube Fenianos Portuenses classificou-se em terceiro\
-1956 - Clube Fenianos Portuenses (?)\
+1956 - Clube Fenianos Portuenses (2.GX Porto)\
 1955 - GX Porto (2.Clube Tirsense de Xadrez)\
 No CN de 1954 o GX Porto obteve classificou-se em terceiro\
 1954 - GX Porto (2.Clube Fenianos Portuenses) (? - folha não tem ano)\

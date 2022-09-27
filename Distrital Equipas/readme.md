@@ -27,7 +27,7 @@ Lista de equipas campeãs:
 Em 2000, muda o quadro competitivo, e o distrital deixa de apurar para o Nacional.
 
 No CN de 1999 o Boavista foi **campeão nacional**\
-1999 - Boavista FC\
+1999 - Boavista FC (2.CDUP 3.GX Porto)\
 No CN de 1998 o Boavista classificou-se em segundo\
 1998 - Boavista FC (?)\
 No CN de 1997 o Boavista foi **campeão nacional**\
@@ -43,7 +43,7 @@ No CN de 1993 o Boavista foi **campeão nacional**\
 No CN de 1992 o Boavista foi **campeão nacional**\
 1992 - Boavista FC (?)\
 No CN de 1991 o Boavista classificou-se em segundo\
-1991 - Boavista FC (?)\
+1991 - FC Porto (2.Boavista FC 3.GD Dias Ferreira)\
 No CN de 1990 o Boavista foi **campeão nacional**\
 1990 - Boavista FC (?)\
 No CN de 1989 o Boavista foi **campeão nacional**\
@@ -52,12 +52,12 @@ No CN de 1989 o Boavista foi **campeão nacional**\
 No CN de 1986 o CDUP classificou-se em segundo\
 1986 - CDUP (?)\
 No CN de 1985 o CDUP foi **campeão nacional**\
-1985 - CDUP (?)\
+1985 - CDUP (2.FC Foz 3.Boavista FC)\
 No CN de 1984 o CDUP classificou-se em segundo\
 1984 - CDUP (?)\
 No CN de 1983 o FC Foz classificou-se em segundo\
 1983 - FC Foz (?)\
-
+1982 - CDUP (2.GX Porto 3.GD Dias Ferreira)\
 No CN de 1981 o CDUP classificou-se em segundo\
 1981 - CDUP (?)\
 No CN de 1980 o CDUP classificou-se em terceiro\
@@ -66,7 +66,7 @@ No CN de 1980 o CDUP classificou-se em terceiro\
 No CN de 1978 a A.A.Espinho classificou-se em segundo\
 1978 - A.A. Espinho (2.GX Porto 3.CDUP)\
 No CN de 1977 o GX Porto classificou-se em terceiro\
-1977 - GX Porto (?)\
+1977 - GX Porto\
 No CN de 1976 o FC Porto classificou-se em terceiro\
 1976 - FC Porto (2.CDUP 3.Vilanovense)\
 No CN de 1975 o FC Porto classificou-se em segundo\
@@ -75,8 +75,8 @@ No CN de 1975 o FC Porto classificou-se em segundo\
 1973 - FC Porto (2.GX Porto 3.Viana Taurino)\
 1972 - FC Porto (2.GX Porto)\
 No CN de 1971 o GX Porto classificou-se em terceiro\
-1971 - GX Porto (2.FC Porto 3.CDUP)
-
+1971 - GX Porto (2.FC Porto 3.CDUP)\
+1970 - GX Porto\
 No CN de 1969 o GX Porto classificou-se em segundo\
 1969 - GX Porto (2.FC Porto)\
 No CN de 1968 o FC Porto classificou-se em segundo\
@@ -98,9 +98,9 @@ No CN de 1961 o GX Guimarães classificou-se em terceiro\
 1960 - GX Porto (2.GD Francisco de Holanda)\
 1959 - GX Porto (2.GD Francisco de Holanda 3.Clube Fenianos Portuenses)\
 1958 - GX Porto
-
+1957 - ? (2.GX Porto)
 No CN de 1956 o Clube Fenianos Portuenses classificou-se em terceiro\
-1956 - Clube Fenianos Portuenses (?)\
+1956 - Clube Fenianos Portuenses (2.GX Porto)\
 1955 - GX Porto (2.Clube Tirsense de Xadrez)\
 No CN de 1954 o GX Porto obteve classificou-se em terceiro\
 1954 - GX Porto (2.Clube Fenianos Portuenses) (? - folha não tem ano)\

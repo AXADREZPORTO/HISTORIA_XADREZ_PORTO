@@ -15,37 +15,37 @@ Da AX Porto:
 2014 - André Ventura Sousa (2.Simão Pintor 3.José Verissimo Araujo)\
 2013 - André Ventura Sousa (2.Claudio Fernandes 3.Jorge Coelho)\
 2012 - Lucas Silva (2.Francisco Assunção 3.André Ventura Sousa)\
-2011 - Jorge Ferreira (2.António Silva 3.Francisco Assunção)\
-2010 - Jorge Ferreira (2.António Silva 3.Rui Trindade)\
+2011 - Jorge Ferreira (2.António A. Silva 3.Francisco Assunção)\
+2010 - Jorge Ferreira (2.António A. Silva 3.Rui Trindade)\
 2009 - Francisco Mateus (2.Jorge Ferreira 3.Daniel Quintã)\
-2008 - Jorge Ferreira (2. A. Pedro Caramez Pereira 3.António Silva)\
-2007 - António Silva (2.Ariana Pintor 3.Ricardo Cardoso)\
+2008 - Jorge Ferreira (2. A. Pedro Caramez Pereira 3.António A. Silva)\
+2007 - António A. Silva (2.Ariana Pintor 3.Ricardo Cardoso)\
 2006 - Marco Viela (2. Rui Mendes 3.André Viela)\
 2005 - André Viela (2. José Padeiro 3. S. Leschenko)\
 2004 - André Viela (2. Marco Viela 3. A. Pedro Caramez Pereira)\
-2003 - Albano Pinheiro (2.Alberto Paulo Ferreira 3.António Silva)\
+2003 - Albano Pinheiro (2.Alberto Paulo Ferreira 3.António A. Silva)\
 2002 - José Rodrigues (2.José Padeiro 3.Hugo F. Martins)\
 2001 - Rui Guimarães (2.João Guerra Costa 3.Albano Pinheiro)\
-2000 - Nuno Sousa (2.Antonio Silva 3.Albano Pinheiro)\
-1999 - António Silva (2.Albano Pinheiro 3.Rui Mendes)\
-1998 - António Silva (2.Pedro Parcerias 3.José Padeiro)\
-1997 - Fernando Cleto (2. Rui C. Almeida 3. António Silva)\
-1996 - Rui Camejo Almeida (2.António Silva 3.Alberto Paulo Ferreira)\
+2000 - Nuno Sousa (2.Antonio A. Silva 3.Albano Pinheiro)\
+1999 - António A. Silva (2.Albano Pinheiro 3.Rui Mendes)\
+1998 - António A. Silva (2.Pedro Parcerias 3.José Padeiro)\
+1997 - Fernando Cleto (2. Rui C. Almeida 3. António A. Silva)\
+1996 - Rui Camejo Almeida (2.António A. Silva 3.Alberto Paulo Ferreira)\
 1995 - Albano Pinheiro (2.Rui Camejo Almeida 3.José Dias Guimarães)\
-1994 - Jorge Guimarães (2.Fernando Cleto 3.António Silva)\
-1993 - António Silva\
-1992 - António Silva (?)\
-1991 - \
-1990 - António Silva (?)\
-1989 - António Silva (?)\
-1988 - \
-1987 - 1.? (2. Pedro V. Silva)\
-1986 - Pedro V. Silva (2 e 3. Fernando Cleto e António Silva)\
-1985 - Pedro V. Silva\
+1994 - Jorge Guimarães (2.Fernando Cleto 3.António A. Silva)\
+1993 - António A. Silva (2.José Dias Guimarães 3.José Américo Moreira)\
+1992 - António A. Silva\
+1991 - José Pereira dos Santos (2.João Maciel 3.José Carlos Vieira)\
+1990 - António A. Silva\
+1989 - António A. Silva\
+1988 - Pedro Parcerias\
+1987 - Luis Galego (2. Pedro V. Silva 3.Paulo Felizes)\
+1986 - Pedro V. Silva (2 e 3. Fernando Cleto e António A. Silva)\
+1985 - Pedro V. Silva (2.Paulo Felizes 3.Fernando Cleto)\
 1984 - Jorge Guimarães (2.Pedro V. Silva)\
 (No inicio de 1984 faleceu Silvio Santos)\
 1983 - \
-1982 - \
+1982 - Silvio Santos (2.Luis Galego 3.Jorge Guimarães)\
 1981 - \
 1980 - \
 1979 - João Andresen (2.Jorge Guimarães 3.Silvio Santos)\
@@ -62,23 +62,23 @@ Do Norte:
 1973 - Isaac Iglesias (2.João Andresen 3.Trocado Moreira)\
 1972 - Vladimiro Miranda (2.Silva Leal 3.Jaime Gilbert)\
 1971 - Jaime Gilbert (2.Vladimiro Miranda 3.Trocado Moreira)\
-1970 - Bernardino Passos\
+1970 - Bernardino Passos(2.? 3.Michael Diamond)\
 Jaime Gilbert foi o jogador nº3 da seleção Portuguesa na Olimpiada de Siegen 1970, obtendo 4.5 pontos em 12 jogos\
 1969 - Jaime Gilbert (2.Michael Diamond 3.António Cabral)\
 Jaime Gilbert obteve o terceiro lugar no nacional de 1969, a 1 ponto de Cordovil e 0,5 de Durão\
 1968 - Raul Mota (2.Raul Macedo 3.Fernando Baqu)\
 1967 - A. Vidal Pinheiro (2.Camilo Costa 3.Jaime Gilbert)\
 1966 - Michael Diamond (2.Jacinto Alves 3.Bernardino Passos)\
-1965 - Eduardo Monteiro\
+1965 - Eduardo Monteiro (2.A Vidal Pinheiro 3.Jacinto Alves)\
 1964 - João Sepúlveda (2. A. Vidal Pinheiro 3.Michael Diamond)\
 1963 - António dos Santos Pinto (2.Michael Diamond 3.João Sepulveda)\
 1962 - Fernando Xavier\
 1961 - Alexandre Gonçalves (2.João Sepúlveda 3.Renato Figueiredo)\
-1960 - Alexandre Gonçalves\
-1959 - Alexandre Gonçalves\
+1960 - Alexandre Gonçalves (2.José D. Guimarães 3.Álvaro Machado)\
+1959 - Alexandre Gonçalves (2.Álvaro Machado 3.Augusto Faria)\
 1958 - Alexandre Gonçalves (2.José Guimarães 3.João Soares)\
 1957 - ?\
-1956 - José Guimarães\
+1956 - José D. Guimarães(2.Álvaro Machado 3. J. Santos Pinto)\
 1955 - Araújo Pereira (2.Jorge Babo 3.Jorge Xavier)\
 1954 - Gencsi Deszo (2.João Azinheira 3.Jorge Xavier)\
 Em 1954, já depois de ir viver para Lisboa, J.M. Ribeiro conquista o titulo nacional. Repetiria o feito em 1963 e 1971, obtendo ainda outras 4 presenças no pódio.\
@@ -118,6 +118,6 @@ Jorge Ferreira (d.n. 1994) é u14 quando vence em 2008
 
 Fontes:
 
-Até 1973, sempre que não esteja no directório suporte documental, segue a "História do Xadrez de Competição em Portugal", da autoria de Fernando Castro. \
-Sempre que encontramos suporte documental, este é reproduzido aqui.\ 
+Até 1973, sempre que não esteja no directório suporte documental, segue a "História do Xadrez de Competição em Portugal", da autoria de Fernando Castro.\
+Sempre que encontramos suporte documental, este é reproduzido aqui. Os documentos foram encontrados nos acervos da Associação e do Grupo de Xadrez do Porto, bem como nos efémeros jornais e revistas de xadrez que foram sendo publicadas.\
 Todos os campeões posteriores a 1973 são baseados em suporte documental reproduzido neste directório.

@@ -78,7 +78,7 @@ Jaime Gilbert obteve o terceiro lugar no nacional de 1969, a 1 ponto de Cordovil
 1959 - Alexandre Gonçalves (2.Álvaro Machado 3.Augusto Faria)\
 1958 - Alexandre Gonçalves (2.José Guimarães 3.João Soares)\
 1957 - ?\
-1956 - José D. Guimarães(2.Álvaro Machado 3. J. Santos Pinto)\
+1956 - José D. Guimarães (2.Álvaro Machado 3. J. Santos Pinto)\
 1955 - Araújo Pereira (2.Jorge Babo 3.Jorge Xavier)\
 1954 - Gencsi Deszo (2.João Azinheira 3.Jorge Xavier)\
 Em 1954, já depois de ir viver para Lisboa, J.M. Ribeiro conquista o titulo nacional. Repetiria o feito em 1963 e 1971, obtendo ainda outras 4 presenças no pódio.\

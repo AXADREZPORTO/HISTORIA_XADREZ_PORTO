@@ -98,6 +98,7 @@ desde 1941, pelo GXP)
 
 Do Porto:
 
+1945 - Alexandre Gonçalves\
 1944 - Leonel Pias (2.João Mário Ribeiro 3.Alexandre Gonçalves)\
 No nacional de 1944 J.M. Ribeiro obtém o terceiro lugar e o titulo de Mestre.\
 1943 - João Mário Ribeiro (2.Alexandre Gonçalves 3.Leonel Pias)\

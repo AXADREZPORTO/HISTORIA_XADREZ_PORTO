@@ -28,7 +28,7 @@ Araujo Pereira obtém o grau de mestre
 1956 -  1.Álvaro Machado 4.5 2.Genczi Dezso 4.5 3.Jorge Babo 2 4.José F. Guimarães 1\
 Álvaro Machado obteém o grau de mestre (nacional).
 
-Segundo a lista da FPX (7/2002):
+Segundo a lista da FPX (7/2022):
 
 1944 - João Mário Ribeiro\
 1945 - Leonel Pias (d.n. 22/9/1926)\
@@ -38,3 +38,27 @@ Segundo a lista da FPX (7/2002):
 1953 - Gencsi Dezso\
 1955 - Araújo Pereira\
 1956 - Álvaro Machado
+
+Após 1956 os critérios de obtenção do titulo passaram a ser muito mais exigentes (4 performances de 60% ou mais em campeonato nacional). Só voltamos a ter mestres com o sistema elo, que atribui o titulo para um elo de 2200. Segue a lista da FPX, que atribui nalguns casos (Silvio Santos, Vladimiro Miranda, Pedro V. Silva, Pedro Palhares, etc) o titulo à posteriori, suponho que recorrendo a listas de elo nacional:
+
+1981 - José Pereira dos Santos (mais tarde, MF)\
+1981 - António Pereira dos Santos (mais tarde, MF)\
+1983 - Jorge Guimarães (mais tarde, MF)\
+1987 - Luis Galego (mais tarde, GM)\
+1990 - Pedro Ventura Silva\
+1990 - Carlos Pereira dos Santos (mais tarde, MI)\
+1994 - Pedro Parcerias (mais tarde, MF)\
+1995 - Rui Camejo Almeida\
+1995 - António Augusto Silva\
+2000 - Carlos Dantas\
+2005 - Ariana Pintor (WFM)\
+2005 - Fernando Castro\
+2005 - Vladimiro Miranda\
+2005 - José Padeiro (mais tarde, MF)\
+2005 - Pedro Palhares\
+2006 - João Guerra e Costa\
+2010 - André Viela\
+2010 - Jorge Ferreira (mais tarde, GM)\
+2011 - Marco Viela
+
+

@@ -39,13 +39,13 @@ No CN de 1995 o Boavista foi **campeão nacional**\
 No CN de 1994 o Boavista foi **campeão nacional**\
 1994 - CDUP\
 No CN de 1993 o Boavista foi **campeão nacional**\
-1993 - Boavista FC (?)\
+1993 - FC Porto (2.Boavista FC 3.GD Dias Ferreira)\
 No CN de 1992 o Boavista foi **campeão nacional**\
-1992 - Boavista FC (?)\
+1992 - Boavista FC (2.GD Dias Ferreira 3.GX Porto)\
 No CN de 1991 o Boavista classificou-se em segundo\
 1991 - FC Porto (2.Boavista FC 3.GD Dias Ferreira)\
 No CN de 1990 o Boavista foi **campeão nacional**\
-1990 - Boavista FC (?)\
+1990 - FC Porto (2.Boavista FC 3.GD Dias Ferreira)\
 No CN de 1989 o Boavista foi **campeão nacional**\
 1989 - Boavista FC
 

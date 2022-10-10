@@ -1,0 +1,3400 @@
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.05"]
+[Round "1.1"]
+[White "Galego, Luis"]
+[Black "Oliveira, Eduardo"]
+[Result "1-0"]
+[ECO "C60"]
+[WhiteElo "2489"]
+[BlackElo "1923"]
+[PlyCount "75"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.05"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nge7 4.O-O g6 5.c3 Bg7 6.d4 exd4 7.cxd4 O-O 8.Nc3 d6
+9.h3 f5 10.exf5 Nxf5 11.Bg5 Bf6 12.Bxf6 Qxf6 13.Nd5 Qg7 14.Rc1 a6 15.Bxc6 bxc6
+16.Rxc6 Ra7 17.Qc2 Nxd4 18.Nxd4 Qxd4 19.Ne7+ Kh8 20.Rd1 Qf6 21.Nxc8 Rxc8 22.
+Rcxd6 cxd6 23.Qxc8+ Kg7 24.Qb8 Rd7 25.Qb6 d5 26.Qd4 Qxd4 27.Rxd4 Kf6 28.Ra4
+Rd6 29.Kf1 Rc6 30.Ke1 Ke5 31.Kd2 g5 32.h4 h6 33.f3 Rg6 34.hxg5 hxg5 35.Kd3 Rb6
+36.b3 Rf6 37.Rg4 Rf5 38.a3 1-0
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.05"]
+[Round "1.2"]
+[White "Sousa, Emanuel"]
+[Black "Damaso, Rui"]
+[Result "0-1"]
+[ECO "A29"]
+[WhiteElo "1899"]
+[BlackElo "2437"]
+[PlyCount "58"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.05"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 Nd4 5.Bg2 Nxf3+ 6.Bxf3 Bb4 7.Nd5 Nxd5 8.cxd5
+O-O 9.O-O d6 10.d3 Bc5 11.Bd2 a5 12.Rc1 f5 13.e3 Bb6 14.Rc4 Bd7 15.Qb1 Bb5 16.
+Rh4 Qf6 17.Be2 g5 18.Rh3 Rae8 19.b4 a4 20.Bc3 Bd7 21.Rh5 Re7 22.Ba1 Be8 23.Rh3
+Bf7 24.e4 Bg6 25.Kg2 Ref7 26.f4 Qe7 27.fxe5 fxe4 28.Rxf7 Qxf7 29.Bg4 Qf2+ 0-1
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.05"]
+[Round "1.3"]
+[White "Padeiro, Jose"]
+[Black "Felix, Joao"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "2210"]
+[BlackElo "1890"]
+[PlyCount "21"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.05"]
+
+1.e4 Nc6 2.d4 d5 3.Nc3 dxe4 4.d5 Ne5 5.Bf4 Ng6 6.Bg3 f5 7.Nh3 e5 8.dxe6 Bxe6
+9.Nb5 Bb4+ 10.c3 Ba5 11.Qa4 1-0
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.05"]
+[Round "1.4"]
+[White "Almeida, Jorge"]
+[Black "Ferreira, Paulo"]
+[Result "0-1"]
+[ECO "E61"]
+[WhiteElo "1905"]
+[BlackElo "2110"]
+[PlyCount "46"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.05"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d6 4.Bg5 Bg7 5.e3 O-O 6.Nf3 Nbd7 7.Be2 c5 8.d5 a6 9.a4
+Qa5 10.O-O Re8 11.Qc2 h6 12.Bh4 Nb6 13.h3 e6 14.e4 exd5 15.exd5 Qb4 16.b3 Bf5
+17.Bd3 Bxd3 18.Qxd3 Nh5 19.Na2 Qa3 20.Nc3 Qxb3 21.Rab1 Qxc4 22.Qxc4 Nxc4 23.
+Na2 b5 0-1
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.05"]
+[Round "1.5"]
+[White "Viela, Marco"]
+[Black "Martins, Fernando"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "2101"]
+[BlackElo "1894"]
+[PlyCount "59"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.05"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nge7 5.Bc4 g6 6.O-O Bg7 7.c3 O-O 8.Bg5 h6
+9.Bh4 d6 10.Na3 a6 11.Nac2 Na5 12.Be2 c5 13.Nb3 Nac6 14.Ne3 Qc7 15.Bg3 b6 16.
+Bxd6 Qa7 17.Qc2 Be6 18.Nd5 Rfd8 19.Nxe7+ Nxe7 20.Rad1 Nc6 21.f4 c4 22.Nc1 b5+
+23.Kh1 f5 24.Bf3 Rac8 25.Ne2 a5 26.Ng3 b4 27.exf5 gxf5 28.Nxf5 bxc3 29.Nxg7
+Qxg7 30.Qxc3 1-0
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.05"]
+[Round "1.6"]
+[White "Rodrigues, Antonio"]
+[Black "Martins, Hugo"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteElo "1849"]
+[BlackElo "2093"]
+[PlyCount "112"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.05"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 Nc6 6.c3 d5 7.exd5 Qxd5 8.O-O Nxd4
+9.cxd4 Bd7 10.Be2 Bc6 11.Bf3 Qd6 12.Nc3 h6 13.Be3 Be7 14.Qe2 O-O 15.Rac1 a6
+16.Rfd1 Rac8 17.a3 b5 18.b4 Rfd8 19.d5 Bxd5 20.Bxd5 exd5 21.Bc5 Rxc5 22.bxc5
+Qe6 23.Qxe6 fxe6 24.c6 Bxa3 25.Rc2 Rc8 26.Nb1 Bd6 27.Nd2 Ne8 28.c7 Rxc7 29.
+Rxc7 Nxc7 30.Rc1 Kf7 31.Nb3 Ke7 32.Na5 Kd7 33.Nc6 Na8 34.Nd4 Nc7 35.Re1 Bc5
+36.Nb3 Bb6 37.Rc1 a5 38.Nc5+ Ke7 39.Nd3 Kd6 40.h4 a4 41.Nb4 Bc5 42.Nd3 Ba3 43.
+Rb1 Bc5 44.g4 a3 45.Nc1 b4 46.Kf1 Nb5 47.f4 Nc3 48.Ra1 Be3 49.Nd3 Bc5 50.g5 b3
+51.Nxc5 Kxc5 52.Rxa3 b2 53.Rxc3+ Kb4 54.Rc7 b1=Q+ 55.Kg2 Qf5 56.Rxg7 Qg4+ 0-1
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.05"]
+[Round "1.7"]
+[White "Pinheiro, Albano"]
+[Black "Leite, Samuel"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2079"]
+[BlackElo "1802"]
+[PlyCount "61"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.05"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5 9.
+Nd5 Be7 10.Bxf6 Bxf6 11.c3 Be6 12.Nxf6+ gxf6 13.Nc2 d5 14.exd5 Qxd5 15.Qxd5
+Bxd5 16.Ne3 Be6 17.Bd3 Ne7 18.a4 O-O 19.axb5 axb5 20.O-O b4 21.cxb4 Rab8 22.b5
+Rfd8 23.Rfd1 Bb3 24.Bc2 Rxd1+ 25.Bxd1 Bxd1 26.Rxd1 Rxb5 27.Rd7 Kf8 28.Rd8+ Kg7
+29.Re8 Rb7 30.g4 f5 31.Rxe7 1-0
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.05"]
+[Round "1.8"]
+[White "Furtado, Dinis"]
+[Black "Ribeiro, Duarte"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "1719"]
+[BlackElo "2057"]
+[PlyCount "24"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.05"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.Be3 Be7 7.c3 Nf6 8.f3 Be6 9.
+N5a3 d5 10.exd5 Nxd5 11.Bf2 O-O 12.Be2 Bh4 {telemovel} 1-0
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.05"]
+[Round "1.9"]
+[White "Baptista, Ana"]
+[Black "Almeida, Augusto"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2054"]
+[BlackElo "1691"]
+[PlyCount "67"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.05"]
+
+1.e4 e6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nf6 5.Bd3 Bd7 6.Nf3 Bc6 7.Qe2 Nbd7 8.O-O h6
+9.Bf4 Nxe4 10.Bxe4 Bxe4 11.Qxe4 c6 12.c3 Nf6 13.Qe2 Be7 14.Rfe1 Qb6 15.Ne5 O-O
+16.b4 Nd5 17.Bd2 Qc7 18.Qg4 Kh7 19.Qh3 Bd6 20.Re4 f5 21.Ree1 Nf6 22.Nf3 Ne4
+23.Rxe4 fxe4 24.Ng5+ Kh8 25.Nxe6 Qf7 26.Nxf8 Rxf8 27.Be3 a6 28.Qg4 Qd5 29.Qe2
+b5 30.Re1 Re8 31.Bc1 Bb8 32.a3 Qd6 33.Qh5 Qe6 34.f3 1-0
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.05"]
+[Round "1.10"]
+[White "Machado, Luis"]
+[Black "Pintor, Ariana"]
+[Result "1-0"]
+[ECO "A05"]
+[WhiteElo "1620"]
+[BlackElo "2042"]
+[PlyCount "147"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.05"]
+
+1.Nf3 Nf6 2.g3 d6 3.Bg2 g6 4.O-O Bg7 5.d3 O-O 6.c4 c6 7.Nc3 Nbd7 8.Qc2 e5 9.b4
+Re8 10.Bb2 Nf8 11.b5 Bd7 12.a4 a5 13.bxa6 Rxa6 14.Ng5 Qc7 15.Ba3 Rea8 16.Qb3
+Ne6 17.Nxe6 Bxe6 18.Rfb1 R6a7 19.e3 Bf5 20.Rd1 Nd7 21.d4 exd4 22.exd4 Ra6 23.
+Be4 Bxe4 24.Nxe4 c5 25.Bb2 Re8 26.Qc2 Rb6 27.Bc3 cxd4 28.Bxd4 Rc6 29.Bxg7 Kxg7
+30.Rac1 f6 31.Kg2 Rc8 32.Qd2 Rxc4 33.Rxc4 Qxc4 34.Nxd6 Qc6+ 35.Qd5 Qxd5+ 36.
+Rxd5 Rb8 37.Rb5 b6 38.Kf3 Kf8 39.Ke3 Ke7 40.Nc4 Ra8 41.Nxb6 Nxb6 42.Rxb6 Rxa4
+43.Rb7+ Ke6 44.Rxh7 Ra3+ 45.Kf4 Ra4+ 46.Kf3 Kf5 47.Re7 g5 48.h3 Ra3+ 49.Re3
+Ra4 50.Rc3 Kg6 51.g4 Rb4 52.Kg3 Ra4 53.Rc5 Ra3+ 54.f3 Ra1 55.h4 gxh4+ 56.Kxh4
+Rh1+ 57.Kg3 Rg1+ 58.Kf4 Re1 59.Rc6 Rb1 60.Rc8 Rb4+ 61.Kg3 Ra4 62.f4 Ra3+ 63.
+Kh4 Ra1 64.f5+ Kh6 65.Rg8 Kh7 66.Rg6 Ra6 67.Kh5 Kh8 68.g5 Ra1 69.Rxf6 Rh1+ 70.
+Kg6 Kg8 71.Rb6 Kf8 72.f6 Ke8 73.f7+ Ke7 74.Rb7+ 1-0
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.05"]
+[Round "1.11"]
+[White "Silva, Firmino"]
+[Black "Pintor, Simao"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2037"]
+[BlackElo "1490"]
+[PlyCount "119"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.05"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.h3 Nf6 5.Bc4 Bf5 6.Nf3 e6 7.O-O c6 8.d3 Bb4 9.
+Bd2 Nbd7 10.a3 Bxc3 11.Bxc3 Qc7 12.Nd4 O-O 13.Nxf5 exf5 14.Qf3 g6 15.g4 fxg4
+16.hxg4 Qd6 17.Rae1 Rfe8 18.Bxf7+ Kxf7 19.g5 Qd5 20.Qf4 Qf5 21.Qxf5 gxf5 22.
+gxf6 Nxf6 23.f3 Nd5 24.Be5 Rg8+ 25.Kf2 Rg6 26.Rh1 h6 27.Rh5 Rag8 28.Rh2 h5 29.
+c4 Nf6 30.d4 h4 31.b4 h3 32.Rxh3 Rg2+ 33.Ke3 Ra2 34.Bxf6 Rxa3+ 35.Kf4 Kxf6 36.
+Rh7 Rd3 37.Rh6+ Rg6 38.Rxg6+ Kxg6 39.Re6+ Kf7 40.Rd6 Ke7 41.Rh6 Rxd4+ 42.Kxf5
+Kd8 43.Rh8+ Kc7 44.Rh7+ Kb6 45.c5+ Ka6 46.Ke5 Rxb4 47.f4 Rc4 48.f5 Rxc5+ 49.
+Ke6 Rc1 50.f6 c5 51.Rh5 c4 52.f7 Rf1 53.Rf5 Rxf5 54.Kxf5 Kb5 55.f8=Q a5 56.Qa3
+a4 57.Ke5 Kc6 58.Kd4 b5 59.Qc5+ Kd7 60.Qxb5+ 1-0
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.05"]
+[Round "1.12"]
+[White "Margarido, Ricardo"]
+[Black "Viela, Andre"]
+[Result "0-1"]
+[ECO "B15"]
+[WhiteElo "1431"]
+[BlackElo "2035"]
+[PlyCount "64"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.05"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Ng3 h5 6.h4 Bg4 7.Be2 Qc7 8.Bg5 Nbd7
+9.c3 e6 10.Bxg4 hxg4 11.N1e2 Bd6 12.Qd2 Nd5 13.Ne4 f6 14.Nxd6+ Qxd6 15.Bf4
+Nxf4 16.Qxf4 Qxf4 17.Nxf4 Kf7 18.h5 Rh6 19.Rh4 Re8 20.O-O-O f5 21.Ng6 Nf6 22.
+Ne5+ Ke7 23.Rdh1 Ne4 24.Rf1 Reh8 25.g3 g5 26.Rh2 Rxh5 27.Ng6+ Kf6 28.Rxh5 Rxh5
+29.Ne5 Rh2 30.Nd3 Ke7 31.Kd1 Kd6 32.Ke2 Nxg3+ 0-1
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.05"]
+[Round "1.13"]
+[White "Rodrigues, Pedro"]
+[Black "Wanderley, Rodrigo"]
+[Result "0-1"]
+[ECO "A25"]
+[WhiteElo "2001"]
+[BlackElo "1430"]
+[PlyCount "120"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.05"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 Nc6 4.Bg2 Bb4 5.Nd5 Bc5 6.e3 d6 7.a3 a5 8.b3 O-O 9.Qc2
+Be6 10.Ne2 Qc8 11.Nxf6+ gxf6 12.Bb2 Ne7 13.d4 Ba7 14.O-O Kg7 15.f4 h5 16.h4
+Rg8 17.fxe5 fxe5 18.Qe4 Ng6 19.dxe5 dxe5 20.Bxe5+ Kh7 21.Nd4 c5 22.Ne2 f5 23.
+Qf3 Nxe5 24.Qxh5+ Kg7 25.e4 Qe8 26.Qg5+ Qg6 27.exf5 Qxg5 28.hxg5 Bd7 29.Be4
+Bc6 30.Nc3 Kf7 31.g6+ Kf6 32.Bxc6 bxc6 33.Ne4+ Kg7 34.Ng5 Rab8 35.Rae1 Rxb3
+36.Rxe5 Rxg3+ 37.Kf2 Rxg5 38.Re7+ Kf6 39.Re6+ Kxf5 40.Rxc6 R8xg6 41.Ke1+ Ke4
+42.Rc7 Bb8 43.Rcf7 Kd4 44.Rb7 Bg3+ 45.Kd2 Kxc4 46.Rf3 Be5 47.Rf2 Bc3+ 48.Kc2
+Rg2 49.Rf7 Be1 50.Rf4+ Kb5 51.a4+ Kc6 52.Rxg2 Rxg2+ 53.Kd3 Rd2+ 54.Ke3 Rb2 55.
+Rf6+ Kd5 56.Rf5+ Kc4 57.Rf1 Rb7 58.Rf4+ Kb3 59.Ke2 Bb4 60.Kd3 c4+ 0-1
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.05"]
+[Round "1.14"]
+[White "Ferreira, Ana Margarida"]
+[Black "Barbosa, Fabio"]
+[Result "0-1"]
+[ECO "D94"]
+[WhiteElo "1408"]
+[BlackElo "1995"]
+[PlyCount "106"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.05"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.Nc3 d5 5.e3 c6 6.Bd3 O-O 7.O-O Nbd7 8.b3 a6 9.Bb2
+b5 10.cxd5 cxd5 11.Rc1 Bb7 12.Qe2 Ne4 13.Nd2 f5 14.Bxe4 dxe4 15.f3 exf3 16.
+Nxf3 Qb6 17.Rfd1 e6 18.Rd2 Rac8 19.Rdc2 Rfe8 20.Nd1 Qd6 21.Rxc8 Rxc8 22.Rxc8+
+Bxc8 23.Kf2 Bb7 24.h3 Nf6 25.Nc3 Nh5 26.Ne5 Bxe5 27.dxe5 Qxe5 28.Qd2 Qc7 29.
+Ne2 Be4 30.Qd4 Ng7 31.Nf4 e5 32.Qxe5 Qxe5 33.Bxe5 g5 34.Bxg7 Kxg7 35.Ne2 Kf6
+36.b4 Ke5 37.Nc3 f4 38.a4 bxa4 39.Nxa4 fxe3+ 40.Kxe3 Bxg2 41.Nc5 Bf1 42.Kf2
+Bb5 43.Kg3 Kd4 44.Kg4 Kc3 45.Kxg5 Kxb4 46.Nxa6+ Bxa6 47.Kh6 Bd3 48.h4 Kc4 49.
+Kg5 Kd4 50.h5 Ke5 51.Kh6 Kf4 52.Kg7 Kg5 53.h6 Bg6 0-1
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.05"]
+[Round "1.15"]
+[White "Wanderley, Rafaell"]
+[Black "Mateus, Francisco"]
+[Result "1-0"]
+[ECO "C65"]
+[WhiteElo "1993"]
+[BlackElo "1378"]
+[PlyCount "93"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.05"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Bc5 5.d3 h6 6.Bxc6 dxc6 7.Nxe5 Qd6 8.Bf4 Qd4
+9.c3 Qd8 10.d4 Bd6 11.Re1 O-O 12.Nd2 Ng4 13.Ndf3 Qf6 14.Bg3 Rd8 15.Nxg4 Bxg4
+16.e5 Bxe5 17.Bxe5 Qg6 18.Bg3 Rf8 19.Ne5 Bxd1 20.Nxg6 fxg6 21.Raxd1 Rf7 22.Re6
+Kh7 23.Rde1 Rd7 24.Re7 Rxe7 25.Rxe7 c5 26.d5 Rd8 27.c4 b5 28.Be5 Rg8 29.b3
+bxc4 30.bxc4 Rb8 31.Rxg7+ Kh8 32.Rxc7+ Kg8 33.f4 Rb1+ 34.Kf2 Rc1 35.d6 Rc2+
+36.Kf3 Rd2 37.d7 Rd3+ 38.Ke2 Rxd7 39.Rxd7 a5 40.Ke3 Kf8 41.Ke4 Ke8 42.Rg7 Kd8
+43.Kd5 Ke8 44.Ke6 Kf8 45.Re7 Kg8 46.Re8+ Kh7 47.Rh8# 1-0
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.05"]
+[Round "1.16"]
+[White "Ferreira, Susana"]
+[Black "Vasquez, Maria"]
+[Result "0-1"]
+[ECO "A41"]
+[WhiteElo "1351"]
+[BlackElo "1991"]
+[PlyCount "66"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.05"]
+
+1.d4 d6 2.Bf4 Nf6 3.c4 c6 4.Nc3 g6 5.Nf3 Bg7 6.e3 Nbd7 7.Be2 O-O 8.O-O Re8 9.
+h3 Nh5 10.Bh2 e5 11.dxe5 dxe5 12.Ne1 Nhf6 13.Nf3 Qe7 14.Qc2 b6 15.e4 Nh5 16.
+Qd2 Nc5 17.Rfd1 Nf4 18.Bxf4 exf4 19.Qxf4 Bxc3 20.bxc3 Qxe4 21.Qxe4 Nxe4 22.
+Rdc1 Nxc3 23.Rxc3 Rxe2 24.Kf1 Re4 25.Rd1 Ba6 26.Rdc1 Rae8 27.Nd2 Re2 28.Rd1
+Bc8 29.a4 Bf5 30.f3 R2e3 31.Rxe3 Rxe3 32.Ra1 Bd3+ 33.Kg1 Re2 0-1
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.05"]
+[Round "1.17"]
+[White "Gomes, Estevao"]
+[Black "Costa, Catarina"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "1980"]
+[BlackElo "1277"]
+[PlyCount "75"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.05"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.g4 Bg6 5.h4 h6 6.Ne2 e6 7.Nf4 Bh7 8.Bd3 Bxd3 9.Nxd3
+Nd7 10.c3 Qc7 11.f4 Ne7 12.Qf3 g6 13.h5 Bg7 14.Be3 b6 15.Na3 a6 16.Nc2 c5 17.
+O-O-O cxd4 18.Nxd4 Rd8 19.Kb1 Nc5 20.hxg6 Nxg6 21.f5 Nxe5 22.Nxe5 Bxe5 23.Bxh6
+Kd7 24.fxe6+ fxe6 25.Bg5 Rdf8 26.Rxh8 Rxh8 27.Bf6 Bxf6 28.Qxf6 Rh2 29.g5 Rg2
+30.Nxe6 Qd6 31.Nxc5+ bxc5 32.Qf5+ Kc6 33.c4 Qd8 34.cxd5+ Kc7 35.d6+ Kb6 36.Qf6
+Qd7 37.g6 Rg4 38.Qf7 1-0
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.05"]
+[Round "1.19"]
+[White "Castro, Francisco"]
+[Black "Tavares, Tiago"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "1956"]
+[PlyCount "47"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.05"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 dxc3 5.Bc4 Be7 6.Qd5 Nh6 7.Bxh6 O-O 8.Nxc3
+gxh6 9.Qh5 Kg7 10.h4 d6 11.g4 Be6 12.Nd5 Bxd5 13.Bxd5 Nb4 14.O-O-O Nxd5 15.
+Rxd5 Qd7 16.Nd4 Rg8 17.Nf5+ Kf8 18.Nxh6 Qc6+ 19.Kd2 Rg6 20.f4 f6 21.Nf5 Rg8
+22.Qh6+ Kf7 23.Qxh7+ Kf8 24.Qxe7# 1-0
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.06"]
+[Round "2.1"]
+[White "Viela, Andre"]
+[Black "Galego, Luis"]
+[Result "0-1"]
+[ECO "B80"]
+[WhiteElo "2035"]
+[BlackElo "2489"]
+[PlyCount "59"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bd3 a6 7.O-O Be7 8.Re1 O-O 9.
+Be3 Nc6 10.Bf1 Re8 11.g3 Bd7 12.Bg2 Ne5 13.Nf3 Neg4 14.h3 Nxe3 15.Rxe3 e5 16.
+a4 Rc8 17.Nd2 Be6 18.Nd5 Nxd5 19.exd5 Bf5 20.Ne4 Bg6 21.Rc3 Rxc3 22.Nxc3 Qb6
+23.Rb1 Rc8 24.Ne4 Rc4 25.Nc3 h6 26.Bf1 Rd4 27.Qe2 Bg5 28.h4 Rd2 29.hxg5 Rxe2
+30.Bxe2 0-1
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.06"]
+[Round "2.2"]
+[White "Damaso, Rui"]
+[Black "Wanderley, Rafaell"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2437"]
+[BlackElo "1993"]
+[PlyCount "50"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be7 8.Qd2 O-O 9.
+f3 Be6 10.O-O-O Nbd7 11.g4 b5 12.g5 Nh5 13.Rg1 Nb6 14.Qf2 Nc4 15.Bxc4 bxc4 16.
+Nc5 Qa5 17.N5a4 Qc7 18.Nb6 Rab8 19.Ncd5 Qb7 20.Nxc4 Bxd5 21.Rxd5 Rfc8 22.Qe2
+Qb4 23.b3 Qc3 24.Qd3 Qa1+ 25.Kd2 Qxa2 1-0
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.06"]
+[Round "2.3"]
+[White "Barbosa, Fabio"]
+[Black "Padeiro, Jose"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[WhiteElo "1995"]
+[BlackElo "2210"]
+[PlyCount "82"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.Ne2 Bg4 7.Bf4 e6 8.O-O Be7 9.
+Nd2 O-O 10.Qb3 Na5 11.Qc2 Bh5 12.Bg3 Bg6 13.Bxg6 hxg6 14.Nf4 Rc8 15.Rfe1 b5
+16.a3 Nc4 17.f3 Nd6 18.Nd3 Nf5 19.Bf2 g5 20.Nf1 g4 21.fxg4 Nxg4 22.Qe2 Nf6 23.
+Nd2 g6 24.Ne5 Kg7 25.Rf1 Rh8 26.Rae1 Nd6 27.Be3 Nfe4 28.Nxe4 dxe4 29.Qg4 g5
+30.Qe2 f6 31.Ng4 f5 32.Ne5 Bf6 33.Qf2 Qe8 34.Qg3 Qh5 35.Nd7 f4 36.Rxf4 Nf5 37.
+Rxf5 exf5 38.Nxf6 Kxf6 39.Qd6+ Kg7 40.d5 Rhe8 41.Bd4+ Kg8 1/2-1/2
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.06"]
+[Round "2.4"]
+[White "Ferreira, Paulo"]
+[Black "Gomes, Estevao"]
+[Result "1-0"]
+[ECO "E70"]
+[WhiteElo "2110"]
+[BlackElo "1980"]
+[PlyCount "121"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 O-O 5.Nge2 d6 6.Ng3 Nbd7 7.Be2 e5 8.d5 Ne8 9.
+Qc2 a5 10.f3 Nc5 11.Be3 b6 12.Qd2 f5 13.exf5 gxf5 14.Bg5 Qd7 15.Nh5 Qf7 16.
+Nxg7 Nxg7 17.O-O-O Bd7 18.f4 e4 19.h4 h5 20.Qd4 Kh7 21.b3 Rae8 22.Rh3 Ra8 23.
+Kb2 Nb7 24.Rhh1 Rae8 25.Qe3 Qg6 26.Ra1 Qf7 27.Nb1 a4 28.b4 Ra8 29.a3 Ra7 30.
+Nd2 Rfa8 31.Nf1 Re8 32.Ng3 Qg6 33.Rac1 Raa8 34.Rc3 Qf7 35.Qd4 Rf8 36.Qd1 Be8
+37.Rh3 Qg6 38.Nf1 Qf7 39.Qd4 Bd7 40.Ne3 Rae8 41.Nc2 Ra8 42.Rcg3 Rac8 43.Ne3
+Ra8 44.Nd1 Rac8 45.Nc3 Ra8 46.Bd1 Be8 47.Bc2 Bd7 48.Qd1 Ra7 49.Ka2 Rfa8 50.Qd4
+Rf8 51.Rh1 Ra6 52.Rc1 Ra7 53.Bd1 Be8 54.Nb5 Bxb5 55.cxb5 Ne8 56.Be2 Rg8 57.
+Rgc3 Rg6 58.Bxh5 Qg7 59.Bxg6+ Qxg6 60.Rxc7+ Kg8 61.h5 1-0
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.06"]
+[Round "2.5"]
+[White "Vasquez, Maria"]
+[Black "Viela, Marco"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "1991"]
+[BlackElo "2101"]
+[PlyCount "124"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Nxd5 4.Nf3 Bg4 5.Be2 e6 6.O-O c5 7.c3 Nc6 8.Ne5 Bxe2
+9.Qxe2 cxd4 10.Nxc6 bxc6 11.cxd4 Qb6 12.Rd1 Be7 13.b3 O-O 14.Bb2 a5 15.Nc3
+Nxc3 16.Bxc3 a4 17.Rab1 axb3 18.Rxb3 Qa6 19.Rd2 Bf6 20.Qxa6 Rxa6 21.Kf1 Rfa8
+22.Rdb2 g6 23.Rb8+ Rxb8 24.Rxb8+ Kg7 25.Rc8 Rxa2 26.Rxc6 Ra4 27.Rd6 Rc4 28.Bb2
+g5 29.g3 Kg6 30.Kg2 g4 31.Rd7 h5 32.Ba1 h4 33.gxh4 Rc1 34.Ra7 Bxh4 35.d5 exd5
+36.Bd4 Rd1 37.Ra4 Kf5 38.Be3 Bg5 39.Bc5 Bf4 40.Ra7 f6 41.Ra4 Be5 42.h4 gxh3+
+43.Kxh3 d4 44.Kg2 Ke4 45.Bf8 Rc1 46.Bh6 Rc2 47.Bg7 f5 48.Bxe5 Kxe5 49.Kf3 Rc5
+50.Ke2 Rd5 51.Ra3 Ke4 52.Rd3 Rb5 53.Rd2 Rb3 54.f3+ Kd5 55.Kf2 Kc4 56.Ke2 f4
+57.Rc2+ Rc3 58.Rd2 d3+ 59.Kd1 Ra3 60.Ke1 Kc3 61.Rd1 Ra2 62.Rc1+ Kd4 0-1
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.06"]
+[Round "2.6"]
+[White "Martins, Hugo"]
+[Black "Castro, Francisco"]
+[Result "1-0"]
+[ECO "C05"]
+[WhiteElo "2093"]
+[BlackElo "1956"]
+[PlyCount "42"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.f4 c5 6.c3 Nc6 7.Ndf3 Qb6 8.g3 cxd4 9.
+cxd4 Bb4+ 10.Kf2 f6 11.Be3 O-O 12.Bh3 Re8 13.Ne2 fxe5 14.fxe5 Na5 15.Nf4 Nc4
+16.a3 Bf8 17.b3 Nxe3 18.Kxe3 h6 19.Qd3 Nb8 20.b4 Qc7 21.Rac1 Qf7 1-0
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.06"]
+[Round "2.7"]
+[White "Pereira, Antonio Caramez"]
+[Black "Pinheiro, Albano"]
+[Result "0-1"]
+[ECO "A21"]
+[WhiteElo "1960"]
+[BlackElo "2079"]
+[PlyCount "84"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.c4 e5 2.Nc3 d6 3.g3 f5 4.d3 Nf6 5.Bg2 Be7 6.e3 O-O 7.Nge2 c6 8.O-O Qe8 9.f4
+Nbd7 10.b3 Qh5 11.fxe5 dxe5 12.d4 Ng4 13.h3 Nh6 14.d5 cxd5 15.Nxd5 Bd6 16.Nec3
+Qg6 17.Nb5 a6 18.Nxd6 Qxd6 19.a4 Nc5 20.Ba3 a5 21.Qc2 e4 22.Rad1 b6 23.Nf4 Qc7
+24.Bxc5 Qxc5 25.Qc3 g5 26.Ne2 Be6 27.Rd4 Nf7 28.Rfd1 Rae8 29.h4 h6 30.hxg5
+hxg5 31.Kf2 Ne5 32.Rh1 Kg7 33.Ke1 Rh8 34.Nf4 Rxh1+ 35.Bxh1 Bf7 36.Nd5 Kg6 37.
+Qc2 Rh8 38.Bg2 Rh2 39.Rxe4 Bxd5 40.Rxe5 Qb4+ 41.Kf1 Bxg2+ 42.Kg1 Qe1+ 0-1
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.06"]
+[Round "2.8"]
+[White "Furtado, Dinis"]
+[Black "Baptista, Ana"]
+[Result "0-1"]
+[ECO "A05"]
+[WhiteElo "1719"]
+[BlackElo "2054"]
+[PlyCount "67"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.Nf3 Nf6 2.g3 c5 3.d3 e6 4.e4 d6 5.Bg2 Nc6 6.Nbd2 Be7 7.O-O Bd7 8.Re1 Qc7 9.
+c3 O-O 10.Nf1 Rfc8 11.Bg5 h6 12.Bxf6 Bxf6 13.Ne3 b5 14.Ng4 Be7 15.Rc1 Qa5 16.
+a3 b4 17.cxb4 cxb4 18.a4 Rab8 19.b3 Qb6 20.Ne3 Nd4 21.Nc4 Nxf3+ 22.Qxf3 Qa6
+23.Qe3 Bf6 24.d4 Be7 25.Bf1 Qb7 26.Na5 Qb6 27.Nc4 Qd8 28.d5 a5 29.e5 exd5 30.
+Nxd6 Bxd6 31.exd6 Be6 32.Rc5 Rxc5 33.Qxc5 Rc8 34.Qxa5 0-1
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.06"]
+[Round "2.9"]
+[White "Wanderley, Rodrigo"]
+[Black "Silva, Firmino"]
+[Result "1/2-1/2"]
+[ECO "A71"]
+[WhiteElo "1430"]
+[BlackElo "2037"]
+[PlyCount "92"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Bg5 h6 9.Bf4
+O-O 10.Bd3 b5 11.O-O a6 12.Rc1 Nh5 13.Be3 Bg4 14.h3 Bxf3 15.Qxf3 Nd7 16.Qe2
+Ne5 17.Bb1 Nc4 18.Nd1 Nxe3 19.Nxe3 Qg5 20.b3 Bd4 21.Rce1 Rae8 22.Qg4 Bxe3 23.
+Rxe3 Qxg4 24.hxg4 Nf6 25.f3 Nxd5 26.Rd3 Nf4 27.Rxd6 Re6 28.Rfd1 Ne2+ 29.Kf1
+Rxd6 30.Rxd6 Nc3 31.Bd3 Nxa2 32.Rxa6 Nb4 33.Rd6 Nxd3 34.Rxd3 Ra8 35.Rd5 Ra3
+36.Rxc5 Rxb3 37.Kf2 Kf8 38.f4 b4 39.Rb5 Rb1 40.f5 gxf5 41.gxf5 Kg7 42.e5 h5
+43.Rb7 Rb2+ 44.Kg3 Kf8 45.f6 Kg8 46.Rb8+ Kh7 1/2-1/2
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.06"]
+[Round "2.10"]
+[White "Ribeiro, Duarte"]
+[Black "Machado, Luis"]
+[Result "0-1"]
+[ECO "B10"]
+[WhiteElo "2057"]
+[BlackElo "1620"]
+[PlyCount "88"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c6 2.Nf3 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 6.g3 Bg4 7.Be2 Qd5 8.h3
+Bh5 9.d4 Nd7 10.Bf4 Bg7 11.Qd3 Bg6 12.Qd2 Nb6 13.b3 Be4 14.c4 Qf5 15.Nh4 Qd7
+16.f3 Bg6 17.Nxg6 hxg6 18.h4 e5 19.dxe5 fxe5 20.Qxd7+ Nxd7 21.Bg5 Nc5 22.Be3
+Ne6 23.Kf2 c5 24.Rab1 b6 25.Bd3 Rd8 26.Be4 Ke7 27.Bd5 Nd4 28.f4 Rd6 29.fxe5
+Bxe5 30.Bg5+ f6 31.Rhe1 Kd7 32.Bd2 Nf5 33.Bf4 Bxf4 34.gxf4 Rxh4 35.Re4 Ne7 36.
+Rbe1 Nxd5 37.cxd5 Rxd5 38.Re7+ Kc6 39.Kg3 Rhh5 40.Rxa7 g5 41.Ra6 Rd3+ 42.Kg4
+Rh4+ 43.Kf5 Rxf4+ 44.Kg6 Rd6 0-1
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.06"]
+[Round "2.11"]
+[White "Pintor, Ariana"]
+[Black "Margarido, Ricardo"]
+[Result "1-0"]
+[ECO "C68"]
+[WhiteElo "2042"]
+[BlackElo "1431"]
+[PlyCount "79"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.d4 exd4 6.Qxd4 Qxd4 7.Nxd4 Bd7 8.O-O
+O-O-O 9.Be3 Bd6 10.Nc3 Ne7 11.Rad1 h6 12.Nb3 Ng6 13.Bc5 Be6 14.Bxd6 Rxd6 15.
+Nc5 b6 16.Nxe6 Rxe6 17.Rfe1 Rd8 18.Rxd8+ Kxd8 19.f3 Ne5 20.b3 Rg6 21.Kf2 Ke7
+22.Ne2 Re6 23.Ke3 g5 24.Nd4 Rf6 25.Nf5+ Ke6 26.Rd1 Nd7 27.h4 Rg6 28.hxg5 hxg5
+29.Rh1 Nf6 30.g4 Ke5 31.Ne7 Rg7 32.Nxc6+ Kd6 33.Nd4 Kc5 34.Rh6 Rg6 35.Rxg6
+fxg6 36.Ne6+ Kd6 37.Nxg5 Ke7 38.Kd4 Nd7 39.Kd5 Kf6 40.f4 1-0
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.06"]
+[Round "2.12"]
+[White "Almeida, Augusto"]
+[Black "Rodrigues, Pedro"]
+[Result "0-1"]
+[ECO "A85"]
+[WhiteElo "1691"]
+[BlackElo "2001"]
+[PlyCount "56"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 e6 2.c4 f5 3.Nc3 Nf6 4.Bf4 Bb4 5.Bd2 O-O 6.e3 a5 7.a3 Bxc3 8.bxc3 b6 9.
+Rb1 Ne4 10.Nf3 d6 11.a4 Nd7 12.Bd3 Bb7 13.Qc2 Qe8 14.Bc1 Qg6 15.O-O Nxc3 16.
+Ne1 Nxb1 17.Qxb1 Be4 18.Ba3 Rab8 19.Qb5 Rf7 20.f3 Bb7 21.Qb1 c5 22.Kh1 e5 23.
+d5 e4 24.Bc2 Ba6 25.Bb3 Ne5 26.Bb2 Nxc4 27.Bxc4 Bxc4 28.Rf2 b5 0-1
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.06"]
+[Round "2.13"]
+[White "Oliveira, Eduardo"]
+[Black "Ferreira, Ana Margarida"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[WhiteElo "1923"]
+[BlackElo "1408"]
+[PlyCount "52"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Bd6 5.c3 c6 6.Be3 Be6 7.Qc2 Nf6 8.h3 h6 9.
+Ne2 O-O 10.Nd2 Qc7 11.Nf3 Re8 12.O-O-O a5 13.g4 Nfd7 14.a4 c5 15.Bb5 c4 16.
+Rdg1 Nc6 17.g5 h5 18.g6 f6 19.Ng3 Na7 20.Nxh5 Nxb5 21.axb5 a4 22.Kd2 a3 23.Ra1
+axb2 24.Qxb2 Bf5 25.Nh4 Bd3 26.Rhg1 Nf8 1/2-1/2
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.06"]
+[Round "2.14"]
+[White "Pintor, Simao"]
+[Black "Sousa, Emanuel"]
+[Result "0-1"]
+[ECO "A31"]
+[WhiteElo "1490"]
+[BlackElo "1899"]
+[PlyCount "72"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 Nf6 2.Nf3 c5 3.c4 cxd4 4.Nxd4 Nc6 5.g3 e6 6.Bg2 Bc5 7.Be3 Bb4+ 8.Bd2 Bc5
+9.Nxc6 bxc6 10.O-O O-O 11.Nc3 d5 12.cxd5 cxd5 13.e4 dxe4 14.Nxe4 Nxe4 15.Bxe4
+Rb8 16.Qc2 Qe7 17.Bxh7+ Kh8 18.Be4 Ba6 19.Rfd1 Rfc8 20.Bc3 Bb4 21.Qa4 Bxc3 22.
+bxc3 Bb5 23.Qb4 Qf6 24.Qd4 Rxc3 25.Qxa7 Rbc8 26.Rab1 R3c7 27.Qb6 Bd7 28.Bb7
+Bc6 29.Bxc8 Qf3 30.Kf1 Qg2+ 31.Ke1 Qh1+ 32.Kd2 Qd5+ 33.Kc2 Ba4+ 34.Kb2 Rc2+
+35.Ka3 Qxa2+ 36.Kb4 Rc4+ 0-1
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.06"]
+[Round "2.15"]
+[White "Felix, Joao"]
+[Black "Ferreira, Susana"]
+[Result "1-0"]
+[ECO "C64"]
+[WhiteElo "1890"]
+[BlackElo "1351"]
+[PlyCount "99"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.O-O d6 5.h3 Nf6 6.d3 O-O 7.Bg5 Bd7 8.Nc3 a6 9.
+Ba4 Be6 10.Bb3 h6 11.Bh4 Nd4 12.Nxd4 Bxd4 13.Kh1 Bxb3 14.axb3 Bxc3 15.bxc3 Re8
+16.Qd2 c6 17.f4 exf4 18.Qxf4 Re6 19.Rf3 g5 20.Bxg5 hxg5 21.Qxg5+ Kh8 22.Raf1
+Nh7 23.Qxd8+ Rxd8 24.Rxf7 Rb8 25.R1f5 Rh6 26.Rd7 Nf8 27.Rc7 Rh7 28.Rxh7+ Kxh7
+29.g4 Kg6 30.Kg2 Ne6 31.e5 dxe5 32.Rxe5 Re8 33.Kg3 Ng7 34.Rxe8 Nxe8 35.Kf4 Nf6
+36.c4 Nh7 37.h4 Kf6 38.d4 Nf8 39.g5+ Kg6 40.Kg4 Ne6 41.h5+ Kg7 42.c3 Nf8 43.
+Kf5 Kf7 44.d5 cxd5 45.cxd5 a5 46.c4 b6 47.g6+ Kg7 48.Kg5 Kh8 49.h6 Kg8 50.Kf6
+1-0
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.06"]
+[Round "2.16"]
+[White "Mateus, Francisco"]
+[Black "Almeida, Jorge"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "1378"]
+[BlackElo "1905"]
+[PlyCount "92"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 e6 2.d4 d5 3.exd5 Qxd5 4.Nc3 Qd8 5.Nf3 Nf6 6.Bg5 Nbd7 7.Bc4 Be7 8.O-O O-O
+9.Re1 h6 10.Bf4 Nb6 11.Bb3 Nbd5 12.Nxd5 Nxd5 13.Bg3 c6 14.c4 Nf6 15.Qd3 Re8
+16.Bc2 c5 17.a3 cxd4 18.Nxd4 Bc5 19.Rad1 Qxd4 20.Qxd4 Bxd4 21.Rxd4 b6 22.Ba4
+Rf8 23.Bd6 Rd8 24.Be5 Rxd4 25.Bxd4 Ba6 26.Bxf6 gxf6 27.b3 Rd8 28.h3 Kf8 29.f3
+Rd2 30.Ra1 Ke7 31.Kh2 Kd6 32.Kg3 f5 33.f4 f6 34.Kf3 e5 35.g3 e4+ 36.Ke3 Rd3+
+37.Kf2 Kc5 38.Ke2 Kd4 39.Bd7 Rxb3 40.Bxf5 Bxc4+ 41.Kf2 e3+ 42.Ke1 e2 43.Ra2
+Rxg3 44.Rd2+ Ke3 45.Rd3+ Bxd3 46.Bxd3 Rg1# 0-1
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.06"]
+[Round "2.18"]
+[White "Costa, Catarina"]
+[Black "Rodrigues, Antonio"]
+[Result "0-1"]
+[ECO "B05"]
+[WhiteElo "1277"]
+[BlackElo "1849"]
+[PlyCount "52"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Bg4 5.h3 Bh5 6.Be2 Nc6 7.g4 Bg6 8.Bd2 e6 9.Nc3
+dxe5 10.dxe5 Ncb4 11.Bb5+ c6 12.Ba4 Qb6 13.a3 Nxc3 14.Bxc3 Nd5 15.Qd2 Nxc3 16.
+Qxc3 Be4 17.Bb3 Bc5 18.Rh2 Rd8 19.Ke2 Bxf3+ 20.Qxf3 Bd4 21.Qf4 Bxb2 22.Rb1
+Qb5+ 23.Bc4 Bxe5 24.Bxb5 Bxf4 25.Rhh1 cxb5 26.Rxb5 b6 0-1
+
+[Event "3 Boavista  Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.06"]
+[Round "2.19"]
+[White "Leite, Samuel"]
+[Black "Tavares, Tiago"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "1802"]
+[PlyCount "37"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 e6 6.Bc4 Bb4 7.Bd2 c6 8.O-O c5 9.
+Re1 Nc6 10.d5 Nd4 11.a3 Nxf3+ 12.Qxf3 Bxc3 13.Bxc3 Qb6 14.Bxf6 gxf6 15.Qxf6
+Rg8 16.dxe6 Bxe6 17.Bxe6 Rg6 18.Qxf7+ Kd8 19.Qd7# 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.07"]
+[Round "3.1"]
+[White "Galego, Luis"]
+[Black "Martins, Hugo"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "2489"]
+[BlackElo "2093"]
+[PlyCount "60"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 e6 4.g3 Nge7 5.Bg2 g6 6.d4 cxd4 7.Nxd4 a6 8.Bg5 Bg7 9.
+Nxc6 dxc6 10.Qxd8+ Kxd8 11.O-O-O+ Ke8 12.Na4 f6 13.Nb6 Rb8 14.Be3 Kf7 15.Bc5
+e5 16.Bd6 Be6 17.Bxb8 Rxb8 18.Bf1 Ke8 19.Bc4 Bg4 20.Rd3 Nc8 21.Nxc8 Rxc8 22.f3
+Bd7 23.Rhd1 Rc7 24.Bg8 Bc8 25.Rd8+ Ke7 26.Bxh7 Kf7 27.Bg8+ Ke7 28.Bb3 Bd7 29.
+Rg8 Bh6+ 30.Kb1 Be8 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.07"]
+[Round "3.2"]
+[White "Pinheiro, Albano"]
+[Black "Rui, Damaso"]
+[Result "0-1"]
+[ECO "B57"]
+[WhiteElo "2079"]
+[BlackElo "2437"]
+[PlyCount "52"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 Qb6 7.Nb3 e6 8.O-O a6 9.
+Be3 Qc7 10.a4 b6 11.f4 Be7 12.Qf3 Bb7 13.Bd3 Nb4 14.a5 b5 15.Bb6 Qc8 16.Rae1
+O-O 17.g4 Nd7 18.g5 Nxb6 19.axb6 Bd8 20.Qh5 f5 21.gxf6 Bxb6+ 22.Kh1 Rxf6 23.
+Nd2 Qc7 24.Nf3 Raf8 25.Ne2 Nxd3 26.cxd3 Qc2 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.07"]
+[Round "3.3"]
+[White "Baptista, Ana"]
+[Black "Ferreira, Paulo"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2054"]
+[BlackElo "2110"]
+[PlyCount "66"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O Be6 9.
+Be3 Nbd7 10.Qd2 O-O 11.Rad1 Rc8 12.f3 Qc7 13.Kh1 b5 14.Bd3 Nb6 15.Qf2 Nc4 16.
+Bc1 Qc6 17.Nd2 b4 18.Nd5 Nxd5 19.Nxc4 Nf4 20.Bxf4 Bxc4 21.Bd2 Bxd3 22.cxd3 Qb5
+23.Be3 f5 24.Qd2 d5 25.d4 dxe4 26.fxe4 fxe4 27.Rxf8+ Rxf8 28.Kg1 exd4 29.Bxd4
+Qf5 30.Qe2 a5 31.Re1 Bf6 32.Qxe4 Bxd4+ 33.Qxd4 h6 1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.07"]
+[Round "3.4"]
+[White "Viela, Marco"]
+[Black "Machado, Luis"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[WhiteElo "2101"]
+[BlackElo "1620"]
+[PlyCount "73"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c6 2.d4 d5 3.Nd2 g6 4.c3 Bg7 5.Bd3 Nd7 6.exd5 cxd5 7.Ndf3 Ngf6 8.Ne2 O-O
+9.O-O Nb6 10.h3 Nc4 11.Nf4 Nd6 12.Ne5 Bf5 13.g4 Bxd3 14.Nfxd3 h5 15.f3 hxg4
+16.hxg4 Nd7 17.Qe1 e6 18.Kg2 Nxe5 19.Nxe5 Nc4 20.Nxc4 dxc4 21.Bf4 Qd5 22.Qe3
+f6 23.Bh6 g5 24.Bxg7 Kxg7 25.Rae1 Rae8 26.Qe4 Qxe4 27.fxe4 Kg6 28.e5 f5 29.
+gxf5+ Rxf5 30.Rxf5 exf5 31.Kf3 Kf7 32.Rh1 Rg8 33.Rh6 Rg6 34.Rh7+ Rg7 35.Rh8
+Ke6 36.Re8+ Kd7 37.Rb8 1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.07"]
+[Round "3.5"]
+[White "Padeiro, Jose"]
+[Black "Wanderley, Rodrigo"]
+[Result "1-0"]
+[ECO "B40"]
+[WhiteElo "2210"]
+[BlackElo "1430"]
+[PlyCount "61"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nf3 e6 3.c3 Nc6 4.d4 cxd4 5.cxd4 Nf6 6.Nc3 Bb4 7.e5 Ne4 8.Qc2 d5 9.
+Bd3 Qa5 10.O-O Nxc3 11.bxc3 Bxc3 12.Rb1 Bb4 13.h4 h6 14.h5 O-O 15.Be3 Be7 16.
+Qc1 Nb4 17.Rxb4 Qxb4 18.Bxh6 f5 19.exf6 Rxf6 20.Bg5 Rxf3 21.gxf3 Bd7 22.Bxe7
+Qxe7 23.Qf4 Rf8 24.Qg3 Qf6 25.Kg2 Qxd4 26.h6 Qf6 27.Rh1 g5 28.Rh5 Kh8 29.Rxg5
+Qxh6 30.Rg6 Qh5 31.Rg4 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.07"]
+[Round "3.6"]
+[White "Silva, Firmino"]
+[Black "Barbosa, Fabio"]
+[Result "0-1"]
+[ECO "B89"]
+[WhiteElo "2037"]
+[BlackElo "1995"]
+[PlyCount "66"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 e6 7.Be3 a6 8.Qe2 Qc7 9.
+Bb3 Be7 10.O-O-O Bd7 11.g4 Nxd4 12.Rxd4 Bc6 13.g5 Nd7 14.Rg1 Nc5 15.f4 Nxb3+
+16.axb3 b5 17.f5 e5 18.Rdd1 Bd8 19.Kb1 Qb8 20.Nd5 a5 21.f6 g6 22.Rd2 a4 23.b4
+O-O 24.Rg4 a3 25.b3 a2+ 26.Ka1 Qc8 27.Rd3 Qa6 28.Bc1 Bxd5 29.exd5 Bb6 30.Rh4
+Rfc8 31.Rxh7 Kxh7 32.Qg2 Rxc2 33.Qh3+ Kg8 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.07"]
+[Round "3.7"]
+[White "Sousa, Emanuel"]
+[Black "Pintor, Ariana"]
+[Result "0-1"]
+[ECO "A21"]
+[WhiteElo "1899"]
+[BlackElo "2042"]
+[PlyCount "84"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.c4 e5 2.Nc3 d6 3.g3 g6 4.Bg2 Bg7 5.Nf3 f5 6.e4 c6 7.O-O Nf6 8.d3 O-O 9.Be3
+Nh5 10.exf5 Bxf5 11.Nh4 Be6 12.Qd2 Nd7 13.Bh6 Nf4 14.Bxg7 Kxg7 15.Rae1 Nxg2
+16.Nxg2 Qb6 17.Ne4 d5 18.Ng5 Bg8 19.Qe3 h6 20.Nf3 Qxe3 21.fxe3 dxc4 22.d4 Rae8
+23.Rd1 Bd5 24.dxe5 Nxe5 25.Nxe5 Rxf1+ 26.Kxf1 Rxe5 27.Nf4 Kf6 28.Kf2 g5 29.Ne2
+Rf5+ 30.Ke1 Rf3 31.e4 Bxe4 32.Rd6+ Kg7 33.Nd4 Re3+ 34.Kf2 Rd3 35.Rd7+ Kf6 36.
+Rxb7 c5 37.Rxa7 cxd4 38.Ra6+ Kg7 39.Ra7+ Kg6 40.Ra6+ Kh5 41.h3 Rf3+ 42.Ke2
+Rxg3 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.07"]
+[Round "3.8"]
+[White "Almeida, Jorge"]
+[Black "Viela, Andre"]
+[Result "0-1"]
+[ECO "E61"]
+[WhiteElo "1905"]
+[BlackElo "2035"]
+[PlyCount "60"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Bg5 O-O 5.Nf3 d6 6.e3 Nbd7 7.Be2 c5 8.O-O Re8 9.
+d5 Nb6 10.h3 h6 11.Bh4 Bf5 12.Nd2 g5 13.Bg3 Bg6 14.f4 gxf4 15.exf4 Bf5 16.Bh2
+e6 17.g4 Bh7 18.g5 Nfd7 19.Nde4 Nc8 20.Rc1 Bd4+ 21.Kh1 exd5 22.Nf6+ Nxf6 23.
+gxf6 Qxf6 24.Nxd5 Be4+ 25.Bf3 Bxd5 26.Bxd5 Ne7 27.Rc2 Nxd5 28.cxd5 Qf5 29.Rg2+
+Kh8 30.Qg4 Qxd5 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.07"]
+[Round "3.9"]
+[White "Rodrigues, Pedro"]
+[Black "Felix, Joao"]
+[Result "1/2-1/2"]
+[ECO "A27"]
+[WhiteElo "2001"]
+[BlackElo "1890"]
+[PlyCount "44"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Bc5 4.d3 d6 5.g3 Nge7 6.Bg2 O-O 7.O-O f5 8.Na4 Bb6 9.
+Nxb6 axb6 10.a3 f4 11.b4 Ng6 12.e3 h6 13.exf4 exf4 14.Bb2 Nge5 15.Nxe5 Nxe5
+16.Bd5+ Kh8 17.d4 Ng6 18.Qh5 Qg5 19.Qxg5 hxg5 20.f3 Ne7 21.Be4 Nf5 22.gxf4
+gxf4 1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.07"]
+[Round "3.10"]
+[White "Wanderley, Rafaell"]
+[Black "Leite, Samuel"]
+[Result "1-0"]
+[ECO "B54"]
+[WhiteElo "1993"]
+[BlackElo "1802"]
+[PlyCount "41"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 d6 4.d4 cxd4 5.Nxd4 e5 6.Ndb5 a6 7.Na3 b5 8.Nd5 Nge7
+9.c4 Nxd5 10.Qxd5 b4 11.Qxc6+ Bd7 12.Qd5 bxa3 13.b3 Rc8 14.Qd2 Bc6 15.f3 Be7
+16.Bd3 O-O 17.Bxa3 Bg5 18.Qb4 a5 19.Qxd6 Qxd6 20.Bxd6 Rfd8 21.c5 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.07"]
+[Round "3.11"]
+[White "Martins, Fernando"]
+[Black "Vasquez, Maria"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "1894"]
+[BlackElo "1991"]
+[PlyCount "83"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 c6 4.Be2 Qc7 5.Nf3 Bg4 6.h3 Bh5 7.Bg5 Nbd7 8.O-O e6 9.
+Re1 Bxf3 10.Bxf3 Be7 11.a4 O-O 12.g3 h6 13.Be3 d5 14.Bg2 Bb4 15.e5 Ne8 16.Qg4
+Kh7 17.Bf1 Rg8 18.Bd3+ g6 19.Qf4 Rg7 20.Qxh6+ Kg8 21.h4 c5 22.Qg5 cxd4 23.Bxd4
+a6 24.h5 Nc5 25.Bxc5 Bxc5 26.hxg6 fxg6 27.Ne2 Qb6 28.Rf1 Nc7 29.Nf4 Rf8 30.
+Rab1 Be7 31.Qh6 Qd4 32.Nxg6 Rh7 33.Nxe7+ Rxe7 34.Qe3 Qxe3 35.fxe3 Rxf1+ 36.
+Rxf1 Rg7 37.Kg2 Rg5 38.Rf4 a5 39.b4 b6 40.Kf3 Rxe5 41.Rg4+ Kf7 42.Kf4 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.07"]
+[Round "3.12"]
+[White "Gomes, Estevao"]
+[Black "Furtado, Dinis"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "1980"]
+[BlackElo "1719"]
+[PlyCount "127"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qd6 4.Bc4 Nf6 5.d3 c6 6.Nge2 Bg4 7.h3 Bh5 8.Be3 Nbd7
+9.Qd2 e5 10.O-O-O O-O-O 11.f4 Qc7 12.g4 exf4 13.Bxf4 Ne5 14.gxh5 Bd6 15.Bxe5
+Bxe5 16.Rhf1 b5 17.Bb3 Rhf8 18.Kb1 Nxh5 19.Qg5 g6 20.Qg2 f5 21.a4 b4 22.Na2 a5
+23.Qf3 Nf6 24.Nf4 Bxf4 25.Qxf4 Qxf4 26.Rxf4 Rfe8 27.Rf3 Ne4 28.Kc1 Nf6 29.Rdf1
+Re5 30.Kb1 Rde8 31.Nc1 Kc7 32.c3 c5 33.Kc2 Re3 34.Kd2 R3e7 35.R1f2 Nd7 36.Re2
+Ne5 37.Rf4 Kd6 38.d4 bxc3+ 39.bxc3 cxd4 40.cxd4 Nc6 41.Rxe7 Rxe7 42.Nd3 h6 43.
+d5 Nb8 44.Rc4 g5 45.Rc5 Ra7 46.Rb5 Nd7 47.Ke3 Ra8 48.Kd4 Ra7 49.Nb2 f4 50.Nc4+
+Ke7 51.Rxa5 Rb7 52.Rb5 Ra7 53.Nb6 Ra6 54.Nxd7 Kxd7 55.Rb7+ Kc8 56.Rf7 Rb6 57.
+Kc4 Kd8 58.a5 Rd6 59.Kc5 Ra6 60.Kb5 Rd6 61.a6 Ke8 62.a7 Kxf7 63.a8=Q f3 64.Bc4
+1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.07"]
+[Round "3.13"]
+[White "Rodrigues, Antonio"]
+[Black "Pereira, Antonio Caramez"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "1849"]
+[BlackElo "1960"]
+[PlyCount "101"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Be7 5.Bf4 c6 6.e3 Nbd7 7.Be2 dxc4 8.Bxc4 Nb6
+9.Be2 Bb4 10.O-O Bxc3 11.bxc3 Nbd5 12.Qb3 Nxf4 13.exf4 O-O 14.Ne5 Qc7 15.Bf3
+Bd7 16.a4 Rab8 17.Nd3 Rfd8 18.g3 Be8 19.Nc5 Nd7 20.Qc4 Nxc5 21.Qxc5 b6 22.Qe5
+Qxe5 23.fxe5 Rbc8 24.Rfd1 c5 25.d5 exd5 26.Bxd5 Kf8 27.f4 Bc6 28.Bxc6 Rxd1+
+29.Rxd1 Rxc6 30.c4 Ke7 31.Kf2 Ke6 32.Ke3 f6 33.exf6 gxf6 34.g4 Rc7 35.f5+ Kf7
+36.h4 h6 37.Kf4 Re7 38.Rd8 Kg7 39.g5 hxg5+ 40.hxg5 fxg5+ 41.Kxg5 Kf7 42.Rh8
+Re4 43.Rh7+ Kg8 44.Rh4 Rxh4 45.Kxh4 Kf7 46.Kg5 Kg7 47.f6+ Kf7 48.Kf5 Kf8 49.
+Ke6 Ke8 50.f7+ Kf8 51.Kf6 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.07"]
+[Round "3.14"]
+[White "Castro, Francisco"]
+[Black "Fonseca, Miguel"]
+[Result "1-0"]
+[ECO "B80"]
+[WhiteElo "1956"]
+[BlackElo "1217"]
+[PlyCount "115"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Bg5 Be7 7.Qd2 O-O 8.O-O-O a6
+9.f4 b5 10.Bd3 Bb7 11.Rde1 Nc6 12.Nxc6 Bxc6 13.Kb1 h6 14.h4 Nh7 15.Bxe7 Qxe7
+16.g4 b4 17.Nd1 a5 18.g5 h5 19.Rhg1 g6 20.f5 d5 21.exd5 Bxd5 22.fxg6 fxg6 23.
+Bxg6 Rfd8 24.Qe2 Kg7 25.Bxh5 Qd6 26.Rgf1 Rf8 27.Bf3 Bxf3 28.Rxf3 Rxf3 29.Qxf3
+Rd8 30.Nf2 Qd2 31.Nd3 Rxd3 32.cxd3 Qxe1+ 33.Kc2 Qxh4 34.Qb7+ Kg6 35.Qa6 Nxg5
+36.Qxa5 Qf2+ 37.Kb3 Qd2 38.Qb6 Kf6 39.Qb5 Nf7 40.d4 Ng5 41.Qe8 Qd3+ 42.Ka4 Nf7
+43.Qb5 Qd2 44.Qxb4 Qxb4+ 45.Kxb4 Ke7 46.Kc5 Kd7 47.a4 Nd8 48.a5 Nb7+ 49.Kb6
+Nd6 50.b4 Kc8 51.a6 Kb8 52.Kc6 Ne4 53.b5 Ng5 54.b6 Nf7 55.b7 Nd8+ 56.Kb6 Nxb7
+57.axb7 e5 58.d5 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.07"]
+[Round "3.15"]
+[White "Almeida, Augusto"]
+[Black "Oliveira, Eduardo"]
+[Result "0-1"]
+[ECO "A40"]
+[WhiteElo "1691"]
+[BlackElo "1923"]
+[PlyCount "116"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 e6 2.e4 c5 3.c3 Nc6 4.Nf3 b6 5.d5 Na5 6.d6 f6 7.e5 Bb7 8.exf6 Nxf6 9.Bg5
+Be4 10.Bd3 Bxd3 11.Qxd3 Nb7 12.Bf4 Qb8 13.O-O Bxd6 14.Bxd6 Qxd6 15.Qe2 O-O 16.
+Rd1 Qc7 17.Nbd2 Nd6 18.Nf1 Nf5 19.Rd3 Nd5 20.Rd2 Nf4 21.Qb5 Nd6 22.Qa4 b5 23.
+Qc2 Nc4 24.Rdd1 Qb7 25.Ne3 Nxe3 26.fxe3 Nd5 27.Qe4 Qc7 28.Ng5 Nf6 29.Qd3 c4
+30.Qe2 h6 31.Nf3 Nd5 32.Rd2 Qb6 33.Kh1 Rad8 34.Nd4 Rf7 35.e4 Nf4 36.Qg4 Rdf8
+37.h3 Nd3 38.Kh2 Qc7+ 39.Kg1 Qc5 40.Kh2 Rf4 41.Qg6 Qe5 42.Qg3 Rxe4 43.Qxe5
+Rxe5 44.a4 a6 45.axb5 axb5 46.Ra7 Rd5 47.Rb7 b4 48.Rc7 bxc3 49.bxc3 Nc5 50.Ra2
+Kf7 51.Raa7 Kg6 52.Nc2 Rf2 53.Nd4 Rd2 54.Kg3 Rd3+ 55.Kf4 Rxc3 56.Nxe6 dxe6 57.
+Rxg7+ Kf6 58.Rh7 Rd4# 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.07"]
+[Round "3.16"]
+[White "Ferreira, Ana Margarida"]
+[Black "Pintor, Simao"]
+[Result "0-1"]
+[ECO "D37"]
+[WhiteElo "1408"]
+[BlackElo "1490"]
+[PlyCount "104"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Nc3 Nbd7 5.Bf4 c6 6.e3 Qa5 7.Nd2 Bb4 8.Qc2 O-O 9.
+a3 Bxc3 10.Qxc3 Qxc3 11.bxc3 Nb6 12.cxd5 Nbxd5 13.Bd6 Rd8 14.c4 Rxd6 15.cxd5
+exd5 16.Bd3 Be6 17.O-O Rc8 18.Rfc1 b6 19.Nb3 Nd7 20.Ba6 Rc7 21.Rc3 c5 22.dxc5
+Nxc5 23.Rac1 Nxb3 24.Rxc7 Nxc1 25.Rxc1 g6 26.Rc7 Rd7 27.Rxd7 Bxd7 28.Kf1 Kg7
+29.Ke2 Kf6 30.Kd3 Ke5 31.f3 Bf5+ 32.Kc3 h5 33.Kb4 g5 34.Bb5 g4 35.Be8 gxf3 36.
+gxf3 Be6 37.Kb5 d4 38.exd4+ Kxd4 39.Ka6 Ke3 40.Bc6 Kf2 41.Kxa7 Kg2 42.Kxb6
+Kxh2 43.a4 h4 44.a5 Bc4 45.Kc5 Ba6 46.Kd6 Kg3 47.Ke5 h3 48.f4 h2 49.Kf6 Kxf4
+50.Kxf7 Be2 51.a6 Bxa6 52.Kg6 Be2 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.07"]
+[Round "3.17"]
+[White "Ferreira, Susana"]
+[Black "Ribeiro, Duarte"]
+[Result "0-1"]
+[ECO "D10"]
+[WhiteElo "1351"]
+[BlackElo "2057"]
+[PlyCount "82"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Bf4 Qb6 5.Qd2 Bf5 6.e3 e6 7.a3 Nbd7 8.Nf3 Nh5 9.
+Bg3 Nxg3 10.hxg3 dxc4 11.Bxc4 Nf6 12.Nh4 Be4 13.Nxe4 Nxe4 14.Qc2 Qa5+ 15.Ke2
+Nf6 16.Bd3 Bd6 17.Nf3 h6 18.Qd2 Qxd2+ 19.Kxd2 Ng4 20.Ke2 O-O-O 21.Rac1 g6 22.
+Nh2 Nxh2 23.Rxh2 a5 24.a4 h5 25.Rhh1 Rhe8 26.b3 Ba3 27.Rc2 e5 28.dxe5 Rxe5 29.
+Rd1 Red5 30.Rcd2 Bb4 31.Rc2 R5d6 32.Rcc1 Ba3 33.Rb1 Rf6 34.Bc4 Rh8 35.Rh1 g5
+36.Rbd1 Bd6 37.Rh3 Kd7 38.Rhh1 Ke7 39.Rh3 Bb4 40.Rd3 Rhh6 41.Rh1 Rfg6 {Tempo}
+0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.07"]
+[Round "3.18"]
+[White "Margarido, Ricardo"]
+[Black "Costa, Catarina"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[WhiteElo "1431"]
+[BlackElo "1277"]
+[PlyCount "133"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Bg4 5.h3 Bh5 6.Ng3 Bxf3 7.Qxf3 Nf6 8.Bc4 e6
+9.c3 Be7 10.d4 O-O 11.Bg5 h6 12.Bxf6 Bxf6 13.Nh5 Bg5 14.Qe4 Nd7 15.Bd3 g6 16.
+h4 Be7 17.Qg4 Ne5 18.dxe5 Qxd3 19.Rd1 Qc2 20.Nf6+ Kg7 21.Nh5+ Kh8 22.Nf6 Qxb2
+23.O-O Qxc3 24.Rd7 Bxf6 25.exf6 Qxf6 26.Rxb7 Rfc8 27.Rc1 c5 28.Rd1 Rd8 29.Rc1
+Rdc8 30.Qe4 Kg7 31.Qc4 Rc6 32.Rd1 a6 33.Rdd7 Rd8 34.Qa4 Rxd7 35.Rxd7 e5 36.Qc4
+Qe6 37.Qxe6 Rxe6 38.Rc7 e4 39.Rxc5 Kf6 40.g3 g5 41.hxg5+ hxg5 42.g4 e3 43.fxe3
+Rxe3 44.Rc6+ Re6 45.Rc5 Rb6 46.Ra5 Ke6 47.Rxg5 Rb1+ 48.Kf2 Rb2+ 49.Ke3 Rxa2
+50.Rh5 a5 51.Rh6+ Ke7 52.Ra6 Rg2 53.Rxa5 Rxg4 54.Kf3 Rg8 55.Ra7+ Kf6 56.Ra6+
+Kg5 57.Ra1 Rf8 58.Ra4 f5 59.Ra5 Rc8 60.Ra3 Rc4 61.Re3 f4 62.Rd3 Kg6 63.Ra3 Kf6
+64.Rd3 Kg6 65.Ra3 Kf6 66.Rd3 Ke5 67.Ra3 1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.07"]
+[Round "3.19"]
+[White "Tavares, Tiago"]
+[Black "Mateus, Francisco"]
+[Result "0-1"]
+[ECO "D31"]
+[BlackElo "1378"]
+[PlyCount "56"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.c5 Nbd7 6.Qa4 e5 7.b4 a6 8.Bd3 e4 9.Be2
+Qc7 10.f3 Be7 11.Nh3 h6 12.f4 Nf8 13.Nf2 Ng6 14.O-O Nh4 15.Qd1 g5 16.Ng4 Nxg4
+17.Bxg4 f5 18.Bh5+ Kd8 19.Be2 g4 20.g3 Nf3+ 21.Kg2 h5 22.Rh1 h4 23.h3 hxg3 24.
+Kxg3 Bh4+ 25.Kg2 Qg7 26.Bxf3 gxf3+ 27.Kf1 Rg8 28.Rg1 Qxg1# 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.08"]
+[Round "4.1"]
+[White "Damaso, Rui"]
+[Black "Galego, Luis"]
+[Result "1/2-1/2"]
+[ECO "C92"]
+[WhiteElo "2437"]
+[BlackElo "2489"]
+[PlyCount "22"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3
+Re8 10.Ng5 Rf8 11.Nf3 Re8 1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.08"]
+[Round "4.2"]
+[White "Machado, Luis"]
+[Black "Padeiro, Jose"]
+[Result "1-0"]
+[ECO "D32"]
+[WhiteElo "1620"]
+[BlackElo "2210"]
+[PlyCount "79"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 4.Nf3 Nc6 5.e3 Nf6 6.cxd5 exd5 7.Bd3 Bg4 8.Be2 Bd6 9.
+O-O O-O 10.dxc5 Bxc5 11.a3 a6 12.Qc2 Qe7 13.b4 Ba7 14.Bb2 Rac8 15.Qd2 Rfd8 16.
+Nd4 Nxd4 17.exd4 Bxe2 18.Nxe2 Bb8 19.Rac1 Bxh2+ 20.Kxh2 Ng4+ 21.Kg1 Qh4 22.Qf4
+f5 23.Qg3 Qe7 24.Qf3 Qh4 25.Qg3 Qe7 26.Nf4 Qd7 27.Rfe1 Nf6 28.Qe3 Re8 29.Rxc8
+Qxc8 30.Qc1 Qxc1 31.Rxc1 g5 32.Nd3 Re2 33.Bc3 Ra2 34.Bb2 Ne4 35.Ra1 Rxa1+ 36.
+Bxa1 b6 37.a4 Nd2 38.a5 bxa5 39.bxa5 Nb3 40.Bc3 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.08"]
+[Round "4.3"]
+[White "Ferreira, Paulo"]
+[Black "Viela, Marco"]
+[Result "1-0"]
+[ECO "D34"]
+[WhiteElo "2110"]
+[BlackElo "2101"]
+[PlyCount "113"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 d5 2.c4 e6 3.Nf3 c5 4.cxd5 exd5 5.Nc3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.O-O O-O 9.
+Bg5 cxd4 10.Nxd4 h6 11.Be3 Re8 12.Rc1 Be6 13.f3 Qd7 14.Bf2 Nxd4 15.Bxd4 b6 16.
+Qd3 Rac8 17.Kh1 Bh3 18.Rcd1 Bxg2+ 19.Kxg2 Qe6 20.Rd2 Nh7 21.h4 Bf6 22.Nb5 a6
+23.Bxf6 Nxf6 24.Nd4 Qe3 25.Qxe3 Rxe3 26.Kf2 Re7 27.Rfd1 Rec7 28.Nf5 Kf8 29.Ne3
+Rc5 30.b4 Rc1 31.Nxd5 Nxd5 32.Rxc1 Rxc1 33.Rxd5 Rc2 34.a3 Ra2 35.Rd3 a5 36.
+bxa5 bxa5 37.f4 Ke7 38.Kf3 f5 39.e4 fxe4+ 40.Kxe4 Re2+ 41.Kf5 Re6 42.Rb3 g6+
+43.Kg4 Kf6 44.h5 Ra6 45.hxg6 Kxg6 46.Rb5 a4 47.f5+ Kf6 48.Kh5 Rd6 49.g4 Rd3
+50.Rb6+ Kg7 51.Rg6+ Kf7 52.Kxh6 Rxa3 53.Ra6 Ra1 54.Kg5 a3 55.Ra7+ Ke8 56.Kf6
+a2 57.g5 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.08"]
+[Round "4.4"]
+[White "Barbosa, Fabio"]
+[Black "Baptista, Ana"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "1995"]
+[BlackElo "2054"]
+[PlyCount "85"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Bc4 c6 6.Nf3 Bf5 7.Bd2 e6 8.Nd5 Qd8
+9.Nxf6+ gxf6 10.Bb3 Bd6 11.Qe2 Na6 12.Nh4 Bg6 13.O-O-O Qe7 14.Rhe1 O-O-O 15.
+Nxg6 hxg6 16.h3 Kb8 17.Kb1 Nc7 18.Be3 Nd5 19.Bxd5 cxd5 20.Bd2 Rc8 21.Qf3 Rc6
+22.Bf4 Rhc8 23.Re2 Bxf4 24.Qxf4+ Ka8 25.Qf3 Qd8 26.Rd3 Qc7 27.c3 f5 28.Re1 Ra6
+29.a3 Qb6 30.Ka2 Qb5 31.Qd1 Rcc6 32.Rd2 Rcb6 33.Qc2 Qc4+ 34.b3 Qc7 35.Kb2 Qe7
+36.Ra1 Rc6 37.Qd3 Rc8 38.Qg3 Rac6 39.Rc2 Qf6 40.Rd1 a6 41.Rd3 Qg7 42.f4 Ka7
+43.Rcd2 1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.08"]
+[Round "4.5"]
+[White "Martins, Hugo"]
+[Black "Wanderley, Rafaell"]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "2093"]
+[BlackElo "1993"]
+[PlyCount "68"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e5 7.Nb3 Be6 8.Be3 Be7 9.
+Qd2 O-O 10.O-O-O Nbd7 11.g4 Qc7 12.Qf2 b5 13.g5 Nh5 14.h4 Rab8 15.Bh3 a5 16.
+Bg4 a4 17.Nd2 Rfc8 18.Ndb1 b4 19.Nd5 Bxd5 20.exd5 b3 21.axb3 Rxb3 22.Bxh5 Rxe3
+23.c3 Qb6 24.Rd2 Nc5 25.Kd1 Nd3 26.Qg2 Qb3+ 27.Rc2 Nxb2+ 28.Kc1 Nd3+ 29.Kd2
+Nf4 30.Kxe3 Nxg2+ 31.Rxg2 a3 32.Nd2 Rxc3+ 33.Kf2 Qxd5 34.Kg3 Rc2 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.08"]
+[Round "4.6"]
+[White "Gomes, Estevao"]
+[Black "Pinheiro, Albano"]
+[Result "0-1"]
+[ECO "B32"]
+[WhiteElo "1980"]
+[BlackElo "2079"]
+[PlyCount "106"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.N1c3 a6 7.Na3 b5 8.Nd5 Nge7
+9.Be2 Nxd5 10.Qxd5 Bb7 11.O-O Qc7 12.Qd1 Be7 13.Be3 O-O 14.f3 Rac8 15.c4 b4
+16.Nb1 a5 17.b3 Nd8 18.Nd2 Ne6 19.Bd3 Qd8 20.Rc1 Bg5 21.Bf2 Bh6 22.g3 Qg5 23.
+Nb1 Qxc1 24.Qxc1 Bxc1 25.Rxc1 Nc5 26.Bc2 g6 27.Rd1 Rfd8 28.Nd2 Kf8 29.Nf1 Ke7
+30.Ne3 Ra8 31.Nd5+ Bxd5 32.Rxd5 Rdc8 33.Kf1 Rc7 34.Ke2 h5 35.h4 Ke6 36.Be3 a4
+37.Bxc5 Rxc5 38.bxa4 Rxd5 39.cxd5+ Kd7 40.Bd3 Kc7 41.Bb5 Kb6 42.f4 f6 43.Kd3
+Kc5 44.Bc6 Rg8 45.fxe5 fxe5 46.a5 g5 47.a6 Kb6 48.Bd7 Kxa6 49.Kc4 Ka5 50.Be6
+Rg7 51.g4 hxg4 52.h5 g3 53.Bh3 Rh7 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.08"]
+[Round "4.7"]
+[White "Pintor, Ariana"]
+[Black "Castro, Francisco"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2042"]
+[BlackElo "1956"]
+[PlyCount "67"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 e6 2.d3 d5 3.Nd2 c5 4.Ngf3 b6 5.g3 Bb7 6.Bg2 Nf6 7.e5 Nfd7 8.O-O Qc7 9.
+Re1 Be7 10.c3 Nc6 11.Qe2 O-O-O 12.Nf1 Rdg8 13.d4 g5 14.Be3 Nd8 15.Rec1 c4 16.
+N1d2 g4 17.Ne1 Kb8 18.a4 Nc6 19.b3 Na5 20.bxc4 Ba6 21.Qd1 Bxc4 22.Nxc4 Nxc4
+23.Qb3 Na5 24.Qc2 Bg5 25.Nd3 Nc4 26.Bxg5 Rxg5 27.Nb4 Qc8 28.a5 bxa5 29.Nd3 Kc7
+30.Rcb1 Kd8 31.Nb2 Ndb6 32.Nxc4 Nxc4 33.Rb3 Qa6 34.Rb8+ 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.08"]
+[Round "4.8"]
+[White "Viela, Andre"]
+[Black "Martins, Fernando"]
+[Result "0-1"]
+[ECO "C25"]
+[WhiteElo "2035"]
+[BlackElo "1894"]
+[PlyCount "122"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 e5 2.Nc3 d6 3.Nge2 Nf6 4.d3 Be7 5.g3 O-O 6.Bg2 c6 7.Bg5 b5 8.Bxf6 Bxf6 9.
+Qd2 Nd7 10.O-O Qb6 11.Kh1 Bb7 12.f4 b4 13.Nd1 a5 14.Ne3 Qc7 15.Ng4 Be7 16.f5
+f6 17.Ne3 Nb6 18.g4 d5 19.Qe1 Rad8 20.Qh4 dxe4 21.Bxe4 Nd5 22.Ng2 c5 23.Qh3 h6
+24.Qf3 Ba8 25.Rad1 a4 26.c4 bxc3 27.bxc3 c4 28.d4 Nb6 29.Bxa8 Rxa8 30.dxe5
+fxe5 31.Ne3 Rad8 32.Ng3 Rd3 33.Rxd3 cxd3 34.Nd5 Nxd5 35.Qxd5+ Kh8 36.Qxd3 Bg5
+37.Ne4 Bf4 38.Rd1 Qb7 39.Rb1 Qa8 40.Kg1 Rd8 41.Nd6 Rd7 42.Rd1 e4 43.Nf7+ Rxf7
+44.Qd8+ Rf8 45.Qxa8 Rxa8 46.Kf1 Rc8 47.Rd4 Bxh2 48.Rxe4 a3 49.c4 Kg8 50.Ke2
+Kf8 51.Kd3 Bd6 52.Kd4 Re8 53.Rxe8+ Kxe8 54.c5 Be7 55.Kc4 Kd7 56.Kb4 Kc6 57.
+Kxa3 Kxc5 58.Kb3 Kb5 59.Kc3 Ka4 60.Kd4 Ka3 61.Ke5 Bf6+ 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.08"]
+[Round "4.9"]
+[White "Wanderley, Rodrigo"]
+[Black "Rodrigues, Antonio"]
+[Result "1-0"]
+[ECO "A52"]
+[WhiteElo "1430"]
+[BlackElo "1849"]
+[PlyCount "39"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.Bf4 Nc6 5.Nf3 Qe7 6.Nc3 Ngxe5 7.Nxe5 Nxe5 8.Nd5
+Qe6 9.Qd4 f6 10.c5 Qc6 11.Bxe5 fxe5 12.Qxe5+ Kd8 13.Qg5+ Ke8 14.Rc1 h6 15.Qe5+
+Kd8 16.e4 Bxc5 17.Bb5 Bxf2+ 18.Kxf2 Rf8+ 19.Ke3 Qxb5 20.Qe7# 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.08"]
+[Round "4.10"]
+[White "Felix, Joao"]
+[Black "Silva, Firmino"]
+[Result "0-1"]
+[ECO "A45"]
+[WhiteElo "1890"]
+[BlackElo "2037"]
+[PlyCount "75"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 Nf6 2.Bg5 c5 3.Bxf6 exf6 4.Nf3 Be7 5.e3 O-O 6.c4 d6 7.Nc3 Nc6 8.Be2 Re8
+9.O-O Qa5 10.a3 Bf8 11.Nd5 Qd8 12.b4 b6 13.Rb1 Bf5 14.Bd3 Bg4 15.Be2 Ne7 16.
+Nxe7+ Qxe7 17.d5 Qe4 18.Nd2 Bxe2 19.Qxe2 Qg6 20.b5 a6 21.bxa6 Rxa6 22.Rb3 Qc2
+23.Rfb1 Rea8 24.R3b2 Qf5 25.e4 Qd7 26.Rxb6 Rxb6 27.Rxb6 Rxa3 28.Rb3 Ra2 29.h3
+Qa4 30.Rb8 Qa7 31.Rb1 Rc2 32.Qd3 Qa2 33.Rd1 Qb2 34.Qe3 Rc3 35.Qe2 g6 36.Rb1
+Qa2 37.Qe1 Bh6 38.Nf3 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.08"]
+[Round "4.11"]
+[White "Oliveira, Eduardo"]
+[Black "Rodrigues, Pedro"]
+[Result "0-1"]
+[ECO "B00"]
+[WhiteElo "1923"]
+[BlackElo "2001"]
+[PlyCount "58"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 Nc6 2.d4 d6 3.Bb5 a6 4.Bxc6+ bxc6 5.Nf3 Bg4 6.Nbd2 e6 7.O-O Nf6 8.Re1 Be7
+9.c3 O-O 10.Qc2 Bh5 11.e5 Nd7 12.Qa4 c5 13.exd6 cxd6 14.Re3 Bg6 15.Nc4 cxd4
+16.Nxd4 Nc5 17.Qd1 Qc7 18.Qe2 e5 19.Nf3 e4 20.Nd4 Bg5 21.Rg3 Bxc1 22.Rxc1 Nd3
+23.Ne3 Nxc1 24.Qd2 Nd3 25.Nd5 Qb7 26.Qg5 f6 27.Nxf6+ Rxf6 28.h4 h6 29.Qg4 Qf7
+0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.08"]
+[Round "4.12"]
+[White "Ribeiro, Duarte"]
+[Black "Leite, Samuel"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[WhiteElo "2057"]
+[BlackElo "1802"]
+[PlyCount "50"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 O-O 6.Bd3 Bg4 7.O-O Nc6 8.Be3 e5 9.
+fxe5 dxe5 10.d5 Nd4 11.Bxd4 exd4 12.Ne2 c6 13.dxc6 bxc6 14.Ne5 Qc7 15.Nc4 Rae8
+16.h3 Bxe2 17.Qxe2 Nxe4 18.Bxe4 f5 19.Nd2 Kh8 20.Qc4 fxe4 21.Rxf8+ Rxf8 22.
+Nxe4 Qf4 23.Re1 Qh4 24.Re2 Qf4 25.Re1 Qh4 1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.08"]
+[Round "4.13"]
+[White "Vasquez, Maria"]
+[Black "Furtado, Dinis"]
+[Result "1-0"]
+[ECO "A31"]
+[WhiteElo "1991"]
+[BlackElo "1719"]
+[PlyCount "47"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 c5 4.Nc3 cxd4 5.Nxd4 Nc6 6.Bg5 Bg7 7.e3 Qa5 8.Bxf6 Bxf6
+9.Be2 Qb6 10.Nd5 Qa5+ 11.b4 Nxb4 12.Qd2 Bxd4 13.exd4 Nc2+ 14.Kd1 Qxd2+ 15.Kxd2
+Nxd4 16.Nc7+ Kd8 17.Nxa8 d6 18.Rab1 Kd7 19.Bd1 Nc6 20.Ba4 Rd8 21.Rb2 e6 22.
+Rhb1 d5 23.c5 b6 24.Nxb6+ 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.08"]
+[Round "4.14"]
+[White "Pintor, Simao"]
+[Black "Pereira, Antonio Caramez"]
+[Result "0-1"]
+[ECO "E16"]
+[WhiteElo "1490"]
+[BlackElo "1960"]
+[PlyCount "100"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 Bxd2+ 7.Nbxd2 O-O 8.O-O d5
+9.Ne5 Nbd7 10.Ndf3 dxc4 11.Nxc4 Qe7 12.Nfe5 Bxg2 13.Kxg2 Nxe5 14.Nxe5 c5 15.
+dxc5 Qxc5 16.Nd3 Qc6+ 17.Kg1 Rfd8 18.Rc1 Qb7 19.Qb3 Rac8 20.Nc5 Qd5 21.Qxd5
+Rxd5 22.Ne4 Rdd8 23.Nxf6+ gxf6 24.e4 Rxc1 25.Rxc1 Rd2 26.Rb1 Re2 27.f3 Kg7 28.
+a3 Kg6 29.b3 h5 30.h4 f5 31.Kf1 Ra2 32.a4 fxe4 33.fxe4 Rh2 34.Rd1 Rh1+ 35.Ke2
+Rxd1 36.Kxd1 f5 37.exf5+ Kxf5 38.Ke2 Kg4 39.Kf2 e5 40.Kg2 a6 41.Kf2 e4 42.Ke3
+Kxg3 43.Kxe4 Kxh4 44.Kf4 Kh3 45.Kf3 h4 46.Kf2 Kg4 47.Kg2 h3+ 48.Kh2 Kf3 49.
+Kxh3 Ke3 50.Kg3 Kd3 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.08"]
+[Round "4.15"]
+[White "Mateus, Francisco"]
+[Black "Sousa, Emanuel"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "1378"]
+[BlackElo "1899"]
+[PlyCount "57"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nc3 Bb4 4.Bc4 O-O 5.d3 d5 6.exd5 Nxd5 7.Bd2 Bxc3 8.Bxc3
+Nxc3 9.bxc3 Nc6 10.O-O Bg4 11.h3 Bh5 12.Re1 Re8 13.Rb1 Rb8 14.Qe2 Kh8 15.Qe3
+f5 16.Bb5 e4 17.Nd4 Nxd4 18.Qxd4 c6 19.Bc4 Qg5 20.g3 Bf3 21.Qd7 e3 22.Kh2 b5
+23.Bf7 Re7 24.Qd6 Rf8 25.Rxe3 Rexf7 26.Rxf3 Rf6 27.Qe7 R8f7 28.Qe3 Qh5 29.Qe8+
+1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.08"]
+[Round "4.16"]
+[White "Fonseca, Miguel"]
+[Black "Almeida, Jorge"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[WhiteElo "1217"]
+[BlackElo "1905"]
+[PlyCount "79"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.Nf3 g6 2.g3 Bg7 3.Bg2 Nf6 4.O-O O-O 5.d3 Nc6 6.c3 d5 7.Bg5 Bd7 8.Nbd2 Qc8 9.
+Bxf6 Bxf6 10.e4 d4 11.c4 e5 12.a3 a5 13.Rb1 a4 14.b3 axb3 15.Qxb3 b6 16.Qa2
+Be7 17.Rb3 Qa6 18.Ra1 Na5 19.Rb2 b5 20.Nxe5 bxc4 21.Nxd7 c3 22.Nxf8 cxb2 23.
+Qxb2 Bxf8 24.Qxd4 Bg7 25.e5 Nc6 26.Bxc6 Qxc6 27.Qc4 Qd7 28.Qe4 Rd8 29.f4 Qxd3
+30.Qxd3 Rxd3 31.Nc4 Rc3 32.Nd2 Bf8 33.a4 Bc5+ 34.Kh1 Rc2 35.Ne4 Bd4 36.Nf6+
+Kg7 37.Rd1 c5 38.Nd7 Ra2 39.Nb6 Bf2 40.Rb1 1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.08"]
+[Round "4.17"]
+[White "Costa, Catarina"]
+[Black "Ferreira, Ana Margarida"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[WhiteElo "1277"]
+[BlackElo "1408"]
+[PlyCount "118"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Bd6 5.Qf3 h6 6.c3 Nf6 7.h3 Be6 8.Ne2 c6 9.
+O-O O-O 10.Bf4 Qc7 11.Bxd6 Qxd6 12.Nf4 Nbd7 13.Nd2 Rfe8 14.Rfe1 Re7 15.Qg3
+Ree8 16.Nf3 g5 17.Ne5 Qf8 18.h4 Qg7 19.Nxe6 fxe6 20.Nxd7 Nxd7 21.hxg5 Qxg5 22.
+Qxg5+ hxg5 23.Re3 Kf7 24.Rae1 Nf6 25.Re5 g4 26.R1e3 b6 27.Be2 c5 28.dxc5 bxc5
+29.Bb5 Re7 30.Rd3 Rb8 31.c4 Nd7 32.Bxd7 Rxd7 33.cxd5 exd5 34.Rexd5 Rxd5 35.
+Rxd5 Rxb2 36.Rxc5 Rxa2 37.Rc4 a5 38.Rxg4 a4 39.f3 a3 40.Ra4 Ra1+ 41.Kf2 Ra2+
+42.Ke3 Rxg2 43.Rxa3 Kf6 44.Ra5 Rb2 45.Kf4 Rb4+ 46.Kg3 Rb3 47.Kg4 Rb4+ 48.f4
+Rc4 49.Ra6+ Kf7 50.Kg5 Rc8 51.Rb6 Rg8+ 52.Kf5 Rc8 53.Rb7+ Kf8 54.Kg5 Rd8 55.f5
+Rc8 56.Rh7 Kg8 57.Kg6 Rc6+ 58.f6 Rxf6+ 59.Kxf6 Kxh7 1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.08"]
+[Round "4.18"]
+[White "Ferreira, Susana"]
+[Black "Margarido, Ricardo"]
+[Result "1/2-1/2"]
+[ECO "A50"]
+[WhiteElo "1351"]
+[BlackElo "1431"]
+[PlyCount "59"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 b6 4.Bf4 Bb4 5.a3 Bxc3+ 6.bxc3 d5 7.cxd5 Nxd5 8.Bd2 Bb7
+9.Nf3 Nd7 10.e3 c5 11.Rc1 Qe7 12.Ra1 O-O 13.Be2 Rfc8 14.O-O N5f6 15.h3 Ne4 16.
+Bd3 Ng5 17.Be2 Ne4 18.Re1 Ndf6 19.Qb1 Nxd2 20.Nxd2 Nd5 21.Qb2 cxd4 22.cxd4 Nc3
+23.Bf3 Bxf3 24.Nxf3 Ne4 25.Rec1 Qb7 26.Rxc8+ Rxc8 27.Rc1 h6 28.Nd2 Nf6 29.Nf3
+Rxc1+ 30.Qxc1 1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.08"]
+[Round "4.19"]
+[White "Tavares, Tiago"]
+[Black "Almeida, Augusto"]
+[Result "0-1"]
+[ECO "D10"]
+[BlackElo "1691"]
+[PlyCount "66"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Bg5 dxc4 5.e4 b5 6.Nf3 h6 7.Bf4 e6 8.Ne5 Bb4 9.f3
+O-O 10.a3 Bxc3+ 11.bxc3 Nbd7 12.Nxc6 Qe8 13.Bd6 Nb6 14.Ne7+ Kh8 15.Nxc8 Qxc8
+16.Bxf8 Qxf8 17.Rb1 Na4 18.Qc1 a6 19.Ra1 Qd8 20.Qc2 Qa5 21.Rb1 Nxc3 22.Ra1
+Ncxe4+ 23.Ke2 Nc3+ 24.Kf2 Nfd5 25.Be2 Qb6 26.Qd2 e5 27.Rac1 exd4 28.Ke1 Re8
+29.Kf1 Rxe2 30.Qxe2 Nxe2 31.Kxe2 d3+ 32.Kd2 Qe3+ 33.Kd1 Qe2# 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.09"]
+[Round "5.1"]
+[White "Galego, Luis"]
+[Black "Ferreira, Paulo"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2489"]
+[BlackElo "2110"]
+[PlyCount "153"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 g6 2.h4 Bg7 3.h5 c5 4.Bc4 e6 5.Nc3 Nc6 6.d3 d6 7.Nf3 Nd4 8.Nxd4 cxd4 9.
+Ne2 Ne7 10.Bg5 h6 11.Bxe7 Qxe7 12.hxg6 fxg6 13.Nf4 Qg5 14.g3 Ke7 15.Qd2 Bd7
+16.a4 Rhc8 17.Qb4 Rab8 18.Qb3 Be5 19.Ne2 Bg7 20.Bb5 Rc5 21.Bxd7 Kxd7 22.c3
+dxc3 23.bxc3 Rbc8 24.d4 R5c7 25.Qb5+ Qxb5 26.axb5 b6 27.g4 g5 28.Kd2 Rf8 29.
+Ke3 Kc8 30.f3 Rff7 31.Ra3 Kb8 32.Nc1 Rc8 33.Na2 d5 34.e5 Bf8 35.Rb3 Rfc7 36.
+Kd3 Rf7 37.Rh3 Rc4 38.Nc1 Ra4 39.Ne2 Ra1 40.Ke3 Rf1 41.Rb2 Rc7 42.Rg3 Rf7 43.
+Rb3 Kb7 44.Ng1 Rc1 45.Rg2 Rc7 46.Ne2 Rc2 47.Kd3 Ra2 48.Nf4 Rxg2 49.Nxg2 h5 50.
+gxh5 Rh7 51.Ne3 Rxh5 52.c4 dxc4+ 53.Kxc4 Rh7 54.Ng4 Rc7+ 55.Kd3 a6 56.bxa6+
+Kxa6 57.Nf6 b5 58.d5 exd5 59.Nxd5 Rc4 60.e6 Bd6 61.e7 Rc8 62.Ke4 Re8 63.Kf5
+Ka5 64.Ke6 Bxe7 65.Nxe7 Ka4 66.Rb1 b4 67.Kf7 Rb8 68.Nc6 Rb7+ 69.Kf6 b3 70.Kxg5
+b2 71.Ne5 Rb5 72.Kf4 Kb3 73.Nd3 Kc3 74.Rxb2 Ra5 75.Ke3 Ra8 76.Rb5 Re8+ 77.Ne5
+1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.09"]
+[Round "5.2"]
+[White "Machado, Luis"]
+[Black "Damaso, Rui"]
+[Result "0-1"]
+[ECO "A07"]
+[WhiteElo "1620"]
+[BlackElo "2437"]
+[PlyCount "44"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.Nf3 d5 2.g3 c6 3.Bg2 Bg4 4.d3 Nd7 5.O-O e6 6.Nbd2 Bd6 7.c4 Ne7 8.a3 O-O 9.b4
+a5 10.c5 Bc7 11.Bb2 Qe8 12.Nd4 e5 13.Nc2 f5 14.Qe1 f4 15.f3 Be6 16.g4 Ng6 17.
+e3 fxe3 18.Nxe3 Nf4 19.d4 h5 20.g5 Qg6 21.h4 exd4 22.Bxd4 Qd3 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.??"]
+[Round "5.3"]
+[White "Pinheiro, Albano"]
+[Black "Barbosa, Fabio"]
+[Result "1-0"]
+[ECO "B89"]
+[WhiteElo "2079"]
+[BlackElo "1995"]
+[PlyCount "59"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be3 Nc6 7.Bc4 a6 8.Bb3 Be7 9.
+O-O Qc7 10.f4 O-O 11.Qf3 Na5 12.f5 e5 13.Nde2 Nxb3 14.cxb3 b5 15.Rac1 Qb7 16.
+Ng3 Bd7 17.Bg5 Bc6 18.Bxf6 Bxf6 19.Nh5 Qe7 20.Qg4 Kh8 21.Ne2 Rac8 22.Rc3 b4
+23.Rh3 Rg8 24.Neg3 Bb5 25.Nxf6 Qxf6 26.Nh5 Qd8 27.f6 g6 28.Ng3 Qb6+ 29.Kh1
+Rgd8 30.Rxh7+ 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.09"]
+[Round "5.4"]
+[White "Baptista, Ana"]
+[Black "Wanderley, Rafaell"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2054"]
+[BlackElo "1993"]
+[PlyCount "114"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e5 7.Nb3 Be6 8.Be3 Be7 9.
+Be2 O-O 10.O-O d5 11.exd5 Nxd5 12.Nxd5 Bxd5 13.Bd3 Nc6 14.c3 Na5 15.Nxa5 Qxa5
+16.b4 Qc7 17.Bxh7+ Kxh7 18.Qxd5 Qxc3 19.Bf2 Qxb4 20.Rab1 Rad8 21.Qxe5 Qd6 22.
+Qh5+ Kg8 23.Rxb7 Bf6 24.Rb6 Qd3 25.Qg4 Bd4 26.Bxd4 Rxd4 27.Qg3 Ra4 28.Qf2 Rc4
+29.Rb3 Qd5 30.Rb2 Rd8 31.h3 Rd4 32.Re2 a5 33.Rfe1 Qb5 34.Qe3 a4 35.Qc1 Qb4 36.
+Qc2 Qb5 37.Qb1 Qc6 38.Qc2 Qb5 39.Re5 Qb8 40.Qc6 Rd1 41.Qxa4 Qxe5 42.Rxd1 Rb8
+43.Qd4 Qa5 44.a4 Re8 45.Kh2 Ra8 46.Ra1 Qg5 47.Qe4 Ra6 48.Rb1 Rg6 49.f4 Qg3+
+50.Kh1 Qh4 51.a5 Qd8 52.Rb5 Rd6 53.Re5 Kf8 54.Rh5 Rh6 55.Rxh6 gxh6 56.a6 Qb8
+57.Qd4 h5 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.09"]
+[Round "5.5"]
+[White "Martins, Fernando"]
+[Black "Pintor, Ariana"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "1894"]
+[BlackElo "2042"]
+[PlyCount "89"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Nd7 6.O-O Ne7 7.Nbd2 c5 8.c3 Nc6 9.a3
+Be7 10.Re1 O-O 11.Nf1 Rc8 12.Bf4 Qb6 13.b4 cxb4 14.cxb4 Be4 15.Be3 f6 16.N1d2
+Bf5 17.Nb3 fxe5 18.dxe5 Qc7 19.Nbd4 Ndxe5 20.Nxf5 Rxf5 21.Rc1 Qd7 22.Qa4 Rcf8
+23.Nxe5 Rxe5 24.b5 Nd8 25.Qxa7 Bd6 26.Bc5 Rg5 27.Bxd6 Qxd6 28.Qe3 Rg6 29.Rc8
+Rh6 30.h3 Rhf6 31.Bf3 Qd7 32.Qc5 Rg6 33.Rc7 b6 34.Qxb6 Qe8 35.Bh5 Rxg2+ 36.
+Kxg2 Qxh5 37.Qe3 d4 38.Qg3 g6 39.Qd3 Qd5+ 40.Qe4 Qxb5 41.Qe5 Qxe5 42.Rxe5 Nf7
+43.Rxe6 Rd8 44.Ree7 Ng5 45.h4 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.09"]
+[Round "5.6"]
+[White "Padeiro, Jose"]
+[Black "Silva, Firmino"]
+[Result "1-0"]
+[ECO "B52"]
+[WhiteElo "2210"]
+[BlackElo "2037"]
+[PlyCount "78"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.O-O Nf6 6.e5 dxe5 7.Nxe5 Qc7 8.d4
+cxd4 9.Bf4 Qd8 10.c3 e6 11.Qa4+ Nbd7 12.Qd1 Bc5 13.cxd4 Be7 14.Nc3 O-O 15.Nxd7
+Nxd7 16.d5 Nc5 17.Qd4 Rc8 18.dxe6 Nxe6 19.Qe4 Qe8 20.Bg3 Rc6 21.Nd5 Bg5 22.Qb4
+Qc8 23.f4 Bd8 24.Bf2 Rc4 25.Qd2 Rc2 26.Qd3 Rxb2 27.Rac1 Qb8 28.Bg3 f5 29.Rfd1
+Rb6 30.Nxb6 Bxb6+ 31.Kh1 Nd4 32.Re1 Kh8 33.Qc4 Nc6 34.Qd3 h6 35.Qd5 Bc7 36.Qd7
+a6 37.h3 Bb6 38.Rb1 Qa7 39.Re6 Bc5 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.09"]
+[Round "5.7"]
+[White "Viela, Marco"]
+[Black "Wanderley, Rodrigo"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2101"]
+[BlackElo "1430"]
+[PlyCount "91"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 Nf6 5.Nf3 Bg4 6.Be2 e6 7.Be3 Nc6 8.dxc5 Rd8
+9.Qxd5 Nxd5 10.b4 Be7 11.Nd4 Bxe2 12.Nxc6 bxc6 13.Kxe2 Bf6 14.Rc1 Nxb4 15.Nd2
+Nd5 16.Ne4 Be7 17.Rab1 Nxe3 18.Kxe3 f5 19.Nd6+ Bxd6 20.cxd6 Rxd6 21.Rb8+ Rd8
+22.Rcb1 Ke7 23.R8b7+ Kf6 24.Rxa7 Ra8 25.Rbb7 g5 26.a4 h5 27.a5 Rad8 28.a6 Rd5
+29.Rd7 Rd8 30.Rxd8 Rxd8 31.Rc7 Ke5 32.Rxc6 Kd5 33.Rc7 f4+ 34.Ke2 Ra8 35.a7 g4
+36.Kd3 h4 37.c4+ Ke5 38.Rh7 Rd8+ 39.Kc3 g3 40.hxg3 hxg3 41.f3 Kf5 42.Rh5+ Kf6
+43.Ra5 Ra8 44.Kd4 e5+ 45.Ke4 Rd8 46.Ra6+ 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.09"]
+[Round "5.8"]
+[White "Rodrigues, Pedro"]
+[Black "Martins, Hugo"]
+[Result "0-1"]
+[ECO "A10"]
+[WhiteElo "2001"]
+[BlackElo "2093"]
+[PlyCount "94"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.c4 g6 2.g3 Bg7 3.Bg2 f5 4.Nc3 Nc6 5.d3 e5 6.Rb1 Nf6 7.e3 O-O 8.b4 Qe8 9.b5
+Nd8 10.Nd5 Ne6 11.Ne2 Nh5 12.f4 c6 13.Ndc3 exf4 14.O-O fxg3 15.hxg3 Nxg3 16.
+Nxg3 Bxc3 17.d4 Ba5 18.d5 Bc7 19.Ne2 Ng5 20.bxc6 dxc6 21.d6 Bb6 22.c5 Bxc5 23.
+d7 Qxd7 24.Qxd7 Bxd7 25.Rxb7 Rad8 26.Nd4 Bc8 27.Rc7 Bb6 28.Rxc6 Bb7 29.Rc2
+Bxg2 30.Rxg2 Bxd4 31.exd4 Ne6 32.Be3 Nxd4 33.Rd2 Nc6 34.Rxd8 Rxd8 35.Rc1 Rc8
+36.Kf2 Kf7 37.Kg3 Ne7 38.Re1 Rc3 39.Kf2 Rc2+ 40.Kg3 Rxa2 41.Bc5 Nd5 42.Rd1 Nf6
+43.Kf4 Ra4+ 44.Kf3 g5 45.Rd6 g4+ 46.Ke3 f4+ 47.Ke2 f3+ 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.09"]
+[Round "5.9"]
+[White "Pereira, Antonio Caramez"]
+[Black "Viela, Andre"]
+[Result "1/2-1/2"]
+[ECO "A16"]
+[WhiteElo "1960"]
+[BlackElo "2035"]
+[PlyCount "45"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.c4 Nf6 2.Nc3 g6 3.g3 Bg7 4.Bg2 O-O 5.e3 c6 6.Nge2 e5 7.d4 exd4 8.Nxd4 Na6 9.
+O-O Nc7 10.b3 d5 11.Ba3 Re8 12.cxd5 Nfxd5 13.Nxd5 Nxd5 14.Qd2 Bg4 15.h3 Bd7
+16.Bb2 Qc8 17.Kh2 Qc7 18.Nf3 Rad8 19.Bxg7 Kxg7 20.Rfd1 f6 21.Rac1 Be6 22.Nd4
+Qf7 23.Nxe6+ 1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.09"]
+[Round "5.10"]
+[White "Castro, Francisco"]
+[Black "Vasquez, Maria"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "1956"]
+[BlackElo "1991"]
+[PlyCount "118"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 d6 2.d4 Nf6 3.Bd3 c6 4.Ne2 e5 5.dxe5 dxe5 6.O-O Be7 7.b3 O-O 8.Bb2 Qc7 9.
+Ng3 Rd8 10.Nd2 Be6 11.Qe2 Nbd7 12.Bc4 Nc5 13.Bxe6 Nxe6 14.Nf3 Nd7 15.Rfd1 Nf4
+16.Qe1 f6 17.Nf5 Bc5 18.g3 Nh3+ 19.Kg2 Nxf2 20.Rd2 g6 21.N5h4 Ng4 22.a3 Nf8
+23.b4 Bb6 24.a4 a5 25.Rxd8 Ne3+ 26.Kh1 Qxd8 27.Qc3 axb4 28.Qb3+ Kg7 29.Nxe5
+Qe7 30.Nhf3 Rd8 31.Re1 Rd1 32.Rxd1 Nxd1 33.Ng4 Nd7 34.e5 Nxb2 35.exf6+ Nxf6
+36.Qxb2 Bd8 37.Nge5 Kf8 38.Ng5 Kg7 39.Ngf3 Bc7 40.Kg2 Bxe5 41.Nxe5 Qe6 42.Qd4
+Qd5+ 43.Nf3 Qxd4 44.Nxd4 Nd5 45.Kf3 Kf6 46.a5 Ke5 47.Nb3 Kd6 48.Ke4 c5 49.Nd2
+b5 50.axb6 Nxb6 51.Nb3 c4 52.Nd4 Nd7 53.h4 Kc5 54.Ne6+ Kd6 55.Nd4 Nf6+ 56.Kf4
+Kd5 57.Ne2 b3 58.cxb3 cxb3 59.Kg5 Ne4+ 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.09"]
+[Round "5.11"]
+[White "Rodrigues, Antonio"]
+[Black "Gomes, Estevao"]
+[Result "1-0"]
+[ECO "A03"]
+[WhiteElo "2057"]
+[BlackElo "1378"]
+[PlyCount "69"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.f4 d5 2.Nf3 c5 3.e3 Nc6 4.Be2 e6 5.O-O Nf6 6.b3 Be7 7.Bb2 O-O 8.d3 d4 9.e4
+Ng4 10.Bc1 f5 11.e5 h6 12.a4 g5 13.g3 gxf4 14.Bxf4 Bg5 15.Nxg5 hxg5 16.Bxg4
+gxf4 17.Rxf4 Nxe5 18.Bh3 Ng6 19.Rf2 Qg5 20.Nd2 Qh6 21.Bg2 Rb8 22.Nc4 Bd7 23.
+Qe1 b6 24.Ne5 Nxe5 25.Qxe5 Qg7 26.Qd6 Rbd8 27.Re1 Bc8 28.Qc6 Rf7 29.Rxe6 Bxe6
+30.Qxe6 Kf8 31.Bd5 Rf6 32.Rxf5 Rxf5 33.Qxf5+ Ke7 34.Qe6+ Kf8 35.Kg2 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.09"]
+[Round "5.12"]
+[White "Ribeiro, Duarte"]
+[Black "Mateus, Francisco"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "2057"]
+[BlackElo "1378"]
+[PlyCount "45"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 h6 5.O-O Bc5 6.c3 dxc3 7.Bxf7+ Kxf7 8.Qd5+
+Ke8 9.Qh5+ Kf8 10.Qxc5+ Qe7 11.Qc4 cxb2 12.Bxb2 Nf6 13.e5 Ne8 14.Re1 Qb4 15.
+Ba3 Qxa3 16.Nxa3 d6 17.Nh4 Bf5 18.Nxf5 Nxe5 19.Qf4 Nd3 20.Rxe8+ Rxe8 21.Qg3 g6
+22.Qxg6 Ne5 23.Qg7# 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.09"]
+[Round "5.14"]
+[White "Leite, Samuel"]
+[Black "Felix, Joao"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "1802"]
+[BlackElo "1890"]
+[PlyCount "67"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nc3 d6 3.f4 Nc6 4.Nf3 Nf6 5.Be2 e6 6.O-O Be7 7.d3 O-O 8.h3 Rb8 9.a3
+b5 10.Qe1 b4 11.Nd1 a5 12.b3 Qc7 13.Ne3 Nd7 14.Bb2 Bf6 15.Bxf6 Nxf6 16.g4 Nd4
+17.Qf2 Nxf3+ 18.Bxf3 Bd7 19.a4 Ne8 20.f5 exf5 21.gxf5 Bc6 22.Kh1 Qe7 23.Rg1
+Kh8 24.Raf1 g6 25.Bd1 Qf6 26.fxg6 fxg6 27.Qg3 Qe7 28.Rxf8+ Qxf8 29.Rf1 Qe7 30.
+Nc4 Ra8 31.Qf4 Kg7 32.Kg1 Bd7 33.Nb6 Bxh3 34.Nd5 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.09"]
+[Round "5.15"]
+[White "Ferreira, Ana Margarida"]
+[Black "Fonseca, Miguel"]
+[Result "1-0"]
+[ECO "B80"]
+[WhiteElo "1408"]
+[BlackElo "1217"]
+[PlyCount "35"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Bb5+ Bd7 7.Bxd7+ Nbxd7 8.Bg5
+Be7 9.O-O a6 10.Qe2 Nxe4 11.Nxe4 Bxg5 12.Nxd6+ Kf8 13.Ne4 Bf6 14.Rad1 Nb6 15.
+Nxe6+ fxe6 16.Rxd8+ Rxd8 17.Nxf6 gxf6 18.Qxe6 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.09"]
+[Round "5.16"]
+[White "Sousa, Emanuel"]
+[Black "Costa, Catarina"]
+[Result "1-0"]
+[ECO "A11"]
+[WhiteElo "1899"]
+[BlackElo "1277"]
+[PlyCount "43"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.c4 c6 2.Nf3 d5 3.cxd5 cxd5 4.b3 Nf6 5.Bb2 Nc6 6.g3 Bf5 7.Bg2 e6 8.O-O Be7 9.
+d3 O-O 10.Nbd2 Rc8 11.Re1 Qb6 12.e4 dxe4 13.dxe4 Bg6 14.Nc4 Qc7 15.Nfe5 Rfd8
+16.Qe2 Nd7 17.Nxg6 hxg6 18.Rac1 Nb6 19.Kh1 Nxc4 20.Rxc4 Qb6 21.Rec1 Bc5 22.
+Rxc5 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.09"]
+[Round "5.17"]
+[White "Margarido, Ricardo"]
+[Black "Pintor, Simao"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "1431"]
+[BlackElo "1490"]
+[PlyCount "88"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.Nf3 Nf6 5.Be2 Bf5 6.b4 Qb6 7.O-O c6 8.Rb1 e6
+9.a3 Bd6 10.b5 O-O 11.bxc6 Qxc6 12.Kh1 Nd5 13.Nd4 Nxc3 14.dxc3 Qd7 15.Nxf5
+exf5 16.Bf3 Nc6 17.Bf4 Rfd8 18.Bxd6 Qxd6 19.Qxd6 Rxd6 20.Rxb7 Ne5 21.Rfb1 g6
+22.Rd1 Rad8 23.Rxd6 Rxd6 24.Rxa7 Nxf3 25.gxf3 Rc6 26.Kg2 Rxc3 27.a4 Rxc2 28.a5
+Kg7 29.a6 Ra2 30.Ra8 Kf6 31.a7 f4 32.Kh3 h5 33.Kg2 Ke7 34.Kh3 Kf6 35.Kg2 Kg5
+36.Kh3 f6 37.Kg2 Kf5 38.h4 Ra1 39.Kh2 Ra2 40.Kg2 Ra6 41.Kf1 Ra2 42.Ke1 Ra3 43.
+Ke2 Ra1 44.Kd2 Ra2+ 1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.09"]
+[Round "5.18"]
+[White "Almeida, Augusto"]
+[Black "Ferreira, Susana"]
+[Result "1/2-1/2"]
+[ECO "D12"]
+[WhiteElo "1691"]
+[BlackElo "1351"]
+[PlyCount "100"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.e3 Bf5 5.Qb3 Qc7 6.Nc3 e6 7.Bd2 Nbd7 8.Rc1 Qb6 9.
+Qxb6 Nxb6 10.cxd5 Nbxd5 11.a3 Be7 12.Be2 O-O 13.Nh4 Bg4 14.Nf3 Rac8 15.O-O
+Rfe8 16.Rfe1 Bd6 17.h3 Nxc3 18.Bxc3 Bxf3 19.Bxf3 Nd5 20.Bxd5 exd5 21.Re2 Re6
+22.Rce1 Rce8 23.g3 f5 24.Kg2 Kf7 25.h4 g6 26.Bd2 Bc7 27.Bc3 f4 28.gxf4 Bxf4
+29.Rh1 h5 30.Ree1 Bc7 31.Rh3 a6 32.Bb4 a5 33.Bc3 b5 34.Rc1 Re4 35.Rf3+ Kg7 36.
+Rh1 Rf8 37.Rfh3 Rg4+ 38.Kf1 Bg3 39.Be1 a4 40.Ke2 Bd6 41.Kd3 Re4 42.Bb4 Bxb4
+43.axb4 Rxf2 44.Rb1 Rf6 45.Rc1 Re7 46.Rg3 Ra7 47.Rc3 Rf2 48.Rxc6 Rxb2 49.
+Rgxg6+ Kf7 50.Rh6 Kg7 1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.09"]
+[Round "5.19"]
+[White "Furtado, Dinis"]
+[Black "Tavares, Tiago"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "1719"]
+[PlyCount "55"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 e6 5.Nf3 Bb4 6.Bd2 Nf6 7.a3 Bxc3 8.Bxc3 Qd5
+9.b3 Ne4 10.Bb2 Qd8 11.Bd3 Nf6 12.O-O O-O 13.Re1 Nc6 14.Qd2 h6 15.Rad1 b6 16.
+c4 Bb7 17.Ne5 Qd6 18.Re3 Kh8 19.Rh3 Nxd4 20.Bxd4 Qxd4 21.Rxh6+ gxh6 22.Qxh6+
+Kg8 23.Qg5+ Kh8 24.Qxf6+ Kg8 25.Bh7+ Kxh7 26.Rxd4 Rh8 27.Qxf7+ Kh6 28.Qg6# 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "6.1"]
+[White "Pinheiro, Albano"]
+[Black "Galego, Luis"]
+[Result "0-1"]
+[ECO "C45"]
+[WhiteElo "2079"]
+[BlackElo "2489"]
+[PlyCount "118"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Bc4 d5 8.exd5
+Nxd4 9.Bxd4 Bxd4 10.Qxd4 Qxd4 11.cxd4 Nf5 12.Nc3 Bd7 13.O-O-O O-O-O 14.Rhe1
+Rhe8 15.Rxe8 Rxe8 16.Bb5 Bxb5 17.Nxb5 Kd7 18.Nc3 a6 19.Kc2 Nh6 20.h3 Ng8 21.
+Rd3 Re1 22.Re3 Rf1 23.Rf3 Nf6 24.Kd2 h5 25.Ke2 Rg1 26.Rg3 g6 27.Rf3 Ke7 28.g3
+Rc1 29.Kd2 Rh1 30.h4 Ng4 31.Ke2 Rc1 32.Kd2 Ra1 33.a3 f5 34.Nd1 Nf6 35.Nc3 Kd6
+36.Re3 Nxd5 37.Nxd5 Kxd5 38.Re7 Rb1 39.b4 Rb2+ 40.Ke3 Rb3+ 41.Kd2 Kxd4 42.Rxc7
+b5 43.Rc6 Rxa3 44.Rxg6 Ra2+ 45.Ke1 Kd3 46.Rd6+ Ke4 47.Rh6 Ra4 48.Rxh5 Rxb4 49.
+Rh6 a5 50.Re6+ Kd5 51.Rf6 Ke5 52.Ra6 a4 53.h5 Rb1+ 54.Ke2 Kd5 55.Kf3 Rh1 56.h6
+Rh2 57.Rf6 a3 58.Rxf5+ Kc4 59.Rf4+ Kb3 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "6.2"]
+[White "Damaso, Rui"]
+[Black "Baptista, Ana"]
+[Result "1-0"]
+[ECO "E40"]
+[WhiteElo "2437"]
+[BlackElo "2054"]
+[PlyCount "47"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 d6 5.Bd3 Nbd7 6.Ne2 b6 7.O-O Bb7 8.e4 Bxc3 9.
+Nxc3 e5 10.d5 O-O 11.Be3 Nc5 12.Bc2 Bc8 13.b4 Na6 14.a3 Ng4 15.Bd2 Qh4 16.h3
+Nh6 17.Qe2 Kh8 18.f4 Qe7 19.Bd3 Nb8 20.fxe5 Qxe5 21.Nb5 Na6 22.Bf4 Qe7 23.e5
+Re8 24.Qh5 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "6.3"]
+[White "Martins, Fernando"]
+[Black "Padeiro, Jose"]
+[Result "0-1"]
+[ECO "B00"]
+[WhiteElo "1894"]
+[BlackElo "2210"]
+[PlyCount "131"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 Nc6 2.d4 e5 3.c3 Nf6 4.d5 Ne7 5.Bd3 Neg8 6.Nf3 d6 7.h3 Be7 8.Be3 Nd7 9.
+Nbd2 Ngf6 10.O-O O-O 11.b4 Nh5 12.Bc2 Nf4 13.Re1 Bf6 14.Rc1 Re8 15.Nf1 Nf8 16.
+Ng3 a5 17.Bb3 N8g6 18.Qd2 h5 19.Ne2 Nxe2+ 20.Rxe2 Nf8 21.a3 Nh7 22.Nh2 Bg5 23.
+Nf1 Bxe3 24.Qxe3 Qg5 25.Bd1 Qxe3 26.Nxe3 Bd7 27.c4 Nf6 28.f3 axb4 29.axb4 b6
+30.Kf2 h4 31.c5 bxc5 32.bxc5 Reb8 33.cxd6 cxd6 34.Rec2 Nh5 35.Be2 Nf4 36.Bf1
+Kf8 37.Rc7 Rc8 38.Rxc8+ Rxc8 39.Rxc8+ Bxc8 40.Bb5 g6 41.Kg1 Ke7 42.Kf2 f5 43.
+Kg1 Kd8 44.Kf2 Kc7 45.Nc4 g5 46.Kg1 Nh5 47.Kf2 Ng3 48.Ke3 fxe4 49.fxe4 g4 50.
+hxg4 Bxg4 51.Nd2 Kb6 52.Bd3 Kc5 53.Nc4 Nh5 54.Bf1 Nf4 55.Nd2 Bd1 56.Nb1 Kb4
+57.Nd2 Kc5 58.Nb1 Bh5 59.Nd2 Bg4 60.Nb3+ Kb4 61.Nd2 Kc3 62.Nb1+ Kc2 63.Na3+
+Kd1 64.Nc4 Ke1 65.Nd2 Bh5 66.Bb5 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "6.4"]
+[White "Ferreira, Paulo"]
+[Black "Machado, Luis"]
+[Result "1/2-1/2"]
+[ECO "A70"]
+[WhiteElo "2110"]
+[BlackElo "1620"]
+[PlyCount "105"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 exd5 5.cxd5 d6 6.Nc3 g6 7.e4 Bg7 8.h3 O-O 9.Bd3
+b6 10.O-O a6 11.a4 Nbd7 12.Bf4 Qc7 13.Rc1 Re8 14.Re1 Nh5 15.Be3 Ne5 16.Be2
+Nxf3+ 17.Bxf3 Nf6 18.b4 Bd7 19.a5 Rab8 20.axb6 Rxb6 21.bxc5 dxc5 22.Na4 Bxa4
+23.Qxa4 Bf8 24.Bg5 Qd7 25.Qd1 Qd6 26.Bh4 Qc7 27.Qa4 Qd7 28.Qd1 Qc7 29.Bg3 Bd6
+30.Bxd6 Qxd6 31.Qc2 Nd7 32.Be2 g5 33.Bf1 Reb8 34.Qa4 Ne5 35.Qa3 Rc8 36.Qg3 Qf6
+37.Qe3 c4 38.Rc3 a5 39.Rec1 Rb4 40.Qa7 a4 41.Rg3 c3 42.d6 Qxd6 43.Rxg5+ Ng6
+44.Rd5 Qf4 45.Qe3 Qxe3 46.fxe3 Rxe4 47.Ra5 Rb4 48.Bd3 Rb3 49.Rxa4 c2 50.Rxc2
+Rxc2 51.Bxc2 Rxe3 52.Rg4 Kg7 53.Kh2 1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "6.5"]
+[White "Pintor, Ariana"]
+[Black "Viela, Marco"]
+[Result "0-1"]
+[ECO "B04"]
+[WhiteElo "2042"]
+[BlackElo "2101"]
+[PlyCount "126"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.exd6 cxd6 6.Nc3 g6 7.Nf3 Bg7 8.Be2 O-O 9.
+O-O Nc6 10.Be3 d5 11.c5 Nc4 12.Bxc4 dxc4 13.Qe2 Bg4 14.Rfd1 Qc8 15.h3 Bxf3 16.
+Qxf3 e5 17.d5 Nd4 18.Bxd4 exd4 19.Ne4 f5 20.Ng5 Qxc5 21.Ne6 Qd6 22.Nxg7 Kxg7
+23.Rxd4 b5 24.b3 cxb3 25.Qxb3 a6 26.Rd3 Rfe8 27.Rad1 Rac8 28.Re3 f4 29.Re6
+Rxe6 30.dxe6 Qe5 31.Rd7+ Kh6 32.Qf3 Rc3 33.Qg4 Rc1+ 34.Kh2 f3+ 35.Qg3 fxg2 36.
+Kxg2 Qe4+ 37.f3 Qe2+ 38.Qf2 Rc2 39.Qxe2 Rxe2+ 40.Kg3 Rxe6 41.Ra7 Rd6 42.h4 Rc6
+43.Kh3 Rc3 44.Rxa6 Rxf3+ 45.Kg4 Rc3 46.Ra5 Rc4+ 47.Kg3 Rb4 48.Kh3 Kh5 49.Kg3
+Rg4+ 50.Kf3 Kxh4 51.Rxb5 Rg3+ 52.Kf2 Ra3 53.Rb2 g5 54.Kg1 h5 55.Rh2+ Kg4 56.
+Rg2+ Kf4 57.Rf2+ Rf3 58.a4 Rxf2 59.Kxf2 Ke5 60.a5 Kd6 61.Kf3 Kc6 62.Ke4 Kb5
+63.Kf5 g4 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "6.6"]
+[White "Martins, Hugo"]
+[Black "Vasquez, Maria"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2093"]
+[BlackElo "1991"]
+[PlyCount "72"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 c6 4.f3 g6 5.Be3 Nbd7 6.Qd2 Qc7 7.O-O-O b5 8.g4 Nb6 9.
+g5 Nfd7 10.h4 Nc4 11.Bxc4 bxc4 12.h5 Rg8 13.hxg6 hxg6 14.f4 Qb6 15.Rf1 Rb8 16.
+Nd1 Qa6 17.Qf2 Qxa2 18.Ne2 Qa1+ 19.Kd2 Qa5+ 20.Nec3 Nb6 21.f5 gxf5 22.exf5 Nd5
+23.g6 fxg6 24.fxg6 Be6 25.Rhg1 Kd7 26.Re1 Rxb2 27.Bg5 Nxc3 28.Nxc3 Bf5 29.Rc1
+Rxg6 30.d5 e6 31.dxe6+ Rxe6 32.Be3 Re5 33.Bd4 Bh6+ 34.Kd1 Bxc2+ 35.Rxc2 Qa1+
+36.Rc1 Qxc1# 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "6.7"]
+[White "Barbosa, Fabio"]
+[Black "Rodrigues, Antonio"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "1995"]
+[BlackElo "1849"]
+[PlyCount "77"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.Nf3 g6 2.e4 Bg7 3.d4 d6 4.Bd3 Nf6 5.O-O O-O 6.c4 c6 7.Nc3 Qc7 8.Bd2 Nbd7 9.
+b4 b6 10.Rc1 c5 11.bxc5 bxc5 12.Nb5 Qd8 13.Qe1 Nb6 14.Ba5 Bg4 15.e5 Ne8 16.Be4
+Bh6 17.Rb1 Bf5 18.Bxf5 gxf5 19.Nxa7 Rxa7 20.Bxb6 Qa8 21.exd6 Nxd6 22.Bxa7 Qxa7
+23.dxc5 Ne4 24.Rb2 Qxc5 25.Qb4 Rc8 26.Qxc5 Rxc5 27.Rb4 Nd6 28.Nd4 e5 29.Nb3
+Rxc4 30.Rxc4 Nxc4 31.a4 Kf8 32.a5 e4 33.Rd1 e3 34.fxe3 Bxe3+ 35.Kf1 Bf4 36.Rd4
+Ne3+ 37.Ke2 Nxg2 38.Kf3 Be5 39.Kxg2 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "6.8"]
+[White "Wanderley, Rafaell"]
+[Black "Rodrigues, Pedro"]
+[Result "1-0"]
+[ECO "B42"]
+[WhiteElo "1993"]
+[BlackElo "2001"]
+[PlyCount "48"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Qb6 6.Nb3 Qc7 7.O-O Nf6 8.f4 d6 9.
+c4 Nbd7 10.Nc3 b6 11.Be3 Bb7 12.Rc1 Rd8 13.Qf3 h5 14.h3 Be7 15.g4 hxg4 16.hxg4
+Nxe4 17.Bxe4 d5 18.cxd5 Nc5 19.dxe6 Nd3 20.Nd5 Qd6 21.Nc7+ Kf8 22.Bxb7 Nxc1
+23.Rxc1 fxe6 24.Qe4 e5 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "6.9"]
+[White "Wanderley, Rodrigo"]
+[Black "Ribeiro, Duarte"]
+[Result "1-0"]
+[ECO "D17"]
+[WhiteElo "1430"]
+[BlackElo "2057"]
+[PlyCount "53"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Bg5 Nd5 7.Nd2 Nxc3 8.bxc3 Qa5
+9.Qc1 Be6 10.Bf4 g5 11.Be5 Rg8 12.e4 Nd7 13.Bg3 g4 14.Nxc4 Bxc4 15.Bxc4 Bh6
+16.Qb2 Nf6 17.O-O b6 18.Qb3 Qh5 19.f3 Be3+ 20.Kh1 gxf3 21.Rxf3 Rxg3 22.Rxg3
+Ng4 23.Bxf7+ Qxf7 24.Qxf7+ Kxf7 25.Rxg4 Bd2 26.c4 c5 27.d5 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "6.10"]
+[White "Silva, Firmino"]
+[Black "Pereira, Antonio Caramez"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "2037"]
+[BlackElo "1960"]
+[PlyCount "70"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.h3 c6 5.Bc4 Nf6 6.d3 Bf5 7.Nf3 Nbd7 8.O-O e6
+9.Bf4 Be7 10.Qe1 O-O 11.Nd5 Qd8 12.Nxe7+ Qxe7 13.Nh4 Bg6 14.Nxg6 hxg6 15.d4
+Nb6 16.Bb3 Rfd8 17.c3 c5 18.Be3 cxd4 19.Bxd4 Qc7 20.Qe2 Rac8 21.Qf3 Qc6 22.Qg3
+a6 23.Rfe1 Nc4 24.Re2 Nd6 25.Bxf6 gxf6 26.Rxe6 fxe6 27.Bxe6+ Kg7 28.Bxc8 Rxc8
+29.Rd1 Nf5 30.Qf4 Re8 31.g4 Nh4 32.Qg3 Nf3+ 33.Kf1 g5 34.Qd6 Re1+ 35.Kg2 Nh4+
+0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "6.11"]
+[White "Viela, Andre"]
+[Black "Oliveira, Eduardo"]
+[Result "1-0"]
+[ECO "C25"]
+[WhiteElo "2035"]
+[BlackElo "1923"]
+[PlyCount "59"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 e5 2.Nc3 Bc5 3.Bc4 d6 4.Na4 Nd7 5.d3 h6 6.Ne2 Ngf6 7.O-O c6 8.Nxc5 Nxc5
+9.Be3 Ncd7 10.h3 O-O 11.f4 d5 12.exd5 cxd5 13.Bb3 Qc7 14.fxe5 Nxe5 15.d4 Ng6
+16.Bxh6 Re8 17.Bd2 Re4 18.c3 Re6 19.Nf4 Nxf4 20.Bxf4 Qc6 21.Qf3 Ne4 22.Rae1
+Nf6 23.Be5 b6 24.Bxf6 Rxf6 25.Qxd5 Qxd5 26.Bxd5 Rb8 27.Re8+ Kh7 28.Be4+ Kh6
+29.Rxf6+ gxf6 30.Bf5 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "6.12"]
+[White "Leite, Samuel"]
+[Black "Gomes, Estevao"]
+[Result "1-0"]
+[ECO "A03"]
+[WhiteElo "1980"]
+[BlackElo "1802"]
+[PlyCount "173"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.f4 d5 2.Nf3 c5 3.e3 Nc6 4.d4 e6 5.c3 Nf6 6.Bd3 Be7 7.O-O O-O 8.Bd2 c4 9.Bc2
+b5 10.Be1 a5 11.Bh4 Qb6 12.Ne5 Bd8 13.Nd2 Nxe5 14.fxe5 Ne8 15.Qh5 g6 16.Bxd8
+Qxd8 17.Qh6 f5 18.exf6 Rxf6 19.e4 Rxf1+ 20.Rxf1 Qe7 21.e5 Qg7 22.Qh4 Ra7 23.
+Nf3 Re7 24.h3 Bd7 25.Qg5 Bc8 26.h4 b4 27.h5 gxh5 28.Qxh5 Qf7 29.Qh4 Qg7 30.Qh3
+Nc7 31.Nh2 Rf7 32.Rxf7 Qxf7 33.Ng4 Qg7 34.Nf6+ Kf7 35.Bxh7 Ke7 36.Qh4 Kf8 37.
+Bg8 Bb7 38.Qh5 Bc6 39.g4 Ke7 40.Qh4 Kf8 41.g5 Qg6 42.Bh7 Qg7 43.Qf4 Ke7 44.g6
+Ne8 45.Qg5 Nxf6 46.Kh2 Be8 47.Kg3 Bxg6 48.exf6+ Qxf6 49.Qxg6 Qf1 50.Qg5+ Kd7
+51.Qe3 Qf6 52.Bc2 Qg7+ 53.Kf3 Qf7+ 54.Kg4 Qg7+ 55.Qg5 Qh8 56.Ba4+ Kc7 57.Qe7+
+Kb8 58.Qd6+ Ka7 59.Qc7+ Ka6 60.Qc6+ Ka7 61.Qc5+ Kb8 62.Qb6+ Kc8 63.Qc6+ Kb8
+64.Qe8+ Qxe8 65.Bxe8 e5 66.dxe5 d4 67.cxd4 c3 68.bxc3 bxc3 69.Ba4 Kc7 70.Kf5
+Kd8 71.Kf6 Kc7 72.d5 Kb6 73.e6 Kc5 74.e7 Kxd5 75.e8=Q Kd4 76.Qe5+ Kd3 77.Qxa5
+c2 78.Bxc2+ Kxc2 79.Qb4 Kd3 80.a4 Kc2 81.a5 Kd3 82.a6 Kc2 83.a7 Kd3 84.a8=R
+Ke3 85.Ra3+ Ke2 86.Qb2+ Kd1 87.Ra1# 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "6.13"]
+[White "Mateus, Francisco"]
+[Black "Castro, Francisco"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "1378"]
+[BlackElo "1956"]
+[PlyCount "78"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Bd6 5.Nc3 Ne7 6.Bd3 c6 7.O-O Bg4 8.h3 Bh5 9.
+Re1 Qc7 10.Bd2 Nd7 11.Qe2 O-O-O 12.a4 Rde8 13.a5 f6 14.a6 b6 15.Be3 Ng6 16.g4
+Nf4 17.Qf1 Nxd3 18.cxd3 Bf7 19.Rab1 Nb8 20.Rec1 h5 21.Qg2 hxg4 22.Qxg4+ Be6
+23.Qg6 Reg8 24.Ng5 Rh6 25.Nxd5 Rxg6 26.Nxc7 Bxc7 27.Rxc6 Nxc6 28.Rc1 Kd7 29.
+Kf1 Rxg5 30.Bxg5 fxg5 31.Kg2 Bd5+ 32.f3 Rf8 33.Rf1 Nxd4 34.b4 Nxf3 35.b5 Nd2+
+36.Rf3 Rxf3 37.h4 Rf8+ 38.Kh3 Bf3 39.hxg5 Rh8# 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "6.14"]
+[White "Furtado, Dinis"]
+[Black "Sousa, Emanuel"]
+[Result "1-0"]
+[ECO "A05"]
+[WhiteElo "1719"]
+[BlackElo "1899"]
+[PlyCount "139"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.Nf3 Nf6 2.g3 c5 3.Bg2 Nc6 4.d3 d5 5.Bg5 e6 6.c3 Be7 7.Bxf6 Bxf6 8.Nbd2 O-O
+9.O-O Bd7 10.Re1 Rc8 11.Rc1 b5 12.e4 Qc7 13.exd5 exd5 14.Nb3 Qb6 15.Rc2 Rfe8
+16.Rce2 Rxe2 17.Qxe2 Kf8 18.d4 cxd4 19.Nbxd4 Nxd4 20.cxd4 Re8 21.Ne5 Bxe5 22.
+dxe5 Qc5 23.Qd3 d4 24.Qxh7 Rxe5 25.Qh8+ Ke7 26.Qh4+ f6 27.Rd1 b4 28.Bf1 Rd5
+29.Qe4+ Kf7 30.b3 Rd6 31.Bc4+ Kf8 32.Re1 Rc6 33.Bd5 Rc8 34.Rd1 Bh3 35.Bc4 Re8
+36.Qh7 Be6 37.Re1 Bxc4 38.Qh8+ Bg8 39.Rxe8+ Kxe8 40.Qxg8+ Qf8 41.Qd5 Qe7 42.
+Qxd4 Kf7 43.Kg2 Qb7+ 44.f3 a5 45.Qc4+ Kf8 46.Qc5+ Kg8 47.Qxa5 g5 48.a4 bxa3
+49.Qxa3 Qd5 50.Qb4 Qa8 51.Qa4 Qd8 52.Qc4+ Kg7 53.Qc3 Qd1 54.Qb2 Qd5 55.b4 g4
+56.Qc3 Qa2+ 57.Kg1 Qb1+ 58.Kf2 Qh1 59.fxg4 Qxh2+ 60.Kf3 Qh1+ 61.Kf4 Qh6+ 62.
+Ke4 Qg6+ 63.Kf3 Qb1 64.Qd4 Qb3+ 65.Kf4 Qe6 66.g5 Kg8 67.gxf6 Kf7 68.g4 Qe1 69.
+Qd7+ Kxf6 70.Qf5+ 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "6.15"]
+[White "Felix, Joao"]
+[Black "Ferreira, Ana Margarida"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "1890"]
+[BlackElo "1408"]
+[PlyCount "45"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 d5 2.Nf3 Nf6 3.Bf4 c5 4.Nc3 a6 5.e3 Nc6 6.Be2 e6 7.Qd2 b5 8.Ne5 Bb7 9.Bf3
+cxd4 10.exd4 Bd6 11.h4 Qc7 12.Qe3 Bxe5 13.dxe5 Nd7 14.Bxd5 exd5 15.e6 Nde5 16.
+Nxd5 Qa5+ 17.c3 b4 18.exf7+ Kxf7 19.O-O-O Qxa2 20.Bxe5 Nxe5 21.Qf4+ Ke6 22.
+Nc7+ Ke7 23.Qxe5+ 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "6.18"]
+[White "Pintor, Simao"]
+[Black "Ferreira, Susana"]
+[Result "1-0"]
+[ECO "D15"]
+[WhiteElo "1490"]
+[BlackElo "1351"]
+[PlyCount "73"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 Bf5 5.Qb3 Qb6 6.Qxb6 axb6 7.cxd5 Nxd5 8.Nxd5
+cxd5 9.Bf4 Nc6 10.e3 Rc8 11.Bb5 Bd7 12.Rc1 f6 13.O-O e6 14.Rc2 Be7 15.Rfc1 O-O
+16.h3 Rfd8 17.g4 Kf7 18.g5 Be8 19.Bd3 Kg8 20.gxf6 gxf6 21.Nh2 Bg6 22.Bxg6 hxg6
+23.a3 Na7 24.Bc7 Rd7 25.Bxb6 Rxc2 26.Rxc2 Nc6 27.Ng4 Kg7 28.b4 Bd6 29.Bc5 Bxc5
+30.Rxc5 g5 31.b5 Na7 32.a4 Kg6 33.a5 Kf7 34.b6 Nc6 35.a6 Ne7 36.a7 Rd8 37.Rc7
+1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "6.19"]
+[White "Costa, Catarina"]
+[Black "Tavares, Tiago"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "1277"]
+[PlyCount "120"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.Bc4 Nf6 5.d3 Bg4 6.Ne2 e6 7.Bd2 c6 8.Nd5 Qd8
+9.Nxf6+ gxf6 10.O-O Qc7 11.Qe1 Bd6 12.Ng3 Nd7 13.h3 Bxg3 14.hxg4 Bh2+ 15.Kh1
+Be5 16.c3 O-O-O 17.d4 Bd6 18.b4 h5 19.g5 Rdg8 20.gxf6 Bf4 21.b5 Bxd2 22.Qxd2
+Rg6 23.Be2 Rxf6 24.bxc6 Qxc6 25.Qe3 h4 26.Bf3 Qd6 27.Bg4 Rg6 28.Bh3 f5 29.Rab1
+Qd5 30.Rb2 Nf6 31.Rfb1 b6 32.c4 Qe4 33.Qxe4 Nxe4 34.c5 Nc3 35.Rc1 Nd5 36.cxb6+
+Kb7 37.bxa7+ Kxa7 38.a4 Rg7 39.Rc6 Re8 40.a5 Ka8 41.Ra6+ Ra7 42.Rxa7+ Kxa7 43.
+g3 hxg3 44.fxg3 Rd8 45.Bg2 Ne3 46.Rb1 Nxg2 47.Kxg2 Ka6 48.Rb6+ Kxa5 49.Rxe6
+Rxd4 50.Re5+ Kb6 51.Rxf5 Rg4 52.Rf4 Rg6 53.Kf3 Kc7 54.g4 Kd6 55.Rf5 Ke7 56.g5
+Ke6 57.Kf4 Kd6 58.Re5 Rg7 59.Kf5 Rxg5+ 60.Kxg5 Kxe5 1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "7.1"]
+[White "Galego, Luis"]
+[Black "Padeiro, Jose"]
+[Result "1-0"]
+[ECO "B10"]
+[WhiteElo "2489"]
+[BlackElo "2210"]
+[PlyCount "105"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Bg4 5.Bc4 e6 6.h3 Bxf3 7.Qxf3 Nd7 8.Qg3
+Ndf6 9.Nxf6+ Nxf6 10.O-O Qd6 11.Qf3 Qc7 12.d4 Rd8 13.c3 Be7 14.Bf4 Bd6 15.Bg5
+Be7 16.Rfe1 O-O 17.Bb3 Nd5 18.Bd2 b5 19.Bc2 g6 20.a4 a6 21.axb5 axb5 22.Be4 c5
+23.dxc5 Qxc5 24.Bh6 Rfe8 25.Rad1 Bf8 26.Bxf8 Rxf8 27.Bxd5 Rxd5 28.Rxd5 Qxd5
+29.Qxd5 exd5 30.Rd1 Rd8 31.Rd4 Kg7 32.Kf1 Kf6 33.Ke2 Ke6 34.Rb4 Rb8 35.Kd3 Kd6
+36.Rb3 Ke5 37.Ra3 Rb7 38.b4 h5 39.Ra8 h4 40.Re8+ Kf4 41.Kd4 Ra7 42.Re3 f5 43.
+Rf3+ Kg5 44.Kc5 Rb7 45.Rd3 Kf4 46.Rd4+ Kg5 47.Rxd5 Rc7+ 48.Kxb5 Rxc3 49.Rd2
+Rb3 50.Kc5 Kf4 51.b5 g5 52.b6 g4 53.Rd4+ 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "7.2"]
+[White "Viela, Marco"]
+[Black "Damaso, Rui"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2101"]
+[BlackElo "2437"]
+[PlyCount "34"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.c3 b6 3.d4 Bb7 4.Bd3 Nf6 5.Nd2 cxd4 6.cxd4 Nc6 7.Ngf3 Nb4 8.Bc4 e6
+9.a3 d5 10.exd5 Nbxd5 11.Bb5+ Nd7 12.Ne5 Nf6 13.Ndc4 a6 14.Bxd7+ Nxd7 15.Nxd7
+Kxd7 16.O-O Ke8 17.Bf4 h6 1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "7.3"]
+[White "Wanderley, Rafaell"]
+[Black "Ferreira, Paulo"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "1993"]
+[BlackElo "2110"]
+[PlyCount "71"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.f3 Be7 9.
+Qd2 Nbd7 10.O-O-O Rc8 11.Qf2 Qc7 12.g4 h6 13.h4 b5 14.Nd5 Bxd5 15.exd5 Nc5 16.
+Qd2 Nxb3+ 17.axb3 Nxd5 18.Bd3 Nxe3 19.Qxe3 g5 20.h5 d5 21.Rhe1 Bf6 22.Rd2 O-O
+23.Red1 Rcd8 24.Bf5 Qc6 25.b4 Qc4 26.Qc5 Qa2 27.Rxd5 Qa1+ 28.Kd2 Qxb2 29.Ke2
+Rxd5 30.Rxd5 Qa1 31.Be4 Qh1 32.Qc6 Qg2+ 33.Kd3 Qf1+ 34.Kd2 Qf2+ 35.Kd1 Qf1+
+36.Kd2 1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "7.4"]
+[White "Vasquez, Maria"]
+[Black "Pinheiro, Albano"]
+[Result "1-0"]
+[ECO "E16"]
+[WhiteElo "1991"]
+[BlackElo "2079"]
+[PlyCount "51"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 Qe7 7.O-O Bxd2 8.Nbxd2 O-O
+9.Qc2 d6 10.Rfe1 Nbd7 11.e4 e5 12.d5 a5 13.Nb3 a4 14.Nbd2 Ra7 15.b4 axb3 16.
+axb3 Rfa8 17.Rxa7 Rxa7 18.Rb1 Qd8 19.Ne1 Qa8 20.b4 Ra2 21.Qc1 Qa3 22.Qxa3 Rxa3
+23.Rb2 Ra1 24.Nb1 Ba6 25.Nc2 Ra4 26.Nc3 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "7.5"]
+[White "Baptista, Ana"]
+[Black "Martins, Fernando"]
+[Result "0-1"]
+[ECO "C22"]
+[WhiteElo "2054"]
+[BlackElo "1894"]
+[PlyCount "62"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3 g6 5.Nc3 Bg7 6.Bd2 Nge7 7.Bc4 d6 8.O-O-O
+Bd7 9.Nge2 Ne5 10.Bb3 b5 11.f4 Nc4 12.Bxc4 bxc4 13.Nd5 O-O 14.Bc3 Nxd5 15.exd5
+Re8 16.Qf3 Bxc3 17.Nxc3 Rb8 18.h3 Qf6 19.g4 a5 20.Rh2 a4 21.g5 Qg7 22.Kb1 a3
+23.b3 Re7 24.Kc1 Rbe8 25.Re2 Rxe2 26.Nxe2 Qb2+ 27.Kd2 Bf5 28.Rc1 cxb3 29.Nc3
+Bxc2 30.Qg3 Bf5+ 31.Kd1 bxa2 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "7.6"]
+[White "Machado, Luis"]
+[Black "Barbosa, Fabio"]
+[Result "0-1"]
+[ECO "D91"]
+[WhiteElo "1620"]
+[BlackElo "1995"]
+[PlyCount "84"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bg5 c6 6.e3 O-O 7.Be2 a6 8.O-O dxc4 9.
+Bxc4 Nbd7 10.Qe2 Nb6 11.Bb3 Nbd5 12.e4 Nxc3 13.bxc3 Qc7 14.Rfe1 e6 15.Qd2 a5
+16.a3 b5 17.Bh6 Ba6 18.Bxg7 Kxg7 19.e5 Nd5 20.Re4 Rh8 21.Rae1 Rab8 22.Rh4 h5
+23.Ng5 Qe7 24.Bxd5 cxd5 25.Ra1 Rbc8 26.Rf4 Qxg5 27.Rxf7+ Kh6 28.f4 Qg4 29.f5+
+Qg5 30.Qf2 gxf5 31.h4 Qg4 32.Rf6+ Kg7 33.Rxe6 Rh6 34.Rxh6 Kxh6 35.e6 Re8 36.
+Re1 Re7 37.Qe3+ Kg6 38.Qe5 Qxh4 39.Re3 f4 40.Rh3 Qg5 41.Qd6 Bc8 42.Qd8 Bxe6
+0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "7.7"]
+[White "Viela, Andre"]
+[Black "Leite, Samuel"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2035"]
+[BlackElo "1802"]
+[PlyCount "63"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.Bd3 g6 7.b3 Bg7 8.Bb2 O-O
+9.O-O d6 10.c4 Qa5 11.Qc2 d5 12.exd5 cxd5 13.Nd2 Bb7 14.a3 dxc4 15.Nxc4 Qg5
+16.f3 Rac8 17.Rae1 Nh5 18.Bxg7 Kxg7 19.Qb2+ Kg8 20.Qe5 Qxe5 21.Nxe5 Rfd8 22.
+Bc4 Bd5 23.Re3 Bxc4 24.Nxc4 e6 25.g3 Nf6 26.Kf2 Rd4 27.Rb1 Nd5 28.Re4 Nb6 29.
+Nxb6 axb6 30.Rb2 Rc3 31.Re3 Rc1 32.Re1 1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "7.8"]
+[White "Pereira, Antonio Caramez"]
+[Black "Wanderley, Rodrigo"]
+[Result "0-1"]
+[ECO "A25"]
+[WhiteElo "1960"]
+[BlackElo "1430"]
+[PlyCount "44"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.c4 Nf6 2.Nc3 e5 3.g3 Nc6 4.Bg2 Bb4 5.e3 d6 6.Nge2 Be6 7.Qa4 Bd7 8.Qc2 O-O 9.
+O-O Re8 10.a3 Ba5 11.d3 Qc8 12.b4 Bb6 13.Re1 Bh3 14.Rb1 Qf5 15.a4 Ng4 16.Rf1
+Qh5 17.f3 Bxe3+ 18.Bxe3 Nxe3 19.Qd2 Nxf1 20.Rxf1 Bxg2 21.Kxg2 Nxb4 22.Nb5 Na6
+0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "7.9"]
+[White "Rodrigues, Antonio"]
+[Black "Pintor, Ariana"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "1849"]
+[BlackElo "2042"]
+[PlyCount "124"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Bd3 Bxd3 5.Qxd3 e6 6.f4 Ne7 7.Nf3 Nd7 8.O-O Qb6 9.
+Qb3 Qc7 10.Nh4 g6 11.g4 h5 12.f5 hxg4 13.fxe6 Rxh4 14.Qg3 Rh7 15.exf7+ Kd8 16.
+Qxg4 Nf5 17.Qxg6 Rg7 18.Bg5+ Be7 19.f8=Q+ Nxf8 20.Qxg7 Nxg7 21.Rxf8+ Ne8 22.
+Rf7 Bxg5 23.Rxc7 Nxc7 24.c3 Bc1 25.a4 Bxb2 26.Ra2 Bc1 27.Rg2 Be3+ 28.Kf1 Rc8
+29.Ke2 Bh6 30.Rg6 Bf8 31.h4 Kd7 32.Nd2 Ne6 33.Kf3 Be7 34.Kg4 Rf8 35.Nf3 Nf4
+36.Rh6 Ne2 37.e6+ Kd8 38.Ne5 Rf4+ 39.Kh3 Rxh4+ 40.Rxh4 Bxh4 41.Kxh4 Ke7 42.a5
+Kxe6 43.Nd3 Nxc3 44.Nc5+ Ke7 45.Nxb7 Nb5 46.Kg4 Nxd4 47.Kf4 Ke6 48.Ke3 Nb5 49.
+Nd8+ Kd7 50.Nb7 Nc7 51.Nc5+ Ke7 52.Na4 Ne6 53.Kd3 Kd6 54.Nc3 Kc7 55.Na4 Kb7
+56.Kc3 Ka6 57.Kb4 c5+ 58.Nxc5+ Nxc5 59.Kxc5 Kxa5 60.Kxd5 Kb4 61.Kd4 Kb3 62.Kd3
+a5 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "7.10"]
+[White "Castro, Francisco"]
+[Black "Furtado, Dinis"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "1956"]
+[BlackElo "1719"]
+[PlyCount "99"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 d5 2.exd5 Qxd5 3.Qf3 Qd6 4.Bc4 Nf6 5.Qb3 e6 6.Ne2 Nbd7 7.d4 Qb4+ 8.c3
+Qxb3 9.Bxb3 c5 10.Bg5 a6 11.a4 Ne4 12.Be3 Bd6 13.f3 Nef6 14.Nd2 cxd4 15.Bxd4
+Nc5 16.Bc2 Nd5 17.b4 Nd7 18.a5 f6 19.O-O Kf7 20.Nc4 Bc7 21.Bb3 b5 22.axb6
+N7xb6 23.Nxb6 Nxb6 24.Rfd1 Bb7 25.Kf1 Nd5 26.g3 Rhd8 27.Kf2 Bc6 28.Bc5 a5 29.
+b5 Bb7 30.c4 Nb6 31.Be3 Rxd1 32.Rxd1 Rd8 33.Rxd8 Bxd8 34.c5 Bd5 35.cxb6 Bxb3
+36.b7 Bc7 37.Ba7 e5 38.b6 Bd6 39.b8=Q Bxb8 40.Bxb8 Ke6 41.f4 Bd5 42.Nc3 Bc6
+43.fxe5 fxe5 44.Bc7 g6 45.Ke3 Kd7 46.Bxe5 Kc8 47.Kd4 a4 48.Kc5 Kb7 49.Bd4 Bf3
+50.Nxa4 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "7.11"]
+[White "Oliveira, Eduardo"]
+[Black "Martins, Hugo"]
+[Result "0-1"]
+[ECO "B21"]
+[WhiteElo "1923"]
+[BlackElo "2093"]
+[PlyCount "56"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.f4 Nc6 3.Nf3 d6 4.h3 g6 5.d3 Bg7 6.Nbd2 Nf6 7.c4 Nh5 8.Nb3 Ng3 9.Rg1
+a6 10.Kf2 Nxf1 11.Rxf1 b5 12.Qe2 bxc4 13.dxc4 O-O 14.g4 Bb7 15.Kg2 e5 16.f5
+Nd4 17.Qd3 gxf5 18.gxf5 Nxf5 19.Rg1 Nh4+ 20.Kh2 Kh8 21.Rg4 Nxf3+ 22.Qxf3 f5
+23.Rg3 Bxe4 24.Qh5 Qe8 25.Qg5 Qf7 26.Bd2 f4 27.Rgg1 Bf6 28.Qh6 Qxc4 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "7.12"]
+[White "Ribeiro, Duarte"]
+[Black "Felix, Joao"]
+[Result "0-1"]
+[ECO "B09"]
+[WhiteElo "2057"]
+[BlackElo "1890"]
+[PlyCount "72"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 c6 6.Bd3 O-O 7.e5 Nd5 8.Ne2 Nb4 9.Bc4
+Bf5 10.Bb3 dxe5 11.fxe5 N8a6 12.a3 Nd5 13.c4 Nb6 14.Be3 Nc7 15.O-O Nd7 16.Qd2
+b5 17.Nh4 Bg4 18.cxb5 cxb5 19.Nc3 Nb6 20.h3 Bc8 21.Rad1 Nbd5 22.Bg5 Be6 23.Ne4
+Nb6 24.Bxe6 Nxe6 25.Qb4 Nxg5 26.Nxg5 Nd5 27.Qe1 e6 28.Nhf3 Rc8 29.Ne4 Rc2 30.
+Rd2 Qc7 31.Qh4 Rxd2 32.Nfxd2 Qe7 33.Qxe7 Nxe7 34.Nd6 a6 35.N2e4 Nf5 36.Nc5
+Nxd6 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "7.13"]
+[White "Fonseca, Miguel"]
+[Black "Silva, Firmino"]
+[Result "0-1"]
+[ECO "A05"]
+[WhiteElo "1217"]
+[BlackElo "2037"]
+[PlyCount "80"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.Nf3 Nf6 2.g3 b5 3.Bg2 Bb7 4.O-O c5 5.d3 e6 6.Bg5 Be7 7.Nbd2 h6 8.Bxf6 Bxf6
+9.c3 O-O 10.a3 d6 11.e3 Nd7 12.d4 c4 13.a4 a6 14.axb5 axb5 15.Rxa8 Qxa8 16.Qa1
+Bc6 17.Qxa8 Rxa8 18.Rb1 d5 19.b3 Ra2 20.b4 Nb6 21.Rc1 Na4 22.Nb1 Ra1 23.Nfd2
+e5 24.Bh3 g6 25.Rc2 h5 26.f4 exd4 27.exd4 g5 28.Kg2 g4 29.Bxg4 hxg4 30.Rc1 Bd7
+31.f5 Bg5 32.Rf1 Bxd2 33.Nxd2 Rxf1 34.Kxf1 Nxc3 35.Kf2 Na2 36.Ke3 Bxf5 37.Kf4
+Be6 38.Nxc4 dxc4 39.Ke4 c3 40.Kd3 Bf5+ 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "7.14"]
+[White "Rodrigues, Pedro"]
+[Black "Pintor, Simao"]
+[Result "1-0"]
+[ECO "A23"]
+[WhiteElo "2001"]
+[BlackElo "1490"]
+[PlyCount "55"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 c6 4.Nf3 Qc7 5.Bg2 Bb4 6.Qb3 Bxc3 7.Qxc3 d6 8.d3 O-O 9.
+O-O Na6 10.b3 Re8 11.Bg5 Qe7 12.h3 h6 13.Bxf6 Qxf6 14.Nd2 Bf5 15.e4 Be6 16.f4
+Rad8 17.Kh2 Kh7 18.fxe5 Qxe5 19.d4 Qg5 20.Rf4 f5 21.Raf1 g6 22.h4 Qe7 23.exf5
+Bxf5 24.g4 Be6 25.h5 Qh4+ 26.Kg1 Qg5 27.d5 cxd5 28.Rf7+ 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "7.15"]
+[White "Sousa, Emanuel"]
+[Black "Margarido, Ricardo"]
+[Result "1-0"]
+[ECO "A16"]
+[WhiteElo "1899"]
+[BlackElo "1431"]
+[PlyCount "65"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.Nf3 d5 2.c4 Nf6 3.cxd5 Nxd5 4.Nc3 Nxc3 5.bxc3 g6 6.e3 Bg7 7.Be2 O-O 8.O-O c6
+9.d4 Nd7 10.Ba3 Re8 11.Rb1 Qc7 12.Qb3 Nb6 13.Rfc1 h6 14.e4 g5 15.h3 Qf4 16.Re1
+Qxe4 17.Bc4 Qg6 18.Rbd1 Nxc4 19.Qxc4 Be6 20.Qb4 Rab8 21.Ne5 Bxe5 22.Rxe5 Qc2
+23.Rde1 Qxa2 24.Bc1 Qc2 25.h4 g4 26.Bxh6 Kh7 27.Bf4 Rbd8 28.Rh5+ Kg7 29.Rg5+
+Kh7 30.Qxb7 Qxc3 31.Qb1+ Kh8 32.Rh5+ Kg7 33.Qh7+ 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "7.16"]
+[White "Ferreira, Ana Margarida"]
+[Black "Mateus, Francisco"]
+[Result "1-0"]
+[ECO "C65"]
+[WhiteElo "1408"]
+[BlackElo "1378"]
+[PlyCount "99"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Bc5 5.Nc3 d6 6.h3 Be6 7.d4 exd4 8.Nxd4 Qd7
+9.Nxe6 fxe6 10.a3 a6 11.Bd3 O-O 12.b4 Bd4 13.Bb2 Ne5 14.Rb1 Qf7 15.Na2 Bxb2
+16.Rxb2 Qg6 17.f4 Nxd3 18.cxd3 Nh5 19.Qc1 Rf7 20.g4 Nf6 21.f5 exf5 22.exf5 Qh6
+23.Qxh6 gxh6 24.Re2 Re8 25.Rxe8+ Nxe8 26.Re1 Kf8 27.Kf2 Re7 28.Rxe7 Kxe7 29.
+Ke3 Kf6 30.Kf4 Ng7 31.Nc3 c6 32.Ne4+ Kf7 33.Nxd6+ Kf6 34.Nxb7 h5 35.g5+ Kf7
+36.Nc5 Kf8 37.Nxa6 Ne8 38.Nb8 Kg7 39.Nxc6 h4 40.b5 h5 41.b6 Nd6 42.b7 Nxb7 43.
+f6+ Kf7 44.Ke5 Nc5 45.d4 Nd3+ 46.Kf5 Nf2 47.g6+ Kf8 48.g7+ Kg8 49.Kg6 Ne4 50.
+f7# 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "7.17"]
+[White "Gomes, Estevao"]
+[Black "Almeida, Augusto"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[WhiteElo "1980"]
+[BlackElo "1691"]
+[PlyCount "75"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Bd6 5.c3 Nf6 6.Ne2 O-O 7.h3 Re8 8.Be3 Be6 9.
+Qc2 Nbd7 10.Nd2 c5 11.O-O c4 12.Bf5 Qb6 13.Bxe6 Rxe6 14.Rfe1 Rae8 15.b3 Qc7
+16.bxc4 dxc4 17.Rab1 Nd5 18.Nf1 g6 19.Qd2 f5 20.g3 N7f6 21.Rec1 Ne4 22.Qb2
+Nxf2 23.Bxf2 Rxe2 24.Qxb7 Qxb7 25.Rxb7 Rxa2 26.Rd7 Ra3 27.Rb1 Nf6 28.Rdb7 g5
+29.Ne3 Bxg3 30.Nxf5 Bxf2+ 31.Kxf2 Ne4+ 32.Kg2 Ra2+ 33.Kf1 Nxc3 34.Nh6+ Kh8 35.
+Nf7+ Kg8 36.Nh6+ Kh8 37.Nf7+ Kg8 38.Nh6+ 1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "7.18"]
+[White "Ferreira, Susana"]
+[Black "Costa, Catarina"]
+[Result "1-0"]
+[ECO "D18"]
+[WhiteElo "1351"]
+[BlackElo "1277"]
+[PlyCount "97"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Be7 8.O-O O-O 9.
+h3 Ne4 10.Nxe4 Bxe4 11.Bd2 Nd7 12.Bc3 Nf6 13.Bd3 Bxd3 14.Qxd3 c5 15.Rfd1 Rc8
+16.dxc5 Qxd3 17.Rxd3 Rxc5 18.Bb4 Rc7 19.Bxe7 Rxe7 20.Rc1 Nd5 21.Rd4 a5 22.Rdc4
+Nb6 23.Rc7 Rxc7 24.Rxc7 Nxa4 25.Rxb7 Ra8 26.Rb5 h6 27.Nd2 Kh7 28.Nc4 Kg6 29.b3
+Nc3 30.Rxa5 Rxa5 31.Nxa5 Kf5 32.Kf1 Ke4 33.Ke1 Kd3 34.Nc6 f6 35.g4 Na2 36.Nd4
+e5 37.Nf5 g6 38.Nxh6 Ke4 39.Kf1 Nc3 40.b4 f5 41.gxf5 gxf5 42.h4 f4 43.exf4
+Kxf4 44.Nf7 Kg4 45.Nxe5+ Kxh4 46.Kg2 Kg5 47.Kf3 Kf5 48.Nd3 Ke6 49.Ke3 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.10"]
+[Round "7.19"]
+[White "Tavares, Tiago"]
+[Black "Almeida, Jorge"]
+[Result "1-0"]
+[ECO "E70"]
+[BlackElo "1905"]
+[PlyCount "67"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 g6 4.Bg5 Bg7 5.e4 O-O 6.Qd2 e5 7.Nf3 exd4 8.Nxd4 Nc6 9.
+Nxc6 bxc6 10.Bd3 Re8 11.O-O Qd7 12.Rad1 Kh8 13.Be2 c5 14.Rfe1 Rb8 15.b3 Bb7
+16.Bh6 Nh5 17.Bxg7+ Nxg7 18.Qh6 Ne6 19.Nd5 Bxd5 20.Rxd5 Nd4 21.Bd3 f6 22.e5 f5
+23.e6 Rxe6 24.Rxe6 Qxe6 25.Qe3 Re8 26.Qxe6 Rxe6 27.h3 c6 28.Rxd4 cxd4 29.a4
+Re5 30.b4 d5 31.c5 Re1+ 32.Kh2 Rd1 33.Be2 d3 34.Bxd1 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "8.1"]
+[White "Vasquez, Maria"]
+[Black "Galego, Luis"]
+[Result "0-1"]
+[ECO "A54"]
+[WhiteElo "1991"]
+[BlackElo "2489"]
+[PlyCount "64"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 Nf6 2.Nf3 d6 3.Bg5 Nbd7 4.c4 e5 5.e3 Be7 6.Nc3 O-O 7.Be2 h6 8.Bxf6 Bxf6
+9.O-O g6 10.Qc2 Bg7 11.dxe5 dxe5 12.e4 c6 13.b4 Qe7 14.a3 Re8 15.c5 Nf8 16.Bc4
+Ne6 17.Bxe6 Bxe6 18.Nd2 h5 19.Ne2 Red8 20.Rad1 h4 21.h3 a5 22.Nc4 axb4 23.axb4
+Qg5 24.Kh1 Bxc4 25.Qxc4 Rd2 26.Qc1 Rad8 27.Ng1 Qf4 28.Rxd2 Rxd2 29.Qe1 Rc2 30.
+Nf3 Rc4 31.Qa1 Rxb4 32.Rb1 Qxe4 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "8.3"]
+[White "Barbosa, Fabio"]
+[Black "Viela, Marco"]
+[Result "1-0"]
+[ECO "D03"]
+[WhiteElo "1995"]
+[BlackElo "2101"]
+[PlyCount "75"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.Nf3 d5 2.d4 e6 3.Bg5 Nf6 4.e3 c5 5.c3 Nc6 6.Bd3 Bd6 7.Nbd2 e5 8.dxe5 Nxe5 9.
+Nxe5 Bxe5 10.Nf3 Qd6 11.Nxe5 Qxe5 12.Bxf6 gxf6 13.Bb5+ Ke7 14.Qd2 Rg8 15.f3
+Qg5 16.O-O-O Be6 17.g3 Rgd8 18.f4 Qh5 19.h3 f5 20.g4 Qh6 21.Bd3 Qf6 22.Rhg1
+Rac8 23.gxf5 Bxf5 24.Bxf5 Qxf5 25.Rg5 Qxh3 26.Rxd5 Rxd5 27.Qxd5 Qxe3+ 28.Kb1
+Qe6 29.Qxb7+ Kf8 30.a4 Qf5+ 31.Ka1 Re8 32.Qxa7 h5 33.Qc7 Ra8 34.a5 Kg7 35.Rg1+
+Kh7 36.Rg5 Qe6 37.Rxh5+ Kg6 38.f5+ 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "8.4"]
+[White "Padeiro, Jose"]
+[Black "Wanderley, Rafaell"]
+[Result "1/2-1/2"]
+[ECO "B51"]
+[WhiteElo "2210"]
+[BlackElo "1993"]
+[PlyCount "54"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.O-O Nf6 5.Re1 a6 6.Bf1 e6 7.c3 Be7 8.d4 O-O 9.
+Bf4 b5 10.a4 Bb7 11.Nbd2 Bc6 12.Bd3 Qc7 13.h3 Rfd8 14.Qe2 Qb7 15.Bh2 Nf8 16.
+dxc5 dxc5 17.Ne5 Be8 18.axb5 axb5 19.Rxa8 Qxa8 20.Ndf3 Qb7 21.g4 Bd6 22.Ra1
+N6d7 23.Bg3 Nxe5 24.Bxe5 Qb8 25.Bxd6 Qxd6 26.Bxb5 Bxb5 27.Qxb5 Ng6 1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "8.5"]
+[White "Ferreira, Paulo"]
+[Black "Wanderley, Rodrigo"]
+[Result "1-0"]
+[ECO "D58"]
+[WhiteElo "2110"]
+[BlackElo "1430"]
+[PlyCount "63"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Bg5 Be7 5.Nc3 O-O 6.e3 h6 7.Bh4 b6 8.Rc1 Bb7 9.Bd3
+Nbd7 10.O-O Ne4 11.Bxe7 Nxc3 12.Rxc3 Qxe7 13.cxd5 Bxd5 14.e4 Bxa2 15.Qa4 c5
+16.Qxa2 cxd4 17.Nxd4 Qd6 18.Nb5 Qf4 19.g3 Qg4 20.Kg2 Ne5 21.f3 Qh5 22.Be2 Rfd8
+23.b3 g5 24.f4 g4 25.fxe5 Qxe5 26.Qc2 a6 27.Na3 b5 28.Rc7 Rd4 29.Rfxf7 Rxe4
+30.Bxg4 Rd8 31.Rg7+ Kf8 32.Qf2+ 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "8.6"]
+[White "Martins, Hugo"]
+[Black "Machado, Luis"]
+[Result "1-0"]
+[ECO "B13"]
+[WhiteElo "2093"]
+[BlackElo "1620"]
+[PlyCount "51"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nc6 5.Nc3 Nf6 6.Bg5 dxc4 7.d5 Ne5 8.Qd4 Ned7
+9.Bxc4 a6 10.a4 g6 11.Nf3 Bg7 12.O-O O-O 13.Qh4 Nb6 14.Bb3 Re8 15.Rad1 Qd6 16.
+Rfe1 Bf5 17.a5 Nc8 18.Ne5 Nd7 19.Nxd7 Qxd7 20.Ba4 Qd8 21.Bxe8 Qxe8 22.Bxe7 Qd7
+23.Bf6 Bf8 24.Ne4 Qb5 25.Bc3 Bxe4 26.Qf6 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "8.7"]
+[White "Pinheiro, Albano"]
+[Black "Castro, Francisco"]
+[Result "1-0"]
+[ECO "C18"]
+[WhiteElo "2079"]
+[BlackElo "1956"]
+[PlyCount "79"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Qg4 Qc7 8.Qxg7 Rg8
+9.Qxh7 cxd4 10.Ne2 Nbc6 11.f4 Bd7 12.Qd3 dxc3 13.Nxc3 Nf5 14.g3 Rc8 15.Bd2
+Ncd4 16.Bh3 Nxc2+ 17.Qxc2 d4 18.Bxf5 dxc3 19.Qxc3 exf5 20.Qxc7 Rxc7 21.Rc1
+Rxc1+ 22.Bxc1 Ke7 23.Be3 Rc8 24.Kd2 a6 25.Rb1 Bc6 26.Bc5+ Ke6 27.Bb6 Ke7 28.
+Rb2 Kf8 29.Rc2 Kg7 30.Ke3 Rh8 31.Rd2 Rh6 32.Bd8 Re6 33.Bf6+ Kg6 34.h3 Be4 35.
+Rd8 Rb6 36.Rg8+ Kh6 37.g4 Rb3+ 38.Kd2 fxg4 39.hxg4 Rxa3 40.f5 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "8.9"]
+[White "Pintor, Ariana"]
+[Black "Viela, Andre"]
+[Result "1/2-1/2"]
+[ECO "E65"]
+[WhiteElo "2042"]
+[BlackElo "2035"]
+[PlyCount "52"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.g3 d6 5.Bg2 O-O 6.O-O Nbd7 7.Nc3 c5 8.h3 Rb8 9.e4
+cxd4 10.Nxd4 a6 11.Be3 Ne5 12.b3 Bd7 13.Rc1 Qa5 14.Qe2 Rfc8 15.g4 e6 16.Rfd1
+Ne8 17.f4 Nc6 18.Qf2 Nxd4 19.Bxd4 Bxd4 20.Qxd4 Bc6 21.Kh2 Rd8 22.Qf2 Ng7 23.
+Rd2 Rd7 24.Qg3 Rbd8 25.Rcd1 Kh8 26.Ne2 Qc5 1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "8.10"]
+[White "Silva, Firmino"]
+[Black "Rodrigues, Pedro"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "2037"]
+[BlackElo "2001"]
+[PlyCount "69"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nf3 e6 3.d3 Nc6 4.g3 d6 5.Bg2 g6 6.O-O Bg7 7.c3 Nge7 8.Nh4 O-O 9.f4
+f5 10.Nd2 Qc7 11.g4 fxg4 12.Qxg4 d5 13.e5 Nf5 14.Nxf5 Rxf5 15.Nf3 Ne7 16.Nh4
+Rf8 17.Bf3 Bd7 18.Rf2 d4 19.c4 Bc6 20.Qxe6+ Kh8 21.Bxc6 Nxc6 22.Bd2 Rae8 23.
+Qh3 Kg8 24.Nf3 Nd8 25.Ng5 h6 26.Ne4 Nf7 27.Raf1 g5 28.e6 Nd6 29.Nxd6 Qxd6 30.
+f5 Qe7 31.Qh5 Qf6 32.h4 gxh4 33.Rf4 Qg5+ 34.Qxg5 hxg5 35.Rg4 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "8.11"]
+[White "Felix, Joao"]
+[Black "Pereira, Antonio Caramez"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "1890"]
+[BlackElo "1960"]
+[PlyCount "41"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 d5 2.Nf3 Nf6 3.Bf4 e6 4.e3 Bd6 5.Bxd6 Qxd6 6.c3 Nbd7 7.Nbd2 e5 8.Nxe5
+Nxe5 9.dxe5 Qxe5 10.Nf3 Qe7 11.Be2 c6 12.O-O Ne4 13.Nd2 Nxd2 14.Qxd2 Qg5 15.
+Rfe1 O-O 16.Bf1 Bf5 17.Bd3 Bh3 18.Bf1 Bf5 19.Bd3 Bh3 20.Bf1 Bf5 21.Bd3 1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "8.12"]
+[White "Ferreira, Ana Margarida"]
+[Black "Sousa, Emanuel"]
+[Result "1/2-1/2"]
+[ECO "B95"]
+[WhiteElo "1408"]
+[BlackElo "1899"]
+[PlyCount "33"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.Bc4 Be7 8.O-O b5 9.
+Bd3 Bb7 10.a3 h6 11.Bh4 O-O 12.Bg3 Nbd7 13.f4 Nc5 14.Qe2 Rc8 15.Rad1 Qb6 16.
+Bf2 Qc7 17.h3 1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "8.14"]
+[White "Pintor, Simao"]
+[Black "Ribeiro, Duarte"]
+[Result "1-0"]
+[ECO "D18"]
+[WhiteElo "1490"]
+[BlackElo "2057"]
+[PlyCount "65"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.Qb3 a5 9.
+O-O Nbd7 10.Na2 Bd6 11.Qxb7 Rb8 12.Qa6 O-O 13.Bd3 Rb6 14.Qc4 Bg4 15.Ng5 h6 16.
+Ne4 Nxe4 17.Bxe4 Qh4 18.g3 Qh5 19.Bg2 Be2 20.Qc2 Bxf1 21.Bxf1 Rfb8 22.Nc3 f5
+23.Bc4 Qg6 24.e4 Kh8 25.exf5 exf5 26.Bd3 Rf8 27.Be3 Rbb8 28.Ne2 Rbc8 29.Ba6
+Rc7 30.Nf4 Bxf4 31.Bxf4 Ra7 32.Bd3 Nb6 33.Qc5 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "8.15"]
+[White "Margarido, Ricardo"]
+[Black "Gomes, Estevão"]
+[Result "0-1"]
+[ECO "C55"]
+[WhiteElo "1431"]
+[BlackElo "1980"]
+[PlyCount "84"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O d6 6.h3 O-O 7.c3 h6 8.Re1 Bd7 9.
+Nbd2 Qc8 10.Nf1 Na5 11.Bb3 Nxb3 12.axb3 Nh7 13.Ne3 f5 14.Nd5 Bd8 15.Nh2 f4 16.
+d4 c6 17.Nb4 Ng5 18.Nf3 Nxf3+ 19.Qxf3 Kh7 20.dxe5 dxe5 21.Nd3 Bc7 22.Nc5 Bb6
+23.Nxd7 Qxd7 24.Rd1 Qe6 25.b4 Rad8 26.Bd2 Qb3 27.Rab1 Rd7 28.Be1 Rxd1 29.Qxd1
+Qc4 30.Qc2 Rd8 31.b3 Qd3 32.Qxd3 Rxd3 33.Kf1 Kg6 34.Ke2 Rd7 35.Rd1 Rxd1 36.
+Kxd1 Kh5 37.Ke2 Kh4 38.Kd3 f3 39.gxf3 Kxh3 40.c4 Kg2 41.c5 Bc7 42.Ke2 g5 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "8.16"]
+[White "Fonseca, Miguel"]
+[Black "Oliveira, Eduardo"]
+[Result "0-1"]
+[ECO "A07"]
+[WhiteElo "1217"]
+[BlackElo "1923"]
+[PlyCount "48"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.Nf3 d5 2.g3 Nc6 3.Bg2 e5 4.d3 h6 5.O-O Nf6 6.b3 Bd6 7.Bb2 O-O 8.c4 dxc4 9.
+dxc4 Qe7 10.e3 Rd8 11.Qd3 Bg4 12.Qc2 Nb4 13.Qc1 Bf5 14.Nc3 c6 15.Ne2 Nd3 16.
+Qd2 Qe6 17.Nc1 Bb4 18.Qe2 Nxc1 19.Bxc1 Bd3 20.Qd1 Bc3 21.Ba3 Bxf1 22.Qxf1 Bxa1
+23.Qxa1 Re8 24.Bb2 Nd7 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "8.17"]
+[White "Almeida, Jorge"]
+[Black "Almeida, Augusto"]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[WhiteElo "1905"]
+[BlackElo "1691"]
+[PlyCount "40"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 d5 2.Nf3 c6 3.c4 dxc4 4.e3 Be6 5.Be2 Nf6 6.O-O Nbd7 7.Qc2 Nb6 8.Nbd2 Bg4
+9.Nxc4 Nxc4 10.Qxc4 e6 11.Bd2 Qd5 12.Rac1 Ne4 13.Qxd5 exd5 14.Ba5 Ng5 15.Nxg5
+Bxe2 16.Rfe1 Bd3 17.e4 dxe4 18.Nxe4 Bxe4 19.f3 Kd7 20.fxe4 Bd6 1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "8.18"]
+[White "Mateus, Francisco"]
+[Black "Costa, Catarina"]
+[Result "0-1"]
+[ECO "B13"]
+[WhiteElo "1378"]
+[BlackElo "1277"]
+[PlyCount "102"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.Bf4 Bg4 7.f3 Bh5 8.Nd2 e6 9.
+Ne2 Be7 10.O-O Bg6 11.Nc1 Rc8 12.Qb3 Qd7 13.Re1 Bxd3 14.Nxd3 Na5 15.Qc2 Nc6
+16.Re2 Nxd4 17.Qd1 Nxe2+ 18.Qxe2 O-O 19.Ne5 Qd8 20.Qf2 Bc5 21.Be3 Bxe3 22.Qxe3
+Qb6 23.Qxb6 axb6 24.Rf1 Rc7 25.f4 Nd7 26.Ng4 h5 27.Ne3 Nf6 28.Rf3 Rd8 29.Rg3
+d4 30.cxd4 Rxd4 31.Nf3 Rxf4 32.Rg5 Rc1+ 33.Kf2 Ne4+ 34.Ke2 Nxg5 35.Nxg5 Rd4
+36.Nf3 Rd8 37.Nd2 f5 38.Nb3 Rb1 39.Nd2 Rxb2 40.Nc4 Rxa2 41.Nxb6 Rdxd2+ 42.Ke3
+Rxg2 43.Kf4 Rxh2 44.Nd7 Ra5 45.Nb6 Rh4+ 46.Kg5 Rg4+ 47.Kxh5 g6+ 48.Kh6 Kf7 49.
+Nc8 Ra8 50.Nd6+ Kf6 51.Kh7 Rh4# 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "8.19"]
+[White "Tavares, Tiago"]
+[Black "Ferreira, Susana"]
+[Result "0-1"]
+[ECO "D43"]
+[BlackElo "1351"]
+[PlyCount "58"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Bg5 e6 5.Nf3 Be7 6.e3 O-O 7.Bd3 h6 8.Bf4 Nbd7 9.
+O-O Re8 10.e4 dxe4 11.Nxe4 Nxe4 12.Bxe4 Nb6 13.Qd3 f5 14.Rfe1 fxe4 15.Rxe4 Bf6
+16.c5 Nd5 17.Bd2 e5 18.Nxe5 Bf5 19.Qe2 Bxe4 20.Qxe4 Bxe5 21.dxe5 Nf6 22.Qf4
+Nh5 23.Qc4+ Kh8 24.Qc3 g5 25.e6+ Ng7 26.Re1 Re7 27.Re5 Kg8 28.Bxg5 hxg5 29.
+Rxg5 Qd1+ 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "9.1"]
+[White "Galego, Luis"]
+[Black "Barbosa, Fabio"]
+[Result "1-0"]
+[ECO "B80"]
+[WhiteElo "2489"]
+[BlackElo "1995"]
+[PlyCount "43"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 Nc6 4.g3 d6 5.Bg2 Nf6 6.O-O Be7 7.d4 cxd4 8.Nxd4 a6 9.
+Nxc6 bxc6 10.e5 Nd5 11.exd6 Bxd6 12.Ne4 Be7 13.c4 Nb6 14.Qxd8+ Bxd8 15.Nd6+
+Ke7 16.Rd1 Bd7 17.b3 f6 18.Ba3 g6 19.Bc5 Kf8 20.Nc8+ Ke8 21.Nxb6 Bxb6 22.Bxb6
+1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "9.2"]
+[White "Damaso, Rui"]
+[Black "Ferreira, Paulo"]
+[Result "1-0"]
+[ECO "B66"]
+[WhiteElo "2437"]
+[BlackElo "2110"]
+[PlyCount "59"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nge2 Nf6 4.d4 cxd4 5.Nxd4 d6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O a6
+9.f4 h6 10.Bxf6 gxf6 11.Be2 h5 12.Bf3 Bd7 13.Qe2 Qb6 14.Nb3 h4 15.Kb1 Na5 16.
+e5 fxe5 17.fxe5 d5 18.Bxd5 Bb4 19.Ne4 O-O-O 20.Bc4 Bc6 21.Bd3 Nxb3 22.axb3 h3
+23.Rhf1 hxg2 24.Qxg2 Rdg8 25.Qf3 Rg7 26.Qf6 Rhg8 27.h4 Qe3 28.Ng5 Bg2 29.Rf4
+Bd2 30.Rf2 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "9.3"]
+[White "Padeiro, Jose"]
+[Black "Vasquez, Maria"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2210"]
+[BlackElo "1991"]
+[PlyCount "39"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 c6 4.a4 a5 5.f4 g6 6.Nf3 Bg7 7.Bd3 Qb6 8.e5 Nd5 9.exd6
+Qb4 10.dxe7 Bxd4 11.Nxd4 Nxc3 12.Qd2 Qxd4 13.bxc3 Qb6 14.Ba3 Be6 15.f5 gxf5
+16.O-O-O c5 17.Bxf5 Kxe7 18.Qg5+ Ke8 19.Bxe6 fxe6 20.Qh5+ 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "9.4"]
+[White "Viela, Marco"]
+[Black "Baptista, Ana"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2101"]
+[BlackElo "2054"]
+[PlyCount "119"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 Bf5 6.Bc4 e6 7.Bd2 c6 8.Nd5 Qd8
+9.Nxf6+ gxf6 10.Qe2 Bd6 11.O-O-O Qe7 12.Nh4 Bg6 13.f4 f5 14.Nf3 Nd7 15.Ne5
+O-O-O 16.h4 Bxe5 17.fxe5 h5 18.Bg5 Qb4 19.Bxd8 Rxd8 20.a3 Qa5 21.Rh3 Qc7 22.
+Rg3 Kb8 23.Bxe6 f4 24.Rg5 Nf8 25.Bf5 Nh7 26.Rxg6 fxg6 27.Bxg6 Nf8 28.Bxh5 Ne6
+29.Qc4 Qe7 30.Bf3 Ng7 31.Qb4 Qc7 32.h5 Nf5 33.Be4 Qf7 34.Bxf5 Qxf5 35.Qe7 Kc8
+36.h6 f3 37.gxf3 Qf4+ 38.Kb1 Qxh6 39.Qf6 Qxf6 40.exf6 Rf8 41.Rf1 Rxf6 42.f4
+Rf5 43.c4 Kd7 44.Kc2 Ke6 45.Kd3 b5 46.b3 bxc4+ 47.bxc4 Ra5 48.Ke4 Rxa3 49.f5+
+Ke7 50.Rh1 a5 51.Rh7+ Kd8 52.f6 Ke8 53.Rc7 Ra1 54.Rxc6 Kf7 55.Ra6 a4 56.Kd5 a3
+57.c5 a2 58.c6 Rf1 59.Rxa2 Rxf6 60.c7 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "9.5"]
+[White "Martins, Fernando"]
+[Black "Martins, Hugo"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "1894"]
+[BlackElo "2093"]
+[PlyCount "90"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Qb6 5.Nf3 Nc6 6.Be2 cxd4 7.cxd4 Nge7 8.Na3 Nf5 9.
+Nc2 Bb4+ 10.Kf1 h5 11.h4 Bd7 12.a3 Be7 13.b4 Rc8 14.Be3 Nb8 15.a4 Bxb4 16.Nxb4
+Qxb4 17.Bd2 Qb6 18.Rb1 Qc7 19.Bd3 Nc6 20.Bxf5 exf5 21.Qb3 Nd8 22.Rc1 Bc6 23.g3
+Qd7 24.Qa3 Bxa4 25.Rxc8 Bb5+ 26.Kg2 Qxc8 27.Qxa7 O-O 28.Rb1 Bd3 29.Rc1 Nc6 30.
+Qa3 Be4 31.Bb4 Rd8 32.Qe3 Qe6 33.Bc3 Ra8 34.Kh2 Bxf3 35.Qxf3 g6 36.Qf4 b5 37.
+Bd2 b4 38.Rb1 Rb8 39.Rb3 Qe7 40.Rb2 Rb7 41.Ra2 b3 42.Rb2 Qa3 43.Bc3 Nd8 44.Qf3
+Rb5 45.Qe2 Qa4 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "9.6"]
+[White "Wanderley, Rafaell"]
+[Black "Pinheiro, Albano"]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "1993"]
+[BlackElo "2079"]
+[PlyCount "57"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.Re1 d6 6.c3 a6 7.Bf1 Bg4 8.h3 Bxf3 9.
+Qxf3 e6 10.d3 Nge7 11.Be3 O-O 12.Qg3 f5 13.f4 b6 14.Nd2 Qd7 15.Nf3 e5 16.Rad1
+Rad8 17.Be2 Qe6 18.a3 d5 19.b4 exf4 20.Bxf4 fxe4 21.dxe4 Qxe4 22.Bd2 Ne5 23.
+bxc5 bxc5 24.Kh1 Nf5 25.Qf2 Nxf3 26.Bxf3 Qc4 27.g4 Nh4 28.Qxh4 Rxf3 29.Qxd8+
+1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "9.7"]
+[White "Wanderley, Rodrigo"]
+[Black "Pintor, Ariana"]
+[Result "0-1"]
+[ECO "A55"]
+[WhiteElo "1430"]
+[BlackElo "2042"]
+[PlyCount "72"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 Nf6 2.c4 d6 3.Nf3 c6 4.Nc3 Nbd7 5.e4 e5 6.d5 Be7 7.Be2 O-O 8.O-O a6 9.b4
+cxd5 10.cxd5 b5 11.h3 Nb6 12.Be3 Nfd7 13.Nd2 Bb7 14.Nb3 Rc8 15.Qd2 f5 16.f3 f4
+17.Bf2 Bh4 18.Na5 Bxf2+ 19.Kxf2 Ba8 20.Rfc1 Qh4+ 21.Kf1 Rf6 22.Nxb5 axb5 23.
+Bxb5 Rff8 24.a4 Nf6 25.Nc6 Nxe4 26.fxe4 f3 27.Kg1 fxg2 28.Qe3 Bxc6 29.Bxc6 Rf4
+30.Kh2 Rf2 31.Rg1 Rcf8 32.Qg3 Qxe4 33.Qg4 R8f4 34.Qe6+ Kh8 35.Qe8+ Rf8 36.Qe6
+Qf4# 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "9.8"]
+[White "Viela, Andre"]
+[Black "Silva, Firmino"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "2035"]
+[BlackElo "2037"]
+[PlyCount "141"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.O-O Nc6 6.c4 g6 7.d4 cxd4 8.Nxd4
+Bg7 9.Be3 Nf6 10.Nc3 Ng4 11.Nc2 Nxe3 12.Nxe3 Qd8 13.Rc1 O-O 14.Qd2 Qa5 15.a3
+Rac8 16.Qd3 Rfe8 17.Ncd1 Ne5 18.Qe2 b5 19.f4 Nxc4 20.Nxc4 bxc4 21.Rxc4 Qb6+
+22.Kh1 Rxc4 23.Qxc4 Bxb2 24.f5 Bf6 25.fxg6 hxg6 26.Nf2 Qd4 27.Qb3 e6 28.Ng4
+Bg7 29.Qf3 Rd8 30.Re1 Qc5 31.h3 Rb8 32.Qg3 Rb6 33.Rf1 Rb7 34.Rd1 e5 35.Qd3 Rb6
+36.Ne3 Qb5 37.Qxb5 Rxb5 38.Rxd6 Bf8 39.Ra6 Rb3 40.Nc4 Rc3 41.Ra4 Bc5 42.Nxe5
+Rxa3 43.Rxa3 Bxa3 44.Nc6 Bc5 45.g4 Kf8 46.Kg2 Ke8 47.Kf3 g5 48.e5 Kd7 49.Na5
+Ke6 50.Ke4 Bb6 51.Nb3 a5 52.Nc1 a4 53.Nd3 a3 54.Nb4 Bc7 55.Nc2 a2 56.Nd4+ Ke7
+57.Nb3 Bb6 58.Kf5 Bd4 59.Kxg5 Bxe5 60.h4 a1=Q 61.Nxa1 Bxa1 62.Kf5 Kf8 63.h5
+Kg7 64.g5 Bc3 65.g6 f6 66.Ke6 Bb2 67.Kf5 Bc3 68.Ke6 Kh6 69.Kf5 Kg7 70.Ke6 Kh6
+71.Kf5 1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "9.9"]
+[White "Pereira, Antonio Caramez"]
+[Black "Leite, Samuel"]
+[Result "0-1"]
+[ECO "A17"]
+[WhiteElo "1960"]
+[BlackElo "1802"]
+[PlyCount "57"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.c4 Nf6 2.Nc3 e6 3.g3 d5 4.cxd5 exd5 5.d4 c6 6.Bg2 Bd6 7.e3 Bf5 8.Nge2 Na6 9.
+a3 Nc7 10.O-O O-O 11.b4 Qd7 12.Na4 Rae8 13.Nc5 Qc8 14.Bb2 Bh3 15.Rc1 Bxg2 16.
+Kxg2 Ne6 17.Nd3 Ng5 18.Ndf4 Nh5 19.Nc3 Nxf4+ 20.exf4 Qh3+ 21.Kg1 Bxf4 22.Rc2
+Re6 23.f3 Be3+ 24.Kh1 Bxd4 25.f4 Ne4 26.Nxe4 Rxe4 27.Bxd4 Rxd4 28.Qxd4 Qxf1+
+29.Qg1 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "9.10"]
+[White "Castro, Francisco"]
+[Black "Rodrigues, Antonio"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "1956"]
+[BlackElo "1849"]
+[PlyCount "60"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 g6 2.d4 Bg7 3.f4 d6 4.Nf3 Bg4 5.Be3 Nf6 6.Bd3 O-O 7.h3 Bxf3 8.Qxf3 c6 9.
+Nd2 Nbd7 10.g4 e5 11.dxe5 dxe5 12.f5 h6 13.h4 Nh7 14.Bc4 g5 15.hxg5 Nxg5 16.
+Qg2 Nb6 17.Bb3 Qf6 18.O-O-O Rac8 19.Rh5 Nd5 20.exd5 e4 21.Nxe4 Qxb2+ 22.Kd2
+Nxe4+ 23.Qxe4 cxd5 24.Qd3 Rc3 25.Qb5 Rxc2+ 26.Ke1 a6 27.Qd3 Rg2 28.g5 Re8 29.
+Kf1 Rg3 30.Qxd5 Rg1+ 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "9.11"]
+[White "Machado, Luis"]
+[Black "Felix, Joao"]
+[Result "0-1"]
+[ECO "A08"]
+[WhiteElo "1620"]
+[BlackElo "1890"]
+[PlyCount "54"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.Nf3 c5 2.g3 Nc6 3.Bg2 d5 4.d3 e5 5.Nbd2 f5 6.e4 fxe4 7.dxe4 Be6 8.exd5 Bxd5
+9.O-O Nf6 10.Re1 Qc7 11.Nxe5 O-O-O 12.Nef3 Bd6 13.c3 h5 14.b4 h4 15.b5 hxg3
+16.hxg3 Ne5 17.Qc2 Ned7 18.c4 Bxf3 19.Nxf3 Bxg3 20.fxg3 Qxg3 21.Qf5 Ng4 22.Be3
+Rhf8 23.Qe4 Rde8 24.Qd5 Nxe3 25.Rxe3 Rxe3 26.Rd1 Re7 27.Nh2 Re1+ 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "9.12"]
+[White "Rodrigues, Pedro"]
+[Black "Sousa, Emanuel"]
+[Result "1-0"]
+[ECO "B38"]
+[WhiteElo "2001"]
+[BlackElo "1899"]
+[PlyCount "79"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.c4 Nf6 2.Nc3 c5 3.Nf3 Nc6 4.d4 cxd4 5.Nxd4 g6 6.e4 Bg7 7.Be3 d6 8.f3 Qb6 9.
+Nf5 Qxb2 10.Nxg7+ Kf8 11.Rc1 Kxg7 12.Rc2 Qa3 13.Kf2 Qa5 14.Nd5 Nxd5 15.cxd5
+Ne5 16.h3 Nd7 17.Qc1 h5 18.f4 Nf6 19.Qb2 Kh7 20.Bd3 Re8 21.Bd4 Qd8 22.g4 h4
+23.Qc1 e5 24.fxe5 dxe5 25.Be3 Bxg4 26.hxg4 Nxg4+ 27.Ke2 Nxe3 28.Qxe3 g5 29.Qf3
+Kg7 30.Qg4 Kh6 31.Qf5 Qe7 32.Rhc1 Qd6 33.Rc7 Re7 34.Rc8 Rxc8 35.Rxc8 Qg6 36.
+Rh8+ Kg7 37.Qc8 Kf6 38.Qd8 h3 39.d6 Kg7 40.Qf8+ 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "9.13"]
+[White "Gomes, Estevao"]
+[Black "Ferreira, Ana Margarida"]
+[Result "1/2-1/2"]
+[ECO "B34"]
+[WhiteElo "1980"]
+[BlackElo "1408"]
+[PlyCount "138"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.Be3 Bg7 6.Nc3 a6 7.Qd2 Nf6 8.f3 O-O 9.
+O-O-O Qc7 10.Be2 d6 11.Nb3 b5 12.Rdg1 Ne5 13.h4 Nc4 14.Bxc4 bxc4 15.Nd4 h5 16.
+g4 Rb8 17.gxh5 Nxh5 18.Nd5 Qb7 19.c3 Bxd4 20.cxd4 e5 21.dxe5 dxe5 22.Qc3 Be6
+23.Bc5 Rfd8 24.Be7 Rd7 25.Nf6+ Nxf6 26.Bxf6 Rd3 27.Qxe5 c3 28.Rxg6+ fxg6 29.
+Qxe6+ Qf7 30.Qxf7+ Kxf7 31.Bxc3 Rxf3 32.h5 gxh5 33.Rxh5 Rb6 34.Rh7+ Kg6 35.
+Rg7+ Kh5 36.Rd7 Kg4 37.e5 Rc6 38.Rd6 Rfxc3+ 39.bxc3 Rxc3+ 40.Kb2 Re3 41.e6 Kf5
+42.Rxa6 Rxe6 43.Ra5+ Re5 44.Ra8 Re2+ 45.Kc3 Re3+ 46.Kc4 Re4+ 47.Kc5 Re5+ 48.
+Kc6 Re6+ 49.Kd7 Re2 50.a4 Rd2+ 51.Kc7 Rc2+ 52.Kb7 Ke5 53.a5 Rb2+ 54.Ka7 Kd5
+55.Rc8 Kd6 56.a6 Kd7 57.Rc5 Kd6 58.Rc4 Kd5 59.Rc3 Kd6 60.Ka8 Kd7 61.Rh3 Kc8
+62.Rh8+ Kc7 63.Rh7+ Kc8 64.Rb7 Ra2 65.a7 Ra3 66.Rb4 Kc7 67.Rc4+ Kb6 68.Kb8
+Rxa7 69.Rb4+ Kc5 1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "9.14"]
+[White "Oliveira, Eduardo"]
+[Black "Pintor, Simao"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "1923"]
+[BlackElo "1490"]
+[PlyCount "30"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.h3 c6 6.Nf3 Bf5 7.Bc4 e6 8.a3 Nbd7 9.
+O-O Bb4 10.Bd2 Bxc3 11.Bxc3 Qc7 12.Bd3 Bxd3 13.Qxd3 O-O 14.Rfe1 Nd5 15.Bd2 c5
+1/2-1/2
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "9.15"]
+[White "Ferreira, Susana"]
+[Black "Furtado, Dinis"]
+[Result "0-1"]
+[ECO "A56"]
+[WhiteElo "1351"]
+[BlackElo "1719"]
+[PlyCount "50"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 Nf6 2.c4 c5 3.e3 e6 4.Nc3 Nc6 5.Nf3 cxd4 6.exd4 Bb4 7.Bd2 d5 8.a3 Ba5 9.
+b4 Bc7 10.c5 Ne4 11.Qc2 Nxd2 12.Qxd2 a6 13.Bd3 Qf6 14.Bc2 Bf4 15.Qd1 Bd7 16.
+O-O g5 17.h3 h5 18.g3 Bc7 19.Kg2 g4 20.hxg4 hxg4 21.Nh2 Rxh2+ 22.Kxh2 Qh4+ 23.
+Kg1 Bxg3 24.fxg3 Qxg3+ 25.Kh1 O-O-O 0-1
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "9.16"]
+[White "Ribeiro, Duarte"]
+[Black "Fonseca, Miguel"]
+[Result "1-0"]
+[ECO "B86"]
+[WhiteElo "2057"]
+[BlackElo "1217"]
+[PlyCount "66"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Bc4 Be7 7.Be3 O-O 8.Bb3 a6 9.
+Qe2 b5 10.a3 Bb7 11.f3 Nc6 12.g4 Nxd4 13.Bxd4 d5 14.O-O-O dxe4 15.Bxf6 Qe8 16.
+Bxe7 Qxe7 17.Nxe4 Bxe4 18.Qxe4 Qg5+ 19.Kb1 Qc5 20.Rd7 a5 21.Rxf7 Rxf7 22.Qxa8+
+Qf8 23.Qxf8+ Kxf8 24.Bxe6 Rxf3 25.h4 Re3 26.Bd7 b4 27.axb4 axb4 28.b3 Ke7 29.
+Bf5 g6 30.Bd3 Rg3 31.Re1+ Kf8 32.Re4 Rh3 33.g5 Rh1+ 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "9.17"]
+[White "Costa, Catarina"]
+[Black "Almeida, Jorge"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "1277"]
+[BlackElo "1905"]
+[PlyCount "39"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 e6 2.d4 d5 3.exd5 Qxd5 4.Nc3 Qd8 5.Bc4 Nf6 6.Nf3 Be7 7.O-O O-O 8.Bf4 a6
+9.a4 Nbd7 10.Re1 b6 11.d5 exd5 12.Nxd5 c5 13.Nxe7+ Kh8 14.Nxc8 Qxc8 15.Ne5 Kg8
+16.Nxd7 Nxd7 17.Qg4 Nf6 18.Qg3 Qc6 19.Be2 Rae8 20.Bxa6 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "9.18"]
+[White "Almeida, Augusto"]
+[Black "Mateus, Francisco"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "1691"]
+[BlackElo "1378"]
+[PlyCount "65"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.e3 e6 5.Nc3 Bd6 6.Qc2 Nbd7 7.Bd3 Nb6 8.c5 Bxc5 9.
+dxc5 Nbd7 10.b4 e5 11.Bf5 Qe7 12.Bxd7+ Bxd7 13.e4 dxe4 14.Nxe4 Nd5 15.Nd6+ Kf8
+16.O-O Rb8 17.Re1 f6 18.Bb2 Nxb4 19.Qe4 Na6 20.Bxe5 fxe5 21.Nxe5 Nxc5 22.Ng6+
+hxg6 23.Qxe7+ Kg8 24.Nf7 Rf8 25.Nxh8 Bf5 26.Qxc5 Rf6 27.Re8+ Kh7 28.Qc4 g5 29.
+Qg8+ Kh6 30.g4 Bh7 31.Nf7+ Rxf7 32.Qxf7 a6 33.Qh5# 1-0
+
+[Event "3 Boavista Ch - 2004"]
+[Site "www.axp.pt"]
+[Date "2004.04.11"]
+[Round "9.19"]
+[White "Margarido, Ricardo"]
+[Black "Tavares, Tiago"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "1431"]
+[PlyCount "91"]
+[EventDate "2004.04.05"]
+[SourceDate "2004.04.06"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.Nf3 Nf6 5.Be2 Bf5 6.b4 Qb6 7.O-O c6 8.Rb1 e6
+9.b5 cxb5 10.Bxb5+ Kd8 11.Bd3 Qa5 12.Rb5 Qc7 13.Bxf5 exf5 14.Rxf5 Nbd7 15.Rb5
+a6 16.Rb1 Bd6 17.h3 Qc4 18.Rxb7 Bb4 19.Qe2 Qxe2 20.Nxe2 Nd5 21.c3 Kc8 22.Rxb4
+Nxb4 23.cxb4 Kb7 24.Ng5 f6 25.Nf7 Rhf8 26.Nd6+ Kb6 27.Ba3 Kc6 28.Nf5 Rf7 29.
+Rc1+ Kd5 30.Rc3 Ne5 31.Nf4+ Ke4 32.Nd6+ Kxf4 33.Nxf7 Nxf7 34.Rc7 Nd6 35.Rxg7
+a5 36.bxa5 Nc4 37.Rg4+ Kf5 38.Rxc4 Rxa5 39.Rc5+ Rxc5 40.Bxc5 Ke5 41.a4 Kd5 42.
+Bb6 Kc6 43.a5 Kb5 44.Kf1 Kc6 45.Ke2 Kb5 46.Kf3 1-0
+

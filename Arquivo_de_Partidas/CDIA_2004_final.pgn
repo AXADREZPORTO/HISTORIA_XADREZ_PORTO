@@ -1,0 +1,552 @@
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.04"]
+[Round "1.2"]
+[White "Viela, Andre"]
+[Black "Pereira, Antonio Caramez "]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "2035"]
+[BlackElo "1960"]
+[PlyCount "80"]
+[EventDate "2004.06.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. O-O d6 6. h3 Be6 7. Bb3 h6 8. c3
+O-O 9. Ba4 Bd7 10. Bc2 d5 11. exd5 Nxd5 12. d4 exd4 13. cxd4 Nxd4 14. Nxd4 Bd6
+15. Qd3 g6 16. Bb3 c6 17. Bxh6 Re8 18. Bxd5 cxd5 19. Qd2 Bb5 20. Re1 Rxe1+ 21.
+Qxe1 Qh4 22. Be3 Bd7 23. Nd2 Bxh3 24. gxh3 Qxh3 25. Nf1 Kg7 26. f4 Rh8 27. Qg3
+Qh1+ 28. Kf2 Be7 29. Ke2 Rh3 30. Qg1 Qf3+ 31. Kd3 Qe4+ 32. Kc3 b5 33. Ng3 Bb4+
+34. Kxb4 Qd3 35. Rc1 Rh2 36. Qxh2 Qxe3 37. Ngf5+ gxf5 38. Qg1+ Kf6 39. Qxe3 a5+
+40. Kxa5 b4 1-0
+
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.04"]
+[Round "1.3"]
+[White "Sousa, Emanuel"]
+[Black "Oliveira, Eduardo"]
+[Result "1-0"]
+[ECO "A01"]
+[WhiteElo "1899"]
+[BlackElo "1923"]
+[PlyCount "121"]
+[EventDate "2004.06.04"]
+
+1. b3 d5 2. Bb2 Nc6 3. Nf3 Bf5 4. e3 a6 5. d3 Nf6 6. Be2 e6 7. Nbd2 Be7 8. a3
+O-O 9. c4 dxc4 10. Nxc4 Nd7 11. Qc2 b5 12. Ncd2 Na5 13. Nd4 Bg6 14. Qc3 e5 15.
+Qxa5 exd4 16. Bxd4 c5 17. Qxd8 Rfxd8 18. Bb2 Bf6 19. Bxf6 Nxf6 20. e4 Nd7 21.
+f4 f6 22. Rc1 Rac8 23. Kf2 f5 24. Rhd1 Nf8 25. g4 fxg4 26. Bxg4 Rc7 27. Nf3 h5
+28. Bh3 Bf7 29. Rb1 Ng6 30. Ke3 Kh8 31. Ng5 Bg8 32. Be6 Rc6 33. Nf7+ Bxf7 34.
+Bxf7 Nxf4 35. Kxf4 Rf6+ 36. Ke3 Rxf7 37. Rf1 Rfd7 38. Rbd1 c4 39. bxc4 bxc4 40.
+d4 Rb8 41. Rb1 Rb3+ 42. Rxb3 cxb3 43. Rb1 Rb7 44. Kd3 a5 45. a4 Kg8 46. Kc3 Rb4
+47. Rxb3 Rxa4 48. e5 Ra2 49. d5 Rxh2 50. Rb8+ Kf7 51. Rb7+ Ke8 52. Rxg7 Rh1 53.
+Ra7 h4 54. e6 Rd1 55. Kc4 h3 56. Rh7 Rc1+ 57. Kb5 h2 58. Rxh2 Ke7 59. Rh7+ Kd6
+60. Rd7+ Ke5 61. e7 1-0
+
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.04"]
+[Round "1.4"]
+[White "Viela, Marco"]
+[Black "Figueiredo, Pedro"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2101"]
+[BlackElo "1638"]
+[PlyCount "71"]
+[EventDate "2004.06.04"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 g6 6. Be3 Bg7 7. Be2 cxd4 8.
+cxd4 O-O 9. Nc3 Qa5 10. O-O Nc6 11. a3 Nd5 12. Nxd5 Qxd5 13. Rc1 e6 14. Rc5 Qd6
+15. d5 exd5 16. Rxd5 Qc7 17. Nd4 Ne7 18. Nb5 Nxd5 19. Nxc7 Nxc7 20. b4 Be6 21.
+Bf3 Rfd8 22. Qe2 Nd5 23. Bg5 Rd7 24. Bg4 Nc3 25. Qf3 f5 26. Bh3 Bd5 27. Qe3 Be4
+28. Kh1 b6 29. f3 Rd3 30. Qc1 Bb7 31. Qc2 Rd6 32. Re1 Rc8 33. Qf2 Bd4 34. Qg3
+Rd7 35. Bxf5 gxf5 36. Bf6+ 1-0
+
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.08"]
+[Round "2.1"]
+[White "Pinheiro, Albano"]
+[Black "Figueiredo, Pedro"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[WhiteElo "2079"]
+[BlackElo "1638"]
+[PlyCount "76"]
+[EventDate "2004.06.04"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. c3 Nf6 7. Qe2 Qg4 8.
+Re1 e5 9. h3 Qd7 10. Rd1 O-O-O 11. d4 exd4 12. cxd4 cxd4 13. Nxd4 Nxd4 14. Rxd4
+d5 15. exd5 Nxd5 16. Nc3 Nxc3 17. bxc3 Qe7 18. Qg4+ Qe6 19. Rxd8+ Kxd8 20. Bg5+
+Be7 21. Bxe7+ Qxe7 22. Rd1+ Kc7 23. Qxg7 Rd8 24. Rxd8 Kxd8 25. Qd4+ Kc7 26. a4
+b6 27. g3 Kc6 28. Kg2 Qe6 29. Kh2 a5 30. Qd3 h6 31. Qb5+ Kb7 32. Qd3 Kc6 33. h4
+f5 34. Qd4 Kb7 35. Qf4 Kc6 36. c4 Kc5 37. Qc7+ Kb4 38. Qf4 Kxa4 1/2-1/2
+
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.08"]
+[Round "2.2"]
+[White "Oliveira, Eduardo"]
+[Black "Viela, Marco"]
+[Result "0-1"]
+[ECO "B02"]
+[WhiteElo "1923"]
+[BlackElo "2101"]
+[PlyCount "100"]
+[EventDate "2004.06.04"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Nxd5 Qxd5 5. d4 Nc6 6. c3 e5 7. Be3 exd4 8.
+Bxd4 Nxd4 9. Qxd4 Qxd4 10. cxd4 Bb4+ 11. Kd1 Be6 12. Kc2 O-O-O 13. Rd1 Rhe8 14.
+Ne2 Bf5+ 15. Kb3 a5 16. Ng3 Bg6 17. h4 f5 18. Bc4 f4 19. Ne2 Bh5 20. f3 Bd6 21.
+a3 c6 22. Nc3 Re3 23. Ka2 b5 24. Bd3 Bf7+ 25. Kb1 b4 26. Bf5+ Kc7 27. axb4 Bxb4
+28. Ne4 g6 29. Ng5 Bb3 30. Bc2 Bxc2+ 31. Kxc2 Re2+ 32. Kd3 Rxb2 33. Ne6+ Kd7
+34. Nxd8 Kxd8 35. Rc1 Kd7 36. Rc2 Rb3+ 37. Ke4 Bd6 38. d5 c5 39. Re1 a4 40. Rc4
+a3 41. Ra4 Rb4+ 42. Rxb4 cxb4 43. Kd4 a2 44. Kc4 Be5 45. Rxe5 a1=Q 46. Re4 Qc3+
+47. Kb5 b3 48. Rxf4 b2 49. Rb4 Qxb4+ 50. Kxb4 b1=Q+ 0-1
+
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.08"]
+[Round "2.3"]
+[White "Pereira, Antonio Caramez "]
+[Black "Sousa, Emanuel"]
+[Result "1/2-1/2"]
+[ECO "B51"]
+[WhiteElo "1960"]
+[BlackElo "1899"]
+[PlyCount "38"]
+[EventDate "2004.06.04"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O Ngf6 5. Re1 a6 6. Bxd7+ Bxd7 7. e5 dxe5
+8. Nxe5 e6 9. d4 Be7 10. dxc5 Bxc5 11. Qf3 Qc8 12. Qg3 O-O 13. Bh6 Ne8 14. c3
+Kh8 15. Be3 Bd6 16. Bf4 Bxe5 17. Bxe5 f6 18. Bd6 Nxd6 19. Qxd6 e5 1/2-1/2
+
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.08"]
+[Round "2.4"]
+[White "Figueiredo, Bruno"]
+[Black "Viela, Andre"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "1909"]
+[BlackElo "2035"]
+[PlyCount "78"]
+[EventDate "2004.06.04"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f3 Bg7 5. Be3 O-O 6. Qd2 Nbd7 7. O-O-O e5 8. d5
+Ne8 9. g4 c5 10. Nge2 a6 11. h4 f5 12. gxf5 gxf5 13. Bh6 f4 14. Bxg7 Kxg7 15.
+Bh3 Ndf6 16. Rdg1+ Kh8 17. Bxc8 Rxc8 18. Rg5 Rg8 19. Rhg1 Qd7 20. Nd1 b5 21. a3
+Qc7 22. Qc3 Qb7 23. b3 b4 24. axb4 cxb4 25. Qb2 Rxg5 26. hxg5 Nh5 27. Nf2 Qb6
+28. Ng4 Ng3 29. Rg2 Nxe2+ 30. Rxe2 Rc3 31. Rf2 h5 32. gxh6 Nf6 33. Rf1 Rxf3 34.
+Rxf3 Qg1+ 35. Kd2 Nxe4+ 36. Kd3 Qxg4 37. Rf1 Nc3 38. Re1 Qf3+ 39. Kc4 Qxd5+ 0-1
+
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.15"]
+[Round "3.1"]
+[White "Viela, Andre"]
+[Black "Pinheiro, Albano"]
+[Result "1/2-1/2"]
+[ECO "A08"]
+[WhiteElo "2035"]
+[BlackElo "2079"]
+[PlyCount "103"]
+[EventDate "2004.06.04"]
+
+1. g3 d5 2. Nf3 c5 3. d3 Nf6 4. Bg2 g6 5. Nbd2 Bg7 6. O-O O-O 7. e4 dxe4 8.
+dxe4 Nc6 9. c3 Qc7 10. Qe2 b6 11. Nb3 a5 12. Rd1 a4 13. Nbd2 Ba6 14. c4 Rad8
+15. Rb1 Nb4 16. a3 Nc6 17. b4 axb3 18. Bb2 Nd4 19. Bxd4 cxd4 20. Rxb3 e5 21.
+Rdb1 Nd7 22. Bh3 Rb8 23. Bxd7 Qxd7 24. Rxb6 Rxb6 25. Rxb6 Qa4 26. Qd3 Rc8 27.
+Rb4 Qd1+ 28. Qf1 Qc2 29. Qb1 Qxb1+ 30. Rxb1 f5 31. exf5 gxf5 32. Ng5 Bh6 33. h4
+e4 34. Rb6 Bxg5 35. hxg5 Bxc4 36. Rd6 d3 37. g4 fxg4 38. Nxe4 Bb5 39. Rd4 Rc1+
+40. Kh2 Ra1 41. Nd6 Ba6 42. a4 Ra3 43. Nb5 Rb3 44. Rd6 Bxb5 45. axb5 Rxb5 46.
+Rxd3 Rxg5 47. Kg3 h5 48. f3 Kg7 49. fxg4 Rxg4+ 50. Kh3 Ra4 51. Rd7+ Kf6 52.
+Rd6+ 1/2-1/2
+
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.15"]
+[Round "3.2"]
+[White "Sousa, Emanuel"]
+[Black "Figueiredo, Bruno"]
+[Result "1-0"]
+[ECO "A16"]
+[WhiteElo "1899"]
+[BlackElo "1909"]
+[PlyCount "77"]
+[EventDate "2004.06.04"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. Nf3 g6 5. g3 Bg7 6. Bg2 O-O 7. O-O Nxc3 8.
+dxc3 c6 9. Qc2 Nd7 10. Rd1 Qc7 11. Bg5 Nc5 12. Nd4 e5 13. Nb3 Nxb3 14. axb3 h6
+15. Be3 a6 16. Qd2 Kh7 17. Bc5 Re8 18. Bd6 Qb6 19. Qc2 Bf5 20. e4 Bg4 21. Rd3
+a5 22. c4 Rad8 23. c5 Qa7 24. b4 b6 25. cxb6 Qxb6 26. bxa5 Qa6 27. Bf1 Qa8 28.
+Bc7 Rc8 29. Bb6 f5 30. Rd7 fxe4 31. Ra7 Qb8 32. Ba6 Qd6 33. Bxc8 Rxc8 34. Qxe4
+Bf5 35. Qc4 Be6 36. Qc5 Rd8 37. Qxd6 Rxd6 38. Bc5 Rd8 39. Be7 1-0
+
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.15"]
+[Round "3.3"]
+[White "Viela, Marco"]
+[Black "Pereira, Antonio Caramez "]
+[Result "1-0"]
+[ECO "A03"]
+[WhiteElo "2101"]
+[BlackElo "1960"]
+[PlyCount "127"]
+[EventDate "2004.06.04"]
+
+1. f4 d5 2. Nf3 g6 3. e3 Bg7 4. Be2 Nd7 5. O-O Ngf6 6. d4 Ne4 7. Nbd2 Ndf6 8.
+Ne5 Nxd2 9. Bxd2 Ne4 10. Bf3 f5 11. c4 e6 12. Bb4 c6 13. Qe1 a5 14. Ba3 Nd6 15.
+cxd5 exd5 16. Qg3 Bxe5 17. fxe5 Nc4 18. Rac1 Nxa3 19. bxa3 O-O 20. Be2 Be6 21.
+Rf4 Kh8 22. h4 Qe7 23. Rc3 Rf7 24. Qg5 Qxg5 25. hxg5 Kg7 26. Rh4 Bd7 27. Kf2
+Be6 28. g3 Rc8 29. Rh1 Ra8 30. Rb1 Ra7 31. Rc5 Re7 32. Ke1 Kf8 33. Kd2 Re8 34.
+Rcc1 Ke7 35. Rh1 Rh8 36. Rh4 Kf7 37. g4 fxg4 38. Rf1+ Kg7 39. Rf6 Re8 40. Bxg4
+Bxg4 41. Rxg4 Re7 42. Rgf4 Ra8 43. Kd3 Rae8 44. Rf1 Kg8 45. Kc3 Re6 46. Kb3 b5
+47. Kc3 Kh8 48. Kd3 Kg8 49. Ke2 c5 50. Rf7 R6e7 51. Rxe7 Rxe7 52. Rf6 cxd4 53.
+exd4 Rc7 54. Kd3 b4 55. axb4 axb4 56. Rd6 Rc3+ 57. Kd2 Ra3 58. Rxd5 Rxa2+ 59.
+Kd3 Rg2 60. e6 Kf8 61. Rb5 Ke7 62. d5 Kd6 63. Rb6+ Kxd5 64. e7 1-0
+
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.15"]
+[Round "3.4"]
+[White "Figueiredo, Pedro"]
+[Black "Oliveira, Eduardo"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "1638"]
+[BlackElo "1923"]
+[PlyCount "82"]
+[EventDate "2004.06.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+
+8. Nbxd2 d5 9. exd5 Nxd5 10. O-O O-O 11. Ne5 Nxe5 12. dxe5 Nb6 13. Bb3 Qd4 14.
+Nf3 Qxb2 15. Ng5 Be6 16. Nxe6 fxe6 17. Bxe6+ Kh8 18. Qh5 g6 19. Qg4 Qxe5 20. f4
+Qg7 21. a4 a5 22. Ra3 Rae8 23. Rh3 Rf6 24. Bb3 Re4 25. Bc2 Rfxf4 26. Qxf4 Rxf4
+27. Rxf4 Qa1+ 28. Rf1 Qd4+ 29. Kh1 Kg7 30. Rhf3 Nd5 31. h3 Ne3 32. Rf7+ Kh6 33.
+R1f4 Qa1+ 34. Kh2 Qe5 35. Kg1 Nf5 36. Rc4 Qe1+ 37. Kh2 Qg3+ 38. Kg1 Ne3 39. Rg4
+Nxg4 40. hxg4 Qxg4 41. Rxc7 Qd4+ 0-1
+
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.18"]
+[Round "4.1"]
+[White "Pinheiro, Albano"]
+[Black "Oliveira, Eduardo"]
+[Result "1-0"]
+[ECO "C21"]
+[WhiteElo "2079"]
+[BlackElo "1923"]
+[PlyCount "47"]
+[EventDate "2004.06.04"]
+
+1. e4 e5 2. d4 exd4 3. Bc4 Nc6 4. Nf3 Bc5 5. c3 d3 6. Qxd3 h6 7. Bxf7+ Kxf7 8.
+Qd5+ Ke8 9. Qxc5 Qe7 10. Qh5+ Qf7 11. Qh4 d6 12. O-O Be6 13. Na3 Kd7 14. Rd1
+Nge7 15. b4 Ng6 16. Qh5 Bxa2 17. Rxa2 Qxa2 18. Qxg6 Rhg8 19. e5 Qe6 20. Qg3
+Rad8 21. exd6 cxd6 22. Nb5 d5 23. Qc7+ Ke8 24. Re1 1-0
+
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.18"]
+[Round "4.2"]
+[White "Pereira, Antonio Caramez "]
+[Black "Figueiredo, Pedro"]
+[Result "1-0"]
+[ECO "D97"]
+[WhiteElo "1960"]
+[BlackElo "1638"]
+[PlyCount "20"]
+[EventDate "2004.06.04"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 c6 8. Qb3
+Nbd7 9. e5 Nd5 10. Nxd5 Qa5+ 1-0
+
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.18"]
+[Round "4.3"]
+[White "Figueiredo, Bruno"]
+[Black "Viela, Marco"]
+[Result "0-1"]
+[ECO "A07"]
+[WhiteElo "1909"]
+[BlackElo "2101"]
+[PlyCount "80"]
+[EventDate "2004.06.04"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 c5 4. O-O Nc6 5. d4 cxd4 6. Nxd4 e5 7. Nxc6 bxc6 8.
+c4 Be6 9. Nc3 Be7 10. Bg5 e4 11. cxd5 cxd5 12. Qa4+ Bd7 13. Qd4 Be6 14. Qa4+
+Qd7 15. Qxd7+ Nxd7 16. Be3 O-O 17. Rfd1 Nf6 18. f3 Rab8 19. fxe4 dxe4 20. b3
+Rbc8 21. Nxe4 Bg4 22. Kf2 Rc2 23. Rd2 Nxe4+ 24. Bxe4 Rxd2 25. Bxd2 Bc5+ 26. e3
+Rd8 27. Be1 f5 28. Bc2 g5 29. Rc1 Bb6 30. b4 f4 31. gxf4 gxf4 32. Bb3+ Kf8 33.
+Rc4 Bxe3+ 34. Kg2 Be6 35. Rc7 Bxb3 36. axb3 Rd1 37. Bc3 Rd3 38. Be5 f3+ 39. Kg3
+f2 40. Kg2 Rd1 0-1
+
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.18"]
+[Round "4.4"]
+[White "Viela, Andre"]
+[Black "Sousa, Emanuel"]
+[Result "1-0"]
+[ECO "A08"]
+[WhiteElo "2035"]
+[BlackElo "1899"]
+[PlyCount "59"]
+[EventDate "2004.06.04"]
+
+1. g3 c5 2. Nf3 Nf6 3. Bg2 Nc6 4. d3 e6 5. O-O d5 6. Nbd2 Bd6 7. e4 O-O 8. Qe2
+Qc7 9. Re1 dxe4 10. dxe4 e5 11. Nc4 Nd4 12. Qd3 Nxf3+ 13. Bxf3 Be7 14. Bg5 Rd8
+15. Qe2 Be6 16. Ne3 a6 17. Nf5 h6 18. Bxf6 Bxf6 19. Bg2 Rd7 20. Qf3 Bxf5 21.
+exf5 Rad8 22. Rad1 Qa5 23. a3 e4 24. Qe2 Bxb2 25. Bxe4 Bf6 26. Rxd7 Rxd7 27.
+Rd1 Bd4 28. Qg4 Re7 29. f6 Bxf6 30. Qc8+ 1-0
+
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.19"]
+[Round "5.1"]
+[White "Sousa, Emanuel"]
+[Black "Pinheiro, Albano"]
+[Result "0-1"]
+[ECO "A21"]
+[WhiteElo "1899"]
+[BlackElo "2079"]
+[PlyCount "78"]
+[EventDate "2004.06.04"]
+
+1. c4 e5 2. Nc3 d6 3. g3 f5 4. d4 Be7 5. dxe5 dxe5 6. Qxd8+ Bxd8 7. Bg2 Nf6 8.
+Nf3 Nc6 9. O-O O-O 10. Be3 e4 11. Nd2 Re8 12. h3 Be6 13. Rac1 Ne5 14. Nb5 a6
+15. Nd4 Bd7 16. Rfd1 c5 17. N4b3 b6 18. Bf4 Ng6 19. Be3 Bc6 20. Nb1 Bc7 21. Bg5
+Rad8 22. Bxf6 gxf6 23. Nc3 Be5 24. Rxd8 Rxd8 25. Rd1 Rxd1+ 26. Nxd1 f4 27. g4
+f3 28. exf3 exf3 29. Bf1 Nf4 30. Nc1 Be4 31. b3 Kf7 32. a3 a5 33. a4 Kg6 34. h4
+h5 35. gxh5+ Kxh5 36. Ne3 Bb2 37. Na2 Bb1 38. Nd1 Ne2+ 39. Kh1 Be5 0-1
+
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.19"]
+[Round "5.2"]
+[White "Viela, Marco"]
+[Black "Viela, Andre"]
+[Result "0-1"]
+[ECO "B08"]
+[WhiteElo "2101"]
+[BlackElo "2035"]
+[PlyCount "206"]
+[EventDate "2004.06.04"]
+
+1. e4 d6 2. d4 g6 3. Nf3 Bg7 4. Nc3 Nf6 5. Be2 O-O 6. O-O Nc6 7. h3 e5 8. dxe5
+Nxe5 9. Nd4 Nfd7 10. f4 Nc6 11. Be3 Re8 12. Bf3 Nxd4 13. Bxd4 c6 14. Bxg7 Kxg7
+15. Qxd6 Qb6+ 16. Kh1 Qxb2 17. Qd4+ f6 18. g4 Qb6 19. Rad1 Qxd4 20. Rxd4 Nc5
+21. Bg2 Be6 22. Rfd1 Bf7 23. f5 Re7 24. Na4 Nxa4 25. Rxa4 a6 26. a3 c5 27. Rd6
+Re5 28. h4 Rae8 29. Ra5 h5 30. Rd7 hxg4 31. fxg6 Kxg6 32. Rxb7 Bc4 33. Rc7 Be2
+34. Rcxc5 g3 35. Rxe5 fxe5 36. Bh3 Kh5 37. Kg2 Kxh4 38. Bf5 Rd8 39. Rd5 Rg8 40.
+Rd7 Bh5 41. Rd3 Rg7 42. Rc3 Be2 43. Rc8 Bh5 44. Rc3 Rg8 45. Rd3 Be2 46. Re3 Bb5
+47. Re1 Rd8 48. Rh1+ Kg5 49. Kxg3 Rd2 50. Rc1 Bc4 51. Kf3 Kf6 52. Bg4 Kg5 53.
+Ke3 Rh2 54. Rg1 Kf6 55. Rc1 Kg5 56. Bf3 Kf6 57. a4 a5 58. Bg4 Kg5 59. Bd7 Re2+
+60. Kf3 Rd2 61. Bb5 Rd4 62. Ke3 Kf6 63. Rb1 Ke6 64. Bxc4+ Rxc4 65. Rb6+ Kd7 66.
+Rb5 Kd6 67. Rxa5 Rxc2 68. Rd5+ Ke6 69. Kd3 Ra2 70. Ra5 Kd6 71. Ra6+ Kc5 72. Re6
+Ra3+ 73. Ke2 Kd4 74. Rh6 Rxa4 75. Rh4 Ra3 76. Rh8 Re3+ 77. Kd2 Rg3 78. Rh4 Rg2+
+79. Ke1 Ke3 80. Rh3+ Kxe4 81. Rh4+ Ke3 82. Rh3+ Kd4 83. Ra3 Rc2 84. Ra7 Rc3 85.
+Kd2 Rh3 86. Ra4+ Kd5 87. Ra5+ Ke6 88. Ke2 Kf5 89. Rb5 Kf4 90. Rb7 Rh2+ 91. Ke1
+e4 92. Rb8 Kf3 93. Rf8+ Ke3 94. Kd1 Rh1+ 95. Kc2 Ke2 96. Rf7 e3 97. Re7 Rh2 98.
+Re8 Kf1+ 99. Kd3 e2 100. Rf8+ Rf2 101. Rh8 Rf3+ 102. Ke4 e1=Q+ 103. Kxf3 Qc3+
+0-1
+
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.19"]
+[Round "5.3"]
+[White "Figueiredo, Pedro"]
+[Black "Figueiredo, Bruno"]
+[Result "1-0"]
+[ECO "B19"]
+[WhiteElo "1638"]
+[BlackElo "1909"]
+[PlyCount "59"]
+[EventDate "2004.06.04"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 Ngf6 12. O-O-O e6 13. Ne4 Nxe4 14. Qxe4
+Nf6 15. Qe2 Bd6 16. c4 O-O-O 17. Bc3 c5 18. Kb1 a6 19. Ne5 cxd4 20. Bxd4 Rhf8
+21. c5 Bxe5 22. Bxe5 Qc6 23. Rd6 Qxg2 24. Rhd1 Nd5 25. c6 Rxd6 26. cxb7+ Kxb7
+27. Bxd6 Rd8 28. Bc5 Qh3 29. Rd3 Nf4 30. Qe4+ 1-0
+
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.19"]
+[Round "5.4"]
+[White "Oliveira, Eduardo"]
+[Black "Pereira, Antonio Caramez "]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "1923"]
+[BlackElo "1960"]
+[PlyCount "42"]
+[EventDate "2004.06.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Nc3 d6 6. h3 Be6 7. Bxe6 fxe6 8.
+Ne2 O-O 9. c3 Qe8 10. O-O Bb6 11. Ng3 Qg6 12. Ng5 h6 13. Nf3 Qxg3 14. b4 Qg6
+15. a4 a6 16. Ba3 Nh5 17. b5 axb5 18. axb5 Na5 19. Nxe5 dxe5 20. Bxf8 Nf4 21.
+g3 Qxg3+ 0-1
+
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.22"]
+[Round "6.1"]
+[White "Pinheiro, Albano"]
+[Black "Pereira, Antonio Caramez "]
+[Result "0-1"]
+[ECO "C55"]
+[WhiteElo "2079"]
+[BlackElo "1960"]
+[PlyCount "116"]
+[EventDate "2004.06.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bc5 8.
+Be3 Bxd4 9. Qxd4 O-O 10. Bxc6 bxc6 11. c4 Re8 12. O-O Ba6 13. f3 Ng5 14. Bxg5
+Qxg5 15. f4 Qf5 16. Na3 Red8 17. Rf2 dxc4 18. Qc5 Qe6 19. Qa5 Bb5 20. Nxb5 cxb5
+21. Qxb5 Qb6 22. Qxb6 cxb6 23. a4 g6 24. Rc2 Rac8 25. g3 a6 26. Kf2 Rc5 27. Ke3
+f6 28. exf6 Kf7 29. Rac1 Rdc8 30. Rd1 Re8+ 31. Kf3 Kxf6 32. Rd7 Re7 33. Rd8 b5
+34. Rd6+ Re6 35. Rd7 Re7 36. Rxe7 Kxe7 37. Ke4 g5 38. axb5 axb5 39. b4 Rc6 40.
+fxg5 Rd6 41. Kf5 Rd5+ 42. Kf4 Rd3 43. Re2+ Kf7 44. Re5 c3 45. Rc5 Rd4+ 46. Ke3
+Rxb4 47. Rxc3 Kg6 48. h4 Ra4 49. Rb3 b4 50. Kf4 Kg7 51. h5 Kf7 52. Kg4 Kg7 53.
+Kh4 Kf7 54. g4 Kg7 55. Rd3 Ra7 56. h6+ Kf7 57. Rf3+ Kg8 58. Kh5 Ra3 0-1
+
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.22"]
+[Round "6.2"]
+[White "Figueiredo, Bruno"]
+[Black "Oliveira, Eduardo"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteElo "1909"]
+[BlackElo "1923"]
+[PlyCount "124"]
+[EventDate "2004.06.04"]
+
+1. Nf3 d5 2. g3 Nc6 3. d4 Bf5 4. Bg2 Nf6 5. O-O e6 6. c3 Bd6 7. Nbd2 Qe7 8. Re1
+O-O-O 9. b4 a6 10. a4 Nb8 11. b5 a5 12. e3 Ne4 13. Bb2 Nd7 14. Qe2 Nb6 15. Rec1
+Bg4 16. Qd3 Bxf3 17. Bxf3 Nxd2 18. Qxd2 h5 19. Be2 h4 20. c4 dxc4 21. Bxc4 Qg5
+22. f4 Qg6 23. Bd3 f5 24. Qg2 hxg3 25. Qxg3 Qxg3+ 26. hxg3 Rh3 27. Kg2 Rdh8 28.
+Rh1 Rxh1 29. Rxh1 Rxh1 30. Kxh1 Nxa4 31. Ba1 Bb4 32. d5 Bc3 33. Bxc3 Nxc3 34.
+dxe6 Kd8 35. Bxf5 Nxb5 36. Bc2 Ke7 37. f5 Nc3 38. e4 a4 39. e5 a3 40. Bb3 a2
+41. Bxa2 Nxa2 42. g4 b5 43. g5 b4 44. g6 b3 45. f6+ gxf6 46. g7 b2 47. exf6+
+Kxf6 48. g8=Q b1=Q+ 49. Kh2 Qc2+ 50. Kh3 Qf5+ 51. Kh4 Qf4+ 52. Kh3 Qh6+ 53. Kg4
+Qg6+ 54. Qxg6+ Kxg6 55. e7 Kf7 56. Kf5 Kxe7 57. Ke5 Kd7 58. Kd5 c6+ 59. Kc4 Kd6
+60. Kb3 Nc1+ 61. Kc2 Ne2 62. Kd3 Nf4+ 0-1
+
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.22"]
+[Round "6.3"]
+[White "Viela, Andre"]
+[Black "Figueiredo, Pedro"]
+[Result "1-0"]
+[ECO "A07"]
+[WhiteElo "2035"]
+[BlackElo "1638"]
+[PlyCount "139"]
+[EventDate "2004.06.04"]
+
+1. d3 d5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. Nbd2 c6 7. e4 dxe4 8.
+dxe4 Nbd7 9. Qe2 Nc5 10. Ne1 e5 11. a4 Be6 12. b4 Na6 13. Ba3 Re8 14. Nd3 Bg4
+15. f3 Be6 16. f4 exf4 17. gxf4 Qd4+ 18. Kh1 Bg4 19. Qf2 Rad8 20. Qxd4 Rxd4 21.
+Bb2 Rdd8 22. Rae1 Nc7 23. h3 Be6 24. Be5 Re7 25. Bxf6 Bxf6 26. e5 Bh4 27. Rb1
+Red7 28. Ne4 Be7 29. Ndc5 Rd4 30. c3 R4d5 31. Nxb7 Rb8 32. Nec5 Bxc5 33. Nxc5
+Rd2 34. Rbd1 Rc2 35. Nxe6 Nxe6 36. Rd3 a5 37. bxa5 Rbb2 38. Rg3 Nc5 39. Bxc6
+Ra2 40. f5 Nxa4 41. e6 Nxc3 42. fxg6 fxe6 43. g7 Rh2+ 44. Kg1 Ne2+ 45. Kxh2
+Nxg3+ 46. Kxg3 Kxg7 47. Re1 Kf6 48. Bd7 e5 49. Rf1+ Kg7 50. Kg4 Rxa5 51. Kf5
+e4+ 52. Kxe4 Ra7 53. Be6 Ra4+ 54. Ke5 Ra5+ 55. Bd5 h6 56. Rg1+ Kh7 57. Ke6 h5
+58. Be4+ Kh8 59. Kf6 Ra3 60. Bf5 Ra6+ 61. Kg5 Ra7 62. Rc1 Kg7 63. Rc6 Rf7 64.
+Rg6+ Kh7 65. Rh6+ Kg7 66. Rxh5 Rf8 67. Rh7+ Kg8 68. Rb7 Rd8 69. Kh6 Kh8 70. Be6
+1-0
+
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.22"]
+[Round "6.4"]
+[White "Sousa, Emanuel"]
+[Black "Viela, Marco"]
+[Result "0-1"]
+[ECO "A13"]
+[WhiteElo "1899"]
+[BlackElo "2101"]
+[PlyCount "66"]
+[EventDate "2004.06.04"]
+
+1. c4 e6 2. Nf3 d5 3. cxd5 exd5 4. g3 Nf6 5. Bg2 c5 6. b3 Nc6 7. Bb2 Be7 8. O-O
+O-O 9. d3 Re8 10. Nbd2 Bf8 11. Rc1 Ng4 12. a3 Nge5 13. Qc2 Bg4 14. e4 dxe4 15.
+dxe4 Nd3 16. Rcd1 Nxb2 17. Qxb2 Nd4 18. h3 Bh5 19. g4 Bg6 20. Nxd4 cxd4 21. f4
+f6 22. b4 Rc8 23. f5 Bf7 24. Nb3 d3 25. Rd2 Bd6 26. Nc1 Be5 27. Qb1 Bc4 28.
+Nxd3 Qd4+ 29. Kh1 Qe3 30. Rfd1 Bc3 31. Ra2 Red8 32. Nf2 Rxd1+ 33. Nxd1 Qe1+ 0-1
+
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.26"]
+[Round "7.1"]
+[White "Viela, Marco"]
+[Black "Pinheiro, Albano"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[WhiteElo "2101"]
+[BlackElo "2079"]
+[PlyCount "20"]
+[EventDate "2004.06.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. d3 Bg7 6. Nc3 Nf6 7. Be3 Nd7 8.
+Qd2 h6 9. O-O-O e5 10. h4 Qe7 1/2-1/2
+
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.26"]
+[Round "7.2"]
+[White "Figueiredo, Pedro"]
+[Black "Sousa, Emanuel"]
+[Result "1/2-1/2"]
+[ECO "C60"]
+[WhiteElo "1638"]
+[BlackElo "1899"]
+[PlyCount "6"]
+[EventDate "2004.06.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 1/2-1/2
+
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.26"]
+[Round "7.4"]
+[White "Pereira, Antonio Caramez "]
+[Black "Figueiredo, Bruno"]
+[Result "1/2-1/2"]
+[ECO "A38"]
+[WhiteElo "1960"]
+[BlackElo "1909"]
+[PlyCount "16"]
+[EventDate "2004.06.04"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nf3 Nf6 6. d3 d6 7. e4 e5 8. O-O O-O
+1/2-1/2
+
+[Event "Distrital Individual Final"]
+[Site "Porto"]
+[Date "2004.06.26"]
+[Round "7.3"]
+[White "Oliveira, Eduardo"]
+[Black "Viela, Andre"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[WhiteElo "1923"]
+[BlackElo "2035"]
+[PlyCount "56"]
+[EventDate "2004.06.04"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 O-O 6. Be3 Nbd7 7. Qd2 e5 8. dxe5
+dxe5 9. O-O-O Qe7 10. Bc4 Nc5 11. Bxc5 Qxc5 12. Bb3 a5 13. Qe2 c6 14. Na4 Qb4
+15. Rhe1 Qe7 16. Nb6 Ra6 17. Nxc8 Rxc8 18. a4 Raa8 19. Nd2 Rd8 20. Nc4 Qc7 21.
+Nd2 Rab8 22. Nf3 Nd7 23. Qc4 Bh6+ 24. Kb1 Nf8 25. Qc5 Nd7 26. Qc4 Nb6 27. Qc5
+Nd7 28. Qe7 Kh8 1/2-1/2
+

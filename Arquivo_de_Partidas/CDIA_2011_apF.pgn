@@ -1,0 +1,531 @@
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.17"]
+[Round "1.1"]
+[White "Ferreira, Miguel"]
+[Black "Dias, Jorge Miguel"]
+[Result "1-0"]
+[ECO "A22"]
+[WhiteElo "1905"]
+[PlyCount "82"]
+[EventDate "2011.06.17"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 d6 4. g3 Nc6 5. Bg2 Be7 6. O-O O-O 7. d3 h6 8. Bd2
+Bg4 9. h3 Bxf3 10. Bxf3 Nd4 11. Bg2 Rb8 12. e3 Ne6 13. b4 c5 14. Nd5 cxb4 15.
+Bxb4 a5 16. Bc3 Nxd5 17. Bxd5 Ng5 18. Bg2 Qd7 19. h4 Nh7 20. Bxa5 Qf5 21. Rb1
+e4 22. Bxe4 Qxa5 23. Qc2 b6 24. d4 Nf6 25. Bd3 Ra8 26. Rb2 Qa4 27. Qb1 Qd7 28.
+Kg2 d5 29. Bf5 Qb7 30. Rxb6 dxc4+ 31. Kg1 Qd5 32. Rb5 Qf3 33. Qc2 g6 34. Bxg6
+fxg6 35. Qxg6+ Kh8 36. Qxh6+ Nh7 37. Rh5 Qf7 38. Rb1 Qxf2+ 39. Kh1 Rf7 40. Rbb5
+Qf1+ 41. Kh2 Rxa2+ 1-0
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.17"]
+[Round "1.3"]
+[White "Sousa, André Ventura"]
+[Black "Lomba, Baltazar"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "1624"]
+[PlyCount "53"]
+[EventDate "2011.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. Nc3 d6 5. d4 exd4 6. Nxd4 Nf6 7. O-O O-O 8.
+f4 b6 9. Nxc6 Qd7 10. Bb5 Bb7 11. Nd5 Bxc6 12. Bxc6 Qe6 13. Bxa8 Rxa8 14. Nxc7
+Qxe4 15. Re1 Rc8 16. Rxe4 Nxe4 17. Nd5 Bd8 18. Qg4 Rxc2 19. Qd7 h6 20. Qe8+ Kh7
+21. Qxe4+ g6 22. Qxc2 h5 23. f5 Kg7 24. fxg6 fxg6 25. Nf4 Kf8 26. Nxg6+ Kg8 27.
+Qf5 1-0
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.17"]
+[Round "1.4"]
+[White "Lopes, Tiago Paulo"]
+[Black "Mendes, António Manuel"]
+[Result "0-1"]
+[ECO "B01"]
+[BlackElo "1544"]
+[PlyCount "70"]
+[EventDate "2011.06.17"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Nf3 Nf6 5. Bc4 Bg4 6. O-O e6 7. a3 c6 8.
+Re1 Nbd7 9. b3 Be7 10. Bb2 O-O 11. h3 Bh5 12. d4 Rad8 13. Qd3 b5 14. b4 bxc4
+15. Qxh7+ Nxh7 16. bxa5 Bxf3 17. gxf3 Ndf6 18. Rad1 Nd5 19. Nxd5 cxd5 20. Re3
+Rb8 21. Ba1 Rb5 22. Bc3 Bxa3 23. Ra1 Bb4 24. Rb1 Rfb8 25. Bxb4 Rxb4 26. Ra1
+Rb1+ 27. Rxb1 Rxb1+ 28. Kg2 Ra1 29. f4 g6 30. h4 Nf6 31. Re5 Ra2 32. Rg5 Rxc2
+33. Kg3 Ne4+ 34. Kg4 Nxg5 35. fxg5 Rxf2 0-1
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.17"]
+[Round "1.7"]
+[White "Ferreira, Rui Sérgio"]
+[Black "Abreu, Hugo Daniel"]
+[Result "1-0"]
+[ECO "D20"]
+[PlyCount "47"]
+[EventDate "2011.06.17"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 Nc6 4. d5 Nb4 5. a3 Na6 6. e4 Nc5 7. Bxc4 Nf6 8. Qc2
+e5 9. Nf3 Bd6 10. b4 Ncd7 11. O-O O-O 12. Re1 Ng4 13. h3 Ngf6 14. Re3 Nb6 15.
+Bb3 Ne8 16. Nh2 Qf6 17. Rg3 c5 18. Bg5 Qg6 19. Be7 Qh5 20. Bxd6 Nxd6 21. bxc5
+Nxe4 22. Qxe4 Bf5 23. Qxe5 Nd7 24. Qxg7# 1-0
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.18"]
+[Round "2.1"]
+[White "Coelho, Nelson Filipe"]
+[Black "Ferreira, Miguel"]
+[Result "0-1"]
+[ECO "B10"]
+[BlackElo "1905"]
+[PlyCount "84"]
+[EventDate "2011.06.17"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. Nc3 Nf6 5. d4 Nc6 6. Bb5 a6 7. Bxc6+ bxc6 8.
+O-O Bg4 9. h3 Bh5 10. Bg5 e6 11. Qe2 Bd6 12. Qd3 h6 13. Bxf6 gxf6 14. Rfe1 Rg8
+15. Qh7 Kd7 16. g4 Qf8 17. Qd3 f5 18. Ne5+ Bxe5 19. dxe5 fxg4 20. Re3 gxh3+ 21.
+Rg3 Rxg3+ 22. Qxg3 Qg8 23. Qxg8 Rxg8+ 24. Kh2 Rg2+ 25. Kxh3 Rxf2 26. Rc1 c5 27.
+Kg3 Rf5 28. Re1 Bg6 29. Nd1 Rg5+ 30. Kh4 Bxc2 31. Ne3 Be4 32. Ng4 Bg6 33. Nxh6
+Rh5+ 34. Kg4 Rxh6 35. Kg5 Rh5+ 36. Kf6 Ke8 37. Rf1 Kf8 38. a3 c4 39. a4 a5 40.
+b4 cxb3 41. Rf2 b2 42. Rxb2 Rf5# 0-1
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.18"]
+[Round "2.2"]
+[White "Sousa, Nuno Ventura"]
+[Black "Ferreira, Rui Sérgio"]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "1748"]
+[PlyCount "77"]
+[EventDate "2011.06.17"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. O-O Nc6 5. h3 a6 6. d4 Nxd4 7. Nxd4 exd4 8.
+Qxd4 Bf6 9. Qd5 Be6 10. Qxb7 Ne7 11. Bxe6 fxe6 12. c3 O-O 13. Qb3 Qd7 14. Be3
+Rab8 15. Qc2 Qc6 16. Nd2 d5 17. Rac1 Be5 18. f4 Bd6 19. b4 Ng6 20. e5 Be7 21.
+g3 Rf5 22. g4 Rf7 23. Rf3 Nh4 24. Rf2 Rbf8 25. Qd3 Bxb4 26. Nb3 Be7 27. Nd4 Qc4
+28. Qxc4 dxc4 29. Nxe6 Rc8 30. f5 c5 31. Rd1 g6 32. f6 Bf8 33. Bg5 Rc6 34. Nd8
+Rfc7 35. Bxh4 Rb6 36. e6 Rb8 37. f7+ Kg7 38. Bf6+ Kh6 39. g5+ 1-0
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.18"]
+[Round "2.3"]
+[White "Lomba, Lucas"]
+[Black "Sousa, André Ventura"]
+[Result "0-1"]
+[ECO "B23"]
+[BlackElo "1624"]
+[PlyCount "72"]
+[EventDate "2011.06.17"]
+
+1. e4 c5 2. Nc3 g6 3. Nf3 Bg7 4. Bc4 Nc6 5. O-O d6 6. d3 Bg4 7. Nd5 Nd4 8. Be3
+Nxf3+ 9. gxf3 Bh3 10. Bb5+ Kf8 11. Re1 a6 12. Bg5 f6 13. Bd2 axb5 14. Nf4 Bd7
+15. c3 e5 16. Nd5 Ne7 17. Qe2 Nxd5 18. Bh6 Ne7 19. Bxg7+ Kxg7 20. f4 Be6 21.
+Qe3 Rxa2 22. Rxa2 Bxa2 23. Qh3 d5 24. Ra1 dxe4 25. dxe4 Bc4 26. Qf1 Bxf1 27.
+Rxf1 exf4 28. f3 g5 29. Re1 g4 30. fxg4 Qd2 31. Rf1 Qe3+ 32. Kh1 Qxe4+ 33. Kg1
+f3 34. h4 Qxg4+ 35. Kf2 Qg2+ 36. Ke1 Qe2# 0-1
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.18"]
+[Round "2.4"]
+[White "Mendes, António Manuel"]
+[Black "Silva, Júlio"]
+[Result "1-0"]
+[ECO "D10"]
+[WhiteElo "1544"]
+[PlyCount "51"]
+[EventDate "2011.06.17"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Bf4 Bf5 5. e3 e6 6. Qb3 Nbd7 7. Nf3 g6 8. Nh4
+Qb6 9. Nxf5 exf5 10. Qc2 Bg7 11. Be2 O-O 12. O-O Rae8 13. Bd6 Rd8 14. Bxf8 Rxf8
+15. cxd5 cxd5 16. Bf3 Qd6 17. Qb3 Nb6 18. Rac1 Rc8 19. Nb5 Qd7 20. Nxa7 Rc7 21.
+Qxb6 Rxc1 22. Rxc1 Bh6 23. Rc7 Qa4 24. Qxf6 Qxa2 25. Qxf7+ Kh8 26. Qxh7# 1-0
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.18"]
+[Round "2.5"]
+[White "Lomba, Baltazar"]
+[Black "Costa, André"]
+[Result "0-1"]
+[ECO "B70"]
+[BlackElo "1328"]
+[PlyCount "72"]
+[EventDate "2011.06.17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 Bg7 7. O-O O-O 8.
+Re1 Nc6 9. Be3 Ng4 10. Nxc6 bxc6 11. Bd4 Ne5 12. Be2 c5 13. Be3 Rb8 14. Bd2 Be6
+15. b3 Nc6 16. Rb1 Nd4 17. Bd3 Qc7 18. Nd5 Bxd5 19. exd5 Nb5 20. a4 Nc3 21.
+Bxc3 Bxc3 22. Re3 Bd4 23. Re2 Qb7 24. Bc4 Rfc8 25. Qd2 Qb4 26. Qxb4 Rxb4 27.
+Rxe7 Rcb8 28. Rxa7 Rxc4 29. Re1 Rxc2 30. g3 Bxf2+ 31. Kf1 Bxe1 32. Kxe1 Rxb3
+33. Kd1 Rxh2 34. Kc1 Rxg3 35. Re7 Rg1+ 36. Re1 Rxe1# 0-1
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.18"]
+[Round "2.7"]
+[White "Dias, Jorge Miguel"]
+[Black "Lopes, Tiago Paulo"]
+[Result "0-1"]
+[ECO "C20"]
+[PlyCount "90"]
+[EventDate "2011.06.17"]
+
+1. e4 e5 2. d4 f6 3. dxe5 fxe5 4. Nf3 Nc6 5. Bc4 Nf6 6. Bg5 Be7 7. Nc3 d6 8. h3
+h6 9. Bxf6 Bxf6 10. Qd5 Qe7 11. Qd1 Be6 12. Bxe6 Qxe6 13. Nd5 O-O-O 14. a4 Nd4
+15. Ra3 c6 16. Ne3 d5 17. exd5 cxd5 18. Rc3+ Kb8 19. g4 Nxf3+ 20. Qxf3 e4 21.
+Qg3+ Be5 22. f4 Bxc3+ 23. bxc3 Qd6 24. Nf5 Qc7 25. Nd4 g5 26. Ne6 gxf4 27. Nxc7
+fxg3 28. Ne6 Rc8 29. Kd2 Rhe8 30. Nd4 e3+ 31. Ke2 Rxc3 32. Rg1 Rc4 33. Kd3 Re4
+34. Ne2 Rxa4 35. Rxg3 Ra3+ 36. c3 a5 37. g5 hxg5 38. Rxg5 Rh4 39. Rxd5 Rb3 40.
+Rxa5 Rxh3 41. Re5 Rb2 42. Re8+ Ka7 43. Re4 Rd2+ 44. Kc4 Rxe2 45. Kb5 Rb2+ 0-1
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.18"]
+[Round "3.1"]
+[White "Ferreira, Miguel"]
+[Black "Mendes, António Manuel"]
+[Result "1-0"]
+[ECO "A46"]
+[WhiteElo "1905"]
+[BlackElo "1544"]
+[PlyCount "139"]
+[EventDate "2011.06.17"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 c5 4. e3 cxd4 5. exd4 Nc6 6. c3 Be7 7. Bd3 b6 8.
+Nbd2 Bb7 9. O-O O-O 10. Rc1 Re8 11. Bb1 Bf8 12. Qc2 Ne7 13. Rfe1 Ng6 14. Be5 d6
+15. Bg3 Nh5 16. Ne4 Nxg3 17. hxg3 Be7 18. a3 Rc8 19. Qd2 Nf8 20. Qf4 Ng6 21.
+Qd2 Nf8 22. Neg5 h6 23. Nh3 Rc7 24. Qf4 Bf6 25. Rcd1 Qe7 26. Nh4 Bxh4 27. gxh4
+e5 28. Qg3 Qf6 29. dxe5 dxe5 30. Re3 Rce7 31. Bc2 Nd7 32. f3 Nc5 33. Nf2 Bc6
+34. Ng4 Qf4 35. Qxf4 exf4 36. Rxe7 Rxe7 37. b4 Nd7 38. c4 a6 39. Bf5 b5 40. c5
+h5 41. Nf2 Ne5 42. Rd8+ Re8 43. Rxe8+ Bxe8 44. Bc8 Nc4 45. Bxa6 Nxa3 46. Nd3
+Nc2 47. Bb7 Nd4 48. Nxf4 g6 49. Nd5 Kf8 50. Kf2 Bc6 51. Bxc6 Nxc6 52. Ke3 Nb8
+53. Ke4 Nc6 54. g4 hxg4 55. fxg4 Kg7 56. Nc7 Nxb4 57. Nxb5 Kf8 58. Nd4 Ke7 59.
+c6 Na6 60. Nb5 f6 61. Kd4 f5 62. gxf5 gxf5 63. c7 Kd7 64. Ke5 Nc5 65. h5 Ne6
+66. Kxf5 Ng7+ 67. Kg6 Ne6 68. h6 Nf8+ 69. Kg7 Ne6+ 70. Kf7 1-0
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.18"]
+[Round "3.2"]
+[White "Sousa, André Ventura"]
+[Black "Sousa, Nuno Ventura"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "1624"]
+[BlackElo "1748"]
+[PlyCount "33"]
+[EventDate "2011.06.17"]
+
+1. e4 c5 2. Nf3 Nc6 3. d3 e6 4. Be3 Nf6 5. g3 d5 6. Nbd2 Be7 7. Bg2 h6 8. O-O
+Ng4 9. exd5 exd5 10. Qe2 Be6 11. h3 Nxe3 12. fxe3 Qd7 13. Kh2 f5 14. Rae1 g5
+15. e4 g4 16. exd5 Bxd5 17. Ne5 1-0
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.18"]
+[Round "3.3"]
+[White "Costa, André"]
+[Black "Silva, Júlio"]
+[Result "1-0"]
+[ECO "A22"]
+[WhiteElo "1328"]
+[PlyCount "111"]
+[EventDate "2011.06.17"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 d5 4. cxd5 Nxd5 5. Nxe5 Nxc3 6. bxc3 Bd6 7. Nf3 O-O
+8. g3 Bf5 9. Bg2 Nc6 10. O-O Re8 11. Nh4 Bg4 12. Nf3 Qe7 13. h3 Bxf3 14. Bxf3
+Qd7 15. Bg2 Re7 16. d3 Rae8 17. Be3 b6 18. Qa4 Nb8 19. Qxa7 Nc6 20. Qa4 Nd8 21.
+Qxd7 Rxd7 22. Bg5 Rxe2 23. Bf3 Re8 24. Rfe1 Rxe1+ 25. Rxe1 h6 26. Bg4 Ne6 27.
+Bc1 Re7 28. c4 Bb4 29. Re4 g6 30. Bxh6 f5 31. Bg5 Nxg5 32. Rxe7 Bxe7 33. h4
+fxg4 34. hxg5 Bxg5 35. Kg2 Bf6 36. f3 gxf3+ 37. Kxf3 Kf7 38. g4 Ke6 39. Ke4 Kd6
+40. d4 c5 41. d5 Be5 42. Kd3 b5 43. cxb5 Kxd5 44. a4 c4+ 45. Kc2 c3 46. b6 Kc6
+47. a5 Kd5 48. b7 Ke4 49. a6 Bb8 50. Kxc3 Kf4 51. Kc4 Ba7 52. Kb5 Kxg4 53. Kc6
+Bb8 54. Kb6 g5 55. a7 Bxa7+ 56. Kxa7 1-0
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.18"]
+[Round "3.4"]
+[White "Ferreira, Rui Sérgio"]
+[Black "Coelho, Nelson Filipe"]
+[Result "1-0"]
+[ECO "D10"]
+[PlyCount "52"]
+[EventDate "2011.06.17"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. c5 Be7 6. Bf4 Nbd7 7. b4 b6 8. Rb1
+bxc5 9. bxc5 Ne4 10. Qd3 Qa5 11. Bd2 Nxc3 12. Bxc3 Qxa2 13. Nd2 Bg5 14. e3 Ba6
+15. Qxa6 Qxa6 16. Bxa6 O-O 17. O-O Nb8 18. Bb7 Nd7 19. Bxc6 Rad8 20. Ba5 Nb8
+21. Bxd8 Rxd8 22. Ba4 a5 23. c6 Rc8 24. Rfc1 Na6 25. Rb6 Nb4 26. c7 Bh4 1-0
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.18"]
+[Round "3.6"]
+[White "Lopes, Tiago Paulo"]
+[Black "Lomba, Lucas"]
+[Result "1-0"]
+[ECO "C65"]
+[PlyCount "37"]
+[EventDate "2011.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Bb4 5. b3 Bxc3 6. dxc3 Nxe4 7. Bxc6 bxc6
+8. c4 Nc3 9. Qd3 Qe7 10. Qxc3 e4 11. Nd2 O-O 12. Qd4 Qh4 13. Qxe4 Qf6 14. Rb1
+Qd8 15. O-O d5 16. cxd5 cxd5 17. Qd4 c6 18. Bb2 Qa5 19. Qxg7# 1-0
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.19"]
+[Round "4.1"]
+[White "Sousa, André Ventura"]
+[Black "Ferreira, Miguel"]
+[Result "0-1"]
+[ECO "B10"]
+[WhiteElo "1624"]
+[BlackElo "1905"]
+[PlyCount "86"]
+[EventDate "2011.06.17"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. Bb5+ Bd7 5. Qe2 a6 6. Bxd7+ Nxd7 7. d4 e6 8.
+Bg5 Be7 9. Bxe7 Qxe7 10. c3 Ngf6 11. O-O O-O 12. Nbd2 b5 13. a3 Nb6 14. Ne5 Nc4
+15. Nb3 Rfc8 16. Nd3 Ne4 17. f3 Ned6 18. f4 Nf5 19. Rf3 a5 20. Kh1 h5 21. Rh3
+g6 22. Nbc5 b4 23. axb4 axb4 24. Rb1 bxc3 25. bxc3 Rcb8 26. Rxb8+ Rxb8 27. Rf3
+Rb6 28. Ne5 Nd2 29. Rf1 Nxf1 30. Qxf1 Qh4 31. Kg1 Rb2 32. Ncd3 Ne3 33. Nf3 Qg4
+34. Nxb2 Nxf1 35. Kxf1 Qxf4 36. Ke2 g5 37. Nd3 Qe4+ 38. Kd2 g4 39. Nfe1 f6 40.
+Nf2 Qf4+ 41. Ke2 Qxh2 42. Kf1 Qf4 43. Ned3 Qd2 0-1
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.19"]
+[Round "4.2"]
+[White "Sousa, Nuno Ventura"]
+[Black "Lopes, Tiago Paulo"]
+[Result "1-0"]
+[ECO "C57"]
+[WhiteElo "1748"]
+[PlyCount "53"]
+[EventDate "2011.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 6. Qf3 Qxg5 7. Bxd5 Qf5
+8. Bxc6+ Kd8 9. Qxf5 Bxf5 10. Bxb7 Rb8 11. Bd5 f6 12. d3 Bc5 13. Bb3 Bd4 14.
+Nd2 Re8 15. O-O g5 16. Nf3 Bc5 17. Be3 Bd6 18. Bxa7 Rc8 19. a4 c5 20. a5 e4 21.
+dxe4 Bxe4 22. Rfd1 Bxf3 23. Rxd6+ Ke7 24. Re6+ Kd7 25. Rxe8 Rxe8 26. gxf3 Kc6
+27. Ba4+ 1-0
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.19"]
+[Round "4.4"]
+[White "Dias, Luis Manuel"]
+[Black "Costa, André"]
+[Result "0-1"]
+[ECO "B23"]
+[BlackElo "1328"]
+[PlyCount "56"]
+[EventDate "2011.06.17"]
+
+1. e4 c5 2. Nc3 d6 3. Bc4 Nf6 4. d3 g6 5. Nf3 Bg7 6. Bg5 O-O 7. Bxf6 Bxf6 8.
+Nd5 Bxb2 9. Rb1 Bg7 10. h4 Nc6 11. h5 Bg4 12. hxg6 Qa5+ 13. Kf1 hxg6 14. Bb5
+Rfe8 15. Rh4 Bd7 16. Qe1 Qxe1+ 17. Kxe1 Rac8 18. Bxc6 Bxc6 19. c4 e6 20. Ne3 d5
+21. exd5 exd5 22. cxd5 Bxd5 23. Kd2 Bc6 24. Ne1 Rcd8 25. Nc4 Bf6 26. Rh2 Bg5+
+27. Kd1 Ba4+ 28. Nc2 Rxd3+ 0-1
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.19"]
+[Round "4.5"]
+[White "Martins, André Manuel"]
+[Black "Abreu, Hugo Daniel"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "1305"]
+[PlyCount "79"]
+[EventDate "2011.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 Bd6 4. d5 Nb8 5. Nc3 c6 6. Bg5 f6 7. Be3 Bb4 8. Bc4
+Ne7 9. O-O d6 10. a3 Bxc3 11. bxc3 Bd7 12. Rb1 b5 13. Bb3 c5 14. c4 bxc4 15.
+Bxc4 O-O 16. Bxc5 dxc5 17. d6+ Kh8 18. dxe7 Qxe7 19. Bd5 Nc6 20. Rb7 Rab8 21.
+Bxc6 Rxb7 22. Bxb7 Bb5 23. Re1 Qxb7 24. Qd6 Rc8 25. Rd1 Qb8 26. Qe7 Re8 27.
+Qxc5 Rc8 28. Qd5 Be2 29. Rc1 Rd8 30. Qb3 Qxb3 31. cxb3 Bd1 32. b4 Bc2 33. h3
+Bxe4 34. Rc7 a6 35. Ra7 Bd3 36. Ne1 e4 37. f3 exf3 38. Nxd3 Rxd3 39. Ra8+ Rd8
+40. Rxd8# 1-0
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.19"]
+[Round "4.6"]
+[White "Silva, Júlio"]
+[Black "Lomba, Baltazar"]
+[Result "0-1"]
+[ECO "C46"]
+[PlyCount "82"]
+[EventDate "2011.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Bb4 5. d3 b6 6. Bg5 Bb7 7. O-O h6 8. Bxf6
+Qxf6 9. Nd5 Qd6 10. Nxb4 Nxb4 11. c3 Nc6 12. d4 O-O-O 13. dxe5 Nxe5 14. Qxd6
+cxd6 15. Nxe5 dxe5 16. Bxf7 Bxe4 17. Rfe1 d5 18. Rad1 Rd6 19. c4 Rhd8 20. cxd5
+Bxd5 21. Rxe5 Bxf7 22. Rc1+ Kb8 23. h3 Bxa2 24. Re7 Rd1+ 25. Rxd1 Rxd1+ 26. Kh2
+Rd2 27. f4 Rxb2 28. f5 Rf2 29. Rf7 Bxf7 30. Kg3 Rxf5 31. Kg4 Be6 32. g3 a5 33.
+Kh4 a4 34. g4 Rg5 35. Kg3 a3 36. h4 Rxg4+ 37. Kf3 a2 38. Ke2 a1=Q 39. Kd2 Qa3
+40. Kc2 Rg2+ 41. Kb1 Qb2# 0-1
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.19"]
+[Round "4.7"]
+[White "Coelho, Nelson Filipe"]
+[Black "Lomba, Lucas"]
+[Result "1-0"]
+[PlyCount "47"]
+[EventDate "2011.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 Nf6 4. d5 Nb4 5. Nc3 d6 6. a3 Bg4 7. axb4 g6 8. Bb5+
+c6 9. dxc6 Rc8 10. cxb7+ Nd7 11. bxc8=Q Qxc8 12. Bxd7+ Bxd7 13. O-O Be7 14. Nd5
+Bd8 15. Ng5 Bg4 16. Qd3 O-O 17. Qa6 Bxg5 18. Qxc8 Rxc8 19. Bxg5 Rxc2 20. Nf6+
+Kg7 21. Nxg4 Rxb2 22. Rxa7 Re2 23. Nh6 Kh8 24. Bf6# 1-0
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.19"]
+[Round "5.1"]
+[White "Ferreira, Miguel"]
+[Black "Sousa, Nuno Ventura"]
+[Result "1-0"]
+[ECO "A46"]
+[WhiteElo "1905"]
+[BlackElo "1748"]
+[PlyCount "121"]
+[EventDate "2011.06.17"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 d5 4. e3 c5 5. c3 Nc6 6. Nbd2 a6 7. a4 Bd6 8. Bg3
+Qe7 9. Bd3 e5 10. dxe5 Bxe5 11. Bxe5 Nxe5 12. Nxe5 Qxe5 13. Nf3 Qh5 14. O-O O-O
+15. c4 Rd8 16. Qb3 Rb8 17. cxd5 Bg4 18. Be2 Nxd5 19. Rad1 Nb4 20. Rxd8+ Rxd8
+21. Rd1 Rxd1+ 22. Qxd1 h6 23. Qd8+ Kh7 24. h3 Be6 25. Bd3+ Bf5 26. Bc4 Bxh3 27.
+gxh3 Qxf3 28. Qd7 Kg6 29. h4 h5 30. Qd6+ f6 31. Qxc5 a5 32. Qc7 Qg4+ 33. Qg3
+Qxg3+ 34. fxg3 Kf5 35. Kf2 Ke4 36. b3 Nc2 37. Bf7 Nxe3 38. Bxh5 f5 39. Bf3+ Kd4
+40. Bxb7 Nc2 41. Bc8 Ke5 42. Ba6 Ke4 43. Bc4 Nd4 44. Bf7 Kd3 45. h5 Kc3 46. Ke3
+Nxb3 47. Kf4 Kb4 48. Kxf5 Kxa4 49. Kg6 Kb4 50. Be8 Nd4 51. g4 Ne6 52. Bf7 Nd4
+53. Kxg7 a4 54. h6 Nb3 55. h7 a3 56. Bxb3 Kxb3 57. h8=Q Kb2 58. Kf7+ Kb1 59. g5
+a2 60. g6 Kc1 61. Qa1+ 1-0
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.19"]
+[Round "5.2"]
+[White "Mendes, António Manuel"]
+[Black "Sousa, André Ventura"]
+[Result "0-1"]
+[ECO "A46"]
+[WhiteElo "1544"]
+[BlackElo "1624"]
+[PlyCount "106"]
+[EventDate "2011.06.17"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. Nbd2 Be7 5. c3 b6 6. e3 Nbd7 7. Bb5 Bb7 8. Ne5
+O-O 9. Ndf3 c5 10. O-O Rc8 11. Qa4 Nxe5 12. Nxe5 Qc7 13. Bxf6 Bxf6 14. Nd7 Rfd8
+15. Nxf6+ gxf6 16. Qd1 Kh8 17. Bd3 Rg8 18. f4 f5 19. Rc1 f6 20. Qh5 Rg6 21. Rc2
+Rcg8 22. Rff2 Qf7 23. Qf3 c4 24. Bf1 Qf8 25. b3 Qc8 26. g3 R6g7 27. Qh5 Ba6 28.
+b4 Bb5 29. Rg2 Rg6 30. Qf3 Qa6 31. g4 fxg4 32. Qf2 Be8 33. f5 exf5 34. Qxf5 Qb7
+35. Be2 Bd7 36. Qf4 Qb8 37. Qxb8 Rxb8 38. Rg3 Re8 39. Bf1 Bf5 40. Rf2 Be4 41.
+Bg2 Bxg2 42. Kxg2 Re6 43. Rf4 h5 44. Kf2 Kg7 45. Rf5 Rg5 46. Rf4 Kg6 47. h3
+gxh3 48. Rxh3 b5 49. Rhf3 f5 50. Rh4 Ra6 51. Kf1 Ra3 52. Rh2 Rxc3 53. a4 Rc1+
+0-1
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.19"]
+[Round "5.3"]
+[White "Costa, André"]
+[Black "Martins, André Manuel"]
+[Result "1-0"]
+[ECO "A22"]
+[WhiteElo "1328"]
+[BlackElo "1305"]
+[PlyCount "77"]
+[EventDate "2011.06.17"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Bc5 7. O-O O-O 8.
+a3 Nxc3 9. bxc3 Bf5 10. d3 Qd7 11. Bd2 Bh3 12. c4 Bxg2 13. Kxg2 a6 14. Qc2 b5
+15. cxb5 axb5 16. Qxc5 Rab8 17. Nxe5 Nxe5 18. Qxe5 Rfe8 19. Qh5 Re6 20. Qg4
+Rbe8 21. Bc3 Qc6+ 22. Kg1 Qxc3 23. Rfc1 Qa5 24. Qf4 Rxe2 25. Rxc7 f6 26. Qd6
+R2e6 27. Qd7 R6e7 28. Qd5+ Re6 29. Rc8 Kf8 30. Qxe6 Rxc8 31. Qxc8+ Kf7 32. Qd7+
+Kg6 33. Qg4+ Kf7 34. Qh5+ Ke6 35. Qxh7 Qc3 36. Qe4+ Kf7 37. Re1 Kg8 38. Qe8+
+Kh7 39. Qh5+ 1-0
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.19"]
+[Round "5.4"]
+[White "Lomba, Baltazar"]
+[Black "Ferreira, Rui Sérgio"]
+[Result "1-0"]
+[ECO "C41"]
+[PlyCount "65"]
+[EventDate "2011.06.17"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nc6 4. d5 Nce7 5. g3 Nf6 6. Nc3 h6 7. Bg2 Bd7 8. O-O
+c6 9. Nd2 b5 10. a3 a5 11. Ndb1 b4 12. Ne2 Rb8 13. c3 cxd5 14. exd5 e4 15. cxb4
+Bf5 16. Nbc3 axb4 17. axb4 Rxb4 18. Re1 Nc8 19. Nd4 Ne7 20. Nxf5 Nxf5 21. Nxe4
+Be7 22. Nxf6+ gxf6 23. Be4 Ng7 24. b3 f5 25. Bc2 h5 26. Bg5 f6 27. Bxf6 Kd7 28.
+Bxg7 Re8 29. Bxf5+ Kc7 30. Qc1+ Kb8 31. Qc6 Rb7 32. Ra6 Rg8 33. Rea1 1-0
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.19"]
+[Round "5.5"]
+[White "Lopes, Tiago Paulo"]
+[Black "Dias, Luis Manuel"]
+[Result "0-1"]
+[ECO "C68"]
+[PlyCount "56"]
+[EventDate "2011.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nxe5 Qd4 6. Nf3 Qxe4+ 7. Qe2
+Qxe2+ 8. Kxe2 Bg4 9. Nc3 O-O-O 10. Kf1 Bxf3 11. gxf3 Nf6 12. b3 Bb4 13. Bb2
+Rhe8 14. a3 Ba5 15. Rg1 Rxd2 16. Rc1 Bb6 17. Rg2 Nh5 18. Ne4 Rd5 19. Re1 Kb8
+20. Bxg7 Nf4 21. Rg4 Nh3 22. Rc1 Rf5 23. Bh6 Rxf3 24. Rh4 Nxf2 25. Nxf2 Rxf2+
+26. Kg1 Rf4+ 27. Kg2 Rxh4 28. Bg5 Rg4+ 0-1
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.19"]
+[Round "5.6"]
+[White "Abreu, Hugo Daniel"]
+[Black "Coelho, Nelson Filipe"]
+[Result "1-0"]
+[ECO "C46"]
+[PlyCount "73"]
+[EventDate "2011.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Bc5 5. d3 O-O 6. O-O d6 7. Bg5 h6 8. Bxf6
+Qxf6 9. Nd5 Qd8 10. Nc3 Nd4 11. Nxd4 Bxd4 12. Qe1 Qg5 13. Ne2 Bxb2 14. Rb1 Bd4
+15. Bd5 c6 16. Bb3 h5 17. Qc1 Qg6 18. Ng3 h4 19. Nf5 Bxf5 20. exf5 Qxf5 21. h3
+Rae8 22. c3 Bc5 23. Bc2 b5 24. d4 Qe6 25. Bb3 Ba3 26. Qxa3 Qf5 27. Qxd6 Rd8 28.
+Qxc6 exd4 29. cxd4 Rxd4 30. Bc2 Qg5 31. Rxb5 Qd2 32. Rbb1 Rd6 33. Qc5 a5 34.
+Rbd1 Qb4 35. Qxd6 Qxd6 36. Rxd6 g5 37. Rfd1 1-0
+
+[Event "Distrital do Porto 2011 - Prel"]
+[Site "Vila das Aves"]
+[Date "2011.06.19"]
+[Round "5.7"]
+[White "Lomba, Lucas"]
+[Black "Dias, Jorge Miguel"]
+[Result "0-1"]
+[ECO "C65"]
+[PlyCount "86"]
+[EventDate "2011.06.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Bxc6 dxc6 5. Nc3 Bb4 6. O-O Bg4 7. Re1 Bxc3
+8. dxc3 Qxd1 9. Rxd1 Nxe4 10. Bg5 Nxg5 11. Nxg5 Bxd1 12. Rxd1 f6 13. Ne6 Ke7
+14. Nxg7 Rad8 15. Re1 Rd2 16. Rc1 Rhd8 17. Nf5+ Kf7 18. Ne3 f5 19. f3 f4 20.
+Nc4 Rd1+ 21. Rxd1 Rxd1+ 22. Kf2 Ke6 23. g4 fxg3+ 24. hxg3 Rc1 25. Ne3 b5 26.
+Nf1 Rxc2+ 27. Ke3 Rxb2 28. a3 Rb3 29. Nd2 Rxc3+ 30. Kf2 Rxa3 31. Ne4 Kd5 32.
+Nf6+ Kd4 33. Nxh7 b4 34. g4 b3 35. g5 b2 36. g6 b1=Q 37. Nf8 Qf5 38. g7 Qf7 39.
+Ne6+ Qxe6 40. g8=Q Qxg8 41. f4 Qg3+ 42. Ke2 Ra2+ 43. Kd1 Qg1# 0-1
+

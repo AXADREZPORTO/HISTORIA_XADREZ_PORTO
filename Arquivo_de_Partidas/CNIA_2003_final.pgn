@@ -1,0 +1,970 @@
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.16"]
+[Round "1.1"]
+[White "Rocha, Sergio"]
+[Black "Dias, Paulo"]
+[Result "1-0"]
+[ECO "C67"]
+[WhiteElo "2357"]
+[BlackElo "2326"]
+[PlyCount "127"]
+[EventDate "2003.08.16"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Ne4 8.Qe2
+Bf5 9.Rd1 Qc8 10.Rd4 Nc5 11.Be3 Be7 12.Nc3 Ne6 13.Rd2 O-O 14.Rad1 Rd8 15.Rxd8+
+Bxd8 16.h3 h6 17.Ne1 Bg5 18.Nd3 Qe8 19.Qd2 Bxd3 20.cxd3 Bxe3 21.Qxe3 c5 22.f4
+Qd7 23.f5 Qd4 24.Kf2 Qxe3+ 25.Kxe3 Nd4 26.Kf4 Rd8 27.a3 a5 28.Re1 Kf8 29.g4 b6
+30.h4 Nc6 31.Re3 Rd4+ 32.Kg3 c4 33.dxc4 Rxc4 34.f6 h5 35.gxh5 Nd4 36.Re4 c6
+37.Kg4 b5 38.Nd1 c5 39.Nc3 b4 40.axb4 cxb4 41.Nd5 Nc6 42.Kf4 Rxe4+ 43.Kxe4 a4
+44.Ne3 a3 45.b3 Na5 46.Nc2 a2 47.Na1 gxf6 48.exf6 Kg8 49.Kd5 Kh7 50.Kd6 Kh6
+51.Ke7 Nc6+ 52.Kxf7 Kxh5 53.Ke6 Nd8+ 54.Kd7 Nf7 55.Ke7 Ne5 56.f7 Kxh4 57.f8=Q
+Ng6+ 58.Kf7 Nxf8 59.Kxf8 Kg5 60.Ke7 Kf4 61.Kd6 Ke3 62.Kc5 Kd2 63.Kxb4 Kc1 64.
+Kc3 1-0
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.16"]
+[Round "1.2"]
+[White "Fernando, Diogo"]
+[Black "Galego, Luis"]
+[Result "1-0"]
+[ECO "B43"]
+[WhiteElo "2391"]
+[BlackElo "2494"]
+[PlyCount "91"]
+[EventDate "2003.08.16"]
+
+{A Final do Campeonato de Portugal abriu com a vitoria de Diogo Fernando sobre
+Luis Galego, com Diogo a mostrar uma grande superioridade na abertura, perante
+a Sicilana Paulsen que tem sido uma arma chave na carreira de Galego, e que
+teve grande importancia na sua ascensao a Grande Mestre.} 1.e4 c5 2.Nf3 e6 3.
+Nc3 a6 4.d4 cxd4 5.Nxd4 Qc7 6.Bd3 b5 7.O-O Bb7 8.Re1 {#} 8...Bc5 ({
+Diogo Fernando ja havia tido uma experiencia com esta posicao ao mais alto
+nivel:} 8...Nc6 9.Nxc6 Qxc6 10.a4 (10.Bd2 {Vorobiov,E} 10...Nf6 11.a4 b4 12.
+Na2 Qb6 13.a5 Qxa5 14.Nxb4 Qb6 $132) 10...b4 (10...bxa4 11.Rxa4 Nf6 12.Rc4 Qb6
+13.Be3 $16) 11.Nd5 $1 Nf6 (11...O-O-O 12.Ne3) 12.Bd2 $1 (12.Qf3 $2 {Vorobiov,E}
+12...Nxd5 13.exd5 Qxd5 14.Be4 Qe5 15.Bf4 Bxe4) (12.Nxf6+ {Vorobiov,E} 12...
+gxf6 $13) 12...Bc5 $1 (12...Nxd5 13.exd5 Qc5 (13...Qc7 {Vorobiov,E} 14.dxe6
+dxe6 15.Qg4 $16 h5 $2 16.Rxe6+ fxe6 17.Qxe6+ Qe7 18.Qg6+ Qf7 19.Re1+ Be7 20.
+Bxb4 $18) (13...Qxd5 {Vorobiov,E} 14.Be4 Qxe4 15.Rxe4 Bxe4 16.Qe1 Bxc2 17.Bxb4
+Bxb4 18.Qxb4 a5 19.Qc3 Bg6 20.b4 $1 O-O 21.b5 Be4 22.f3 Rfc8 23.Qd2 Bd5 24.Rc1
+$18) 14.Be4 $16 {
+Tal,M-Gipslis,A, URSS-ch Riga 1958}) (12...a5 $2 13.Bb5 Qc5 (13...Qd6 14.Bf4
+e5 15.Bxe5 $18) (13...Qc8 14.Nb6 $18) 14.Be3 Qd6 15.Bf4 e5 16.Bxe5 {!
+} 16...Qxe5 17.Nxf6+ $18) 13.c4 (13.a5 $5 {Vorobiov,E} 13...Qd6 $1 (13...Nxd5
+14.exd5 Qd6 15.dxe6 dxe6 16.Be3 $14) 14.Bf4 (14.Nxf6+ gxf6 15.Qf3 f5 $13)
+14...e5 15.Nxf6+ Qxf6 16.Be3 d6 17.c3 bxc3 18.Qa4+ Ke7 19.Bxc5 cxb2 20.Rab1
+dxc5 21.Rxb2 $44) 13...bxc3 $6 (13...O-O-O {Vorobiov,E} 14.Rc1 a5 15.Bf4 $14)
+(13...a5 $1 {Vorobiov,E} 14.Rc1 $1 d6 $1 15.Bh6 $1 (15.Qf3 Nd7 16.Qg3 Kf8 $15)
+15...gxh6 (15...Nxd5 16.cxd5 Qb6 17.Bxg7 Rg8 18.Bb5+ Ke7 19.Qg4 $18) 16.Nxf6+
+Ke7 $8 17.Nd5+ Kd8 $1 (17...Kf8 18.Qh5 Bd4 19.e5) (17...Kd7 18.e5) 18.Qf3 exd5
+19.exd5 Qa6 20.Qxf7 Kc8 $13) 14.Nxf6+ gxf6 15.Bxc3 $16 {X Ke8 (Fernando,D-Strikovic,A, Odivelas, 2000)})
+(8...Nf6 9.e5 Nd5 10.Bd2 Nxc3 11.Bxc3 Nc6 12.Nxc6 Bxc6 13.Qg4 $16) (8...d6 9.
+Bg5 Nf6 10.Bxf6 gxf6 11.Nd5 $16) 9.Be3 $1 Qb6 (9...Nf6 10.Ndxb5 (10.Nb3 Bxe3
+11.Rxe3 b4 {1/2-1/2 Berndt,S-Atlas,V,AUT-ch 2002}) 10...axb5 11.Nxb5 Qc6 12.
+Bxc5 Qxc5 13.e5 $16 {Keres,P-Benko,P, Curacao ct 1962}) (9...Ne7 10.Qh5 $1 e5
+11.Ndxb5 axb5 12.Nxb5 Qc6 13.Bxc5 Qxc5 14.b4 $16 {
+Keres,P-Ojanen,K, Helsinquia m 1960}) (9...d6 10.Qg4 Kf8 11.Rad1 Nf6 12.Qh4
+Nbd7 13.a3 Ne5 14.Nb3 Bxe3 15.Rxe3 h6 16.Be2 $14 {
+Smirin,I-Hasanov,M, Minsk 1985}) (9...Be7 $5 10.a4 (10.f4 $5) 10...b4 11.Nce2
+Nf6 12.Bf4 e5 13.Bg3 $13 {Shabash,A-Ghaem Maghami,E/Dubai 2001}) 10.Bf1 {Uma novidade teorica. Ja se jogou num par de partidas}
+(10.Nb3 Bxe3 11.Rxe3 Ne7 12.e5 Nd5 13.Nxd5 Bxd5 14.Qg4 $16 {Packroff,H-Thelen,H, EU-ch corr 1984})
+10...Ne7 (10...Nc6 $16 {Santos,L}) 11.a4 $1 {
+Um plano espectacular de Diogo Fernando!} 11...b4 12.a5 $1 Qd6 (12...Qd8 {
+daria mais luta, mas a posicao das negras ja e praticamente desesperada.} 13.
+Na4 Ba7 14.Nb6 Bxb6 15.axb6 d6 16.Nb3 Nbc6 17.Qh5 $18) 13.Na4 $1 Ba7 14.Nb6
+$18 Bxb6 15.axb6 O-O 16.Nb3 $1 Qc6 17.Bc5 Re8 18.Qd4 Qc8 19.Qxb4 Nbc6 20.Qc3
+d5 21.e5 Qd8 22.Qd2 Ng6 23.Na5 Nxa5 24.Rxa5 f6 25.exf6 Qxf6 {
+#} 26.b4 (26.Qb4 $5) (26.Rea1 $5) 26...Nh4 (26...e5 {
+talvez desse mais chances as negras} 27.c4 $140 d4 28.f3 Rad8 29.Bd3 $1) 27.
+Ra3 e5 28.Rh3 Nf5 29.c3 e4 30.Qf4 g5 31.Qc7 Qg7 32.c4 Qxc7 33.bxc7 d4 34.g4
+Nh4 35.Rxh4 gxh4 36.Bxd4 Kf7 37.b5 Rg8 38.h3 h5 39.Be2 hxg4 40.Bxg4 axb5 41.
+cxb5 Ra4 42.Be3 Bc8 43.Kh2 Bxg4 44.hxg4 Ke6 45.Rd1 {O golpe fatal:
+cortando a possibilidade de o rei vir apoiar a defesa no flanco de dama.}
+45...Rc8 46.b6 1-0
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.16"]
+[Round "1.3"]
+[White "Cordovil, Joao"]
+[Black "Silva, Fernando"]
+[Result "0-1"]
+[ECO "B27"]
+[WhiteElo "2276"]
+[BlackElo "2362"]
+[PlyCount "80"]
+[EventDate "2003.08.16"]
+
+1.e4 c5 2.Nf3 g6 3.Bc4 Bg7 4.O-O d6 5.c3 Nf6 6.Re1 O-O 7.d3 Nc6 8.h3 Na5 9.Bb5
+a6 10.Ba4 b5 11.Bc2 e5 12.Nbd2 Nc6 13.Nf1 d5 14.Bg5 h6 15.Bh4 Qd6 16.Bg3 Nh5
+17.Bh2 d4 18.Bb3 Nf4 19.cxd4 Nxd4 20.Nxd4 Qxd4 21.Bxf4 exf4 22.Bd5 Ra7 23.Rb1
+Re7 24.Nh2 Be6 25.Nf3 Qb4 26.a3 Qa5 27.Qc1 Qc7 28.Bxe6 fxe6 29.Re2 Qd6 30.e5
+Qxd3 31.Rd2 Qf5 32.Qe1 g5 33.Rc1 c4 34.Rcd1 h5 35.Re2 g4 36.hxg4 hxg4 37.Nh4
+Qh5 38.g3 Bh6 39.Re4 Bg5 40.Ng2 Rh7 0-1
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.16"]
+[Round "1.4"]
+[White "Fernandes, Antonio"]
+[Black "Damaso, Rui"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2473"]
+[BlackElo "2436"]
+[PlyCount "21"]
+[EventDate "2003.08.16"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 g6 5.Bg2 Bg7 6.O-O O-O 7.Re1 d6 8.d3 Bg4 9.h3
+Bxf3 10.Bxf3 Rb8 11.Bg2 1/2-1/2
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.16"]
+[Round "1.5"]
+[White "Pinheiro, Jose"]
+[Black "Vitor, Antonio"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[WhiteElo "2336"]
+[BlackElo "2292"]
+[PlyCount "63"]
+[EventDate "2003.08.16"]
+
+1.Nf3 d6 2.g3 g6 3.Bg2 Bg7 4.O-O e5 5.e4 Ne7 6.d4 O-O 7.Nc3 Nbc6 8.d5 Nb8 9.a4
+a5 10.Nh4 Nd7 11.Bg5 f6 12.Be3 f5 13.exf5 Nxf5 14.Nxf5 gxf5 15.f4 Nf6 16.h3
+Bd7 17.Kh2 Kh8 18.Bf3 Qe7 19.Qd2 exf4 20.Bxf4 Ne4 21.Nxe4 fxe4 22.Bg2 Bf5 23.
+Rae1 b6 24.b3 Rae8 25.Re2 Qf6 26.Be3 Qe5 27.Ref2 Kg8 28.c4 Bg6 29.Rxf8+ Rxf8
+30.Rxf8+ Kxf8 31.Qf2+ Ke8 32.Qc2 1/2-1/2
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.17"]
+[Round "2.1"]
+[White "Dias, Paulo"]
+[Black "Vitor, Antonio"]
+[Result "1-0"]
+[ECO "A42"]
+[WhiteElo "2326"]
+[BlackElo "2292"]
+[PlyCount "87"]
+[EventDate "2003.08.16"]
+
+1.d4 d6 2.g3 g6 3.Nf3 Bg7 4.Bg2 Nd7 5.O-O e5 6.c4 Ne7 7.Nc3 O-O 8.e4 h6 9.dxe5
+dxe5 10.b3 c5 11.Nd5 Nc6 12.Be3 Re8 13.Qd2 Kh7 14.Ne1 b6 15.Nd3 Nf8 16.Rae1
+Ne6 17.f4 exf4 18.gxf4 Ned4 19.f5 gxf5 20.N3f4 fxe4 21.Nh5 f5 22.Nxg7 Kxg7 23.
+Bxh6+ Kg6 24.Re3 Rg8 25.Rg3+ Kf7 26.Bg5 Ne2+ 27.Qxe2 Rxg5 28.Qxe4 Nd4 29.Rxg5
+Qxg5 30.Nc7 Rb8 31.Qe8+ Kg7 32.Qe5+ Kh7 33.Nd5 Rb7 34.Nf6+ Kh6 35.Ne8 Be6 36.
+Kh1 Re7 37.Qh8+ Rh7 38.Qf8+ Kg6 39.Bh3 Ne2 40.Qd6 Qe7 $4 41.Bxf5+ Kf7 42.Bxe6+
+Kxe8 43.Qb8+ Qd8 44.Rf8+ 1-0
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.17"]
+[Round "2.2"]
+[White "Damaso, Rui"]
+[Black "Pinheiro, Jose"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[WhiteElo "2436"]
+[BlackElo "2336"]
+[PlyCount "37"]
+[EventDate "2003.08.16"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.Nc3 c6 5.Bg5 h6 6.Bxf6 Qxf6 7.e3 Nd7 8.Rb1 Bb4 9.
+a3 Bxc3+ 10.bxc3 O-O 11.a4 dxc4 12.Bxc4 b6 13.Qe2 Bb7 14.Ba6 Rab8 15.O-O Ba8
+16.Rfd1 Rbd8 17.a5 e5 18.axb6 axb6 19.h3 1/2-1/2
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.17"]
+[Round "2.3"]
+[White "Silva, Fernando"]
+[Black "Fernandes, Antonio"]
+[Result "1-0"]
+[ECO "A41"]
+[WhiteElo "2362"]
+[BlackElo "2473"]
+[PlyCount "95"]
+[EventDate "2003.08.16"]
+
+1.d4 d6 2.Nf3 Bg4 3.c3 c6 4.Qb3 Qc7 5.Bf4 Nd7 6.h3 Bh5 7.Nbd2 Ngf6 8.g4 Bg6 9.
+Nh4 e5 10.Nxg6 hxg6 11.Bh2 Qb6 12.e3 Be7 13.Nc4 Qxb3 14.axb3 exd4 15.exd4 Kd8
+16.Nxd6 Bxd6 17.Bxd6 Nxg4 18.Bg2 Re8+ 19.Kd2 Ngf6 20.Rhe1 Nb6 21.Rxe8+ Kxe8
+22.Bc5 Nfd7 23.Re1+ Kd8 24.Be7+ Kc7 25.Bh4 Rh8 26.Bg3+ Kd8 27.c4 Nf6 28.Kc3
+Nbd7 29.b4 Rh5 30.b3 Rf5 31.b5 cxb5 32.Bxb7 bxc4 33.bxc4 Nh5 34.Bd6 Ndf6 35.
+Bc6 Nf4 36.Rb1 N4d5+ 37.Kd3 Rf3+ 38.Ke2 Nc3+ 39.Kxf3 Nxb1 40.Bb4 Kc8 41.Ba4 a5
+42.Bxa5 Nd7 43.Bxd7+ Kxd7 44.Bb4 Ke6 45.Ke3 g5 46.Kd3 f5 47.Kc2 g4 48.hxg4 1-0
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.17"]
+[Round "2.4"]
+[White "Galego, Luis"]
+[Black "Cordovil, Joao"]
+[Result "1-0"]
+[ECO "C47"]
+[WhiteElo "2494"]
+[BlackElo "2276"]
+[PlyCount "93"]
+[EventDate "2003.08.16"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.g3 d6 5.Bg2 Be7 6.O-O h6 7.d3 Bg4 8.h3 Be6 9.d4
+Bc4 10.Re1 a5 11.b3 Ba6 12.Bb2 O-O 13.Qd2 Re8 14.Rad1 Bf8 15.dxe5 dxe5 16.Nd5
+Bd6 17.c4 Bc5 18.Qc1 Nd7 19.h4 Qb8 20.Bh3 Nf8 21.a3 b6 22.Bc3 Bc8 23.Bxc8 Qxc8
+24.b4 axb4 25.axb4 Bd6 26.Nxb6 cxb6 27.Rxd6 Qc7 28.Rd5 f6 29.c5 bxc5 30.Rxc5
+Nd7 31.Bxe5 Ndxe5 32.Nxe5 Rxe5 33.Rxc6 Qe7 34.Qc4+ Kh7 35.Rc5 Rb8 36.Rxe5 Qxe5
+37.Rd1 Qb2 38.Rd4 Ra8 39.Qf7 Rb8 40.Kg2 Kh8 41.Qc4 Kh7 42.h5 Qb1 43.Qe6 Qb2
+44.Rc4 Rb5 45.Rc8 Rxh5 46.Qg8+ Kg6 47.Qe8+ 1-0
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.17"]
+[Round "2.5"]
+[White "Rocha, Sergio"]
+[Black "Fernando, Diogo"]
+[Result "1-0"]
+[ECO "B60"]
+[WhiteElo "2357"]
+[BlackElo "2391"]
+[PlyCount "55"]
+[EventDate "2003.08.16"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Qb6 7.Nb3 e6 8.Qe2 a6 9.
+f4 Qc7 10.O-O-O Be7 11.g4 b5 12.Bg2 Bb7 13.Rhe1 h6 14.Bxf6 gxf6 15.Kb1 Bf8 16.
+f5 Be7 17.Bh3 b4 18.Na4 e5 19.Qe3 Bd8 20.Bf1 Na7 21.Qd2 Bc6 22.Qxb4 Rb8 23.Qc4
+d5 24.exd5 Bd7 25.Nac5 Bb5 26.Qe4 O-O 27.c4 Bd7 28.Nxa6 1-0
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.18"]
+[Round "3.1"]
+[White "Fernando, Diogo"]
+[Black "Dias, Paulo"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[WhiteElo "2391"]
+[BlackElo "2326"]
+[PlyCount "134"]
+[EventDate "2003.08.16"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Qe2 b5 6.Bb3 Bc5 7.d3 h6 8.c3 O-O 9.O-O
+Re8 10.a3 Bf8 11.Re1 d6 12.Nbd2 Na5 13.Ba2 c5 14.Nf1 Be6 15.Bxe6 Rxe6 16.b4
+Nb3 17.Rb1 Nxc1 18.Rexc1 d5 19.N1d2 Rc8 20.c4 dxc4 21.dxc4 cxb4 22.axb4 bxc4
+23.Nxc4 Rb8 24.Ncxe5 Rxb4 25.Rxb4 Bxb4 26.Qc4 Ba3 27.Rb1 Qe7 28.Rb8+ Kh7 29.
+Qd3 Rxe5 30.Nxe5 Qxe5 31.Rb7 Qxe4 32.Qxe4+ Nxe4 33.Rxf7 Bc5 34.Kf1 a5 35.f3
+Nd6 36.Rc7 Bb4 37.Ra7 Nb5 38.Ra6 Nc3 39.Kf2 a4 40.Ke3 a3 41.Kd3 a2 42.Kc4 Be7
+43.f4 Bf6 44.Kb3 h5 45.g3 Kg6 46.Ra5 Kh6 47.Ra6 Kh7 48.Ra8 Kg6 49.Ra5 Kf7 50.
+Kb2 h4 51.g4 Ne2+ 52.Kxa2 Nxf4 53.g5 Be7 54.Rf5+ Kg6 55.Rxf4 Kxg5 56.Re4 Bd6
+57.h3 Bf4 58.Re7 Kf6 59.Re8 g5 60.Kb3 g4 61.Rf8+ Ke5 62.hxg4 h3 63.Rh8 h2 64.
+Rh3 Bg3 65.g5 Kf5 66.g6 Kf6 67.g7 Kxg7 1/2-1/2
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.18"]
+[Round "3.2"]
+[White "Cordovil, Joao"]
+[Black "Rocha, Sergio"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteElo "2276"]
+[BlackElo "2357"]
+[PlyCount "86"]
+[EventDate "2003.08.16"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Qb6 5.Nb3 Nc6 6.Bd3 Nf6 7.Be3 Qc7 8.Nc3 d6
+9.f4 h5 10.h3 Be7 11.Qf3 h4 12.O-O-O a6 13.Rhf1 Nd7 14.Nd4 Bf6 15.Qf2 Nc5 16.
+Be2 Nd7 17.Bf3 Na5 18.Nde2 Nc4 19.Bd4 Qa5 20.Bxf6 Nxf6 21.Nd4 Qb6 22.b3 Qa5
+23.Nb1 Nb6 24.a3 Qc5 25.Kb2 Bd7 26.e5 dxe5 27.fxe5 Qxe5 28.Bxb7 Ra7 29.Rfe1
+Qc7 30.Nf5 Kf8 31.Nd6 Rxb7 32.Nxb7 Qxb7 33.Qc5+ Kg8 34.Qe7 Rh5 35.Nc3 Rg5 36.
+Re2 Rg3 37.Rf1 Nbd5 38.Qd8+ Kh7 39.Ne4 Bb5 40.Nxg3 hxg3 41.Rfe1 Bxe2 42.Rxe2
+Qa7 43.c4 Qd4+ 0-1
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.18"]
+[Round "3.3"]
+[White "Fernandes, Antonio"]
+[Black "Galego, Luis"]
+[Result "1/2-1/2"]
+[ECO "B43"]
+[WhiteElo "2473"]
+[BlackElo "2494"]
+[PlyCount "177"]
+[EventDate "2003.08.16"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 Qc7 6.Bd3 Nf6 7.O-O d6 8.Be3 Be7 9.
+f4 Nbd7 10.Qf3 Nc5 11.Rad1 O-O 12.Qg3 Nxd3 13.Rxd3 Kh8 14.Kh1 Nd7 15.Nf3 b5
+16.Bd4 f6 17.Nh4 Nc5 18.Re3 b4 19.Nd1 e5 20.Bxc5 exf4 21.Rxf4 Qxc5 22.c3 Qh5
+23.Rf1 g6 24.Nf3 a5 25.Nf2 Be6 26.Nd3 Qh6 27.Rfe1 bxc3 28.Nf4 cxb2 29.Rb1 Rab8
+30.Re2 Bxa2 31.Rbxb2 Bg8 32.h3 a4 33.Rxb8 Rxb8 34.Nd5 Bxd5 35.exd5 Bf8 36.Qe1
+Rc8 37.Qb4 Qc1+ 38.Re1 Qc4 39.Qa5 Bg7 40.Ra1 f5 41.Rxa4 Qc1+ 42.Kh2 Qe3 43.Qb4
+Be5+ 44.Nxe5 Qxe5+ 45.Qf4 Qxf4+ 46.Rxf4 Rc5 47.Ra4 Rxd5 48.Ra7 f4 49.Rf7 Rd4
+50.Kg1 Kg8 51.Ra7 Rd2 52.h4 d5 53.h5 gxh5 54.Ra4 d4 55.Ra5 d3 56.Rg5+ Kh8 57.
+Rxh5 Rc2 58.Rd5 d2 59.Kf1 Kg7 60.Ke2 d1=Q+ 61.Kxd1 Rxg2 62.Rf5 Rg4 63.Ke2 Kg6
+64.Rf8 Kg5 65.Kf2 h5 66.Rg8+ Kh4 67.Rh8 Rg3 68.Rf8 Kg4 69.Rg8+ Kh3 70.Rf8 Rg4
+71.Rh8 h4 72.Kf3 Rg7 73.Kxf4 Rg1 74.Kf3 Rf1+ 75.Ke2 Rf5 76.Rh7 Kg3 77.Rg7+ Kh2
+78.Rh7 h3 79.Rh8 Rg5 80.Kf2 Rf5+ 81.Ke2 Rf4 82.Rh7 Rf8 83.Rg7 Kh1 84.Rh7 h2
+85.Rg7 Ra8 86.Kf2 Ra1 87.Rg8 Rg1 88.Rh8 Rg6 89.Rf8 1/2-1/2
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.18"]
+[Round "3.4"]
+[White "Pinheiro, Jose"]
+[Black "Silva, Fernando"]
+[Result "1/2-1/2"]
+[ECO "E01"]
+[WhiteElo "2336"]
+[BlackElo "2362"]
+[PlyCount "99"]
+[EventDate "2003.08.16"]
+
+1.Nf3 Nf6 2.c4 c5 3.g3 d5 4.Bg2 Nc6 5.O-O e6 6.cxd5 Nxd5 7.d4 cxd4 8.Nxd4 Bd7
+9.Nc3 Nxd4 10.Qxd4 Nxc3 11.bxc3 Bc6 12.Bxc6+ bxc6 13.Rb1 Qxd4 14.cxd4 Be7 15.
+Rb7 Bd6 16.e4 O-O 17.e5 Rfb8 18.Rxb8+ Bxb8 19.Be3 Bc7 20.Rc1 Bb6 21.Rxc6 h6
+22.Kg2 Rd8 23.Rc4 Rd5 24.Kf3 g5 25.Ke4 Kg7 26.f4 gxf4 27.gxf4 Rb5 28.Rc2 f6
+29.Rg2+ Kf7 30.exf6 Kxf6 31.Bc1 Rb1 32.Rc2 Rb5 33.Bb2 Kf7 34.Ba3 Rb1 35.Bc5
+Re1+ 36.Kf3 Rf1+ 37.Ke3 Re1+ 38.Re2 Rb1 39.Ke4 Kf6 40.Bd6 Rd1 41.Be5+ Kf7 42.
+Rg2 Re1+ 43.Kd3 Rd1+ 44.Rd2 Rf1 45.Kc4 Rc1+ 46.Kb5 Kg6 47.a4 Kf5 48.d5 Rc5+
+49.Kb4 exd5 50.Bd6 1/2-1/2
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.18"]
+[Round "3.5"]
+[White "Vitor, Antonio"]
+[Black "Damaso, Rui"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[WhiteElo "2292"]
+[BlackElo "2436"]
+[PlyCount "41"]
+[EventDate "2003.08.16"]
+
+1.d4 Nf6 2.Bg5 Ne4 3.h4 c5 4.dxc5 Nc6 5.Nd2 Nxg5 6.hxg5 g6 7.c3 Bg7 8.e3 Rb8
+9.Nc4 d5 10.cxd6 b5 11.Nd2 b4 12.cxb4 Rxb4 13.b3 Qxd6 14.Rc1 O-O 15.Ngf3 Rb8
+16.Rh4 Nb4 17.Nd4 Nxa2 18.Ra1 Nb4 19.Bc4 a6 20.Ne4 Qb6 21.Kf1 1/2-1/2
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.19"]
+[Round "4.1"]
+[White "Dias, Paulo"]
+[Black "Damaso, Rui"]
+[Result "0-1"]
+[ECO "E69"]
+[WhiteElo "2326"]
+[BlackElo "2436"]
+[PlyCount "54"]
+[EventDate "2003.08.16"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.c4 d6 6.O-O c6 7.Nc3 Nbd7 8.e4 e5 9.h3
+exd4 10.Nxd4 Re8 11.Re1 Qa5 12.Be3 Ne5 13.Bf1 Be6 14.Nxe6 Rxe6 15.f4 Nxe4 16.
+fxe5 Nxg3 17.Bg2 Bxe5 18.Bd4 Rae8 19.Bxe5 dxe5 20.Qf3 Nh5 21.Rab1 f5 22.b4 Qc7
+23.Qf2 a6 24.Nd5 cxd5 25.Bxd5 Nf4 26.Bxe6+ Rxe6 27.Qc5 Qd8 0-1
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.19"]
+[Round "4.2"]
+[White "Silva, Fernando"]
+[Black "Vitor, Antonio"]
+[Result "0-1"]
+[ECO "A57"]
+[WhiteElo "2362"]
+[BlackElo "2292"]
+[PlyCount "115"]
+[EventDate "2003.08.16"]
+
+1.d4 Nf6 2.Nf3 c5 3.d5 b5 4.c4 bxc4 5.Nc3 d6 6.e4 Bg4 7.h3 Bxf3 8.Qxf3 Nbd7 9.
+Bxc4 g6 10.O-O Bg7 11.Bf4 O-O 12.Qe2 Rb8 13.Rad1 Rb4 14.a3 Rb8 15.Bh2 Qa5 16.
+Rd2 Ne8 17.f4 Rxb2 18.Rxb2 Qxc3 19.Rb7 Nb6 20.Ba2 Qxa3 21.e5 c4 22.e6 f5 23.
+Kh1 Nf6 24.Rxe7 Ne4 25.Bxc4 Qc5 26.Bb3 a5 27.Rb7 Bd4 28.g4 a4 29.Ba2 Nc3 30.
+Qg2 Nxa2 31.Qxa2 Nc4 32.Rfb1 Qxd5+ 33.Qg2 Qxg2+ 34.Kxg2 a3 35.R7b4 a2 36.Rc1
+Ne3+ 37.Kf3 Nc2 38.Bg1 Bxg1 39.Ra4 a1=Q 40.Raxa1 Nxa1 41.Rxg1 Nb3 42.Rd1 Nc5
+43.Rxd6 Re8 44.gxf5 gxf5 45.Rd5 Nxe6 46.Kg3 Ng7 47.Kh4 h6 48.Rd6 Kh7 49.Rd7
+Kg6 50.Rd6+ Re6 51.Rd1 Re4 52.Rf1 Kf6 53.Rf2 Ra4 54.Rf1 Ne6 55.Kg3 Nf8 56.Rf3
+Ng6 57.h4 h5 58.Rb3 {tempo} 0-1
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.19"]
+[Round "4.3"]
+[White "Galego, Luis"]
+[Black "Pinheiro, Jose"]
+[Result "1-0"]
+[ECO "A35"]
+[WhiteElo "2494"]
+[BlackElo "2336"]
+[PlyCount "99"]
+[EventDate "2003.08.16"]
+
+1.c4 c5 2.Nf3 g6 3.g3 Nc6 4.Bg2 Bg7 5.O-O d6 6.Nc3 Nf6 7.d4 cxd4 8.Nxd4 Bd7 9.
+Nc2 O-O 10.b3 Qa5 11.Nb5 Rfc8 12.Bd2 Qd8 13.Nc3 Rab8 14.Ne3 a6 15.Rc1 b5 16.
+Ncd5 bxc4 17.Nxc4 Nxd5 18.Bxd5 Nb4 19.Bxb4 Rxb4 20.Qd2 Rbb8 21.Na5 Qb6 22.Bf3
+Bd4 23.Rc4 Rxc4 24.Nxc4 Qc5 25.e3 Bf6 26.Rc1 Rc8 27.Rc2 Qa7 28.Kg2 Rc5 29.b4
+Rc7 30.Na5 Ba4 31.Rc1 Kg7 32.a3 Bb5 33.Bc6 Qb6 34.Bxb5 axb5 35.Rxc7 Qxc7 36.
+Qd5 Qb6 37.h4 h5 38.Kf1 e6 39.Qd3 d5 40.Ke2 Bb2 41.Qc2 Ba1 42.Qc6 Qb8 43.a4
+bxa4 44.Qxa4 Bc3 45.Nc6 Qb6 46.b5 e5 47.Qb3 d4 48.Nxe5 Qf6 49.f4 Qf5 50.b6 1-0
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.19"]
+[Round "4.4"]
+[White "Rocha, Sergio"]
+[Black "Fernandes, Antonio"]
+[Result "1-0"]
+[ECO "C88"]
+[WhiteElo "2357"]
+[BlackElo "2473"]
+[PlyCount "179"]
+[EventDate "2003.08.16"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.Nc3 d6 9.
+Nd5 Na5 10.d4 c6 11.dxe5 dxe5 12.Nxe7+ Qxe7 13.Qd2 Nxb3 14.axb3 c5 15.Qc3 Nd7
+16.Nd2 Bb7 17.Nf1 Rfd8 18.Ng3 g6 19.Bh6 f6 20.Qa5 Nf8 21.Bxf8 Kxf8 22.Rad1 Rd6
+23.h4 Rad8 24.Rxd6 Qxd6 25.Re3 Qd1+ 26.Kh2 Rd7 27.Rd3 Rxd3 28.cxd3 Qxb3 29.Qb6
+Qf7 30.Qxc5+ Qe7 31.Qe3 Kg7 32.h5 Bc8 33.h6+ Kf7 34.d4 exd4 35.Qxd4 Qc7 36.
+Qd5+ Be6 37.Qa8 Bc8 38.Qd5+ Be6 39.Qd2 g5 40.Qd1 a5 41.Kg1 b4 42.Nf5 Qd7 43.
+Qc2 Kg6 44.Ne3 Kxh6 45.Qc5 b3 46.Nd5 Kg7 47.Qxa5 h6 48.Qc5 Kg6 49.Qd4 Qf7 50.
+Qc5 Kg7 51.Qd4 Kg6 52.Qd3 f5 53.exf5+ Bxf5 54.Qxb3 Be4 55.Qb6+ Kf5 56.Ne3+ Ke5
+57.Qxh6 Qe7 58.b4 Qxb4 59.Qxg5+ Ke6 60.Qf4 Qd4 61.Kh2 Qh8+ 62.Kg3 Bg6 63.Qg4+
+Kf7 64.Qd7+ Kf8 65.Qd8+ Be8 66.Qg5 Qc3 67.f3 Qe1+ 68.Kh2 Bf7 69.Ng4 Qb1 70.Ne5
+Ke8 71.Qf6 Qh7+ 72.Kg3 Qg8+ 73.Kf4 Ba2 74.Qg6+ Qxg6 75.Nxg6 Kf7 76.Ne5+ Kf6
+77.g4 Bb1 78.Nd7+ Ke7 79.Nc5 Kf6 80.Ne4+ Kg6 81.Ke5 Bc2 82.f4 Bd1 83.f5+ Kh6
+84.g5+ Kg7 85.Nc5 Bh5 86.Ne6+ Kf7 87.Nf4 Bg4 88.g6+ Kg7 89.Ne6+ Kh6 90.Kf6 1-0
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.19"]
+[Round "4.5"]
+[White "Fernando, Diogo"]
+[Black "Cordovil, Joao"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[WhiteElo "2391"]
+[BlackElo "2276"]
+[PlyCount "102"]
+[EventDate "2003.08.16"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.g3 Bg7 5.Bg2 O-O 6.Nge2 c6 7.a4 e5 8.O-O Nbd7 9.h3
+Re8 10.Be3 Qa5 11.g4 h5 12.g5 Nh7 13.d5 c5 14.Nb5 Bf8 15.c3 a6 16.Na3 Qd8 17.
+Qd2 Rb8 18.Nc4 Nb6 19.Nxb6 Qxb6 20.b4 Qd8 21.h4 cxb4 22.cxb4 f6 23.f4 exf4 24.
+Nxf4 fxg5 25.Nxg6 Bg7 26.Rac1 gxh4 27.Bh6 h3 28.Bh1 Bxh6 29.Qxh6 Qg5+ 30.Qxg5
+Nxg5 31.Rc7 Bg4 32.Rf6 Rbc8 33.Ne7+ Rxe7 34.Rxe7 Rc2 35.Rf2 h2+ 36.Rxh2 Nh3+
+37.Rxh3 Bxh3 38.Bf3 b5 39.axb5 axb5 40.Bxh5 Rg2+ 41.Kh1 Rb2 42.Bg6 Rxb4 43.Kh2
+Bf1 44.e5 dxe5 45.d6 Rb2+ 46.Kg1 Bh3 47.d7 Rd2 48.Bh7+ Kh8 49.Re8+ Kxh7 50.
+d8=Q Rxd8 51.Rxd8 Kg6 1/2-1/2
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.20"]
+[Round "5.1"]
+[White "Cordovil, Joao"]
+[Black "Dias, Paulo"]
+[Result "0-1"]
+[ECO "C68"]
+[WhiteElo "2276"]
+[BlackElo "2326"]
+[PlyCount "68"]
+[EventDate "2003.08.16"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O Bg4 6.h3 h5 7.d4 Bxf3 8.Qxf3 Qxd4
+9.Nc3 Qc4 10.Qg3 Qe6 11.f4 h4 12.Qf2 Bd6 13.f5 Qe7 14.Be3 Nf6 15.Qf3 Bc5 16.
+Kh2 O-O-O 17.Bg5 Bd4 18.Nd1 Kb8 19.c3 Ba7 20.b4 c5 21.a3 Qd6 22.Nb2 cxb4 23.
+axb4 Qc6 24.Rfe1 Rd6 25.Ra5 b5 26.c4 bxc4 27.b5 axb5 28.Rea1 Bb6 29.Ra6 Kb7
+30.Bxf6 gxf6 31.Nd1 Rd3 32.Qe2 Rhd8 33.Qa2 Rxd1 34.Ra7+ Bxa7 0-1
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.21"]
+[Round "5.2"]
+[White "Fernandes, Antonio"]
+[Black "Fernando, Diogo"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "2473"]
+[BlackElo "2391"]
+[PlyCount "132"]
+[EventDate "2003.08.16"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5
+Nb8 9.c4 a6 10.Nc3 Be7 11.Be2 O-O 12.O-O f5 13.f4 Nd7 14.Kh1 Bf6 15.Qc2 exf4
+16.Bxf4 Ne5 17.Qb3 Kh8 18.Be3 Qe7 19.Rae1 Bd7 20.a4 Rae8 21.c5 dxc5 22.Qb6 Rc8
+23.Qxb7 Bh4 24.g3 Bf6 25.Qb6 c4 26.Bd4 Rfe8 27.Qa5 Qd6 28.Qb6 Qxb6 29.Bxb6 Nd3
+30.Bxd3 cxd3 31.Ba5 Rxe1 32.Rxe1 Rb8 33.Rd1 Rxb2 34.Rxd3 h5 35.Nd1 Rb1 36.Kg2
+Bxa4 37.Ne3 Bb5 38.Rd1 Rxd1 39.Nxd1 g6 40.Nc3 Bd7 41.h4 Kg7 42.Kf3 Be5 43.Ne2
+Kf6 44.Nf4 Be8 45.Ne6 Bd6 46.Bc3+ Ke7 47.Bg7 Kf7 48.Bc3 Bd7 49.Nf4 Bc7 50.Nd3
+Be8 51.Ne5+ Ke7 52.Kf4 Kf6 53.Bd4 a5 54.Bc3 a4 55.Bb2 Bb5 56.Bd4 a3 57.Bc3 Bc4
+58.Bd4 Bxd5 59.Bc3 Be4 60.Ba1 Ke6 61.Bc3 Kd5 62.Ba1 a2 63.Bb2 Ba5 64.Kg5 Bb6
+65.Nxg6 Bd4 66.Nf4+ Kc4 0-1
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.21"]
+[Round "5.3"]
+[White "Pinheiro, Jose"]
+[Black "Rocha, Sergio"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2336"]
+[BlackElo "2357"]
+[PlyCount "75"]
+[EventDate "2003.08.16"]
+
+1.d4 g6 2.e4 Bg7 3.Nc3 d6 4.Be3 c6 5.a4 Nf6 6.h3 Nbd7 7.Nf3 O-O 8.a5 e5 9.dxe5
+dxe5 10.Nd2 Qe7 11.Nc4 Ne8 12.Na4 Nc7 13.Qd6 Qd8 14.Rd1 Nb5 15.Qd2 Nd4 16.c3
+Nb3 17.Qd6 Nxa5 18.Nc5 Qh4 19.Nxa5 Nxc5 20.Qxc5 b6 21.Qxc6 Bg4 22.hxg4 Qxh1
+23.Nb7 Qh4 24.g5 h6 25.Rd7 Rac8 26.Qd5 hxg5 27.Nd8 Kh7 28.Nxf7 Rce8 29.Nxg5+
+Kh8 30.Rxg7 Kxg7 31.Qd7+ Kh8 32.Bc4 Qh1+ 33.Ke2 Qh5+ 34.g4 Qh4 35.Nf7+ Kh7 36.
+Bg5 Qh1 37.Nxe5+ Kh8 38.Nxg6# 1-0
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.20"]
+[Round "5.4"]
+[White "Vitor, Antonio"]
+[Black "Galego, Luis"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[WhiteElo "2292"]
+[BlackElo "2494"]
+[PlyCount "136"]
+[EventDate "2003.08.16"]
+
+1.d4 Nf6 2.Bg5 e6 3.e4 h6 4.Bxf6 Qxf6 5.Nc3 d6 6.Qd2 c6 7.f4 e5 8.dxe5 dxe5 9.
+f5 Bb4 10.Nf3 Qd6 11.Qxd6 Bxd6 12.a4 Ke7 13.Bc4 a5 14.Rd1 Bc7 15.g4 Nd7 16.g5
+Nb6 17.Bb3 hxg5 18.Nxg5 f6 19.Nf3 Bd7 20.Rg1 Kf8 21.Rg4 Be8 22.Rh4 Rh5 23.Kf2
+Rd8 24.Rxd8 Bxd8 25.Kg3 Nd7 26.Kg4 Rxh4+ 27.Nxh4 Ke7 28.Ng6+ Kd6 29.Nh8 Bb6
+30.Bf7 Bxf7 31.Nxf7+ Ke7 32.Nh8 Bd4 33.Ng6+ Kf7 34.Nd1 Nc5 35.Kf3 Nxa4 36.b3
+Nc5 37.c3 Bg1 38.Kg2 Nxb3 39.Kxg1 a4 40.Ne3 a3 41.Nc2 a2 42.Kf2 a1=Q 43.Nxa1
+Nxa1 44.Nh4 Nb3 45.Ke3 b5 46.Nf3 Ke7 47.h4 Kf7 48.h5 Kg8 49.Nh2 c5 50.Ng4 b4
+51.Kd3 Na5 52.cxb4 cxb4 53.h6 gxh6 54.Nxf6+ Kg7 55.Ng4 Nc6 56.f6+ Kg6 57.f7
+Kxf7 58.Nxh6+ Kg6 59.Nf5 Kg5 60.Kc4 Kf4 61.Nd6 Ke3 62.Kd5 b3 63.Nb5 b2 64.Na3
+Kd3 65.Kxc6 Kxe4 66.Kc5 Kd3 67.Kb4 e4 68.Kb3 e3 1/2-1/2
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.20"]
+[Round "5.5"]
+[White "Damaso, Rui"]
+[Black "Silva, Fernando"]
+[Result "1-0"]
+[ECO "D32"]
+[WhiteElo "2436"]
+[BlackElo "2362"]
+[PlyCount "91"]
+[EventDate "2003.08.16"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.Bf4 Nf6 7.e3 a6 8.Be2 Be7 9.
+O-O O-O 10.dxc5 Bxc5 11.Ne5 Re8 12.Nxc6 bxc6 13.Rc1 Bd6 14.Bxd6 Qxd6 15.Na4
+Rb8 16.Qc2 Rb4 17.b3 Rh4 18.g3 Rh6 19.Qxc6 Qe5 20.Qxc8 Rxc8 21.Rxc8+ Ne8 22.
+Rd1 g5 23.Nc3 Rd6 24.Rxd5 Rxd5 25.Nxd5 Kg7 26.Nc3 Nc7 27.Bc4 g4 28.Ne2 Ne6 29.
+Bxe6 fxe6 30.Nc3 a5 31.Rc4 h5 32.a3 Qd6 33.b4 axb4 34.axb4 Qd3 35.Rc5 Kg6 36.
+b5 Qd6 37.Rc6 Qd7 38.Kg2 Kh6 39.h3 Kg6 40.hxg4 hxg4 41.Kg1 Kh5 42.Rc5+ Kg6 43.
+b6 Qb7 44.Rb5 Kf7 45.Rb4 Ke7 46.Ne4 1-0
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.21"]
+[Round "6.1"]
+[White "Dias, Paulo"]
+[Black "Silva, Fernando"]
+[Result "0-1"]
+[ECO "E66"]
+[WhiteElo "2326"]
+[BlackElo "2362"]
+[PlyCount "92"]
+[EventDate "2003.08.16"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.g3 O-O 5.Bg2 d6 6.O-O c5 7.Nc3 Nc6 8.d5 Na5 9.Nd2
+e5 10.a3 b6 11.b4 Nb7 12.e4 Ng4 13.h3 Nh6 14.Bb2 f5 15.exf5 Nxf5 16.Nde4 Bh6
+17.Qd3 Bd7 18.bxc5 Nxc5 19.Nxc5 bxc5 20.Ne4 Rb8 21.Rab1 Qe7 22.Bc3 Ba4 23.Rxb8
+Rxb8 24.Rb1 Rxb1+ 25.Qxb1 Nd4 26.Qb8+ Qf8 27.Qxa7 Ne2+ 28.Kh2 Bc2 29.Be1 Bxe4
+30.a4 Bxg2 31.Kxg2 e4 32.Qd7 Nd4 33.Qg4 e3 34.fxe3 Nf5 35.Bf2 Bxe3 36.a5 Bxf2
+37.Kxf2 Qa8 38.Qe2 Qxa5 39.g4 Ng7 40.Qe7 Qd2+ 41.Kg3 Qc3+ 42.Kh4 Qe5 43.Qd8+
+Ne8 44.Qb8 Qe1+ 45.Kg5 Qe3+ 46.Kh4 Qf2+ 0-1
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.21"]
+[Round "6.2"]
+[White "Galego, Luis"]
+[Black "Damaso, Rui"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[WhiteElo "2494"]
+[BlackElo "2436"]
+[PlyCount "20"]
+[EventDate "2003.08.16"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.Nc3 Bg7 6.Be3 Nf6 7.f3 O-O 8.Qd2 d5 9.
+O-O-O dxe4 10.Qe1 Nxd4 1/2-1/2
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.21"]
+[Round "6.3"]
+[White "Rocha, Sergio"]
+[Black "Vitor, Antonio"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2357"]
+[BlackElo "2292"]
+[PlyCount "107"]
+[EventDate "2003.08.16"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Bg5 Bg7 5.f4 O-O 6.Nf3 d5 7.e5 Ne4 8.Bd3 f5 9.Qe2
+c6 10.Nd1 Na6 11.Bh4 Nc7 12.Bf2 b6 13.O-O c5 14.c4 e6 15.Nc3 Bb7 16.Rfd1 Qe7
+17.Rac1 Rac8 18.Bh4 Qe8 19.a3 h6 20.Rc2 Rf7 21.Rdc1 Bf8 22.Kh1 Rh7 23.dxc5
+bxc5 24.b4 g5 25.Bf2 g4 26.Nd2 cxb4 27.axb4 Bxb4 28.Bxe4 dxe4 29.Bxa7 Ba6 30.
+Qf2 Rd7 31.Na2 Bf8 32.Nb3 Rd3 33.Nc5 g3 34.Qe2 Bxc5 35.Bxc5 Rb3 36.Nb4 Nd5 37.
+Nxa6 Nxf4 38.Qf1 Nd3 39.Bg1 Ra3 40.Ra1 Qa4 41.Rxa3 Qxa3 42.hxg3 Qxa6 43.c5 Qb7
+44.Ra2 Qg7 45.Kh2 Qg5 46.Bd4 Kh8 47.Bf2 Rd8 48.c6 Nxf2 49.Rxf2 Qh5+ 50.Kg1 Rd1
+51.c7 Rxf1+ 52.Rxf1 Qe8 53.Rd1 e3 54.Rd8 1-0
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.21"]
+[Round "6.4"]
+[White "Fernando, Diogo"]
+[Black "Pinheiro, Jose"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2391"]
+[BlackElo "2336"]
+[PlyCount "53"]
+[EventDate "2003.08.16"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 c6 5.Nf3 Bf5 6.Bc4 e6 7.Nh4 Bg6 8.Nxg6 hxg6
+9.Qe2 Bb4 10.Bd2 Ne7 11.O-O-O Bxc3 12.Bxc3 Qg5+ 13.Kb1 Qxg2 14.h4 Nd5 15.Rdg1
+Rxh4 16.Bxd5 Rxh1 17.Bxg2 Rxg1+ 18.Bf1 Na6 19.a4 O-O-O 20.Ka2 Rh8 21.Qc4 Rhh1
+22.Bd3 Nc7 23.Qc5 Ra1+ 24.Kb3 b5 25.Qxc6 bxa4+ 26.Kb4 a5+ 27.Kc5 1-0
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.21"]
+[Round "6.5"]
+[White "Cordovil, Joao"]
+[Black "Fernandes, Antonio"]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "2276"]
+[BlackElo "2473"]
+[PlyCount "90"]
+[EventDate "2003.08.16"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.c3 Qb6 6.Na3 Nf6 7.Re1 O-O 8.h3 d5 9.e5
+Ne8 10.d4 cxd4 11.cxd4 Nc7 12.Bxc6 bxc6 13.b3 Bf5 14.Nc2 Ne6 15.Ba3 Rfe8 16.
+Bb2 Be4 17.Re3 Rac8 18.Nce1 Bxf3 19.Nxf3 c5 20.dxc5 Rxc5 21.Nd4 Rec8 22.Nxe6
+Qxe6 23.Re2 Qa6 24.Bd4 R5c7 25.g3 e6 26.Kg2 Bf8 27.a3 Qb5 28.Rb2 Bc5 29.Bxc5
+Rxc5 30.h4 h5 31.Qd2 Rc3 32.b4 Qc4 33.Qe2 Qd4 34.Rd1 Qb6 35.a4 R8c4 36.Rdb1
+Qc7 37.a5 d4 38.Rd1 Qc6+ 39.Kh2 Rc2 40.Rxc2 Rxc2 41.Rd2 Rc1 42.Rd1 Rc2 43.Rd2
+Rc1 44.Rd1 Rxd1 45.Qxd1 Qd5 {
+lance ja excutado com a seta caida} 1-0
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.22"]
+[Round "7.1"]
+[White "Fernandes, Antonio"]
+[Black "Dias, Paulo"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2473"]
+[BlackElo "2326"]
+[PlyCount "67"]
+[EventDate "2003.08.16"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.e5 Qe7 7.Qe2 Nd5 8.c4 Ba6
+9.b3 O-O-O 10.Bb2 Re8 11.Qd2 Nf6 12.Be2 Ne4 13.Qe3 Qb4+ 14.Nd2 Nxd2 15.Qxd2 f6
+16.Bc3 Qe7 17.f4 fxe5 18.fxe5 Qh4+ 19.Kd1 d6 20.g3 Qe4 21.Re1 Rd8 22.Bd3 Qf3+
+23.Kc2 d5 24.Rf1 Qh5 25.Rf5 Qh3 26.Rf7 Kb7 27.Qf2 Rd7 28.Rxf8 Rxf8 29.Qxf8
+Qg2+ 30.Bd2 dxc4 31.bxc4 Rxd3 32.Qb4+ Ka8 33.Kxd3 Qd5+ 34.Kc2 1-0
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.22"]
+[Round "7.2"]
+[White "Pinheiro, Jose"]
+[Black "Cordovil, Joao"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2336"]
+[BlackElo "2276"]
+[PlyCount "57"]
+[EventDate "2003.08.16"]
+
+1.c4 e5 2.g3 Nc6 3.Bg2 f5 4.Nc3 Nf6 5.a3 a5 6.e3 Bc5 7.Nge2 e4 8.d3 exd3 9.
+Qxd3 d6 10.b3 O-O 11.Qc2 Ne5 12.O-O c6 13.Bb2 Bb6 14.Rad1 Qe7 15.Nd4 Nfg4 16.
+h3 Nh6 17.Rfe1 Bd7 18.Nde2 Rad8 19.Nf4 Ba7 20.Na4 Be8 21.Qd2 g5 22.Qxa5 b6 23.
+Qd2 gxf4 24.exf4 Bh5 25.Rb1 b5 26.cxb5 cxb5 27.fxe5 dxe5 28.Qxh6 bxa4 29.Rxe5
+1-0
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.23"]
+[Round "7.3"]
+[White "Vitor, Antonio"]
+[Black "Fernando, Diogo"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "2292"]
+[BlackElo "2391"]
+[PlyCount "97"]
+[EventDate "2003.08.16"]
+
+1.d4 Nf6 2.Bg5 Ne4 3.h4 c5 4.dxc5 Na6 5.Nd2 Naxc5 6.Ngf3 Qb6 7.Nxe4 Nxe4 8.Qd4
+Qxd4 9.Nxd4 Nxg5 10.hxg5 a6 11.a4 g6 12.c3 Bg7 13.g3 h6 14.gxh6 Rxh6 15.Rxh6
+Bxh6 16.a5 Rb8 17.Nc2 e6 18.Ra3 d5 19.Bg2 f5 20.g4 Bf8 21.Ra1 b6 22.gxf5 gxf5
+23.axb6 Rxb6 24.b4 Bg7 25.Kd2 Bb7 26.Bh3 Rc6 27.Ra3 Rc4 28.e3 Rh4 29.Bf1 Rh2
+30.b5 Rxf2+ 31.Be2 Bf8 32.bxa6 Bxa3 33.axb7 Bd6 34.Nb4 d4 35.exd4 Rh2 36.Na6
+f4 37.Kd1 Rh1+ 38.Kc2 Rh2 39.Kd1 Rh3 40.b8=Q+ Bxb8 41.Nxb8 Rxc3 42.Bb5+ Kf7
+43.Nd7 Kg6 44.Ke2 Re3+ 45.Kf2 Kf5 46.Nc5 Kf6 47.Bc4 Kf5 48.Bxe6+ Rxe6 49.Nxe6
+1/2-1/2
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.22"]
+[Round "7.4"]
+[White "Damaso, Rui"]
+[Black "Rocha, Sergio"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "2436"]
+[BlackElo "2357"]
+[PlyCount "51"]
+[EventDate "2003.08.16"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5 Be7 6.e3 O-O 7.Bd3 Nbd7 8.Nf3 Re8
+9.Qc2 c6 10.h3 Nf8 11.Bf4 a5 12.O-O Ng6 13.Rfe1 Bd6 14.Bg5 Be7 15.Ne5 Nd7 16.
+Bxe7 Rxe7 17.Nf3 Nf6 18.a3 Qd6 19.Rab1 Bd7 20.b4 b5 21.bxa5 Qxa3 22.Ra1 Qd6
+23.e4 dxe4 24.Nxe4 Nxe4 25.Bxe4 Ra6 26.h4 1/2-1/2
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.22"]
+[Round "7.5"]
+[White "Silva, Fernando"]
+[Black "Galego, Luis"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2362"]
+[BlackElo "2494"]
+[PlyCount "75"]
+[EventDate "2003.08.16"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 Bb4+ 4.Bd2 c5 5.Bxb4 cxb4 6.e3 O-O 7.Bd3 d6 8.O-O Qe7
+9.Qc2 h6 10.Nbd2 b6 11.Ne4 Nbd7 12.a3 bxa3 13.b4 Bb7 14.Nxf6+ Nxf6 15.Rxa3
+Bxf3 16.gxf3 e5 17.Qb2 Rac8 18.Rfa1 Rc7 19.Be2 Rd8 20.d5 b5 21.Qa2 bxc4 22.
+Bxc4 Rb8 23.b5 Rbc8 24.Bf1 Nd7 25.Rxa7 Qg5+ 26.Kh1 Rc2 27.Ra8 Qf5 28.Rxc8+
+Rxc8 29.Qe2 e4 30.fxe4 Qxe4+ 31.Bg2 Qb4 32.Bh3 Qe4+ 33.f3 Qe5 34.Rb1 f5 35.e4
+Re8 36.Qg2 Nb6 37.Bxf5 Nxd5 38.Qa2 1-0
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.23"]
+[Round "8.1"]
+[White "Dias, Paulo"]
+[Black "Galego, Luis"]
+[Result "0-1"]
+[ECO "E21"]
+[WhiteElo "2326"]
+[BlackElo "2494"]
+[PlyCount "124"]
+[EventDate "2003.08.16"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nc3 O-O 5.Bg5 c5 6.dxc5 h6 7.Bd2 Bxc5 8.g3 d5 9.
+cxd5 exd5 10.Rc1 Ng4 11.e3 d4 12.exd4 Bxd4 13.Nxd4 Qxd4 14.Be3 Qe5 15.Qd4 Nc6
+16.Qxe5 Ncxe5 17.Be2 Nxe3 18.fxe3 Rd8 19.Rd1 Rxd1+ 20.Kxd1 Be6 21.Kc2 Rc8 22.
+Rd1 Kf8 23.b3 g6 24.Kb2 h5 25.h4 Ke7 26.Nd5+ Bxd5 27.Rxd5 Ke6 28.Rd4 b6 29.b4
+Rc7 30.a4 f6 31.a5 Ke7 32.Kb3 Rc1 33.Rd1 Rxd1 34.Bxd1 Kd6 35.Ka4 Nc4 36.Bc2 f5
+37.e4 b5+ 38.Kxb5 Na3+ 39.Ka6 Nxc2 40.exf5 gxf5 41.b5 Kc5 42.Kxa7 Kxb5 43.Kb7
+Nb4 44.Kc7 Kc5 45.Kb7 Kd5 46.Kb6 Kc4 47.Kc7 Na6+ 48.Kd6 Kd4 49.Kc6 Nc5 50.Kd6
+Nb7+ 51.Ke6 Ke4 52.a6 Nc5+ 53.Kf6 Nxa6 54.Kg5 Ke5 55.Kxh5 Kf6 56.g4 f4 57.g5+
+Kf5 58.g6 Nc7 59.g7 Nd5 60.g8=N f3 61.Nh6+ Kf4 62.Ng4 Nf6+ 0-1
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.23"]
+[Round "8.2"]
+[White "Rocha, Sergio"]
+[Black "Silva, Fernando"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[WhiteElo "2357"]
+[BlackElo "2362"]
+[PlyCount "21"]
+[EventDate "2003.08.16"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Bd6 5.Qf3 Ne7 6.Ne2 Nbc6 7.c3 O-O 8.Bf4 Ng6
+9.Bxd6 Qxd6 10.Qg3 Qxg3 11.hxg3 1/2-1/2
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.23"]
+[Round "8.3"]
+[White "Fernando, Diogo"]
+[Black "Damaso, Rui"]
+[Result "1-0"]
+[ECO "B86"]
+[WhiteElo "2391"]
+[BlackElo "2436"]
+[PlyCount "69"]
+[EventDate "2003.08.16"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Bc4 Be7 7.Bb3 Na6 8.f4 Nc5 9.
+Qf3 O-O 10.Be3 a5 11.O-O-O a4 12.Bc4 a3 13.e5 axb2+ 14.Kb1 Nfe4 15.Nxe4 Nxe4
+16.Qxe4 d5 17.Qf3 dxc4 18.Nc6 bxc6 19.Rxd8 Rxd8 20.Rd1 Rd5 21.Rxd5 exd5 22.f5
+Ra3 23.f6 Bf8 24.Qf2 d4 25.Bxd4 c3 26.Bc5 Ra5 27.Bxf8 Be6 28.a3 Kxf8 29.Qb6
+Ra8 30.Qb7 Rc8 31.a4 Kg8 32.Qb6 gxf6 33.a5 Bc4 34.Qd4 Be6 35.Qxc3 1-0
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.23"]
+[Round "8.4"]
+[White "Cordovil, Joao"]
+[Black "Vitor, Antonio"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2276"]
+[BlackElo "2292"]
+[PlyCount "64"]
+[EventDate "2003.08.16"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f3 c6 5.Bc4 Bg7 6.a3 O-O 7.Be3 e5 8.d5 b5 9.Bb3 c5
+10.Nxb5 Qa5+ 11.Nc3 Ba6 12.Qd2 Nbd7 13.Nd1 Qb5 14.Ne2 Nh5 15.Ba2 Nb6 16.b3 c4
+17.a4 Qe8 18.Ndc3 Rc8 19.a5 Nd7 20.b4 Rc7 21.b5 Bc8 22.b6 axb6 23.Nb5 Rc5 24.
+Nxd6 Qd8 25.Bxc5 Nxc5 26.Nxc8 b5 27.Na7 Bh6 28.Qc3 Na4 29.Qb4 Qg5 30.Nxb5 Qxg2
+31.Rg1 Qxh2 32.Qc5 Nxc5 0-1
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.23"]
+[Round "8.5"]
+[White "Fernandes, Antonio"]
+[Black "Pinheiro, Jose"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2473"]
+[BlackElo "2336"]
+[PlyCount "83"]
+[EventDate "2003.08.16"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Nge2 e5 5.Be3 exd4 6.Bxd4 Nf6 7.f3 Nc6 8.Be3 O-O
+9.Qd2 Ne5 10.Nf4 Bd7 11.O-O-O b5 12.h4 h5 13.Ncd5 Ne8 14.Nh3 c6 15.Ndf4 b4 16.
+Qxb4 Rb8 17.Qa3 Nc7 18.Ng5 Nb5 19.Bxb5 Rxb5 20.Bd4 Qb8 21.Nd3 Re8 22.Nxe5 dxe5
+23.Bc5 Bc8 24.Qxa7 Qxa7 25.Bxa7 f6 26.Nh3 Ra5 27.Bb6 Rxa2 28.Kb1 Ra8 29.Nf2
+Be6 30.b3 Reb8 31.Bc5 Rb5 32.Nd3 Bh6 33.Kb2 Bc4 34.Bf2 Bf8 35.Ra1 Rc8 36.Rhd1
+Bf7 37.Ra4 Rcb8 38.Rda1 c5 39.Kc3 Rxb3+ 40.cxb3 Rxb3+ 41.Kc2 c4 42.Nc1 1-0
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.24"]
+[Round "9.1"]
+[White "Pinheiro, Jose"]
+[Black "Dias, Paulo"]
+[Result "0-1"]
+[ECO "D30"]
+[WhiteElo "2336"]
+[BlackElo "2326"]
+[PlyCount "122"]
+[EventDate "2003.08.16"]
+
+1.c4 e6 2.Nf3 d5 3.d4 c6 4.Qc2 Nf6 5.g3 Nbd7 6.Bg2 Bd6 7.Nbd2 O-O 8.O-O Re8 9.
+b3 Qe7 10.Bb2 e5 11.cxd5 Nxd5 12.Nc4 e4 13.Nfe5 N7f6 14.f3 exf3 15.Rxf3 Nb4
+16.Qc1 Be6 17.a3 Na6 18.Rf4 Bxc4 19.Qxc4 c5 20.Rxf6 gxf6 21.Nxf7 b5 22.Nh6+
+Kh8 23.Nf7+ Kg7 24.Qxb5 Nc7 25.Nxd6 Qxd6 26.Qxc5 Rad8 27.Rc1 Qxc5 28.Rxc5 Ne6
+29.Rc4 Rb8 30.b4 Rec8 31.Bc6 Nd8 32.d5 Nxc6 33.Rxc6 Rxc6 34.dxc6 Rb6 35.Bd4
+Rxc6 36.Bxa7 Ra6 37.Bd4 Rxa3 38.b5 Kg6 39.Kg2 Kf5 40.b6 Rb3 41.e3 h5 42.Kf3
+Rb1 43.e4+ Ke6 44.h4 f5 45.Be3 Rb3 46.Kf4 Rb4 47.Kg5 fxe4 48.Kxh5 Rb3 49.Bf4
+e3 50.b7 e2 51.Bd2 Rxb7 52.Kg6 Rb2 53.Ba5 Ra2 54.Bb4 Ra4 55.Be1 Ra1 56.Bb4 Rg1
+57.h5 Rxg3+ 58.Kh7 Kf7 59.h6 Rg1 60.Kh8 e1=Q 61.Bxe1 Rxe1 0-1
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.24"]
+[Round "9.2"]
+[White "Vitor, Antonio"]
+[Black "Fernandes, Antonio"]
+[Result "0-1"]
+[ECO "B50"]
+[WhiteElo "2292"]
+[BlackElo "2473"]
+[PlyCount "72"]
+[EventDate "2003.08.16"]
+
+1.e4 c5 2.Nf3 d6 3.Bc4 Nc6 4.c3 Nf6 5.d3 g6 6.O-O Bg7 7.Bb3 O-O 8.Re1 e5 9.h3
+d5 10.Bg5 d4 11.cxd4 cxd4 12.Nbd2 h6 13.Bh4 Qe7 14.Ba4 Nb8 15.Nc4 g5 16.Bg3
+Nfd7 17.Rc1 a6 18.Bb3 Nc6 19.Qd2 Nc5 20.Bd1 a5 21.Qc2 Nb4 22.Qd2 Nbxd3 23.Nb6
+Ra6 24.Nd5 Qd6 25.Nxd4 Nxc1 26.Qxc1 Nxe4 27.Qc4 Nd2 28.Qb5 Bd7 29.Qxb7 Rb8 30.
+Qc7 Qxc7 31.Nxc7 Rd6 32.Nb3 Rc8 33.Bxe5 Bxe5 34.Rxe5 Rxc7 35.Rxa5 Nc4 36.Ra8+
+Rc8 0-1
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.??.??"]
+[Round "9.3"]
+[White "Damaso, Rui"]
+[Black "Cordovil, Joao"]
+[Result "1-0"]
+[ECO "D08"]
+[WhiteElo "2436"]
+[BlackElo "2276"]
+[PlyCount "34"]
+[EventDate "2003.08.16"]
+
+1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.a3 Be6 6.Nbd2 a5 7.Nb3 Bxc4 8.Nbxd4 Bc5
+9.Be3 Nxd4 10.Bxd4 Bxd4 11.Qxd4 Qxd4 12.Nxd4 c6 13.Nf5 Kf8 14.Nd6 Ba6 15.e4
+Ne7 16.Bxa6 Rxa6 17.O-O-O b5 1-0
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.24"]
+[Round "9.4"]
+[White "Silva, Fernando"]
+[Black "Fernando, Diogo"]
+[Result "0-1"]
+[ECO "E15"]
+[WhiteElo "2362"]
+[BlackElo "2391"]
+[PlyCount "116"]
+[EventDate "2003.08.16"]
+
+1.Nf3 Nf6 2.d4 e6 3.c4 b6 4.g3 Ba6 5.b3 Bb7 6.Bg2 Bb4+ 7.Bd2 a5 8.O-O O-O 9.
+Qc2 d6 10.a3 Bxd2 11.Nbxd2 Nbd7 12.e4 e5 13.d5 c6 14.dxc6 Bxc6 15.a4 Nc5 16.
+Rfe1 Ne8 17.Nf1 Nc7 18.Rad1 Qe7 19.Nh4 g6 20.Ne3 Rad8 21.Nd5 Bxd5 22.cxd5 N7a6
+23.Bf1 Nb4 24.Qb1 Qf6 25.Ng2 Qf3 26.Re3 Qh5 27.Be2 Qh6 28.Rf3 f5 29.exf5 e4
+30.Rf4 Rxf5 31.Rxf5 gxf5 32.Nf4 Qf6 33.Nh5 $6 Qc3 34.Rc1 Qe5 35.Rd1 Kh8 36.Kg2
+$2 Nxd5 37.Rxd5 $2 Qxd5 38.Qc1 Qe5 39.Qh6 Qe7 40.Bc4 d5 41.Nf4 Rd6 42.Nxd5
+Rxh6 43.Nxe7 Rf6 44.Nd5 Re6 45.Ne3 Re5 46.Nd5 Nd7 47.f4 exf3+ 48.Kxf3 Re4 49.
+Bb5 $2 Ne5+ 50.Kg2 Rd4 51.Nxb6 Rd2+ 52.Kh3 Nf3 53.g4 f4 54.g5 Nd4 55.Kg4 f3
+56.Bc4 Rxh2 57.Nd5 Kg7 58.Nf4 Rg2+ 0-1
+
+[Event "POR-ch Final"]
+[Site "Lisboa"]
+[Date "2003.08.24"]
+[Round "9.5"]
+[White "Galego, Luis"]
+[Black "Rocha, Sergio"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2494"]
+[BlackElo "2357"]
+[PlyCount "115"]
+[EventDate "2003.08.16"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 Be7 5.Bf4 O-O 6.e3 Nbd7 7.c5 Nh5 8.Bd3 f5 9.
+O-O h6 10.Ne5 Nxf4 11.exf4 Nxe5 12.fxe5 Bd7 13.b4 Be8 14.a4 a5 15.bxa5 Rxa5
+16.Qb3 Bc6 17.Bb5 Qd7 18.Bxc6 Qxc6 19.Rab1 Rb8 20.Rb2 Qa6 21.Rfb1 Qc6 22.Qb4
+Qa6 23.h3 Bd8 24.Qb3 Qd3 25.Rd1 Qa6 26.Qa2 Qc6 27.Qb1 Ra7 28.g4 fxg4 29.hxg4
+Qe8 30.f4 c6 31.Qd3 Qf7 32.Rf1 Ba5 33.Ne2 Rf8 34.f5 Bd8 35.Nc3 Bg5 36.Rbf2
+Raa8 37.Kg2 Bh4 38.Rf3 Bg5 39.Qd1 Qe7 40.Ne2 Rf7 41.Ng3 Raf8 42.Qb1 Bh4 $2 (
+42...Ra8) (42...Kh8) 43.fxe6 Rxf3 $2 (43...Qxe6) 44.Rxf3 Rxf3 45.Kxf3 Bxg3 46.
+Kxg3 Qxe6 $2 47.Qxb7 h5 48.Qb8+ Kf7 49.Qc7+ Kg8 50.Qd8+ Kf7 51.Qg5 hxg4 52.
+Qxg4 Qe7 53.Qf5+ Kg8 54.e6 Qd8 $2 55.Qf7+ Kh7 56.e7 Qb8+ 57.Kg4 Qb2 58.Qh5+
+1-0
+

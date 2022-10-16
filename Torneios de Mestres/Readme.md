@@ -32,6 +32,7 @@ Segundo a lista da FPX (7/2022):
 
 1944 - João Mário Ribeiro\
 1945 - Leonel Pias (d.n. 22/9/1926)\
+1946 - Fernando Encarnação (é do Norte?)\
 1946 - Alexandre Gonçalves (d.n. 9/10/1924)\
 1949 - Manuel Costa\
 1950 - Jorge Babo\
@@ -54,11 +55,16 @@ Após 1956 os critérios de obtenção do titulo passaram a ser muito mais exige
 2005 - Ariana Pintor (WFM)\
 2005 - Fernando Castro\
 2005 - Vladimiro Miranda\
+2005 - Silvio Santos\
 2005 - José Padeiro (mais tarde, MF)\
 2005 - Pedro Palhares\
 2006 - João Guerra e Costa\
 2010 - André Viela\
 2010 - Jorge Ferreira (mais tarde, GM)\
-2011 - Marco Viela
+2011 - Marco Viela\
+2018 - José Francisco Veiga (mais tarde MF)\
+2020 - Rui Guimarães\
+2022 - Filipa Pipiras (WFM)\
+2022 - Miguel Sismeiro
 
 

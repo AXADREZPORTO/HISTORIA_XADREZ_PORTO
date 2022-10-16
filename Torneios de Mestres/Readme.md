@@ -32,6 +32,7 @@ Segundo a lista da FPX (7/2022):
 
 1944 - João Mário Ribeiro\
 1945 - Leonel Pias (d.n. 22/9/1926)\
+1946 - Fernando Encarnação (é do Norte?)\
 1946 - Alexandre Gonçalves (d.n. 9/10/1924)\
 1949 - Manuel Costa\
 1950 - Jorge Babo\

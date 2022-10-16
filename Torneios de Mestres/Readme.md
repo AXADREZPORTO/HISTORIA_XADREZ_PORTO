@@ -62,6 +62,7 @@ Após 1956 os critérios de obtenção do titulo passaram a ser muito mais exige
 2010 - André Viela\
 2010 - Jorge Ferreira (mais tarde, GM)\
 2011 - Marco Viela\
+2018 - José Francisco Veiga (mais tarde MF)\
 2020 - Rui Guimarães\
 2022 - Filipa Pipiras (WFM)\
 2022 - Miguel Sismeiro

@@ -34,11 +34,11 @@ Da AX Porto:
 1995 - Albano Pinheiro (2.Rui Camejo Almeida 3.José Dias Guimarães)\
 1994 - Jorge Guimarães (2.Fernando Cleto 3.António A. Silva)\
 1993 - António A. Silva (2.José Dias Guimarães 3.José Américo Moreira)\
-1992 - António A. Silva\
+1992 - António A. Silva (2.António Teixeira 3.José Rodrigues)\
 1991 - José Pereira dos Santos (2.João Maciel 3.José Carlos Vieira)\
-1990 - António A. Silva\
-1989 - António A. Silva\
-1988 - Pedro Parcerias\
+1990 - António A. Silva (2.José C. Serra 3.António Teixeira)\
+1989 - António A. Silva (2.Arlindo Vieira 3.José Mesquita da Silva)\
+1988 - Pedro Parcerias (2.Paulo Felizes 3.Jean-Louis Broitman)\
 1987 - Luis Galego (2. Pedro V. Silva 3.Paulo Felizes)\
 1986 - Pedro V. Silva (2 e 3. Fernando Cleto e António A. Silva)\
 1985 - Pedro V. Silva (2.Paulo Felizes 3.Fernando Cleto)\

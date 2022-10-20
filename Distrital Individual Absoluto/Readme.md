@@ -51,7 +51,7 @@ Da AX Porto:
 1979 - João Andresen (2.Jorge Guimarães 3.Silvio Santos)\
 1978 - Jorge Guimarães (2.Jaime Gilbert 3.Silvio Santos)\
 1977 - Silvio Santos (2.Bernardino Passos 3.Jorge Guimarães)\
-1976 - Vladimiro Miranda
+1976 - Vladimiro Miranda (2.Silvio Santos 3.Jorge Guimarães)\
 
 (a partir de  1976, a Associação de Xadrez do Norte de Portugal deu lugar à Associação de Xadrez do Porto) 
 
@@ -68,7 +68,7 @@ Jaime Gilbert foi o jogador nº3 da seleção Portuguesa na Olimpiada de Siegen 
 Jaime Gilbert obteve o terceiro lugar no nacional de 1969, a 1 ponto de Cordovil e 0,5 de Durão\
 1968 - Raul Mota (2.Raul Macedo 3.Fernando Baqu)\
 1967 - A. Vidal Pinheiro (2.Camilo Costa 3.Jaime Gilbert)\
-1966 - Michael Diamond (2.Jacinto Alves 3.Bernardino Passos)\
+1966 - jacinto Alves (2.Michael Diamond 3.Camilo Costa)\
 1965 - Eduardo Monteiro (2.A Vidal Pinheiro 3.Jacinto Alves)\
 1964 - João Sepúlveda (2. A. Vidal Pinheiro 3.Michael Diamond)\
 1963 - António dos Santos Pinto (2.Michael Diamond 3.João Sepulveda)\

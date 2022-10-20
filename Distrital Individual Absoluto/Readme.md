@@ -43,11 +43,12 @@ Da AX Porto:
 1986 - Pedro V. Silva (2 e 3. Fernando Cleto e António A. Silva)\
 1985 - Pedro V. Silva (2.Paulo Felizes 3.Fernando Cleto)\
 1984 - Jorge Guimarães (2.Pedro V. Silva)\
-(No inicio de 1984 faleceu Silvio Santos)\
+(A 19 de Fevereiro de 1984 faleceu Silvio Santos)\
+(A AXP publica nota de pesar sobre a morte de Jaime Gilbert em Setembro de 1983)\
 1983 - \
 1982 - Silvio Santos (2.Luis Galego 3.Jorge Guimarães)\
-1981 - \
-1980 - \
+1981 - Jorge Guimarães (2.David Bastos 3.Silvio Santos)\
+1980 - Jorge Guimarães (2.Silvio Santos 3.Pedro Palhares)\
 1979 - João Andresen (2.Jorge Guimarães 3.Silvio Santos)\
 1978 - Jorge Guimarães (2.Jaime Gilbert 3.Silvio Santos)\
 1977 - Silvio Santos (2.Bernardino Passos 3.Jorge Guimarães)\

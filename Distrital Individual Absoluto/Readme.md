@@ -93,9 +93,8 @@ Em 1954, já depois de ir viver para Lisboa, J.M. Ribeiro conquista o titulo nac
 Em 1947 Leonel Pias vence o campeonato nacional\
 1946 - João Mário Ribeiro (2.Leonel Pias 3.Aristides Cunha)
 
-(Em 6 de Outubro de 1945, foi fundada a "Associação de Xadrez do Norte de Portugal".
-Porém o modelo competitivo, aberto aos jogadores do distrito ("Norte") já era implementado 
-desde 1941, pelo GXP)
+(Em 6 de Outubro de 1945, foi fundada a "Associação de Xadrez do Norte de Portugal". A partir daqui e até 1975 o torneio 
+atribui o titulo de "Campeão do Norte", sendo aberto a todos os jogadores da área geográfica.)
 
 Do Porto:
 
@@ -104,6 +103,10 @@ Do Porto:
 No nacional de 1944 J.M. Ribeiro obtém o terceiro lugar e o titulo de Mestre.\
 1943 - João Mário Ribeiro (2.Alexandre Gonçalves 3.Leonel Pias)\
 1941 - Américo Martins (2.Genczi Dezso 3. Leonel Pias)
+
+(Conforme mostra o regulamento do Torneio Principal de 1941, em papel timbrado da Federação Portuguesa de Xadrez, e assinado pelo
+seu presidente, o Torneio Permanente do Grupo de Xadrez do Porto apura para o Torneio Principal que atribui o titulo de Campeão do Porto
+e cujo vencedor ganha o direito de jogar um Torneio de Mestres que poderá ser - como em 1943 - o campeonato nacional)
 
 (Em 6 de Maio de 1940 é fundado o Grupo de Xadrez do Porto, na cave do Café Monumental)
 

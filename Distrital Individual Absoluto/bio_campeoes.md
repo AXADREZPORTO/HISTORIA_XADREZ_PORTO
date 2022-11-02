@@ -10,7 +10,7 @@ Rui Figeiredo - Dr. Rui Guimarães Figueiredo - d.n. 31/8/1926\
 Leonel Pias - Leonel de Figeiredo Pias - d.n. 22/9/1926\
 João Mário Ribeiro - João Mário ... - d.n. 1929
 
-Bernardino Passos - Bernardino Idálio Marins Alves Passos - d.n. 20/7/1930\
+Bernardino Passos - Bernardino Idálio Martins Alves Passos - d.n. 20/7/1930\
 Jorge Xavier - Jorge Lopo Carvalho Xavier - d.n. 6/5/1932
 
 Michael Diamond - Michael Desmond Diamond - d.n. 30/12/1935

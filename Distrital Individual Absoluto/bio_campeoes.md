@@ -14,7 +14,7 @@ José Dias Guimarães
 
 MN Álvaro Machado
 
-MN João Mário Ribeiro - João Mário ... - d.n. 1929\
+MN João Mário Ribeiro - d.n. 1929\
 Bernardino Passos - Bernardino Idálio Martins Alves Passos - d.n. 20/7/1930\
 Jorge Xavier - Jorge Lopo Carvalho Xavier - d.n. 6/5/1932
 
@@ -32,23 +32,27 @@ MF José Pereira dos Santos d.n. 1958\
 MF Jorge Guimarães - d.n. 1958\
 MN Silvio Santos
 
+Isabel Pereira dos Santos
+Maria Céu Silva
+
 MN António A. Silva - António Augusto Silva - d.n. 1962\
+MN Paulo Ferreira - Alberto Paulo Ferreira - d.n. 1962\
 Fernando Cleto - d.n. 1962\
-Albano Pinheiro - d.n. 1962\
-
-
-
+Albano Pinheiro - d.n. 1962
 
 MN Rui Camejo Almeida\
 GM Luis Galego - d.n. 1966\
 José Rodrigues - d.n.1969\
 MF Pedro Parcerias
 
-Nuno Sousa d.n. 1976\
+Tânia Saraiva
 
-MN Rui Guimarães - d.n. 1979
+Nuno Sousa d.n. 1976\
+MN Carlos Dantas d.n. 1978\
+MN Rui Guimarães - d.n. 1979\
 MF José Padeiro - d.n. 1980\
 MN Marco Viela - - d.n. 1985\
+WFM Ariana Pintor, d.n. 1988\
 MN André Viela - André Filipe Folha Viela - d.n. 1989
 
 Simão Pintor - Simão Maciel Abranches Pintor - d.n. 1991
@@ -61,5 +65,3 @@ MI André Sousa - André Ventura Sousa - d.n. 2000
 Hugo Sousa - Hugo Carneiro Sousa - d.n. 2001
 MN Miguel Sismeiro - d.n. 2004
 WFM Filipa Pipiras - Filipa Fortuna Pipiras d.n. 2005
-
-

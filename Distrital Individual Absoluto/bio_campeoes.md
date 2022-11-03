@@ -12,7 +12,7 @@ MN Leonel Pias - Leonel de Figeiredo Pias - d.n. 22/9/1926\
 
 José Dias Guimarães
 
-Álvaro Machado
+MN Álvaro Machado
 
 MN João Mário Ribeiro - João Mário ... - d.n. 1929\
 Bernardino Passos - Bernardino Idálio Martins Alves Passos - d.n. 20/7/1930\
@@ -43,23 +43,22 @@ MN Rui Camejo Almeida\
 GM Luis Galego - d.n. 1966\
 MF Pedro Parcerias
 
-Nuno Sousa\
-MF José Padeiro\
-MN Rui Guimarães - d.n. 1979
+Nuno Sousa d.n. 1976\
 
-Marco Viela\
-André Viela
+MN Rui Guimarães - d.n. 1979
+MF José Padeiro - d.n. 1980\
+MN Marco Viela - - d.n. 1985\
+MN André Viela - André Filipe Folha Viela - d.n. 1989
 
 Simão Pintor - Simão Maciel Abranches Pintor - d.n. 1991
 
 Lucas Silva
 
-Francisco Mateus
-
+Francisco Mateus - d.n. 1994
 GM Jorge Ferreira - Jorge Viterbo Ferreira - d.n. 1994
-
 MI André Sousa - André Ventura Sousa - d.n. 2000
 Hugo Sousa - Hugo Carneiro Sousa - d.n. 2001
-
+MN Miguel Sismeiro - d.n. 2004
+WFM Filipa Pipiras - Filipa Fortuna Pipiras d.n. 2005
 
 

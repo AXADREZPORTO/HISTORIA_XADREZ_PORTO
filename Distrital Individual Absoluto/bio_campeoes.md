@@ -27,20 +27,21 @@ Jaime Gilbert - Jaime Alfredo Huber Bismark Gilbert - d.n. 14/4/1949
 
 MN Vladimiro Miranda
 
+MF António Pereira dos Santos d.n. 1956\
+MF José Pereira dos Santos d.n. 1958\
 MF Jorge Guimarães - d.n. 1958\
 MN Silvio Santos
 
 MN António A. Silva - António Augusto Silva - d.n. 1962\
 Fernando Cleto - d.n. 1962\
-Albano Pinheiro\
-José Rodrigues
+Albano Pinheiro - d.n. 1962\
 
-MI José Pereira dos Santos
 
-MI António Pereira dos Santos
+
 
 MN Rui Camejo Almeida\
 GM Luis Galego - d.n. 1966\
+José Rodrigues - d.n.1969\
 MF Pedro Parcerias
 
 Nuno Sousa d.n. 1976\

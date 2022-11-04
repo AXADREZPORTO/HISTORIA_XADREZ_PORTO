@@ -34,24 +34,25 @@ Da AX Porto:
 1995 - Albano Pinheiro (2.Rui Camejo Almeida 3.José Dias Guimarães)\
 1994 - Jorge Guimarães (2.Fernando Cleto 3.António A. Silva)\
 1993 - António A. Silva (2.José Dias Guimarães 3.José Américo Moreira)\
-1992 - António A. Silva\
+1992 - António A. Silva (2.António Teixeira 3.José Rodrigues)\
 1991 - José Pereira dos Santos (2.João Maciel 3.José Carlos Vieira)\
-1990 - António A. Silva\
-1989 - António A. Silva\
-1988 - Pedro Parcerias\
+1990 - António A. Silva (2.José C. Serra 3.António Teixeira)\
+1989 - António A. Silva (2.Arlindo Vieira 3.José Mesquita da Silva)\
+1988 - Pedro Parcerias (2.Paulo Felizes 3.Jean-Louis Broitman)\
 1987 - Luis Galego (2. Pedro V. Silva 3.Paulo Felizes)\
 1986 - Pedro V. Silva (2 e 3. Fernando Cleto e António A. Silva)\
 1985 - Pedro V. Silva (2.Paulo Felizes 3.Fernando Cleto)\
 1984 - Jorge Guimarães (2.Pedro V. Silva)\
-(No inicio de 1984 faleceu Silvio Santos)\
+(A 19 de Fevereiro de 1984 faleceu Silvio Santos)\
+(A AXP publica nota de pesar sobre a morte de Jaime Gilbert em Setembro de 1983)\
 1983 - \
 1982 - Silvio Santos (2.Luis Galego 3.Jorge Guimarães)\
-1981 - \
-1980 - \
+1981 - Jorge Guimarães (2.David Bastos 3.Silvio Santos)\
+1980 - Jorge Guimarães (2.Silvio Santos 3.Pedro Palhares)\
 1979 - João Andresen (2.Jorge Guimarães 3.Silvio Santos)\
 1978 - Jorge Guimarães (2.Jaime Gilbert 3.Silvio Santos)\
 1977 - Silvio Santos (2.Bernardino Passos 3.Jorge Guimarães)\
-1976 - Vladimiro Miranda
+1976 - Vladimiro Miranda (2.Silvio Santos 3.Jorge Guimarães)\
 
 (a partir de  1976, a Associação de Xadrez do Norte de Portugal deu lugar à Associação de Xadrez do Porto) 
 
@@ -68,11 +69,12 @@ Jaime Gilbert foi o jogador nº3 da seleção Portuguesa na Olimpiada de Siegen 
 Jaime Gilbert obteve o terceiro lugar no nacional de 1969, a 1 ponto de Cordovil e 0,5 de Durão\
 1968 - Raul Mota (2.Raul Macedo 3.Fernando Baqu)\
 1967 - A. Vidal Pinheiro (2.Camilo Costa 3.Jaime Gilbert)\
-1966 - Michael Diamond (2.Jacinto Alves 3.Bernardino Passos)\
+1966 - jacinto Alves (2.Michael Diamond 3.Camilo Costa)\
 1965 - Eduardo Monteiro (2.A Vidal Pinheiro 3.Jacinto Alves)\
 1964 - João Sepúlveda (2. A. Vidal Pinheiro 3.Michael Diamond)\
 1963 - António dos Santos Pinto (2.Michael Diamond 3.João Sepulveda)\
 1962 - Fernando Xavier\
+Em 1961 Alexandre Gonçalves emigra para o Brasil\
 1961 - Alexandre Gonçalves (2.João Sepúlveda 3.Renato Figueiredo)\
 1960 - Alexandre Gonçalves (2.José D. Guimarães 3.Álvaro Machado)\
 1959 - Alexandre Gonçalves (2.Álvaro Machado 3.Augusto Faria)\
@@ -92,9 +94,8 @@ Em 1954, já depois de ir viver para Lisboa, J.M. Ribeiro conquista o titulo nac
 Em 1947 Leonel Pias vence o campeonato nacional\
 1946 - João Mário Ribeiro (2.Leonel Pias 3.Aristides Cunha)
 
-(Em 6 de Outubro de 1945, foi fundada a "Associação de Xadrez do Norte de Portugal".
-Porém o modelo competitivo, aberto aos jogadores do distrito ("Norte") já era implementado 
-desde 1941, pelo GXP)
+(Em 6 de Outubro de 1945, foi fundada a "Associação de Xadrez do Norte de Portugal". A partir daqui e até 1975 o torneio 
+atribui o titulo de "Campeão do Norte", sendo aberto a todos os jogadores da área geográfica.)
 
 Do Porto:
 
@@ -103,6 +104,10 @@ Do Porto:
 No nacional de 1944 J.M. Ribeiro obtém o terceiro lugar e o titulo de Mestre.\
 1943 - João Mário Ribeiro (2.Alexandre Gonçalves 3.Leonel Pias)\
 1941 - Américo Martins (2.Genczi Dezso 3. Leonel Pias)
+
+(Conforme mostra o regulamento do Torneio Principal de 1941, em papel timbrado da Federação Portuguesa de Xadrez, e assinado pelo
+seu presidente, o Torneio Permanente do Grupo de Xadrez do Porto apura para o Torneio Principal que atribui o titulo de Campeão do Porto
+e cujo vencedor ganha o direito de jogar um Torneio de Mestres que poderá ser - como em 1943 - o campeonato nacional)
 
 (Em 6 de Maio de 1940 é fundado o Grupo de Xadrez do Porto, na cave do Café Monumental)
 

@@ -17,7 +17,7 @@ Jorge Xavier - Jorge Lopo Carvalho Xavier - d.n. 6/5/1932\
 Michael Diamond - Michael Desmond Diamond - d.n. 30/12/1935
 
 João Andresen - João Henrique de Mendonça de Sousa Andresen - d.n. 29/3/1948\
-Jaime Gilbert - Jaime Alfredo Huber Burmester Gilbert - d.n. 14/4/1949
+Jaime Gilbert - Jaime Alfredo Huber Burmester Gilbert - d.n. 14/4/1949\
 José Prezado - José Carlos Fernandes Prezado - d.n. 13/6/1951\
 Vitorino Dias Ferreira - Vitorino Manuel Dias Ferreira - d.n. 22/9/1953\
 Rui Mendes - Rui Oscar M. da Costa Mendes - d.n. 10/2/1955\
@@ -46,7 +46,7 @@ José Rodrigues - José Artur Andrade Rodrigues - d.n. 16/1/1969\
 MN Rui Camejo Almeida - Rui Miguel Paulino Camejo de Almeida - d.n. 8/3/1970\
 MF Pedro Parcerias - Pedro Miguel Gonçalo Parcerias - d.n. 21/2/1971
  
-Tânia Saraiva - Tania Andrea Vaz Saraiva - d.n. 14/7/1976
+Tânia Saraiva - Tania Andrea Vaz Saraiva - d.n. 14/7/1976\
 Pedro Quaresma - Pedro Ramalho Quaresma - d.n. 15/4/1976\
 Nuno Sousa d.n. 1976\
 MN Carlos Dantas - Carlos Bruno Rodrigues Dantas - d.n. 8/5/1978\

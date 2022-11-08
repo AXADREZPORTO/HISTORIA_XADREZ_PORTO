@@ -44,7 +44,8 @@ José Mesquita - José Manuel Mesquita da Silva - d.n. 24/7/1964\
 GM Luis Galego - Luis Miguel Araujo Brito Galego - d.n. 25/4/1966\
 José Rodrigues - José Artur Andrade Rodrigues - d.n. 16/1/1969\
 MN Rui Camejo Almeida - Rui Miguel Paulino Camejo de Almeida - d.n. 8/3/1970\
-MF Pedro Parcerias - Pedro Miguel Gonçalo Parcerias - d.n. 21/2/1971
+MF Pedro Parcerias - Pedro Miguel Gonçalo Parcerias - d.n. 21/2/1971\
+Pedro Areal - Pedro Miguel Rosas de Almeida Areal - d.n. 13/9/1972
  
 Tânia Saraiva - Tania Andrea Vaz Saraiva - d.n. 14/7/1976\
 Pedro Quaresma - Pedro Ramalho Quaresma - d.n. 15/4/1976\

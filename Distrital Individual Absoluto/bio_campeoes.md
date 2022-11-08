@@ -10,7 +10,7 @@ Jacinto Alves - d.n. 31/1/1923\
 MN Alexandre Gonçalves - Alexandre Teixeira Antunes Gonçalves - d.n. 9/10/1924\
 MN Álvaro Machado - Alvaro dos Anjos Machado d.n. 4/11/1924\
 Rui Figeiredo - Dr. Rui Guimarães Figueiredo - d.n. 31/8/1926\
-MN Leonel Pias - Leonel de Figueiredo Pias - d.n. 22/9/1926\
+MN Leonel Pias - Leonel de Figueiredo Pias - d.n. 22/9/1926
 
 José Dias Guimarães
 

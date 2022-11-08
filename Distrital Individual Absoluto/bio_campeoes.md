@@ -1,9 +1,8 @@
 Neste documento procuramos ter o nome completo e data de nascimento dos campeões e de outros jogadores notáveis
 
-
+MN Gencsi Dezso - d.n. 2/11/1897\
 Augusto Faria - Augusto António Lopes de Faria - d.n. 17/7/1910\
 Américo Martins - \
-MN Gencsi Dezso - \
 MN Fernando Encarnação - \
 MN Manuel Costa - Manuel José Maria Violeta da Costa - d.n. 15/12/1921\
 Jacinto Alves - d.n. 31/1/1923\

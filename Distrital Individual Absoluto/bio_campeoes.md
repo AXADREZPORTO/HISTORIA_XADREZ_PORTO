@@ -1,4 +1,4 @@
-Neste documento procuramos ter o nome completo e data de nascimento dos campeões e de outros jogadores notáveis
+Neste documento procuramos ter o nome completo e data de nascimento dos campeões e de outros jogadores e dirigentes.
 
 MN Gencsi Dezso - d.n. 2/11/1897\
 Augusto Faria - Augusto António Lopes de Faria - d.n. 17/7/1910\

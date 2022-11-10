@@ -31,9 +31,9 @@ Araujo Pereira obtém o grau de mestre
 Segundo a lista da FPX (7/2022):
 
 1944 - João Mário Ribeiro\
-1945 - Leonel Pias (d.n. 22/9/1926)\
+1945 - Leonel Pias\
 1946 - Fernando Encarnação\
-1946 - Alexandre Gonçalves (d.n. 9/10/1924)\
+1946 - Alexandre Gonçalves\
 1949 - Manuel Costa\
 1950 - Jorge Babo\
 1953 - Gencsi Dezso\

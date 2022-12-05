@@ -31,9 +31,9 @@ Araujo Pereira obtém o grau de mestre
 Segundo a lista da FPX (7/2022):
 
 1944 - João Mário Ribeiro\
-1945 - Leonel Pias (d.n. 22/9/1926)\
-1946 - Fernando Encarnação (é do Norte?)\
-1946 - Alexandre Gonçalves (d.n. 9/10/1924)\
+1945 - Leonel Pias\
+1946 - Fernando Encarnação\
+1946 - Alexandre Gonçalves\
 1949 - Manuel Costa\
 1950 - Jorge Babo\
 1953 - Gencsi Dezso\
@@ -47,7 +47,7 @@ Após 1956 os critérios de obtenção do titulo passaram a ser muito mais exige
 1983 - Jorge Guimarães (mais tarde, MF)\
 1987 - Luis Galego (mais tarde, GM)\
 1990 - Pedro Ventura Silva\
-1990 - Carlos Pereira dos Santos (mais tarde, MI)\
+1990 - Carlos Pereira dos Santos (mais tarde, MF)\
 1994 - Pedro Parcerias (mais tarde, MF)\
 1995 - Rui Camejo Almeida\
 1995 - António Augusto Silva\
@@ -62,9 +62,8 @@ Após 1956 os critérios de obtenção do titulo passaram a ser muito mais exige
 2010 - André Viela\
 2010 - Jorge Ferreira (mais tarde, GM)\
 2011 - Marco Viela\
-2018 - José Francisco Veiga (mais tarde MF)\
+2014 - Maria Inês Oliveira (WFM)\
+2018 - José Francisco Veiga (mais tarde MI)\
 2020 - Rui Guimarães\
 2022 - Filipa Pipiras (WFM)\
 2022 - Miguel Sismeiro
-
-

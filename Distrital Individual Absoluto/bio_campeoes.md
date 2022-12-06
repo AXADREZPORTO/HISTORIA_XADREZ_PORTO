@@ -19,9 +19,11 @@ Eduardo Monteiro\
 João Andresen - João Henrique de Mendonça de Sousa Andresen - d.n. 29/3/1948\
 Jaime Gilbert - Jaime Alfredo Huber Burmester Gilbert - d.n. 14/4/1949\
 José Prezado - José Carlos Fernandes Prezado - d.n. 13/6/1951\
+Gil Coelho - Gil manuel Damasceno Barros Coelho - d.n. 17/1/1953\ 
 Vitorino Dias Ferreira - Vitorino Manuel Dias Ferreira - d.n. 22/9/1953\
 Rui Mendes - Rui Oscar M. da Costa Mendes - d.n. 10/2/1955\
 MN Vladimiro Miranda - Vladimiro Henrique Barrosa P. de Miranda - d.n. 11/3/1955\
+Manuel Matos - Manuel António Cerqueira da  Costa Matos - d.n. 8/4/1955\
 António Torcato Teixeira, d.n. 9/11/1955\
 MF António Pereira dos Santos d.n. 1956\
 Maria Antónia Galante - d.n. 13/11/1956\

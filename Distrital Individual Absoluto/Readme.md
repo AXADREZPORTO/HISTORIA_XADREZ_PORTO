@@ -54,7 +54,7 @@ Da AX Porto:
 1977 - Silvio Santos (2.Bernardino Passos 3.Jorge Guimarães)\
 1976 - Vladimiro Miranda (2.Silvio Santos 3.Jorge Guimarães)\
 
-(a partir de  1976, a Associação de Xadrez do Norte de Portugal deu lugar à Associação de Xadrez do Porto) 
+(a partir de  1976, a Associação de Xadrez do Norte de Portugal deu lugar à Associação de Xadrez do Porto)
 
 Do Norte:
 
@@ -78,11 +78,11 @@ Em 1961 Alexandre Gonçalves emigra para o Brasil\
 1961 - Alexandre Gonçalves (2.João Sepúlveda 3.Renato Figueiredo)\
 1960 - Alexandre Gonçalves (2.José D. Guimarães 3.Álvaro Machado)\
 1959 - Alexandre Gonçalves (2.Álvaro Machado 3.Augusto Faria)\
-1958 - Alexandre Gonçalves (2.José Guimarães 3.João Soares)\
-1957 - ?\
+1958 - Alexandre Gonçalves (2.José D. Guimarães 3.João Soares)\
+1957 - Jorge Lopo Xavier (2. Eng. Fernando Forte 3.José D. Guimarães)
 1956 - José D. Guimarães (2.Álvaro Machado 3. J. Santos Pinto)\
-1955 - Araújo Pereira (2.Jorge Babo 3.Jorge Xavier)\
-1954 - Gencsi Deszo (2.João Azinheira 3.Jorge Xavier)\
+1955 - Araújo Pereira (2.Jorge Babo 3.Jorge Lopo Xavier)\
+1954 - Gencsi Deszo (2.João Azinheira 3.Jorge Lopo Xavier)\
 Em 1954, já depois de ir viver para Lisboa, J.M. Ribeiro conquista o titulo nacional. Repetiria o feito em 1963 e 1971, obtendo ainda outras 4 presenças no pódio.\
 1953 - Gencsi Deszo (2.Alexandre Gonçalves 3.António Resende)\
 1952 - Alexandre Gonçalves (?) (2. J.A. Carvalho (?) 3.Oscar Baptista (?))\
@@ -92,14 +92,14 @@ Em 1954, já depois de ir viver para Lisboa, J.M. Ribeiro conquista o titulo nac
 1948 - Alexandre Gonçalves (2.Manuel Costa 3.António Ribeiro)\
 1947 - João Mário Ribeiro (2.Santana Godinho 3.Aristides Cunha)\
 Em 1947 Leonel Pias vence o campeonato nacional\
-1946 - João Mário Ribeiro (2.Leonel Pias 3.Aristides Cunha)
+1946 - João Mário Ribeiro (2.Leonel Pias 3.Aristides Cunha)\
+1945 - Alexandre Gonçalves
 
-(Em 6 de Outubro de 1945, foi fundada a "Associação de Xadrez do Norte de Portugal". A partir daqui e até 1975 o torneio 
+(Em 6 de Outubro de 1945, foi fundada a "Associação de Xadrez do Norte de Portugal". A partir daqui e até 1975 o torneio
 atribui o titulo de "Campeão do Norte", sendo aberto a todos os jogadores da área geográfica.)
 
 Do Porto:
 
-1945 - Alexandre Gonçalves\
 1944 - Leonel Pias (2.João Mário Ribeiro 3.Alexandre Gonçalves)\
 No nacional de 1944 J.M. Ribeiro obtém o terceiro lugar e o titulo de Mestre.\
 1943 - João Mário Ribeiro (2.Alexandre Gonçalves 3.Leonel Pias)\
@@ -111,7 +111,7 @@ e cujo vencedor ganha o direito de jogar um Torneio de Mestres que poderá ser -
 
 (Em 6 de Maio de 1940 é fundado o Grupo de Xadrez do Porto, na cave do Café Monumental)
 
-Individual Absoluto é o nome tipicamente dado ao torneio anual  de partidas clássicas que define o campeão da região ou distrito e 
+Individual Absoluto é o nome tipicamente dado ao torneio anual  de partidas clássicas que define o campeão da região ou distrito e
 que em muitas épocas apurou para torneios de mestres (no qual se podia obter o titulo vitalicio de Mestre) e para o campeonato nacional.
 
 Na actualidade (2022) apura para uma ida ao Open de Portugal que por sua vez apura para a Fase Final do Campeonato Nacional.

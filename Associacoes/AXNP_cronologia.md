@@ -34,3 +34,5 @@ Decidiu organizar-se o Torneio de Mestres em atraso. Em virtude do número de me
 22/5/1949 Acta 12: FLX_02\
 Aceitou-se a realização do primeiro Norte-Centro. A seleção escolhida pelo Conselho Técnico foi:\
 António Julio Ribeiro, José Lima Faria, Eng. João de Oliveira, Fernando Lopo Xavier, António Novoa e Neves Pereira. Suplente: Fernando José Vasconcelos.\
+25/9/1949: Acta 13: FLX_03\
+Inscrições para a época "em inicio". Discutiu-se o torneio principal e respectivas inscrições.\

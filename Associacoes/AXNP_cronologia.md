@@ -14,11 +14,21 @@ Equipas,A: Outubro a Dezembro\
 Substituido António Condé Correia por José de Lima Faria, por motivo de doença.\
 Número de jogadores no Torneio de Honra é fixado em 9, com apuramento de 3
 candidatos para o torneio de Mestres.\
-
+\
 2/3/1947     Acta 6: EJ_01\
 Primeira reunião de Eduardo Carvalho e Cunha Júnior\
 27/6/1947    Acta 7: EJ_02\
 Assinala-se que o Clube Portuense de Xadrez tem de legalizar a sua situação\
-27/12/1947    Acta 8: EJ_02\
+27/12/1947    Acta 8: EJ_03\
 Enviadas saudações a Jorge Babo\
 Recebido Pedido de Inscrição do Sport Clube do Porto\
+Oficiado o CPN de Ermezinde de que deveria inscrever-se oficialmente\
+Autoriza-se Coimbra a formar uma Associação Independente\
+14/1/1948    Acta 9: EJ_04\
+Castigado com suspensão da participação em competições José Pereira Martins (Sport Clube do Porto) por em artigo do Jornal de Xadrez vexar a Associação\
+2/4/1948    Acta 10: EJ_05\
+Reclamação à FPX do SCP. A FPX pede o adiamento do Torneio de Honra\
+\
+22/3/1949 Acta 11: FLX_01\
+Decidiu organizar-se o Torneio de Mestres em atraso. Em virtude do número de mestres ser inferior a 50% é pedido à FPX que aumente para 56% a percentagem necessária para obter o grau\
+22/5/1949 Acta 12: FLX_02\

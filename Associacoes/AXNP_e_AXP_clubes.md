@@ -1,5 +1,5 @@
 
-1943 GX Póvoa do Varzim\
+1933 GX Póvoa do Varzim\
 1940 GX Porto\
 1945 Clube Portuense de Xadrez\
 No Porto, cria-se o Clube Portuense de Xadrez, tendo à sua frente o Dr. Adelino Ribeiro, pai

@@ -5,6 +5,7 @@ Américo Martins - \
 Augusto Faria - Augusto António Lopes de Faria - d.n. 17/7/1910\
 Eng. Manuel Lima Torres - d.n. 25/3/1916\
 MN Fernando Encarnação - \
+Jorge Babo - Jorge Feio dos Santos Babo - \
 MN Manuel Costa - Manuel José Maria Violeta da Costa - d.n. 15/12/1921\
 Jacinto Alves - d.n. 31/1/1923\
 MN Alexandre Gonçalves - Alexandre Teixeira Antunes Gonçalves - d.n. 9/10/1924\

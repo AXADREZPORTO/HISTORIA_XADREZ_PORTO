@@ -10,4 +10,7 @@
 | 1955 | José Borges de Miranda (GXP) | Jorge Babo (CFP)        |  João Soares           |       ??? |
 | 1957 | José Borges de Miranda       | João Soares             |  Alipio Oliveira       |       ??? |
 | 1958 | José Borges de Miranda       | Ângelo Carneiro         |  A. Magalhães          |       ??? |
-| 1960 | Rui Figueiredo               | José Joffe Mendes | Fernando Gomes    | Rua do Clube Fenianos, 29 |
+| 1960 | Rui Figueiredo               | José Joffe Mendes       | Fernando Gomes         |       Rua do Clube Fenianos, 29 |
+| 1961 | Franklim Guerra Pereira      | Fernando Osório         | Fernando Gomes         |       Rua do Clube Fenianos, 29 |
+| 1964 | Fernando de Carvalho Xavier  | Camilo Costa            | José Augusto Carvalho  |       Rua de Santa Catarina, 61 |
+| 1965 | Eng. Manuel Lima Torres      | Fernando Borges         | Jorge Fernandes        |       ??? |

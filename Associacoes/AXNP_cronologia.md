@@ -32,3 +32,5 @@ Reclamação à FPX do SCP. A FPX pede o adiamento do Torneio de Honra\
 22/3/1949 Acta 11: FLX_01\
 Decidiu organizar-se o Torneio de Mestres em atraso. Em virtude do número de mestres ser inferior a 50% é pedido à FPX que aumente para 56% a percentagem necessária para obter o grau\
 22/5/1949 Acta 12: FLX_02\
+Aceitou-se a realização do primeiro Norte-Centro. A seleção escolhida pelo Conselho Técnico foi:\
+António Julio Ribeiro, José Lima Faria, Eng. João de Oliveira, Fernando Lopo Xavier, António Novoa e Neves Pereira. Suplente: Fernando José Vasconcelos.\

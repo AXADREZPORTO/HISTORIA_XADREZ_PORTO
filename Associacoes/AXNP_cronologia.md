@@ -18,3 +18,4 @@ candidatos para o torneio de Mestres.\
 2/3/1947     Acta 6: EJ_01\
 Primeira reunião de Eduardo Carvalho e Cunha Júnior\
 27/6/1947    Acta 7: EJ_02\
+Assinala-se que o Clube Portuense de Xadrez tem de legalizar a sua situação\

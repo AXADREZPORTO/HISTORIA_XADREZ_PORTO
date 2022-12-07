@@ -19,3 +19,6 @@ candidatos para o torneio de Mestres.\
 Primeira reunião de Eduardo Carvalho e Cunha Júnior\
 27/6/1947    Acta 7: EJ_02\
 Assinala-se que o Clube Portuense de Xadrez tem de legalizar a sua situação\
+27/12/1947    Acta 8: EJ_02\
+Enviadas saudações a Jorge Babo\
+Recebido Pedido de Inscrição do Sport Clube do Porto\

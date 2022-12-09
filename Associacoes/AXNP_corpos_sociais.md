@@ -20,3 +20,8 @@ A primeira AG da AXNP, convocada pela FPX, decorreu a 6/10/1945 no 3º andar do 
 | 1972 | Jorge Silva Lopes (GXP)      | ?          | ?                   | Raul Macedo (FCP)        |       Casa do Desporto|
 | 1973 | Salvador Carneiro (FCP)      | Manuel Moreira Pereira (FCP) | Bernardino Passos (GXP) | José Martins Gomes (GXP)|       Casa do Desporto|
 
+Em 1975, a AXNP deu lugar à AXP
+
+| Ano   |  Presidente               | Vice ou Secretário           |       Tesoureiro         |   Presidente MAG       |         Morada               |
+| ----  |       ---                 |       ---                    |            ---           |       -----            |           ----               |
+| 1973  | José Martins Gomes (CSNA) | Henrique Magro (FCP)         |  Vladimiro Miranda (FCP) | Salvador Carneiro (FCP)|       Casa do Desporto       |

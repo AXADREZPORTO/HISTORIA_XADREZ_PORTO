@@ -24,4 +24,19 @@ Em 1975, a AXNP deu lugar à AXP
 
 | Ano   |  Presidente               | Vice ou Secretário           |       Tesoureiro         |   Presidente MAG       |         Morada               |
 | ----  |       ---                 |       ---                    |            ---           |       -----            |           ----               |
-| 1973  | José Martins Gomes (CSNA) | Henrique Magro (FCP)         |  Vladimiro Miranda (FCP) | Salvador Carneiro (FCP)|       Casa do Desporto       |
+| 1975  | José Martins Gomes (CSNA) | Henrique Magro (FCP)         |  Vladimiro Miranda (FCP) | Salvador Carneiro (FCP)|       Casa do Desporto       |
+| 1976  | José Martins Gomes (CSNA) | João Andresen  (GXP)         |  Vladimiro Miranda (FCP) | Salvador Carneiro (FCP)|       Casa do Desporto       |
+| 1977  | Henrique Magro (FCP)      | José Gomes da Rocha          |  Manuel Neves            | Salvador Carneiro (FCP)|       Casa do Desporto       |
+| 1978  | José Gomes da Rocha       | Victor Figueiredo            |  Manuel Neves            | Salvador Carneiro (FCP)|       Casa do Desporto       |
+| 1979  | José Gomes da Rocha       | João David                   |  Manuel Neves            | Salvador Carneiro (FCP)|       Casa do Desporto       |
+| 1978  | José Gomes da Rocha       | Carlos Santos                |  Manuel Neves            | Salvador Carneiro (FCP)|       Casa do Desporto       |
+| 1980  | Vitorino Dias Ferreira (?)| ---                          |  ---                     | ---                    |       Casa do Desporto       |
+| 1989  | Vitorino Dias Ferreira    | Jorge Coelho                 |  ---                     | ---                    |       Casa do Desporto       |
+| 1999  | Mário Marques             | Manuel Canejo Almeida        |  João David              | ---                    |       Casa do Desporto       |
+| ????  | Jorge Szabo               | Rogério Oliveira ?           |  ?                       | José Carlos Prezado    |       Casa do Desporto       |
+| ????  | Rogério Oliveira          | ?                            |  ?                       | ?                      |       Casa do Desporto       |
+| ????  | Manuel Pintor             | Bruno Figueiredo ?           |  ?                       | ?                      |       Casa do Desporto       |
+| 2012  | Nuno Andrade              | João Felix                   |  João Martins            | Rogério Oliveira       |       Casa do Desporto       |
+| 2016  | Paulo Morais              | Raul Ralha                   |  Artur Pinto             | Rui Guimarães          |       Casa do Desporto       |
+| 2017  | Pedro Areal               | Augusto Fonseca              |  Artur Rosário           | Luis Chambel           |       Casa do Desporto       |
+| 2022  | Pedro Areal               | Ruben Freitas                |  Augusto Fonseca         | Luis Chambel           |       Casa do Desporto       |

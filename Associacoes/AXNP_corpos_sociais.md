@@ -16,6 +16,11 @@ A primeira AG da AXNP, convocada pela FPX, decorreu a 6/10/1945 no 3º andar do 
 | 1961 | Franklim Guerra Pereira      | Fernando Osório         | Fernando Gomes (CDUP)  | Dr. Rui Figueiredo (CFP) |       Rua do Clube Fenianos, 29 |
 | 1964 | Fernando de Carvalho Xavier  | Camilo Costa            | José Augusto Carvalho  | Dr. Rui Figueiredo (CFP) |       Rua de Santa Catarina, 61  (Café Palladium)|
 | 1965 | Eng. Manuel Lima Torres      | Fernando Borges         | Jorge Fernandes        | Dr. Rui Figueiredo (GXP) |       Rua de Santa Catarina, 61  (Café Palladium)|
+
+Em 1968 há uma AG onde, como é usual na época, são atribuidos cargos aos clubes, mas não aparece a tomada de posse nem os nomes. Dois anos depois é nomeada uma comissão administrativa:
+
+| Ano   |  Presidente            | Vice ou Secretário           |       Tesoureiro       |   Presidente MAG     |         Morada                                      |
+| ----  |       ---              |       ---                    |            ---         |       -----          |                      ----           |
 | 1970 (C.A.) | Jorge Silva Lopes     | Rui Albergaria          | ---                    | ---                      |       Rua de Santa Catarina, 61  (Café Palladium)|
 | 1972 | Jorge Silva Lopes (GXP)      | ?          | ?                   | Raul Macedo (FCP)        |       Casa do Desporto|
 | 1973 | Salvador Carneiro (FCP)      | Manuel Moreira Pereira (FCP) | Bernardino Passos (GXP) | José Martins Gomes (GXP)|       Casa do Desporto|

@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 | Ano   |     Presidente               | Vice ou Secretário     |       Tesoureiro       |   Presidente MAG |         Morada                  |
 | ----  |       ---                    |       ---              |            ---         |       -----      |          ----                   |
 | 1945  |     Américo Martins          | António Condé Correia  |       Oscar Baptista   |       ???        |       Rua de Santa Catarina, 61, 3º|
@@ -14,3 +15,10 @@
 | 1961 | Franklim Guerra Pereira      | Fernando Osório         | Fernando Gomes         |       ???        |       Rua do Clube Fenianos, 29 |
 | 1964 | Fernando de Carvalho Xavier  | Camilo Costa            | José Augusto Carvalho  |       ???        |       Rua de Santa Catarina, 61 |
 | 1965 | Eng. Manuel Lima Torres      | Fernando Borges         | Jorge Fernandes        |       ???        |       ??? |
+=======
+Ano        Presidente              Vice ou Secretário          Tesoureiro                Morada
+
+1945       Américo Martins           António Condé Correia       Oscar Baptista          Rua de Santa Catarina, 61, 3º
+1946       Américo Martins           José de Lima faria          Oscar Baptista
+1947       Eduardo C. Cunha Júnior   Abdel Lourosa e Silva       Fernando Xavier         Rua de Santa Catarina, 63
+>>>>>>> Stashed changes

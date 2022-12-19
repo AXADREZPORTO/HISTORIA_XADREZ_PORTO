@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 3/10/1945  Acta 1: AM_01\
 Primeira reunião da Direcção de Américo Martins\
 28/10/1945  Acta 2: AM_02\
@@ -36,3 +37,5 @@ Aceitou-se a realização do primeiro Norte-Centro. A seleção escolhida pelo C
 António Julio Ribeiro, José Lima Faria, Eng. João de Oliveira, Fernando Lopo Xavier, António Novoa e Neves Pereira. Suplente: Fernando José Vasconcelos.\
 25/9/1949: Acta 13: FLX_03\
 Inscrições para a época "em inicio". Discutiu-se o torneio principal e respectivas inscrições.\
+=======
+>>>>>>> Stashed changes

@@ -3,11 +3,11 @@ Estes eram a forma de obter o titulo de Mestre Nacional.
 
 No C.N. de 1943 (Lisboa) J.M. Ribeiro obtém o 3º lugar com mais de 50% e o titulo de mestre.
 
-No T.M. de 1944 (Lisboa) Leonel Pias obtém o 5º lugar com 4.5 pontos (50%) e o titulo de mestre. 
+No T.M. de 1944 (Lisboa) Leonel Pias obtém o 5º lugar com 4.5 pontos (50%) e o titulo de mestre.
 
 No T.M. de 1945/46 (Lisboa) Alexandre Gonçalves obtém 5 em 10 (50%) e o titulo de mestre
 
-1948 1. João Mário Ribeiro 2. Alexandre Gonçalves 3. Neves Pereira
+1948 1. Alexandre Gonçalves 2. João Mário Ribeiro 3. Neves Pereira
 os mestres defenderam a categoria da candidatura.
 
 1949 - 1.João Mário Ribeiro 6 2.Alexandre Gonçalves 5.5 3.Manuel Costa 4.5 (56%) 4.António Ribeiro 5. 2 José Faria 2\
@@ -19,14 +19,14 @@ os mestres defenderam a categoria das candidaturas
 1953 1. Jorge Babo 3.5 2.Gencsi Dezso 3.5 3.Manuel Costa 3 4. António Resende\
 Gencsi Dezso obtém o grau de mestre (nacional).
 
-1954 - 1.Joaquim Durão 2,Jorge Babo 3.Augusto Faria 4.Jorge Xavier
+1954 - 1.Joaquim Durão 2.Jorge Babo 3.Augusto Faria 4.Jorge Lopo Xavier
 Os mestres defenderam a categoria.
 
 1955 1. Jorge Babo 5 2, Manuel Costa 4 3.Araujo Pereira 3 4.Jorge Xavier 0\
 Araujo Pereira obtém o grau de mestre
 
 1956 -  1.Álvaro Machado 4.5 2.Genczi Dezso 4.5 3.Jorge Babo 2 4.José F. Guimarães 1\
-Álvaro Machado obteém o grau de mestre (nacional).
+Álvaro Machado obtém o grau de mestre (nacional).
 
 Segundo a lista da FPX (7/2022):
 
@@ -45,7 +45,7 @@ Após 1956 os critérios de obtenção do titulo passaram a ser muito mais exige
 1981 - José Pereira dos Santos (mais tarde, MF)\
 1981 - António Pereira dos Santos (mais tarde, MF)\
 1983 - Jorge Guimarães (mais tarde, MF)\
-1987 - Luis Galego (mais tarde, GM)\
+1987 - Luís Galego (mais tarde, GM)\
 1990 - Pedro Ventura Silva\
 1990 - Carlos Pereira dos Santos (mais tarde, MF)\
 1994 - Pedro Parcerias (mais tarde, MF)\
@@ -55,7 +55,7 @@ Após 1956 os critérios de obtenção do titulo passaram a ser muito mais exige
 2005 - Ariana Pintor (WFM)\
 2005 - Fernando Castro\
 2005 - Vladimiro Miranda\
-2005 - Silvio Santos\
+2005 - Sílvio Santos\
 2005 - José Padeiro (mais tarde, MF)\
 2005 - Pedro Palhares\
 2006 - João Guerra e Costa\

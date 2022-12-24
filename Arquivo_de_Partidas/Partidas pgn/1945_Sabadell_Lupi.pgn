@@ -1,0 +1,438 @@
+[Event "Torneo internacional Sabadell"]
+[Site "Sabadell"]
+[Date "1945.08.02"]
+[Round "1"]
+[White "Alekhine, Alexander"]
+[Black "Valles Bergada, Vicente"]
+[Result "1/2-1/2"]
+[ECO "A60"]
+[PlyCount "78"]
+[EventDate "1945.08.??"]
+
+{Según cuenta Vallés en su cuaderno personal, Alekhine se presentó a jugar en
+estado etílico y que apenas se podía sostener. Pero es que tampoco dejaba
+jugar. Vallés reconoce que tuvo la sensación de no haberla jugado. Alekhine
+jugó la partida de forma muy rápida y no dejaba de mirar al tablero de forma
+continuada, aunque parecía que estuviera durmiendo con los ojos abiertos. En
+ninguna otra partida del torneo se presentó Alekhine de la forma que hemos
+indicado.} 1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 (4. Nf3 {
+Esto sería otra posibilidad; ni mejor ni peor.}) 4... d6 5. Bg2 Be7 6. Nc3 O-O
+7. Nf3 exd5 8. cxd5 Re8 9. O-O Nbd7 (9... Na6 {Para seguir con Cc7 y b5}) 10.
+e4 Bf8 {Czerniack, que jugaba una posición similiar a ésta, pero con el alfil
+de f8 en fianchetto, decía que le gustaba mucho, por cuanto tenía la columna
+de rey abierta y mayoría de peones en el flanco de dama.} (10... b5 $5 11. Nxb5
+$6 (11. e5 $142 $1 dxe5 12. d6 (12. Re1 b4 13. d6 bxc3 14. dxe7 Qxe7 15. bxc3
+Bb7 $15) 12... Bf8 13. Nxb5 e4 14. Nd2 Rb8 15. a4 Re6 $13) 11... Nxe4 (11...
+Ba6 12. Qa4 Qb6 13. Nc7 $11) 12. Nfd4 Nxf2 (12... cxd4 $142) 13. Rxf2 cxd4 14.
+Nxd4 $11) 11. Re1 Qa5 (11... a6 12. a4 Nb6 $14) 12. Bd2 (12. Bf4 {
+quizás más activa.}) 12... b5 13. a3 Qb6 14. Qc2 a5 15. a4 b4 16. Nb5 Ba6 (
+16... Ng4 {era otra alternativa}) 17. Bf1 Ng4 18. Bc4 Nde5 19. Nxe5 Nxe5 20.
+Be2 (20. Kg2 $6 Nxc4 21. Qxc4 Bxb5 22. axb5 a4 $15) 20... Bxb5 21. axb5 g6 $1 (
+21... c4 22. Bf4 $36) (21... c4 22. Bf4 Qxb5 23. Bxe5 Rxe5 24. Bxc4 $36) 22.
+Be3 Bg7 23. f4 Nd7 24. Bc4 (24. Bf2 $142) 24... a4 $1 25. Rxa4 Rxa4 26. Qxa4
+Bxb2 $1 {Diagrama # La posición de Vallés es preferible.} (26... Rxe4 $143 27.
+Qc2 $11 (27. Qa8+ Nb8 (27... Qb8 28. Qxb8+ Nxb8 29. b3 $13) 28. b3 $11)) 27.
+Bf2 Bc3 28. Re2 Qc7 (28... Qb7 $15) 29. b6 $6 (29. e5 $5 {
+era el momento de intentar contrajuego.} Rd8 30. e6 Nb6 31. Qa2 $15 Rb8 $36 (
+31... Ra8 $4 32. Qxa8+ Nxa8 33. e7 $18)) 29... Qd8 $1 30. b7 Nb6 31. Qb5 (31.
+Qc6 Nxc4 32. Ra2 Nb6 $17) 31... Nxc4 {
+Diagrama # Aquí Alekhine propuso tablas, que Vallés, con buen criterio rehusó.}
+32. Qxc4 Qb6 33. e5 $5 {Diagrama # Pablo Morán, en su libro A. Alekhine-Agonía
+de un genio, dice "con esta jugada el blanco asegura el empate." El propio
+Vicente Vallés, en los comentarios que realiza en El Mundo Deportivo del 17 de
+agosto de 1945, da 33. e5 como salvadora del blanco. Vallés decía "...Dando al
+traste con todo el juego del negro, que no ha tenido la visión de prevenir
+esta fuerte ruptura.." O sea, tampoco se daría cuenta de la que yo creo que
+podría ser defintiva. Siento discrepar de estos comentarios. Es evidente que
+33. dxe5 que contesta Vallés parece mala. Analizando esta posición creo que
+con 33. ... Dxb7 el blanco no tiene ninguna posibilidad de tablas.} (33. b8=Q
+Rxb8 34. e5 dxe5 $19) 33... dxe5 $2 {Aquí se escapa la victoria de Vallés.} (
+33... Qxb7 $3 34. exd6 $2 (34. Be3 dxe5 35. Bxc5 Rd8 36. d6 Ra8 37. fxe5 (37.
+Kf2 Qh1 $1 $19) 37... Ra1+ 38. Kf2 Qh1 $1 $19) (34. h4 Kg7 35. Kh2 Rd8 36. exd6
+(36. e6 Re8 $19) 36... Rxd6 $19) 34... Rxe2 35. Qxe2 Qxd5 36. Qb5 (36. Qe8+ Kg7
+37. d7 Bf6 $19) 36... b3 37. d7 Bf6 38. Bxc5 h5 $1 39. Qb8+ Kh7 $19 {
+y el negro ganará.}) 34. Bxc5 Qxb7 35. fxe5 Rxe5 36. Rxe5 Bxe5 37. Bxb4 {
+Después de realizar la jugada, Alekhine, un tanto fuera de sí por su estado y
+con cierta sorna, dijo: "?Quieres ganar esto? y prosiguió hablando, como si lo
+hiciera con él mismo.} Qc7 {Diagrama #} 38. Qxc7 Bxc7 39. Kg2 ({
+se podía intentar...} 39. Be7 f5 40. d6 Bb6+ 41. Kg2 Kf7 42. Kf3 Ke6 43. Bf8
+Bc5 $6 (43... Bd4 44. Bh6 Kxd6 $15) 44. h4 $1 Bxd6 45. Bxd6 Kxd6 46. Kf4 Ke6
+47. Kg5 Kf7 48. h5 $11) 39... f5 {Y aquí Alekhine, como queriendo justificarse
+ante el público dijo."Si, es un empate". Y Vallés, que no supo qué decir,
+confesó haber sentido vergüenza.} 1/2-1/2
+
+[Event "Torneo internacional Sabadell"]
+[Site "Sabadell"]
+[Date "1945.08.02"]
+[Round "1"]
+[White "Lupi, Francesco"]
+[Black "Mena de la Torre, Francisco"]
+[Result "1-0"]
+[ECO "B03"]
+[PlyCount "65"]
+[EventDate "1945.08.??"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nf3
+e6 9. Be2 Bb4+ 10. Kf1 h6 11. a3 Be7 12. b4 Qd7 13. Nbd2 f6 14. b5 Nd8 15. a4
+Nf7 16. a5 Nc8 17. Nb3 O-O 18. Kg1 Rd8 19. Qe1 Qe8 20. h3 g5 21. Kh2 Qf8 22. g4
+Be4 23. Rf1 Qg7 24. exf6 Bxf6 25. Nc5 Bxf3 26. Bxf3 Bxd4 27. Bxd4 Qxd4 28. Nxe6
+Qd6+ 29. Kh1 Re8 30. Bd5 c6 31. Rxf7 cxd5 32. Rg7+ Kh8 33. Qb1 {
+Revista Portuguesa de Xadrez 1945, 80} 1-0
+
+[Event "Torneo internacional Sabadell"]
+[Site "Sabadell"]
+[Date "1945.08.03"]
+[Round "2"]
+[White "Muñoz Hungria, Andreu"]
+[Black "Valles Bergada, Vicente"]
+[Result "0-1"]
+[ECO "C88"]
+[PlyCount "78"]
+[EventDate "1945.08.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Rb8 9. axb5 axb5 10. Nc3 d6 11. Qe2 b4 12. Nd5 Bg4 13. Qc4 $1 (13. h3 $2 Bxf3
+$11 (13... Nd4 $2 14. Nxd4 $1 Bxe2 15. Nc6 Qd7 16. Ncxe7+ Kh8 17. Rxe2 $36))
+13... Bxf3 14. Qxc6 Nxd5 15. Qxd5 Bg4 16. Qd3 Kh8 17. h3 Bd7 18. Qe2 f5 19.
+exf5 Bxf5 20. d4 Qd7 (20... Bf6 $142 $11) 21. dxe5 dxe5 22. g4 $6 Bg6 23. Be3 (
+23. Qxe5 Bd6 24. Qe6 $4 Rbe8 $1 25. Qxd7 Rxe1+ 26. Kg2 Be4+ 27. f3 Rxf3 $19)
+23... Bd6 24. Red1 (24. Rad1 Qe7 25. g5 Qd7 26. Qg4 Bf5 27. Qh4 Bxh3) 24... Qe7
+25. g5 Qd7 26. Qg4 Bf5 27. Qh4 Bxh3 28. Ra7 Qf5 29. Bd5 Bg4 30. Re1 e4 (30...
+Bf3 $142) 31. Bd4 $2 (31. Ra5 $142) 31... Qxd5 32. Bxg7+ Kxg7 33. Qxg4 Qc5 34.
+Qh4 Qxa7 35. Qh6+ Kh8 36. Re3 Qa1+ 37. Kg2 Rxf2+ 38. Kxf2 Rf8+ 39. Ke2 Qf1+ 0-1
+
+[Event "Torneo internacional Sabadell"]
+[Site "Sabadell"]
+[Date "1945.08.03"]
+[Round "2"]
+[White "Vilardebo Picurena, Jose"]
+[Black "Lupi, Francesco"]
+[Result "0-1"]
+[ECO "E90"]
+[PlyCount "46"]
+[EventDate "1945.08.??"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. h3 Nbd7 7. Be3 e5 8. dxe5
+Nxe5 9. Nxe5 dxe5 10. Qb3 c6 11. Be2 Qc7 12. g4 Be6 13. Qc2 Rfd8 14. f3 Rd4 15.
+Bxd4 exd4 16. Nd1 Qg3+ 17. Nf2 Bh6 18. Kf1 Be3 19. Nd1 Nh5 20. b3 Nf4 21. Nxe3
+dxe3 22. Bd1 e2+ 23. Bxe2 Qg2+ {Revista Portuguesa de Xadrez 1945, 81} 0-1
+
+[Event "Torneo internacional Sabadell"]
+[Site "Sabadell"]
+[Date "1945.08.04"]
+[Round "3"]
+[White "Valles Bergada, Vicente"]
+[Black "Mena de la Torre, Francisco"]
+[Result "1/2-1/2"]
+[ECO "B03"]
+[PlyCount "91"]
+[EventDate "1945.08.??"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nc3
+e6 9. Be2 Qd7 10. h3 h6 11. Nf3 Be7 12. O-O O-O-O 13. Rc1 g5 14. g4 Bg6 15. a3
+f5 16. b4 (16. exf6 Bxf6 17. Nh4 gxh4 18. Rxf6 Qg7 $13) 16... f4 17. Bf2 h5 18.
+Kg2 Rh7 19. b5 Na5 20. c5 Nd5 21. Qa4 b6 22. c6 Qe8 23. Nxd5 Rxd5 24. Be1 $1
+Be4 25. Bxa5 hxg4 (25... bxa5) 26. hxg4 bxa5 27. Rh1 (27. Qxa5 $5 Kb8 28. Rc4
+$36) 27... Rh4 28. Qxa5 Kb8 (28... Rxg4+ $2 29. Kf2 Kb8 30. Rc4 Qc8 31. Ra4 a6
+32. Rh8 $18) 29. Kf2 (29. Rc4 $142) 29... Rxh1 30. Rxh1 Rxd4 31. Rh6 (31. Nxd4
+$142 $1 Bxh1 32. Nxe6 Qc8 33. Bc4 $16) 31... Bxf3 32. Kxf3 Qd8 $2 (32... Qc8
+$142) 33. Qa6 Rd3+ (33... Qc8 34. Rh8 Rd8 (34... Bd8) 35. Rxd8 (35. Rh6 $18)
+35... Bxd8 36. Qxc8+ Kxc8 37. Bc4 $13) 34. Bxd3 $4 {Un error considerable que
+tira por la borda una partida completamente ganada. Quizás es que ambos
+jugadores iban mal de tiempo, por lo que se desprende de los errores
+posteriores de ambos.} (34. Kg2 Rg3+ (34... Qd5+ 35. Kh2 $1 $18) 35. Kf1 $18)
+34... Qxd3+ 35. Kf2 $4 {Otro error.} (35. Kg2 $142 $1 {Esta salvaba la partida.
+}) 35... Qd2+ $4 {Y seguimos con los errores...} (35... Bc5+ $1 {
+Y el blanco no tiene salida.} 36. Ke1 Qb1+ 37. Kd2 (37. Ke2 f3+) 37... Be3+ 38.
+Kc3 Qc1+ 39. Kb3 Qd1+ $19) 36. Kf1 Qd1+ 37. Kg2 Qe2+ 38. Kh1 Qf1+ 39. Kh2 Qf2+
+40. Kh1 Qf1+ 41. Kh2 Qe2+ 42. Kh1 Qe1+ 43. Kh2 Qf2+ 44. Kh1 Qe1+ 45. Kh2 Qd2+
+46. Kh1 {Y aquí llegó el momento de aplazar. Mena quería analizar, pero Ferran
+Ros le dijo que eran tablas y, de esta forma, se cerró la lucha. Una partida
+que tuvo de todo.} 1/2-1/2
+
+[Event "Torneo internacional Sabadell"]
+[Site "Sabadell"]
+[Date "1945.??.??"]
+[Round "4"]
+[White "Terrazas Elizondo, Teodoro"]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[ECO "C87"]
+[PlyCount "76"]
+[EventDate "1945.08.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Nf6 6. O-O Be7 7. Re1 O-O 8. Bxc6
+bxc6 9. d4 Nd7 10. dxe5 dxe5 11. Nbd2 f6 12. Nf1 Nc5 13. Qe2 a5 14. Rd1 Ba6 15.
+Rxd8 Bxe2 16. Rxa8 Rxa8 17. Ng3 Bd3 18. Nd2 Rd8 19. Nf5 Bf8 20. f3 g6 21. Ng3
+Ba6 22. c4 Nd3 23. Ndf1 Bxc4 24. b3 Be6 25. Be3 f5 26. exf5 gxf5 27. Ne2 f4 28.
+Bf2 Nxf2 29. Kxf2 Bc5+ 30. Ke1 a4 31. bxa4 Bb4+ 32. Kf2 Ra8 33. g3 Rxa4 34.
+gxf4 exf4 35. Kg2 Bd6 36. a3 Be5 37. Re1 Bd5 38. Neg3 Bc3 0-1
+
+[Event "Torneo internacional Sabadell"]
+[Site "Sabadell"]
+[Date "1945.08.05"]
+[Round "4"]
+[White "Vilardebo Picurena, Jose"]
+[Black "Valles Bergada, Vicente"]
+[Result "1-0"]
+[ECO "D38"]
+[PlyCount "45"]
+[EventDate "1945.08.??"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Bg5 Nbd7 5. Nc3 Bb4 6. cxd5 exd5 7. Qa4 (7. Qb3
+$142) 7... Be7 $2 (7... Bxc3+ $142 8. bxc3 O-O $11) 8. Bxf6 Bxf6 9. Nxd5 O-O
+10. Nxf6+ Nxf6 11. e3 c6 12. Bd3 Qd5 13. O-O Bh3 14. Be2 Bg4 15. h3 Bh5 16.
+Rac1 Ne4 17. Qc2 Kh8 $2 (17... Bxf3 $142) 18. Bc4 Qf5 19. Nh4 Qg5 20. Qxe4 Rae8
+21. Nf3 Qh6 22. Qh4 f5 23. Qg5 {I aún cuando Vallés llego diez minutos tarde
+al comienzo de la partida, tal como indica en sus cuadernos de memorias, jugar
+por la mañana no fue una buena elección.} 1-0
+
+[Event "Torneo internacional Sabadell"]
+[Site "Sabadell"]
+[Date "1945.08.06"]
+[Round "5"]
+[White "Lupi, Francesco"]
+[Black "Medina Garcia, Antonio Angel"]
+[Result "1-0"]
+[ECO "A29"]
+[Annotator "Travesset,Joaquim"]
+[PlyCount "67"]
+[EventDate "1945.08.??"]
+
+{Diari Baleares, 13/8/1945, pÃ g.4} 1. c4 e5 2. Nc3 Nf6 3. g3 d5 4. cxd5 Nxd5
+5. Bg2 Nb6 6. Nf3 Nc6 7. O-O Be7 8. d3 Bg4 9. Be3 O-O 10. a4 a5 11. Bxb6 cxb6
+12. Nd2 Qd7 13. Nc4 Qd4 14. Nb5 Qc5 15. Ne3 Qb4 16. Nd5 Qxb2 17. f3 Bd7 18. e3
+e4 19. d4 Be6 20. Rf2 Qxf2+ 21. Kxf2 Bxd5 22. fxe4 Bc4 23. Rc1 Bxb5 24. axb5
+Nb4 25. Rc7 Bd6 26. Rc1 a4 27. Ra1 a3 28. e5 Be7 29. Bxb7 Ra5 30. d5 f6 31. d6
+fxe5+ 32. Kg2 Bg5 33. Qb3+ Rf7 34. Rf1 1-0
+
+[Event "Torneo internacional Sabadell"]
+[Site "Sabadell"]
+[Date "1945.??.??"]
+[Round "5"]
+[White "Medina Garcia, Antonio Angel"]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[ECO "C86"]
+[PlyCount "63"]
+[EventDate "1945.08.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. d4 (7. Re1 d6
+8. c3 O-O 9. h3 h6 10. d4 Re8 11. Nbd2 Bf8 12. d5 Ne7 13. a4 Bb7 14. c4 Nd7 15.
+axb5 axb5 16. Rxa8 Qxa8 17. cxb5 f5 18. exf5 Bxd5 19. Ne4 Bxb3 20. Qxb3+ Qd5
+21. Qc2 Rc8 22. Bxh6 Nxf5 23. Bd2 Nd4 24. Nxd4 exd4 25. Ng5 d3 26. Qa4 Nf6 27.
+Rc1 Ra8 28. Qf4 Re8 29. Rxc7 Qxb5 30. Bc3 Qb6 31. Rf7 d5 32. Qf5 d2 33. Bxd2
+Ra8 34. Rxf6 Ra1+ 35. Kh2 Bd6+ 36. Rxd6 Qxd6+ 37. Bf4 {
+1-0 Shamkovich,L (2520) -Lein,A (2510)/URS-ch39 Leningrad 1971/URS-ch}) 7... d6
+8. c3 O-O 9. Qe2 Bg4 10. Rd1 Qc8 11. Bg5 h6 12. Be3 Na5 13. Bc2 Nc4 14. Nbd2
+Nxb2 15. Rdb1 Na4 16. Bxa4 bxa4 17. Qc4 Bd7 18. Qd3 Ng4 19. Nf1 d5 20. Nxe5
+dxe4 21. Qe2 Nxe5 22. dxe5 Bb5 23. c4 Bc6 24. Bd4 Rd8 25. Rd1 Qf5 26. Ne3 Qg5
+27. Bc3 Bc5 28. Nd5 e3 29. f4 Qg6 30. Bd4 Bxd5 31. Bxc5 Be4 32. Bxe3 {
+y se acordaron tablas. En mi opinión, Alekhine tenía algo más de iniciativa.}
+1/2-1/2
+
+[Event "Torneo internacional Sabadell"]
+[Site "Sabadell"]
+[Date "1945.08.06"]
+[Round "5"]
+[White "Valles Bergada, Vicente"]
+[Black "Terrazas Elizondo, Teodoro"]
+[Result "1-0"]
+[ECO "C53"]
+[PlyCount "51"]
+[EventDate "1945.08.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 d6 5. d4 exd4 6. cxd4 Bb4+ $6 (6... Bb6
+$142) 7. Nc3 h6 (7... Nf6 $142) 8. O-O Nf6 9. d5 (9. Nd5 $142 $1 Bg4 10. Qb3 a5
+11. Nxb4 axb4 12. Bxf7+ $18) 9... Bxc3 10. dxc6 $1 Be5 11. cxb7 (11. Qb3 $1)
+11... Bxb7 12. Qb3 (12. Nxe5 dxe5 13. Qb3 Bxe4 14. Bxf7+ Kf8 15. Be3 $18) 12...
+Bxe4 13. Bxf7+ Kf8 14. Nxe5 dxe5 15. Rd1 Qe7 16. Bc4 g6 (16... g5 $142) 17. f3
+Bf5 18. Qe3 c6 19. b3 Qc7 (19... Kg7) 20. g4 Bd7 (20... Bc8) 21. Qc5+ Ke8 (
+21... Kg7 $4 22. Qe7#) 22. Rd6 (22. Kg2 $144 $1) 22... Qd8 23. Qxe5+ Qe7 24.
+Qxf6 (24. Be6 $3) 24... Rh7 25. Qxe7+ Kxe7 26. Rxg6 1-0
+
+[Event "Torneo internacional Sabadell"]
+[Site "Sabadell"]
+[Date "1945.08.07"]
+[Round "6"]
+[White "Ros Estruch, Ferran"]
+[Black "Valles Bergada, Vicente"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[PlyCount "80"]
+[EventDate "1945.08.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. Nc3 b4 (9... Nd4 $142) 10. Nd5 Na5 11. c3 (11. Nxe5 $2 Nxb3 12. cxb3
+Nxd5 13. exd5 Bxd5 $15) (11. Ba2) 11... c5 $2 (11... bxc3 $142 12. bxc3 Nxb3
+13. Qxb3 Rb8 $11) 12. Nxe5 d6 13. Nc4 $2 (13. Nxf6+ $1 Bxf6 14. Ng4 $14) 13...
+Bxd5 (13... Nxb3 $142 14. Nxe7+ Qxe7 15. Qxb3 d5 $13) 14. Nxa5 Bxe4 15. d3 Qxa5
+16. cxb4 cxb4 $2 (16... Qxb4 $142) 17. dxe4 Rfe8 18. Bf4 Bf8 19. Qd3 Rac8 20.
+Bc4 Rc6 21. b3 Nd7 22. Rac1 Rec8 23. Qd5 Qxd5 24. Bxd5 Rxc1 25. Rxc1 Rxc1+ 26.
+Bxc1 $16 Be7 27. Be3 Bd8 28. Kf1 Kf8 29. Ke2 Ke7 30. Bd4 f6 31. f4 a5 32. Kd3
+Bb6 33. Bc6 (33. Bb2 $142) 33... Bxd4 34. Kxd4 Nb6 35. g4 h6 36. h4 Ke6 37. h5
+Ke7 38. Bb5 Ke6 39. Bc6 Ke7 40. Bb5 Ke6 1/2-1/2
+
+[Event "Torneo internacional Sabadell"]
+[Site "Sabadell"]
+[Date "1945.08.08"]
+[Round "7"]
+[White "Valles Bergada, Vicente"]
+[Black "Medina Garcia, Antonio Angel"]
+[Result "1-0"]
+[ECO "C50"]
+[PlyCount "97"]
+[EventDate "1945.08.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Nc3 d6 6. Bg5 Na5 7. Bxf6 gxf6 8.
+Nh4 Nxc4 9. dxc4 c6 10. Qd3 Rg8 11. g3 Be6 12. f3 Qb6 13. O-O-O Qb4 14. a3 Qxc4
+15. Qxc4 Bxc4 16. Nf5 Be6 17. Nxd6+ (17. b4 $142) 17... Bxd6 18. Rxd6 Ke7 19.
+Rhd1 h5 20. R6d3 Rad8 21. Rxd8 Rxd8 22. Rxd8 Kxd8 23. f4 Bh3 $2 (23... exf4
+$142 24. gxf4 f5 25. e5 Ke7 26. Kd2 f6 27. Ke3 b6 $13) 24. f5 $1 Kc7 25. Nd1 $1
+Kb6 26. Nf2 Bg2 27. Kd2 Kc5 28. Ke3 Kd6 29. h4 $1 Ke7 30. g4 hxg4 31. Nxg4 Bh3
+32. Nf2 Bf1 33. h5 Kf8 34. h6 Kg8 35. Ng4 Kh7 36. Nxf6+ Kxh6 37. Ng4+ Kg5 38.
+Nxe5 Kf6 39. Kf4 Ke7 40. Ng4 f6 41. e5 fxe5+ 42. Kxe5 Bc4 43. f6+ Kf7 44. Nh6+
+Kg6 45. f7 (45. b3 $142 $1) 45... Bxf7 (45... Kg7) 46. Nxf7 Kxf7 47. Kd6 Ke8
+48. Kc7 b6 49. Kxc6 1-0
+
+[Event "Torneo internacional Sabadell"]
+[Site "Sabadell"]
+[Date "1945.??.??"]
+[Round "8"]
+[White "Lupi, Francesco"]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[ECO "D86"]
+[PlyCount "78"]
+[EventDate "1945.08.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7 8.
+Ne2 Nc6 9. Be3 cxd4 10. cxd4 Qa5+ 11. Kf1 (11. Bd2 $142 Qd8 12. Bc3 $36 (12. d5
+$5)) 11... O-O 12. Rb1 (12. Rc1 $142) 12... Qc7 13. Rc1 Rd8 14. Qb3 e6 15. Bb5
+Qa5 16. Rc4 $2 (16. e5 $1) 16... Bd7 17. Rc5 {
+Demasiados tiempos perdidos de esta torre para llegar hasta aquí.} Qb4 $2 (
+17... Qb6 $142 $1 18. Bxc6 Bxc6 $19) 18. Bxc6 Qxb3 19. axb3 Bxc6 20. f3 f5 $1
+21. exf5 (21. e5) 21... gxf5 (21... exf5 $142) 22. Kf2 Bd5 23. Rb1 $143 (23.
+Nf4 $11) 23... b6 24. Rc7 Rdc8 25. Rxc8+ Rxc8 26. Rc1 Rxc1 27. Nxc1 Bf8 28. Bd2
+a5 29. Ke2 Bd6 30. Kd3 $2 (30. h3 $142) 30... Bxh2 31. Kc2 h5 32. Nd3 h4 33.
+Ne5 Bg1 34. Bc3 Kg7 35. Kd3 Bxb3 36. Nd7 Bd5 37. Nxb6 Bxf3 $1 {definitivo.} 38.
+Be1 Bxg2 39. Bxh4 e5 0-1
+
+[Event "Torneo internacional Sabadell"]
+[Site "Sabadell"]
+[Date "1945.08.09"]
+[Round "8"]
+[White "Perez Perez, Francisco Jose"]
+[Black "Valles Bergada, Vicente"]
+[Result "1/2-1/2"]
+[ECO "E17"]
+[PlyCount "53"]
+[EventDate "1945.08.??"]
+
+{Explica Vallés que antes de empezar la partida ambos jugadores hicieron
+cantidad de bromas, que parecía que iban a jugar una "partida de café". Vamos,
+como se ya hubieran acordado tablas de mutuo acuerdo.} 1. d4 Nf6 2. c4 e6 3.
+Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O d6 7. Nc3 Ne4 8. Qc2 Nxc3 9. Qxc3 Be4 (9...
+O-O $142) 10. Ne1 $6 (10. d5 $1 e5 (10... exd5 $2 11. cxd5 O-O 12. Qc4 $16) 11.
+Be3 $16) 10... Bxg2 11. Nxg2 O-O 12. e4 c5 13. Be3 Bf6 14. e5 cxd4 15. Bxd4
+dxe5 16. Bxe5 Bxe5 17. Qxe5 Nc6 18. Qe4 Qc7 19. Nf4 Rad8 20. Rad1 Rd6 {
+tratando de conseguir la columna.} 21. Rxd6 Qxd6 22. Kg2 g5 23. Nh5 f5 24. Qe3
+f4 25. gxf4 gxf4 26. Qf3 e5 27. Kh1 {
+Y aquí Pérez ofreció tablas, que fueron aceptadas.} 1/2-1/2
+
+[Event "Torneo internacional Sabadell"]
+[Site "Sabadell"]
+[Date "1945.08.10"]
+[Round "9"]
+[White "Alekhine, Alexander"]
+[Black "Muñoz Hungria, Andreu"]
+[Result "1-0"]
+[ECO "D39"]
+[PlyCount "31"]
+[EventDate "1945.08.??"]
+
+{Andreu Muñoz es el jugador que jugó muchos años en el Sant Pere de Terrassa,
+en el Egara y en el Terrassa. Pero estoy convencido totalmente que esta
+partida no es la que jugó él contra Alekhine en este torneo. Es posible que se
+trate de una confusión de quién la publicó.} 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4.
+Bg5 Bb4+ 5. Nc3 dxc4 6. e4 c5 7. Bxc4 {Esta variante ya la introdujo Kotov, en
+su partida contra Judovitch, Camp. URSS 1939. Por cierto, me enfrenté a Andreu
+Muñoz en tres ocasiones. en dos de ellas el llevaba negras y en ninguna de las
+dos optó por la Defensa Vienesa. En una hizo una Holandesa y en la otra una
+Tarrasch.} ({Veamos como Fine se impone al inventor de esta variante de la
+vienesa, Ernst Grunfeld} 7. e5 cxd4 8. Qa4+ Nc6 9. O-O-O Bd7 10. Ne4 Be7 11.
+exf6 gxf6 12. Bh4 Nb4 13. Qxb4 Bxb4 14. Nxf6+ Kf8 15. Rxd4 Qa5 16. Nxd7+ Ke8
+17. Nf6+ Kf8 18. Bxc4 Rc8 19. Kb1 h5 20. Rhd1 Be7 21. Nd7+ Ke8 22. Bg3 Rg8 23.
+h3 Rg7 24. a3 b5 25. Bb3 b4 26. axb4 Bxb4 27. Be5 Rxg2 28. Rxb4 Qxb4 29. Nf6+
+Ke7 30. Rd7+ Kf8 31. Bd6+ Qxd6 32. Rxd6 Rxf2 33. Rd3 Ke7 34. Nxh5 Rf1+ 35. Bd1
+Rg8 36. Nd4 e5 37. Nc6+ Ke6 38. Ka2 Rxd1 39. Rxd1 Rg5 40. Nf4+ exf4 41. Nd4+
+Kf6 42. Rf1 Ra5+ 43. Kb1 Ra4 44. Nf3 Re4 45. Re1 Re6 46. Rxe6+ fxe6 47. Kc2 e5
+48. Kd3 Kf5 49. Nd2 Kg5 50. Ke4 Kh4 51. Kxe5 Kxh3 52. Kxf4 {
+1-0 Fine, R-Gruenfeld,E/Amsterdam 1936/HCL}) 7... cxd4 8. Nxd4 Qa5 9. Bxf6
+Bxc3+ ({
+Rantanen, un especialista en esta variante jugó, en 1988, contra Yrjola...} 
+9... gxf6 10. O-O a6 11. Rc1 Bd7 12. Nb3 Qb6 13. Qh5 Bd6 14. Kh1 Bf4 15. Rc2
+Ke7 16. Qg4 Bd6 17. f4 Rc8 18. Be2 Nc6 19. Qh4 Qb4 20. Rd2 Be8 21. Bg4 Rd8 22.
+Re2 h5 23. Nd5+ exd5 24. exd5+ Kf8 25. dxc6 Kg7 26. cxb7 Rab8 27. Qxh5 Bb5 28.
+Bf5 Bxe2 29. Qxe2 Qxb7 30. Nd4 Qxb2 31. Qg4+ Kf8 32. Nc6 Qb5 33. Qf3 Qxf5 34.
+Nxb8 Bxb8 35. h3 Qd3 36. Qf2 Ba7 37. Qe1 Qe3 38. Qb1 Bc5 39. Re1 Qg3 40. Qe4 {
+0-1 Yrjola,J (2455)-Rantanen,Y (2375)/Helsinki 1988/EXT 97}) 10. bxc3 {
+hasta aquí exactamente igual que la citada partida Kotov-Judovitch.} Qxc3+ (
+10... gxf6 11. O-O Nd7 (11... O-O $143 {(Rabinovitch)} 12. Nb5 Nd7 13. Qg4+ $16
+) 12. Kh1 Nb6 13. Bb3 Bd7 14. Qf3 Ke7 15. Qe3 $14 {Kotov-Judovitch}) 11. Kf1 {
+hasta aquí, todo de libro.} (11. Qd2 $143 Qxd2+ $1 (11... Qxa1+ $4 12. Ke2 Qxd4
+(12... Qxh1 13. Nxe6 $1 Nc6 14. Nxg7+ Kf8 15. Qd6+ Kg8 16. Qg3 $18) 13. Bxd4
+$18) 12. Kxd2 gxf6 13. Nb5 Na6 14. Nd6+ Ke7 15. Nxc8+ Raxc8 16. Bxa6 bxa6 17.
+Rhc1 Kd6 $36) 11... Qxc4+ (11... gxf6 12. Rc1 Qa5 13. Nb5 $6 {(Belavenetz)} (
+13. Bb5+ Nd7 14. Rxc8+ Rxc8 15. Bxd7+ Ke7 16. Bxc8 Rxc8 17. Ke2 $16 (17. Ne2 $2
+Qxa2 (17... Rd8 $142 18. Qb3 Qxa2 19. Qb4+ Ke8 20. Qb5+ Rd7 $11) 18. h4 Rc7 19.
+Rh3 b5 20. Rc3 $2 (20. Rd3 $142 $18) 20... Rxc3 $13)) 13... Na6 $2 (13... a6
+$11) 14. Qd4 (14. h4 $1 $16) 14... Ke7 15. Qd6+ Ke8 16. e5 $18) 12. Kg1 O-O (
+12... gxf6 $2 13. Rc1 $18) (12... Nd7 $142 13. Rc1 Qa6 14. Bxg7 Rg8 15. Bh6 Nf6
+16. e5 Nd5 17. h4 $14) (12... Bd7 $143 13. Rc1 Qb4 (13... Qa6 14. Nxe6 fxe6 15.
+Rc8+ Kf7 16. Rxh8 gxf6 17. Qh5+ Ke7 18. Qc5+ Kf7 19. Rf8+ Kg7 20. Qe7+ {
+1-0 Alekhine/Frank,H-Bogoljubow,E/Pfaffenroth/Warsaw 1941}) 14. Bxg7 Rg8 15.
+Bf6 Nc6 16. Rb1 $16) 13. Qg4 g6 14. e5 $14 {Esto ya lo había analizado
+Znosko-Borovski en 1946, ver Ajedrez Español num.51, pág. 87, no continuando
+con más comentarios que los de: ganando. ?Conocía Znosko-Borovski los análisis
+y comentarios de Alekhine, de 1941, en el num.23 de Deutsche Schachblätter?
+Quizás no, porque en sus comentarios sobre la Defensa Vienesa únicamente
+entran Kotov, Belavenetz, Judovich y Rabinovich y supongo que tiene en cuenta
+la partida Kotov-Judovich, URSS-1939. Por lo que parece, Alekhine conocía bien
+esta posición y, bien la aplicó a su posible partida contra Ros, bien la hizo
+circular en su momento para lavar un poco su maltrecha imagen. ?Quién puede
+saber ahora esto?} (14. Qf4 {(Kotov)} Nd7 15. e5 Nxf6 16. exf6 Kh8 17. Rc1 Qd5
+{(?) Yo creo que es mala.} (17... Qb4 $142 $1) 18. Qh6 Rg8 19. Nf3 {ganando. Pe
+ro como indico antes, creo que Kotov parte de una jugada errónea del negro: 17.
+... Dd5} Qh5 (19... g5 20. h4 Rg6 21. Qf8+ Rg8 22. Qxf7 $18) 20. Ng5 $3) 14...
+Nc6 $2 {gravísimo error.} (14... Re8 $142) 15. Nf5 $1 {
+y el negro abandonó. Seguiría...} (15. Nxc6 $1 {Tan buena como la principal.}
+Qxc6 16. Qg5 {etc.}) 15... exf5 (15... Qxg4 16. Nh6#) 16. Qxc4 $18 1-0
+
+[Event "Torneo internacional Sabadell"]
+[Site "Sabadell"]
+[Date "1945.08.10"]
+[Round "9"]
+[White "Valles Bergada, Vicente"]
+[Black "Lupi, Francesco"]
+[Result "1/2-1/2"]
+[ECO "C24"]
+[PlyCount "90"]
+[EventDate "1945.08.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 d5 5. exd5 Nxd5 6. Qe2 {
+Vallés hizo esta jugada que en cierta ocasión le aconsejó Bernstein.} f6 7. d4
+Bg4 $1 8. dxe5 Nxe5 9. Qe4 Bxf3 10. gxf3 Nb6 11. f4 Nbxc4 12. fxe5 Nb6 13.
+exf6+ Kf7 14. fxg7 Bxg7 15. Qf4+ Qf6 $2 (15... Bf6 $1) 16. Qxf6+ $2 (16. Qxc7+
+$1 Ke8 17. O-O Qg6+ 18. Qg3 Kf7 19. Nd2 $14) 16... Bxf6 {Aquí Lupi ofreció
+tablas, al parecer aconsejado por Alekhine, que ya había terminado con Muñoz.}
+17. O-O $2 (17. Nc3 $142) 17... Rhg8+ 18. Kh1 Rae8 19. Na3 c6 20. Rb1 Rg4 (
+20... Nd5 $142) 21. Be3 Nd5 22. Bxa7 Rh4 23. f3 b6 24. Rf2 Bd4 25. Rd2 Be3 26.
+Re2 Nf4 27. Ree1 Rg8 28. Bb8 {
+Vallés dice que es única. Creo que 20. Cd5 es mucho mejor.} (28. Nc4 $142 $1
+Nh3 29. Ne5+ Kf8 30. Nd3 $18) 28... Nh3 $2 29. Bg3 Bf2 30. Bxh4 Bxh4 31. Re2
+Nf2+ 32. Rxf2 Bxf2 33. Nc4 Kf6 34. Nd2 Be3 35. Ne4+ Ke5 36. Ng3 Kf4 37. Kg2 h5
+38. Kh3 h4 39. Nf1 (39. Kxh4 $2 Rh8+ 40. Nh5+ Kf5 $17) 39... Bf2 40. Rd1 Rg1
+41. a4 Kxf3 42. Nd2+ Ke2 43. Rxg1 Bxg1 44. Nc4 Kd1 45. Ne5 $2 (45. c3 $3 $16)
+45... Kxc2 {Y habiendo llegado al control se acordaron tablas.} 1/2-1/2
+

@@ -1,4 +1,4 @@
-
+2023 Xadrez Colégio Efanor (José Francisco Veiga, Filipa Pipiras, Simão Pintor, Pedro Caramez)\
 2022 EX Porto - Colégio Efanor (Miguel Sismeiro, Paulo Pinho, Simão Pintor, Filipa Pipiras)\
 2021 Cancelada p/ Covid\
 2020 Cancelada p/ Covid\

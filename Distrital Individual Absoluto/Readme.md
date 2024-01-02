@@ -3,8 +3,8 @@ Neste folder guardam-se materiais historicos sobre os campeonatos do Porto, do N
 Lista de Campeões:
 
 Da AX Porto:
-2024 - Pedro Mendes (2.Sara Soares)\
-2023 - Simão Pintor \
+2024 - Pedro Mendes (2.Sara Soares 3.Francisco Assunção)\
+2023 - Simão Pintor (2.José Padeiro 3.José Prezado)\
 2022 - Simão Pintor (2.Francisco Assunção 3.Ricardo Andrade)\
 2021 - (Cancelado p/ covid)\
 2020 - Rui Guimarães (2.Ricardo Andrade 3.Ricardo Martinho Marques)\

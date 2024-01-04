@@ -2,7 +2,7 @@ Neste folder guardam-se materiais historicos sobre os campeonatos do Porto, do N
 
 Lista de Campeões:
 
-Da AX Porto:
+Da AX Porto:\
 2024 - Pedro Mendes (2.Sara Soares 3.Francisco Assunção)\
 2023 - Simão Pintor (2.José Padeiro 3.José Prezado)\
 2022 - Simão Pintor (2.Francisco Assunção 3.Ricardo Andrade)\
@@ -106,14 +106,11 @@ No nacional de 1944 J.M. Ribeiro obtém o terceiro lugar e o titulo de Mestre.\
 1943 - João Mário Ribeiro (2.Alexandre Gonçalves 3.Leonel Pias)\
 1941 - Américo Martins (2.Genczi Dezso 3. Leonel Pias)
 
-(Conforme mostra o regulamento do Torneio Principal de 1941, em papel timbrado da Federação Portuguesa de Xadrez, e assinado pelo
-seu presidente, o Torneio Permanente do Grupo de Xadrez do Porto apura para o Torneio Principal que atribui o titulo de Campeão do Porto
-e cujo vencedor ganha o direito de jogar um Torneio de Mestres que poderá ser - como em 1943 - o campeonato nacional)
+(Conforme mostra o regulamento do Torneio Principal de 1941, em papel timbrado da Federação Portuguesa de Xadrez, e assinado pelo seu presidente, o Torneio Permanente do Grupo de Xadrez do Porto apura para o Torneio Principal que atribui o titulo de Campeão do Porto e cujo vencedor ganha o direito de jogar um Torneio de Mestres que poderá ser - como em 1943 - o campeonato nacional)
 
 (Em 6 de Maio de 1940 é fundado o Grupo de Xadrez do Porto, na cave do Café Monumental)
 
-Individual Absoluto é o nome tipicamente dado ao torneio anual  de partidas clássicas que define o campeão da região ou distrito e
-que em muitas épocas apurou para torneios de mestres (no qual se podia obter o titulo vitalicio de Mestre) e para o campeonato nacional.
+Individual Absoluto é o nome tipicamente dado ao torneio anual  de partidas clássicas que define o campeão da região ou distrito e que em muitas épocas apurou para torneios de mestres (no qual se podia obter o titulo vitalicio de Mestre) e para o campeonato nacional.
 
 Na actualidade (2022) apura para uma ida ao Open de Portugal que por sua vez apura para a Fase Final do Campeonato Nacional.
 
